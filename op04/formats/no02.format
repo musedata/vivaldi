@@ -1,0 +1,126 @@
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 01
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+Use default height for new typesetting
+Concerto in E Minor, Op. 4, No. 2 (RV 279)
+Justify = yes wide 38 38 
+I.
+[.{..}..]
+140 145 145 140 240 
+
+
+&1 
+For page 1 (14 in score) use: 
+X 21 
+X 37 1200C 120 Concerto in E Minor, Op. 4, No. 2 (RV 279) 
+X 14 
+X 37 1200C 2950 Vivaldi Op. 4, No. 2 (RV 279) - page 14     (c) 2010 CCARH 
+X 43 1200C 180 for Solo Violin, Strings, and Basso continuo 
+X 46 1200C 280 I.  
+S 0 462 390 1826 696 5 "[.{..}..]" 
+
+Systens moved from 390 1200 2010 to 390 1220 2050 
+Staffs all at 145 making their accumulated spacings 
+145 290 580 
+------------------------------------------------------------- 
+For page 2 (15 in score) use: 
+Systems moved from 140 950 1760 2430 to 140 915 1670 2280 
+There is always 230 between systems. System beginning 
+140 has spacings 135 140 135 135 (cumulative 135 275 410 545) 
+915  "     "     135 145 130 125 (    "      135 280 410 535) 
+1670 & 2280 spacings of 125 130 125 ( "      130 255 380) 
+------------------------------------------------------------- 
+For page 3 (16 in score) - 
+Begin systems at 140 1070 2010 
+Change spacings from 140 145 145 140 to: 
+160 165 165 160 (cumulative 160 325 490 655) 
+------------------------------------------------------------- 
+For page 4 (17 in score) - 
+Begin systems at 140 860 1600 2010 
+Change spacings from 140 145 145 140 to: 
+160 160 160 160 (cumulative 160 320 480 640) 
+------------------------------------------------------------- 
+Page 5 (18 in score) is OK with original data at top of page.  
+------------------------------------------------------------- 
+For page 6 (19 in score) - 
+Begin systems at 140 623 1106 2010 
+Change spacings from 140 145 145 140 to: 
+160 160 160 160 (cumulative 160 320 480 640) 
+------------------------------------------------------------- 
+Page 7 (20 in score) - Subtract 20 between systems 1 & 2 and 10 
+from next two: moved from 140 950 1330 2140 to 140 930 1300 2100 
+&1 
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 02
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+Use default height for new typesetting
+No tacit instructions
+Justify = yes wide 38 38 
+II.
+[.{..}..]
+160 170 155 150 260 
+
+&1 
+For page 2 move systems from 140 1035  to 140 1025 
+Copy it on to the top of Mvt. III. Page 1 
+&1 
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 03
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+1920 
+No tacit instructions
+Justify = yes wide 38 38 
+III.
+[.{..}..]
+155 155 155 155 240
+
+&1 
+For page 1 move III. down to 1930 and the 2nd system 
+of Mvt.2 p.2 up 10 to start at 1025 instead of 1035.  
+---------------------------------------------------------------- 
+Page 2: Add 10 to each staff spacing --> 165 330 495 660            
+Set systems at 140 1070 2000  (adding 30 between the two systems).  
+---------------------------------------------------------------- 
+Page 3: Keep spacing between staffs the same when 5 staffs/system.  
+Subtract 5 from  "     "       "    when there are 2 staffs/system.  
+   "    20 from  "     "   ststems for the first 3 and 15 from the 
+last one so that systems start at 140 980 1330 1680 2045 
+---------------------------------------------------------------- 
+Page 4 (25 in score) Same as Page 2. (Add 10 to staff spacings etc.) 
+---------------------------------------------------------------- 
+Page 5: Spacing between all systems decreased from 240 to 220 
+New systems start at 140 960 1770 2140 2510.  
+Subtract 5 from spacing between staffs when there are 2 staffs/system.  
+Change spacing of 1st system to 155 155 150 150 (155 310 460 610) 
+   "     "     "  2nd    "   "  155 145 145 145 (155 300 445 590) 
+   "     "     " staffs when there are two in a system from 155 to 150 
+---------------------------------------------------------------- 
+Page 6: Spacings between all systems decreased from 240 to 220.  
+New systems start at 140 515 1295 2090.  
+1st system - spacing between staffs is 140 (280 420 560) 
+2nd & 3 systems - spacing between staffs is 155 140 140 140 
+(cumulative spacings 155 295 435 575) 
+---------------------------------------------------------------- 
+Page 7: (28 in score) Same as page 2 & 4 - Staff spacings 165, etc.  
+-------------------------------------------------------------------- 
+Removed everything after the "back  36" command in order for 
+mskpage to work in the Vn.Solo part of Mvt. III.  
+
+measure 48
+A5     6      1 e     d  [
+A4     6      1 e     d  ]
+B4    18      1 q.    u         t
+A4     6      1 e     u
+back  36
+irest 12      2
+E4    12      2 q     d
+irest 12      2
+measure 49
+&1 
+/eof
+//

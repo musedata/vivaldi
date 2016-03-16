@@ -1,0 +1,83 @@
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 01
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no 
+Use default height for new typesetting
+Concerto in G Major, Op. 4, No. 3 (RV 301)
+Justify = yes wide 38 38 
+I.
+[.{..}..]
+160 160 155 155 240 
+
+&1 
+
+
+X 21 
+X 37 1200C 120 Concerto in G Major, Op. 4, No. 3 (RV 301) 
+X 14 
+X 37 1200C 2950 Vivaldi Op. 4, No. 3 (RV 301) - page 29     (c) 2010 CCARH 
+X 43 1200C 180 for Solo Violin, Strings, and Basso continuo 
+X 46 1200C 280 I.  
+S 0 462 390 1826 696 5 "[.{..}..]" 
+For page 1 (29 in score) move beginning of systems from: 
+390 1260 2130  to  390 1210 2030   (subtracting 50 between systems) 
+--------------------------------------------------------------------- 
+For pages 2 & 3 (30 & 31 in score) move beginning of systems from: 
+140 1010 1880  to  140 1080 2020   (adding 70 between systems) 
+--------------------------------------------------------------------- 
+For page 4 (32 in score) move beginning of systems from: 
+140 540 940 1810  to  140 575 1010 1940 
+In systems 1 & 2 add 5 to each spacing between staffs (160 to 165) 
+In system 4 increase spacings: 160 160 155 155 to 180 360 535 710 (cumulative)
+--------------------------------------------------------------------- 
+For pages 5 - 7 (33 - 35 in score) use spacings for pages 2 & 3 
+&1 
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 02
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+Use default height for new typesetting
+No tacit instructions
+Justify = yes wide 38 38 
+II.
+[.{..}..]
+170 165 165 165 290 
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 03
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+Use default height for new typesetting
+No tacit instructions
+Justify = yes wide 38 38 
+III.
+[.{..}..]
+145 150 145 145 230 
+
+&1 
+In Mvt.03 - Whole measure rests are the common dark 
+            rectangles hanging from bar lines.  
+In Mvt.38 - Whole measure rests are represented by 
+            dotted quarter note rests.  
+Otherwise the layout is the same. 
+---------------------------------------------------------------- 
+For Page 3 (p.40 in score) use above data 
+---------------------------------------------------------------- 
+For page 1 (p.38 in score) use: 
+X 37 1200C 2950 Vivaldi Op. 4, No. 3 (RV 301) - page 38     (c) 2010 CCARH 
+Change spacing from above to: 160 160 160 160 250 
+Start systems from beginning at 240 1055 1370 to 240 1130 2020 
+----------------------------------------------------------------- 
+For page 2 (p.39 in score): 
+Begin systems at 140 920 1715 2525 
+Spacing of 1st system: 145 145 135 135  (145 290 425 560 cumulative) 
+  "     "  2nd    "  : 145 150 140 135  (145 295 435 570    "      ) 
+  "     "  3rd    "  : 145 150 145 140  (145 295 440 580    "      ) 
+  "     "  4th    "  : 140 
+  "   between systems 1 & 2: 220 
+  '     "       "     2 & 3: 225 
+  '     "       "     3 & 4: 230 
+ ----------------------------------------------------------------- 
+/eof
+//

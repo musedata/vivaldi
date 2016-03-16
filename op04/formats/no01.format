@@ -1,0 +1,74 @@
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 01
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+Use default height for new typesetting
+Concerto in Bb Major, Op. 4, No. 1 (RV 383a)
+Justify = yes wide 38 38 
+I.
+[.{..}..]
+175 155 155 155 290 
+
+&1 
+X 21 
+X 37 1200C 120 Concerto in Bb Major, Op. 4, No. 1 (RV 383a) 
+X 14 
+X 37 1200C 2950 Vivaldi Op. 4, No. 1 (RV 383a) - page 1     (c) 2015 CCARH 
+X 43 1200C 180 for Solo Violin, Strings, and Basso continuo 
+X 46 1200C 280 I.  
+S 0 462 390 1826 656 5 "[.{..}..]" 
+
+Use above info. for making page 1 along with the spacing of 
+170 150 150 150 230    
+for spacing the staffs on p. 1 
+&1 
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 02
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+1210                                                                 
+No tacit instructions
+Justify = yes wide 38 38 
+II.                            
+[....] 
+155 155 155 220 
+
+&1 
+Use above information for Page 2.  
+For Page 1 -  Move II. up to 1190 
+Adjust systems to start at 1330 and 2140 and use spacings  
+of 170 between staffs (i.e. 170 340 510 below top staff). 
+Note that Violino 1 snd Violino 2 are on one staff for this 
+movement and that the stage2 files are in 01 s02 04 and 05.  
+&1 
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 03
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+500
+No tacit instructions
+Justify = yes wide 38 38 
+III.
+[....]
+155 155 155 220
+
+
+&1 
+To make page 1 in this mvt. (p.10 in the score) from the above data: 
+Change III. from line 500 to 140 
+  "  beginning of 1st system from 620 to 270 
+  "      "     "  2nd    "    "  1305 to 1200 
+  "      "     "  3rd    "    "  1990 to 2120 
+Add 25 to spacings between staffs from 155 to 180 which changes 
+accumulated spacings of 155 310 465 to go to 180 360 540.  
+The Allegro at the start of the mvt. had been entered as "$  D:Allegro"                                                                                                                                                  
+and was moved up 8 units in the pages files.  
+------------------------------------------------------------------ 
+To make page 4 (p.13 in score) add 35 to the spacing of systems 
+that start at: 140 515 890 1265 1640 & 2015 
+to begin at: 140 550 960 1370 1780 2190 
+&1 
+/eof
+//

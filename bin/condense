@@ -1,0 +1,50 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
+# Creation Date: Wed Mar 16 09:10:47 PDT 2016
+# Last Modified: Wed Mar 16 09:10:50 PDT 2016
+# Filename:      condense
+# Syntax:        perl 5
+#
+# Description:   
+#
+
+use strict;
+
+foreach my $dir (@ARGV) {
+   processNumber($dir);
+}
+
+
+
+sub processNumber {
+   my ($dir) = @_;
+   $dir =~ /(\d+)/;
+   my $number = $1;
+   my @mvmts = getSubDirs($dir);
+   foreach my $mvmt (@mvmts) {
+      print "Processing $dir/$mvmt\n";
+	# collatemd = > multi-file stage 2 data
+	# collatempg = > multi-file MPG data.
+      #`(cd $dir/$mvmt; ../../../../bin/collatemd * > ../../vivaldi-op04n$number-$mvmt.msd)`;
+      `(cd $dir/$mvmt; ../../../../bin/collatempg * > ../../vivaldi-op04n$number-$mvmt.pag)`;
+   }
+}
+
+
+
+sub getSubDirs {
+   my ($base) = @_;
+   opendir(DIR, $base) or die;
+   my @output;
+   while (my $file = readdir(DIR)) {
+      next if !-d "$base/$file";
+      next if $file =~ /^\./;
+      $output[@output] = $file;
+   }
+   closedir DIR;
+   return sort @output;
+}
+
+
+

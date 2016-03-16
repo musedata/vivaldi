@@ -1,0 +1,124 @@
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 01
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+Use default height for new typesetting
+Concerto in A Minor, Op.4, No. 4 (RV 357)
+Justify = yes wide 38 38 
+I.
+[.{..}..]
+160 160 160 160 240
+
+&1 
+For Page 1 use above and: 
+X 21 
+X 37 1200C 120 Concerto in A Minor, Op.4, No.4 (RV 357) 
+X 14 
+X 37 1200C 2950 Vivaldi Op. 4, No. 4 (RV 357) - page 41     (c) 2010 CCARH 
+X 43 1200C 180 for Solo Violin, Strings, and Basso continuo 
+X 46 1200C 280 I.  
+S 0 462 390 1826 696 5 "[.{..}..]" 
+Change spacings between systems from 240 to 230 
+Change spacings in system 1 between staffs from 160 to: 
+155 between 1st two staffs and 150 between the last two.  
+Change spacings in systems 2 & 3 to 150 between each staff.  
+Systems start at 390 1230 2065 
+-------------------------------------------------------------- 
+Page 2 (p.42 in score) 
+In system 3, add 5 to spacing between each staff (160 --> 165) 
+In    "   4, add 15 "    "        "  staff 1 & 2 and 5 between 
+staff 2 & 3 (160 --> 175 & 160 --> 165) 
+--------------------------------------------------------------- 
+Page 3 
+Add 10 between each system to start at 140 710 1600 2490           
+Add 15 to spacing between staffs in last system (160 --> 175) 
+--------------------------------------------------------------- 
+Page 4 
+Increase spacing between systems from 240 300. This changes 
+beginning of systems from 140 1020 1900 to 140 1080 2020 
+--------------------------------------------------------------- 
+Page 5 (p. 45 in score) - 
+Alter the beginning of systems from 140 540 1420 and move 
+the 1st system from P.6 to the bottom of Page 5 so that the 
+systems start at: 140 515 1280 2110. 
+Alter the spacing between staffs.  1st system ---> 145; 
+2nd system: 135 135 135 140; 3rd system:150 150 150 150; 
+4th system: 140 140 140 140  
+---------------------------------------------------------------- 
+Page 6 (top of p.46 in score)  Print above Mvt. II. after 
+altering spacings to: 170 170 170 170.  
+&1 
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 02
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+1210 
+No tacit instructions
+Justify = yes wide 38 38 
+II.
+[.{..}.]
+150 150 150 240 
+
+&1 
+For Page 1 use above data, place below last system of Movement I., and 
+increase spacings between staffs from 150 to 170. To print use this heading.
+X 37 1200C 2950 Vivaldi Op. 4, No. 4 (RV 357) - page 46     (c) 2010 CCARH 
+X 46 1200C 1180 II.  
+S 0 462 1330 1826 506 4 "[.{..}.]" 
+The staffs should begin at 1330 and 2140 
+----------------------------- 
+For Page 2 use above data and: 
+X 37 1200C 2950 Vivaldi Op. 4, No. 4 (RV 357) - page 47     (c) 2010 CCARH 
+S 0 162 140 2126 506 4 "[.{..}.]"
+L 0 0 0 275 275 * 0 14 0
+&1 
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 03
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+Use default height for new typesetting
+No tacit instructions
+Justify = yes wide 38 38 
+III.
+[.{..}..]
+160 160 160 155 260 
+
+
+&1 
+For page 1 (p.48 in score) use: 
+X 37 1200C 2950 Vivaldi Op. 4, No. 4 (RV 357) - page 48     (c) 2010 CCARH 
+---------------------------------------------------- 
+For page 2 
+Reduce spacings between systems from 260 to 245 
+starting systems at 140 985 1530 2065.  
+Space staffs in systems 1 & 4 to: 155 155 145 145 
+  "     "    "    "    2 to: 160 140 
+  "     "    "    "    3 to: 150 140 
+---------------------------------------------------- 
+For page 3 (p.50 in score) 
+Enlarge spacings between systems from 260 to 275 
+starting systems at 140 1090 2040 2490.  
+Space staffs in systems 1 & 2 to: 170 170 170 165 
+  "     "    "    "     3 & 4 to: 175 
+---------------------------------------------------- 
+For page 4 
+Enlarge spacings between systems from 260 to 270 
+starting systems at 140 1085 2030     
+Space staffs in systems 1 & 2 to: 170 170 170 165 
+  "     "     " system 3 to: 160 155 155 160 
+---------------------------------------------------- 
+For page 5 (p.52 in score) 
+Enlarge spacings between systems from 260 to 300 
+starting systems at 140 1220 2300 
+Space staffs in systems 1 & 2: 190 190 190 190 
+Space staffs in 3rd system: 200 
+---------------------------------------------------- 
+For page 6 
+Enlarge spacings between systems from 260 to 280 
+starting systems at 140 1140 
+Space staffs in system 1 to: 180 180 180 180 
+  "     "    "    "    2 to: 190 190 190 190 
+/eof
+//

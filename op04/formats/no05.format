@@ -1,0 +1,127 @@
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 01
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+Use default height for new typesetting
+Concerto in A Major, Op. 4 No. 5 (RV 347)
+Justify = yes wide 38 38 
+I.
+[.{..}..]
+150 150 150 150 240
+
+&1 
+X 21 
+X 37 1200C 120 Concerto in A Major, Op. 4, No. 5 (RV 347) 
+X 14 
+X 37 1200C 2950 Vivaldi Op. 4, No. 5 (RV 347) - page 54     (c) 2010 CCARH 
+X 43 1200C 180 for Solo Violin, Strings, and Basso continuo 
+X 46 1200C 280 I.  
+S 0 462 390 1826 656 5 "[.{..}..]" 
+For Page 1 use above information.  
+------------------------------------------------------------------------ 
+For Page 2 
+Subtract 10 between systems: from 240 to 230 
+For staff spacings: 
+System 1 adjust to 150 145 145 145 --> cumulative 150 295 440 585 
+System 2 keep the same at 150 
+System 3 adjust to 145 135 135 135 -->    "       145 280 415 550 
+System 4   "     " 140 135 135 135 -->    "       140 275 410 545 
+Systems start at: 140 955 1335 2115 
+---------------------------------------------------------------------- 
+For Page 3 (p.56 in score) 
+Add 20 between systems to 260 
+For staff spacings: 
+System 1 adjust to 160 
+System 2 adjust to 155 between staffs --> cumulative 155 310 465 620 
+System 3   "     " 160    "       "   -->    "       160 320 480 640 
+System 4:  "     " 160    "       "   -->    "       160 320 
+Systems start at: 140 560 1440 2340 
+----------------------------------------------------------------------- 
+For Page 4 
+Add 20 between systems to 260 
+For staff spacings: 
+System 1 -4 all spacings between staffs 170 
+System 5 adjust to 160 between staffs --> cumulative 160 320 480 640 
+Systems start at: 140 740 1170 1600 2030 
+----------------------------------------------------------------------- 
+For Page 5 (p.58 in score) 
+Subtract 10 between each system to 230 
+Subtract 5 between each staff in systems 1 & 2  to 145 290 435 580 
+Keep staff spacing at 150 between staffs in systems 3 - 5 
+Systems start at: 140 950 1760 2140 2520 
+---------------------------------------------------------------------- 
+For Page 6 (In score as p.59 with Mvt. II page 1 below) 
+Adjust above spacing between staffs to 155 (cumulative 155 310 465 620) 
+Increase spacing of systems to 245 starting systems at 140 1010 
+For the first two stanzas below p.6 of Mvt. I. set staff spacings to 170, 
+the II. at 190, and the top of the systems to 2080 and 2660 
+&1 
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 02
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+1680 
+No tacit instructions
+Justify = yes wide 38 38 
+II.
+[..]
+190 276 
+&1 
+For Page 2 (p.60 in score) use above information 
+Page 1 appears at the bottom of page 06 of Mvt. 1 and the 
+adjusted spacings appear in the formats for page 6 of Mvt. I.  
+&1 
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 03
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+Use default height for new typesetting
+No tacit instructions
+Justify = yes
+III.
+[.{..}..]
+150 150 150 150 200
+
+&1 
+For Page 1 augent the above information with the following information.  
+X 37 1200C 2950 Vivaldi Op. 4, No. 5 (RV 347) - page 61     (c) 2010 CCARH 
+X 46 1200C 120 III.
+S 0 500 240 1750 656 5 "[.{..}..]"
+Between systems add 113 to make them start at 1153 and 2066. 
+_________________________________________________________________________ 
+For Page 2 (p.62 in score) 
+For staff spacings: 
+System 1 adjust to 140 140 140 120 --> cumulative 140 280 420 540 
+System 2 reduce both to 130 --> cumulative 130 260 
+System 3 adjust to 130 130 130 110 --> cumulative 130 260 390 500 
+System 4 adjust to 140 120 140 120 --> cumulative 140 260 400 520 
+Systems start at: 140 910 1400 2146 
+_________________________________________________________________________ 
+For Page 3                              
+For staff spacings: 
+System 1 reduce all to 140 --> cumulative 140 280 420 560 
+System 2 keep at 150 
+System 3 adjust to 150 140 144 151 --> cumulative 150 290 434 585 
+System 4 keep at original spacings -->     "      150 300 450 600 
+Systems start at: 140 920 1280 2066 
+_________________________________________________________________________ 
+For Page 4 (p.64 in score) 
+Keep original spacings between staffs.  
+Start systems at 140 990 1665 2515 
+_________________________________________________________________________ 
+For Page 5                             
+System 1 keep original spacings between staffs.  
+System 2 subtract 10 between last 2 staffs ---> cumulative 150 300 450 590 
+System 3 adjust to 145 140 140 145 ---> cumulative 145 285 425 570 
+System 4 reduce to 145 
+Start systems at 140 930 1730 2520 
+_________________________________________________________________________ 
+For Page 6 (p.66 in score) 
+System 1 keep original spacings between staffs.  
+System 2 add 10 between all staffs and 
+Increase spacings between systems by 30 to start at 140 970 
+&1 
+/eof
+//

@@ -1,0 +1,104 @@
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 01
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+Use default height for new typesetting
+Concerto in D Minor, Op. 4, No. 6 (RV 316a)
+Justify = yes
+I.
+[.{..}..]
+155 155 155 155 240
+
+&1 
+X 21 
+X 37 1200C 120 Concerto in D Minor, Op. 4, No. 6 (RV 316a) 
+X 14 
+X 37 1200C 2950 Vivaldi Op. 4, No. 6 (RV 316a) - page 67     (c) 2010 CCARH 
+X 43 1200C 180 for Solo Violin, Strings, and Basso continuo 
+X 46 1200C 280 I.  
+
+For Page 1 use above information and subtract 30 between systems - 
+Starting systems at 390 1220 2080 
+---------------------------------------------------------------------- 
+For Page 2 (page 68 in score)  
+Enlarge spacing between systems so that 
+Systems start at 140 1047 1516 1985 
+Increase spacing between staffs in system 2 & 3 by 25 to 180 
+Increase spacings between staffs in last system by 15 
+(cumulative spacings 170 340 510 680 
+---------------------------------------------------------------------- 
+For Page 3  
+Decrease spacing between all staffs by 10 and between the last 3 staffs 
+of system 2 by an extra 15.  
+Decrease spacing between each system by 20 so that the systems start at: 
+145 950 1720 2090 
+Spacing between staffs are 145 290 435 580 except in 
+System 2 where cumulative spacings were 145 280 415 555 
+---------------------------------------------------------------------- 
+For Page 4 (page 70 in score) 
+System 1 starts at 140 with spacing between staffs of 145 290 435 580 
+   "   2   "    "  960  "     "        "      "    "  155 
+   "   3   "    "  1355 "     "        "      "    "  155 310 465 
+   "   4   "    "  2060 "     "        "      "    "  155 305 450 610 
+---------------------------------------------------------------------- 
+For Page 5 Increase space between staffs in last system from: 
+155 310 465 620 to 170 340 510 680 
+------------------------------------ 
+&1 
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 02
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+Use default height for new typesetting
+No tacit instructions
+Justify = yes wide 38 38 
+II.
+[.{..}..]
+140 135 135 140 225 
+
+&1 
+The last system of Mvt. 2 is 
+at the top of Mvt. III. 
+------------------------------ 
+For Page 1 of Mvt.II use the following two lines.  
+X 37 1200C 2950 Vivaldi Op. 4, No. 6 (RV 316a) - page 72     (c) 2010 CCARH 
+X 46 1200C 120 II.
+--------------------------------------- 
+&1 
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 03
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+1320 
+No tacit instructions
+Justify = yes wide 38 38 
+III.
+[.{..}..]
+140 135 135 135 245 
+&1
+________________________________________________________ 
+For page 1 of Mvt. III. take p.2 of II. with increased spacing between 
+each staff of 150  (cumulative 150 300 450 600).  Copy below it the 
+first two systems of Mvt. III. where III. was moved up to 1150 
+X 37 1200C 2950 Vivaldi Op. 4, No. 6 (RV 316a) - page 73     (c) 2010 CCARH 
+X 46 1200C 1150 III.
+S 0 462 1320 1826 601 5 "[.{..}..]"
+-------------------------------------------------------- 
+Page 2 of Mvt. III. start systems at 140 940 1330 1730 2390 
+-------------------------------------------------------- 
+Page 3 of Mvt. III. start systems at 140 1100 2020 2500 
+---------------------------------------------------------- 
+Page 4 of Mvt. III. start systems at 140 930 1731 2125 2520 
+--------------------------------------------------------- 
+Page 5 of Mvt. III. start systems at 140 930 1720 2520 
+------------------------------------------------------------ 
+Page 6 of Mvt. III. start systems at:  
+140  (525+30)=555  (910+30+30)=970  (1700+60+90)=1850 
+Increase spacing between staffs by 10 so that 
+cumulative spacings are 150 300 450 600 
+------------------------------------------------------ 
+&1 
+/eof
+//
