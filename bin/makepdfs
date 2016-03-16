@@ -1,0 +1,42 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
+# Creation Date: Wed Mar 16 12:44:32 PDT 2016
+# Last Modified: Wed Mar 16 12:44:36 PDT 2016
+# Filename:      createpdfs
+# Syntax:        perl 5
+#
+# Description:   Create PDF files.
+#
+
+use strict;
+
+my $musefoot = "/project/museinfo/bin/musefoot";
+my $muse2ps  = "/usr/bin/muse2ps";
+
+
+foreach my $file (@ARGV) {
+   process($file);
+}
+
+exit(0);
+
+
+##############################
+##
+## process --
+##
+
+sub process {
+   my ($file) = @_;
+   die "Cannot find $file" if !-r $file;
+   my $base = $file;
+   $base =~ s/.*\///;
+   $base =~ s/\..*$//;
+   my $footer = "../footers/$base.footer";
+   print "PROCESSING $file...\n";
+   die "Cannot find footer file $footer" if !-r $footer;
+   `cat $file | $muse2ps =p | musefoot -f ../footers/$footer | ps2pdf -sPAPERSIZE=letter - - > $base.pdf`;
+}
+
+

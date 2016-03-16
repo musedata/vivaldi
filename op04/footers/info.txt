@@ -1,0 +1,19 @@
+Composer	Group	Work	Movement	Full_Name	Stage	Published	Copyright	Group_Title	Work_Title	Work_Subtitle	Work Alternate Title	Movement_Title	Movement_Tempo	Catalog_Number	Opus	Work_Key	Movement_Key
+vivaldi	op04	op04n01	1	Antonio Vivaldi	2	Y	2016	La stravaganza	Concerto No. 1 in B-flat major				Allegro	RV 383a	4/1	B-flat major	B-flat major
+vivaldi	op04	op04n01	2	Antonio Vivaldi	2	Y	2016	La stravaganza	Concerto No. 1 in B-flat major				Largo e cantabile	RV 383a	4/1	B-flat major	
+vivaldi	op04	op04n01	3	Antonio Vivaldi	2	Y	2016	La stravaganza	Concerto No. 1 in B-flat major				Allegro	RV 383a	4/1	B-flat major	
+vivaldi	op04	op04n02	1	Antonio Vivaldi	2	Y	2016	La stravaganza	Concerto No. 2 in E minor				Allegro	RV 279	4/2	E minor	E minor
+vivaldi	op04	op04n02	2	Antonio Vivaldi	2	Y	2016	La stravaganza	Concerto No. 2 in E minor				Largo e cantabile	RV 279	4/2	E minor	
+vivaldi	op04	op04n02	3	Antonio Vivaldi	2	Y	2016	La stravaganza	Concerto No. 2 in E minor				Allegro	RV 279	4/2	E minor	
+vivaldi	op04	op04n03	1	Antonio Vivaldi	2	Y	2016	La stravaganza	Concerto No. 3 in G major				Allegro	RV 301	4/3	G major	
+vivaldi	op04	op04n03	2	Antonio Vivaldi	2	Y	2016	La stravaganza	Concerto No. 3 in G major				Largo e cantabile	RV 301	4/3	G major	
+vivaldi	op04	op04n03	3	Antonio Vivaldi	2	Y	2016	La stravaganza	Concerto No. 3 in G major				Allegro assai	RV 301	4/3	G major	
+vivaldi	op04	op04n04	1	Antonio Vivaldi	2	Y	2016	La stravaganza	Concerto No. 4 in A minor				Allegro	RV 357	4/4	A minor	
+vivaldi	op04	op04n04	2	Antonio Vivaldi	2	Y	2016	La stravaganza	Concerto No. 4 in A minor				Grave e sempre piano	RV 357	4/4	A minor	
+vivaldi	op04	op04n04	3	Antonio Vivaldi	2	Y	2016	La stravaganza	Concerto No. 4 in A minor				Allegro	RV 357	4/4	A minor	
+vivaldi	op04	op04n05	1	Antonio Vivaldi	2	Y	2016	La stravaganza	Concerto No. 5 in A major				Allegro	RV 347	4/5	A major	
+vivaldi	op04	op04n05	2	Antonio Vivaldi	2	Y	2016	La stravaganza	Concerto No. 5 in A major				Largo	RV 347	4/5	A major	
+vivaldi	op04	op04n05	3	Antonio Vivaldi	2	Y	2016	La stravaganza	Concerto No. 5 in A major				Allegro	RV 347	4/5	A major	
+vivaldi	op04	op04n06	1	Antonio Vivaldi	2	Y	2016	La stravaganza	Concerto No. 6 in D minor				Allegro	RV 316a	4/6	D minor	
+vivaldi	op04	op04n06	2	Antonio Vivaldi	2	Y	2016	La stravaganza	Concerto No. 6 in D minor				Largo	RV 316a	4/6	D minor	
+vivaldi	op04	op04n06	3	Antonio Vivaldi	2	Y	2016	La stravaganza	Concerto No. 6 in D minor				Allegro	RV 316a	4/6	D minor	

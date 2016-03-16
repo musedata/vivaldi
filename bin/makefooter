@@ -1,0 +1,224 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
+# Creation Date: Wed Mar 16 12:44:32 PDT 2016
+# Last Modified: Wed Mar 16 12:44:36 PDT 2016
+# Filename:      createfooters
+# Syntax:        perl 5
+#
+# Description:   Create footer files for adding to final PDFs.
+#
+
+use strict;
+
+my @Contents = <>;
+
+my %Index = getColumnMeanings($Contents[0]);
+
+# required fields:
+die if $Index{"Composer"}       =~ /^\s*$/;
+die if $Index{"Full_Name"}      =~ /^\s*$/;
+die if $Index{"Work"}           =~ /^\s*$/;
+die if $Index{"Movement"}       =~ /^\s*$/;
+die if $Index{"Copyright"}      =~ /^\s*$/;
+die if $Index{"Group_Title"}    =~ /^\s*$/;
+die if $Index{"Work_Title"}     =~ /^\s*$/;
+die if $Index{"Movement_Tempo"} =~ /^\s*$/;
+die if $Index{"Catalog_Number"} =~ /^\s*$/;
+
+for (my $i=0; $i<@Contents; $i++) {
+   next if $i == 0;   # header line
+   next if $Contents[$i] =~ /^\s*$/;
+   createMovementFooter($Contents[$i]);
+   createWorkFooter($Contents[$i]);
+   createOpusFooter($Contents[$i]);
+}
+
+exit(0);
+
+##############################
+##
+## createOpusFooter --
+##
+
+sub createOpusFooter {
+   my ($line) = @_;;
+   chomp $line;
+   my @data = split(/\t/, $line);
+   my $filename = getFilename(@data);
+   $filename =~ s/n\d+-\d+.footer/.footer/;
+
+   print "Creating $filename...\n";
+   my $fullname   = $data[$Index{'Full_Name'}];
+   my $grouptitle = $data[$Index{'Group_Title'}];
+   my $group      = $data[$Index{'Group'}];
+   my $worktitle  = $data[$Index{'Work_Title'}];
+   my $movement   = $data[$Index{'Movement'}];
+   my $mvmttitle  = $data[$Index{'Movement_Tempo'}];
+   my $catalog    = $data[$Index{'Catalog_Number'}];
+   my $roman = "I.";
+   $roman = "II."  if $movement == 2;
+   $roman = "III." if $movement == 3;
+   $roman = "IV."  if $movement == 4;
+   $roman = "V."   if $movement == 5;
+   $roman = "VI."  if $movement == 6;
+   $roman = "VII." if $movement == 7;
+   
+   my $op = "???";
+   if ($group =~ /op0*(\d+)/) {
+      $op = $1;
+   }
+
+   open (FILE, ">$filename") or die;
+print FILE<<"EOT";
+\@START:	FOOTER
+\@FOOT1:		
+\@FOOT2: 	
+\@FOOT3: 	$fullname, Op. $op ("$grouptitle")
+\@FOOT1R:	page %P
+\@FOOT2R:	16 Mar 2016
+\@FOOT3R:	
+\@LOGO:		CCARH
+\@END:	FOOTER
+EOT
+   close FILE;
+}
+
+
+##############################
+##
+## createWorkFooter --
+##
+
+sub createWorkFooter {
+   my ($line) = @_;;
+   chomp $line;
+   my @data = split(/\t/, $line);
+   my $filename = getFilename(@data);
+   $filename =~ s/-\d+.footer/.footer/;
+   print "Creating $filename...\n";
+   my $fullname   = $data[$Index{'Full_Name'}];
+   my $grouptitle = $data[$Index{'Group_Title'}];
+   my $group      = $data[$Index{'Group'}];
+   my $worktitle  = $data[$Index{'Work_Title'}];
+   my $movement   = $data[$Index{'Movement'}];
+   my $mvmttitle  = $data[$Index{'Movement_Tempo'}];
+   my $catalog    = $data[$Index{'Catalog_Number'}];
+   my $roman = "I.";
+   $roman = "II."  if $movement == 2;
+   $roman = "III." if $movement == 3;
+   $roman = "IV."  if $movement == 4;
+   $roman = "V."   if $movement == 5;
+   $roman = "VI."  if $movement == 6;
+   $roman = "VII." if $movement == 7;
+   
+   my $op = "???";
+   if ($group =~ /op0*(\d+)/) {
+      $op = $1;
+   }
+
+   open (FILE, ">$filename") or die;
+print FILE<<"EOT";
+\@START:	FOOTER
+\@FOOT1:		
+\@FOOT2: 	$worktitle ($catalog)
+\@FOOT3: 	$fullname, Op. $op ("$grouptitle")
+\@FOOT1R:	page %P
+\@FOOT2R:	16 Mar 2016
+\@FOOT3R:	
+\@LOGO:		CCARH
+\@END:	FOOTER
+EOT
+   close FILE;
+}
+
+
+
+##############################
+##
+## createMovementFooter --
+##
+
+sub createMovementFooter {
+   my ($line) = @_;;
+   chomp $line;
+   my @data = split(/\t/, $line);
+   my $filename = getFilename(@data);
+   print "Creating $filename...\n";
+   my $fullname   = $data[$Index{'Full_Name'}];
+   my $grouptitle = $data[$Index{'Group_Title'}];
+   my $group      = $data[$Index{'Group'}];
+   my $worktitle  = $data[$Index{'Work_Title'}];
+   my $movement   = $data[$Index{'Movement'}];
+   my $mvmttitle  = $data[$Index{'Movement_Tempo'}];
+   my $catalog    = $data[$Index{'Catalog_Number'}];
+   my $roman = "I.";
+   $roman = "II."  if $movement == 2;
+   $roman = "III." if $movement == 3;
+   $roman = "IV."  if $movement == 4;
+   $roman = "V."   if $movement == 5;
+   $roman = "VI."  if $movement == 6;
+   $roman = "VII." if $movement == 7;
+   
+   my $op = "???";
+   if ($group =~ /op0*(\d+)/) {
+      $op = $1;
+   }
+
+   open (FILE, ">$filename") or die;
+print FILE<<"EOT";
+\@START:	FOOTER
+\@FOOT1:		$roman $mvmttitle
+\@FOOT2: 	$worktitle ($catalog)
+\@FOOT3: 	$fullname, Op. $op ("$grouptitle")
+\@FOOT1R:	page %P
+\@FOOT2R:	16 Mar 2016
+\@FOOT3R:	
+\@LOGO:		CCARH
+\@END:	FOOTER
+EOT
+   close FILE;
+}
+
+
+
+##############################
+##
+## getFilename --
+##
+
+sub getFilename {
+   my @data = @_;
+   my $output = $data[$Index{'Composer'}];
+   $output .= "-";
+   $output .= $data[$Index{'Work'}];
+   my $mvmt = $data[$Index{'Movement'}];
+   $mvmt = "0$mvmt" if $mvmt < 10;
+   $output .= "-$mvmt.footer";
+   return $output;
+}
+
+
+
+##############################
+##
+## getColumnMeanings --
+##
+
+sub getColumnMeanings {
+   my ($line) = @_;
+   chomp $line;
+   my %output;
+   my @data = split (/\t/, $line);
+   for (my $i=0; $i<@data; $i++) {
+      my $meaning = $data[$i];
+      $meaning =~ s/^\s+//;
+      $meaning =~ s/\s+$//;
+      $output{$meaning} = $i;
+      print "$meaning  ==> $i\n";
+   }
+   return %output;
+}
+
+
+
