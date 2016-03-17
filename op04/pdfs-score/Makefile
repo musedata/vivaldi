@@ -10,15 +10,24 @@
 
 MAKEPDFS   = ../../bin/makepdfs
 
-all: movements works opus
+all: works opus
 
 movements:
 	$(MAKEPDFS) ../pages-score/*.pag
 
 works:
 	@echo "Creating PDF for each work"
+	$(MAKEPDFS) -a ../footers/vivaldi-op04n01.footer ../pages-score/vivaldi-op04n01-*.pag
+	$(MAKEPDFS) -a ../footers/vivaldi-op04n02.footer ../pages-score/vivaldi-op04n02-*.pag
+	#$(MAKEPDFS) -a ../footers/vivaldi-op04n03.footer ../pages-score/vivaldi-op04n03-*.pag
+	$(MAKEPDFS) -a ../footers/vivaldi-op04n04.footer ../pages-score/vivaldi-op04n04-*.pag
+	$(MAKEPDFS) -a ../footers/vivaldi-op04n05.footer ../pages-score/vivaldi-op04n05-*.pag
+	$(MAKEPDFS) -a ../footers/vivaldi-op04n06.footer ../pages-score/vivaldi-op04n06-*.pag
 
 opus:
 	@echo "Creating PDF for entire opus"
+	#$(MAKEPDFS) -a ../footers/vivaldi-op04.footer ../pages-score/vivaldi-op04*.pag
 
 
+clean: 
+	rm -f *.pdf

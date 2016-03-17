@@ -10,16 +10,50 @@
 #
 
 use strict;
+use Getopt::Long;
 
-my $musefoot = "/project/museinfo/bin/musefoot";
+my $allQ = 0;
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'a|all' => \$allQ,
+);
+
+my $musefoot = "/project/museinfo/bin/musefoot -O";
 my $muse2ps  = "/usr/bin/muse2ps";
 
-
-foreach my $file (@ARGV) {
-   process($file);
+if ($allQ) {
+   processAll(@ARGV);
+} else {
+   foreach my $file (@ARGV) {
+      process($file);
+   }
 }
 
 exit(0);
+
+##############################
+##
+## processAll --
+##
+
+sub processAll {
+   my @files = @_;
+   my $footer = shift @files;
+   my $base = $footer;
+   $base =~ s/.*\///;
+   $base =~ s/\..*$//;
+   my $comm = "cat " . join(" ", @files);
+   my $contents = `$comm`;
+   $contents .= "X\nP\n";
+   open(XFILE, ">/tmp/temp-musedata") or die;
+   print XFILE $contents;
+   close XFILE;
+   my $command = "cat /tmp/temp-musedata| muse2ps =p";
+   $command .= "| musefoot -f $footer | ps2pdf -sPAPERSIZE=letter - - > $base.pdf";
+   my $error = `$command`;
+   print $error;
+   unlink("/tmp/temp-musedata");
+}
 
 
 ##############################
@@ -38,5 +72,7 @@ sub process {
    die "Cannot find footer file $footer" if !-r $footer;
    `cat $file | $muse2ps =p | musefoot -f ../footers/$footer | ps2pdf -sPAPERSIZE=letter - - > $base.pdf`;
 }
+
+
 
 
