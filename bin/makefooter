@@ -73,10 +73,10 @@ sub createOpusFooter {
 print FILE<<"EOT";
 \@START:	FOOTER
 \@FOOT1:		
-\@FOOT2: 	
+\@FOOT2: 	http://vivaldi.ccarh.org
 \@FOOT3: 	$fullname, Op. $op ("$grouptitle")
 \@FOOT1R:	page %P
-\@FOOT2R:	16 Mar 2016
+\@FOOT2R:	24 Mar 2016
 \@FOOT3R:	
 \@LOGO:		CCARH
 \@END:	FOOTER
@@ -120,11 +120,11 @@ sub createWorkFooter {
    open (FILE, ">$filename") or die;
 print FILE<<"EOT";
 \@START:	FOOTER
-\@FOOT1:		
+\@FOOT1:		http://vivaldi.ccarh.org
 \@FOOT2: 	$worktitle ($catalog)
 \@FOOT3: 	$fullname, Op. $op ("$grouptitle")
 \@FOOT1R:	page %P
-\@FOOT2R:	16 Mar 2016
+\@FOOT2R:	24 Mar 2016
 \@FOOT3R:	
 \@LOGO:		CCARH
 \@END:	FOOTER
@@ -152,13 +152,13 @@ sub createMovementFooter {
    my $movement   = $data[$Index{'Movement'}];
    my $mvmttitle  = $data[$Index{'Movement_Tempo'}];
    my $catalog    = $data[$Index{'Catalog_Number'}];
-   my $roman = "I.";
-   $roman = "II."  if $movement == 2;
-   $roman = "III." if $movement == 3;
-   $roman = "IV."  if $movement == 4;
-   $roman = "V."   if $movement == 5;
-   $roman = "VI."  if $movement == 6;
-   $roman = "VII." if $movement == 7;
+   my $roman = ", I.";
+   $roman = ", II."  if $movement == 2;
+   $roman = ", III." if $movement == 3;
+   $roman = ", IV."  if $movement == 4;
+   $roman = ", V."   if $movement == 5;
+   $roman = ", VI."  if $movement == 6;
+   $roman = ", VII." if $movement == 7;
    
    my $op = "???";
    if ($group =~ /op0*(\d+)/) {
@@ -168,11 +168,11 @@ sub createMovementFooter {
    open (FILE, ">$filename") or die;
 print FILE<<"EOT";
 \@START:	FOOTER
-\@FOOT1:		$roman $mvmttitle
-\@FOOT2: 	$worktitle ($catalog)
+\@FOOT1:		http://vivaldi.ccarh.org
+\@FOOT2: 	$worktitle ($catalog)$roman $mvmttitle
 \@FOOT3: 	$fullname, Op. $op ("$grouptitle")
 \@FOOT1R:	page %P
-\@FOOT2R:	16 Mar 2016
+\@FOOT2R:	24 Mar 2016
 \@FOOT3R:	
 \@LOGO:		CCARH
 \@END:	FOOTER
