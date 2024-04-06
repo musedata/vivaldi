@@ -1,0 +1,61 @@
+#!/usr/bin/env perl
+##
+## Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
+## Creation Date: Wed Apr  3 19:08:16 PDT 2024
+## Last Modified: Wed Apr  3 19:08:23 PDT 2024
+## Syntax:        PERL 5
+## Filename:      bin/makeAllMuseData
+## vim:           ts=3
+##
+## Description:   Convert source files that contain metadata and URLs to individual
+##                part files into a single musedata file store in the op##/musedata 
+##                subdirectories.
+## Usage:         make musedata
+##
+
+use strict;
+
+my @opusDirs = sort glob("op[01][0-9]");
+
+foreach my $opus (@opusDirs) {
+	processOpus($opus);
+}
+
+exit(0);
+
+
+###########################################################################
+
+##############################
+##
+## processOpus -- Process each opus directory.
+##
+
+sub processOpus {
+	my ($opus) = @_;
+	my @musedata = sort glob("$opus/musedata/*.mds");
+	foreach my $musedata (@musedata) {
+		processMusedata($opus, $musedata);
+	}
+}
+
+
+##############################
+##
+## processMusedata -- Convert a MuseData stage 2 multi-file into a Humdrum file.
+##
+
+sub processMusedata {
+	my ($opus, $musedata) = @_;
+	my $base = $musedata;
+	$base =~ s/.*\///;
+	$base =~ s/\.mds$//;
+	my $target = "$opus/kern/$base.krn";
+	my $command = "bin/makeKern $musedata > $target";
+	print stderr "$command\n";
+	`$command`;
+	`bin/updateKeyDesignations $target`;
+}
+
+
+

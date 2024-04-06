@@ -1,0 +1,60 @@
+#!/usr/bin/env perl
+##
+## Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
+## Creation Date: Wed Apr  3 18:51:16 PDT 2024
+## Last Modified: Wed Apr  3 18:51:21 PDT 2024
+## Syntax:        PERL 5
+## Filename:      bin/makeAllMuseData
+## vim:           ts=3
+##
+## Description:   Convert source files that contain metadata and URLs to individual
+##                part files into a single musedata file store in the op##/musedata 
+##                subdirectories.
+## Usage:         make musedata
+##
+
+use strict;
+
+my @opusDirs = sort glob("op[01][0-9]");
+
+foreach my $opus (@opusDirs) {
+	processOpus($opus);
+}
+
+exit(0);
+
+
+###########################################################################
+
+##############################
+##
+## processOpus -- Process each opus directory.
+##
+
+sub processOpus {
+	my ($opus) = @_;
+	my @sources = sort glob("$opus/source/*.txt");
+	foreach my $source (@sources) {
+		processSource($opus, $source);
+	}
+}
+
+
+##############################
+##
+## processSource -- Convert a source file into a MuseData multi-file stage 2 file.
+##
+
+sub processSource {
+	my ($opus, $source) = @_;
+	my $base = $source;
+	$base =~ s/.*\///;
+	$base =~ s/\.txt$//;
+	my $target = "$opus/musedata/$base.mds";
+	my $command = "bin/makeMuseData $source > $target";
+	print stderr "$command\n";
+	`$command`;
+}
+
+
+

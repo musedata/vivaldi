@@ -1,0 +1,34 @@
+#!/usr/bin/env perl
+##
+## Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
+## Creation Date: Wed Apr  3 19:11:04 PDT 2024
+## Last Modified: Wed Apr  3 19:11:09 PDT 2024
+## Syntax:        PERL 5
+## Filename:      bin/makeKern
+## vim:           ts=3
+##
+## Description:   Convert MuseData files that contain to Humdrum kern format.
+## Usage:         make kern
+##                (Note that "make musedata" should be run fist.)
+##
+
+use strict;
+
+die "Usage $0 source > target\n" if @ARGV != 1;
+
+my $source = $ARGV[0];
+
+chomp (my $musedata2hum = `which musedata2hum`);
+die "Cannot find musedata2hum program\n" if $musedata2hum =~ /^\s*$/;
+
+chomp (my $humfilter = `which humfilter`);
+die "Cannot find humfilter program\n" if $humfilter =~ /^\s*$/;
+
+my $command = "$musedata2hum \"$source\" | $humfilter | grep -v Xfilter";
+my $result = `$command`;
+print $result;
+
+exit(0);
+
+
+

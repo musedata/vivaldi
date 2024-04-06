@@ -1,0 +1,81 @@
+#!/usr/bin/env perl
+##
+## Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
+## Creation Date: Wed Apr  3 19:13:15 PDT 2024
+## Last Modified: Wed Apr  3 19:13:19 PDT 2024
+## Syntax:        PERL 5
+## Filename:      bin/makeMusedata
+## vim:           ts=3
+##
+## Description:   Convert source file into a Musedata (stage 2) multi-file.
+## Usage:         make musedata
+##
+
+use strict;
+
+chomp(my @contents = <>);
+
+chomp(my $wget = `which wget`);
+die "Cannot find wget\n" if $wget =~ /^\s*$/;
+$wget .= " --no-check-certificate";
+
+my $output = processContents(@contents);
+
+print $output;
+
+exit(0);
+
+###########################################################################
+
+##############################
+##
+## processContents --
+##
+## bitbucket: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/01/01
+## bitbucket commit: <a href="/musedata/vivaldi/commits/bb9d45f890748170a725400d1f2b5eab2415b3f6" target="_self">
+## raw:       https://bitbucket.org/musedata/vivaldi/raw/bb9d45f890748170a725400d1f2b5eab2415b3f6/roger/op1/rv073_01/stage2/01/01
+##
+
+sub processContents {
+	my @contents = @_;
+	my $output = "";
+	chomp(my $download_date = `date`);
+	foreach my $line (@contents) {
+		if ($line !~ /^#INCLUDE\s+([^\s]+)\s*$/) {
+			$output .= "$line\n";
+			next;
+		}
+		my $url = $1;
+		if ($url =~ /^https:\/\/bitbucket.org\/(.*?)\/src\/master\/(.*)/) {
+			my $repo = $1;
+			my $loc  = $2;
+			my $command = "$wget -q -O - \"$url\"";
+			# print STDERR "$command\n";
+			my $html = `$command`;
+			if ($html !~ /\/commits\/([a-f0-9]{40})"/s) {
+				die "Could not find commit hash in $url\nHTML:\n$html";
+			}
+			my $hash   = $1;
+			my $rawUrl = "https://bitbucket.org/$repo/raw/$hash/$loc";
+			chomp(my @data   = `$wget -q -O - "$rawUrl"`);
+			die "Empty contents for $rawUrl\n" if @data < 50;
+			# check for 404 error
+			# check for somewhat valid MuseData stage 2 contents
+			$output .= "&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&\n";
+			$output .= "\n";
+			$output .= "FILE = $url\n";
+			$output .= "COMMIT = $hash\n";
+			$output .= "DOWNLOAD_DATE = $download_date\n";
+			$output .= "\n";
+			$output .= "&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&\n";
+			foreach my $line (@data) {
+				$line =~ s/\s+$//;
+				$output .= "$line\n";
+			}
+		}
+	}
+	return $output;
+}
+
+
+

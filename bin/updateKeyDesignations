@@ -1,0 +1,217 @@
+#!/usr/bin/env perl
+#
+# Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
+# Creation Date: Fri Feb  4 22:56:58 PST 2022
+# Last Modified: Sat Feb  5 14:49:22 PST 2022
+# Filename:      popc2-transkrypcje/bin/updateKeyDesignations
+# Syntax:        perl 5
+#
+# Description:   Update key designations (such as *f#: for F-sharp minor) from the
+#                !!!key: reference record, if they differ.  Changes are made in-place.
+#
+# Usage:         updateKeyDesignation [-ld] [file(s)|directory]
+#
+# Options:
+#                -l == list !!!key: entries in file(s) (Do not update key designation interpretations).
+#                -d == list cases where the !!!key: entry and the interpretation differ (but make no changes).
+
+use strict;
+use Getopt::Long;
+
+my $listQ   = 0;
+my $differQ = 0;
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'l|list'   => \$listQ,
+   'd|differ' => \$differQ
+);
+
+if (@ARGV == 0) {
+	die "Usage: $0 (file[s] | directory)";
+}
+
+my @files = @ARGV;
+
+foreach my $file (@files) {
+	if (-d $file) {
+		my @dfiles = glob("$file/*.krn");
+		foreach my $dfile (@dfiles) {
+			processFile($dfile);
+		}
+	} else {
+		processFile($file);
+	}
+}
+
+
+
+##############################
+##
+## getExinterp -- get a list of the exinterps on the exinterp line.
+##
+
+sub getExinterp {
+	my @contents = @_;
+	my $index = -1;
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		if ($line =~ /^\*\*/) {
+			$index = $i;
+			last;
+		}
+	}
+	die "Error: no exinterps in file" if $index < 0;
+	my @output = split(/\t+/, $contents[$index]);
+	return @output;
+}
+
+
+
+##############################
+##
+## getKeyDesigIndex -- Get line index that contain key designations, such as *C-:
+##
+
+sub getKeyDesigIndex {
+	my @contents = @_;
+	my $index = -1;
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		next if $line eq "";
+		next if $line =~ /^!/;
+		if ($line =~ /^\*/) {
+			if ($line =~ /\*[a-g][#-]?:/i) {
+				$index = $i;
+				last;
+			}
+		}
+		next if $line =~ /^\*/;
+		last;
+	}
+	return $index;
+}
+
+
+
+##############################
+##
+## getKeyReferenceRecord --
+##
+
+sub getKeyReferenceRecord {
+	my ($filename, @contents) = @_;
+	my $index = -1;
+	my $keyinfo;
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		if ($line =~ /^!!!key:\s*(.*)\s*$/) {
+			$keyinfo = $1;
+			$index = $i;
+			last;
+		}
+	}
+	return "" if $index < 0;
+	return "" if $keyinfo =~ /^\s*$/;
+
+	if ($keyinfo =~ /^([A-Z][-#]*)\s*:?\s*$/i) {
+		return "$1:";
+	}
+
+	if ($keyinfo =~ /^([A-G][-#]*)\s*:\s*(ion|lyd|mix)$/) {
+		return "$1:$2";
+	}
+
+	if ($keyinfo =~ /^([a-g][-#]*)\s*:\s*(dor|phr|aeo|loc)$/) {
+		return "$1:$2";
+	}
+
+	if ($keyinfo ne "none") {
+		print STDERR "UNKNOWN KEY: $keyinfo\tIN\t$filename\n";
+	}
+
+	return "";
+}
+
+
+
+##############################
+##
+## processFile -- Find all instrument codes (in the form: *Icode).
+##    Checking only **kern spines.
+##
+
+sub processFile {
+	my ($file) = @_;
+	open (FILE, $file) or die;
+	my @contents = <FILE>;
+	chomp @contents;
+	close FILE;
+
+	my $keyReference = getKeyReferenceRecord($file, @contents);
+	return if $keyReference =~ /^\s*$/;
+
+	if ($listQ) {
+		# list the !!!key: info and do not do anything else
+		print "$keyReference\n";
+		return;
+	}
+
+	my @exinterpLine = getExinterp(@contents);
+	my $keyDesigIndex = getKeyDesigIndex(@contents);
+
+
+	if (@exinterpLine < 0) {
+		print STDERR "STRANGE ERROR\n";
+		return;
+	}
+
+	if ($keyDesigIndex <= 0) {
+		print STDERR "No key designation line in $file, skipping\n";
+		return;
+	}
+
+	my @keyDesigLine = split(/\t+/, $contents[$keyDesigIndex]);
+	my $exampleKey = "";
+	for (my $i=0; $i<@keyDesigLine; $i++) {
+		next if $keyDesigLine[$i] eq "*";
+		if ($keyDesigLine[$i] =~ /^\*([a-g][-#]?:.*)/i) {
+			$exampleKey = $1;
+		}
+	}
+	
+	if ($exampleKey =~ /^\s*$/) {
+		print STDERR "No key designation found in file $file\n";
+	}
+
+	if ($differQ) {
+		if ($keyReference ne $exampleKey) {
+			print "$keyReference\tNOT\t$exampleKey\t$file\n";
+		}
+		return;
+	}
+
+	if ($keyReference eq $exampleKey) {
+		# nothing to do
+		return;
+	}
+
+	for (my $i=0; $i<@exinterpLine; $i++) {
+		if ($exinterpLine[$i] eq "**kern") {
+			$keyDesigLine[$i] = "*$keyReference";
+		}
+	}
+
+	print STDERR "Updating key designations FROM $exampleKey TO $keyReference in $file\n";
+
+	$contents[$keyDesigIndex] = join("\t", @keyDesigLine);
+
+	open (FILE, ">$file") or die "Cannot open $file to write\n";
+
+	for (my $i=0; $i<@contents; $i++) {
+		print FILE "$contents[$i]\n";
+	}
+	close FILE;
+}
+
+
+

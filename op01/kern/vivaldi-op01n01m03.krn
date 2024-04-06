@@ -1,0 +1,120 @@
+!!!COM: Vivaldi, Antonio Lucio
+!!!CDT: 1678/03/04-1741/08/28
+!!!OPR: 12 sonatas for two violins and basso continuo
+!!!OTL: Sonata no. @{ONM} in G major, op. @{OPS} (@{SCT})
+!!!OPS: 1
+!!!ONM: 1
+!!!OMV@@IT: 3. Adagio
+!!!OMV@EN: 3. Adagio
+!!!SCT: RV 73
+!!!SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
+!!!OMD: Adagio
+!!!key: g
+!!!OMV: Movement 3
+**kern	**fb	**kern	**kern
+*part4	*part4	*part2	*part1
+*staff4	*	*staff2	*staff1
+*I"Violoncello\nContinuo	*	*I"Violin 2	*I"Violin 1
+*clefF4	*	*clefG2	*clefG2
+*k[b-]	*	*k[b-]	*k[b-]
+*g:	*	*g:	*g:
+*M3/2	*	*M3/2	*M3/2
+2E-X\	.	2g/	2b-y\
+2E-y\	.	2g/	2b-y\
+2E-y\	.	2g/	2b-y\
+=1	=1	=1	=1
+2D\	6#/	2f/	2b\
+2D\	.	2f/	2b\
+2D\	.	2f/	2b\
+=2	=2	=2	=2
+1.C	-	1.e-X	1.cc
+=3	=3	=3	=3
+2BBn/	6	2g/	2dd\
+2BB/	.	2g/	2dd\
+2BB/	.	2g/	2dd\
+=4	=4	=4	=4
+1.C	-	1.g	1.ee-X
+=5	=5	=5	=5
+1.r	.	2gg\	1.r
+.	.	2gg\	.
+.	.	2gg\	.
+=6	=6	=6	=6
+2c\	6-r 5 -	2gg\	2aa-X\
+2c\	.	2gg\	2aa-y\
+2c\	.	2gg\	2aa-y\
+=7	=7	=7	=7
+2d\	5-r	2ff\	2aa-X\
+2d\	.	2ff\	2aa-y\
+2d\	.	2ff\	2aa-y\
+=8	=8	=8	=8
+2Bn\	6 5	2ff\	2gg\
+2B\	.	2ff\	2gg\
+2B\	.	2ff\	2gg\
+=9	=9	=9	=9
+2c\	-	2ee-X\	2gg\
+2c\	.	2ee-y\	2gg\
+2c\	.	2ee-y\	2gg\
+=10	=10	=10	=10
+2A\	7 #	2cc#y\	2gg\
+2A\	.	2cc#y\	2gg\
+2A\	.	2cc#y\	2gg\
+!!LO:LB:g=original
+=11	=11	=11	=11
+2A\	6 4	2dd\	2ff\
+2A\	.	2dd\	2ff\
+2A\	.	2dd\	2ff\
+=12	=12	=12	=12
+2A\	5 4	2dd\	2ee\
+2A\	.	2dd\	2ee\
+2A\	.	2dd\	2ee\
+=13	=13	=13	=13
+2A\	n	2ccn\	2ee\
+2A\	.	2cc\	2ee\
+2A\	.	2cc\	2ee\
+=14	=14	=14	=14
+2D\	7 #	2cc\	2ff#y\
+2D\	.	2cc\	2ff#y\
+2D\	.	2cc\	2ff#y\
+=15	=15	=15	=15
+2D\	6 4	2b-y\	2gg\
+2D\	.	2b-y\	2gg\
+2D\	.	2b-y\	2gg\
+=16	=16	=16	=16
+2D\	5 4	2a/	2gg\
+2D\	.	2a/	2gg\
+2D\	.	2a/	2gg\
+=17	=17	=17	=17
+2D\	#	2a/	2ff#y\
+2D\	.	2a/	2ff#y\
+2D\	.	2a/	2ff#y\
+=18	=18	=18	=18
+2GG/	.	2g/	1gg
+2BB-y/	6	2g/	.
+2BB-y/	.	2g/	2dd\
+=19	=19	=19	=19
+2C/	6 5 -	2g/	2a/
+2C/	.	2g/	2a/
+2C/	.	2g/	2a/
+=20	=20	=20	=20
+2C#y/	7 5	2g/	2b-y\
+2C#y/	.	2g/	2b-y\
+2C#y/	.	2g/	2b-y\
+=21	=21	=21	=21
+2D\	5 4	2g/	2a/
+2D\	.	2g/	2a/
+2D\	.	2g/	2a/
+=22	=22	=22	=22
+1.D	#	1.f#X	1.a
+==	==	==	==
+*-	*-	*-	*-
+!!!SMS: RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
+!!!ENC: Fran Bennion
+!!!END: 2004/09/23
+!!!ONB: Converted from MuseData with musedata2hum on Sat Apr  6 13:26:10 2024
+!!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no01.pdf#page=4 MuseData edition
+!!!URL-pdf: https://s9.imslp.org/files/imglnks/usimg/1/18/IMSLP280399-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Primo.pdf#page=3 Violino primo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+!!!URL-pdf: https://s9.imslp.org/files/imglnks/usimg/d/d5/IMSLP280400-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Secondo.pdf#page=3 Violino secondo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+!!!URL-pdf: https://s9.imslp.org/files/imglnks/usimg/8/89/IMSLP280401-PMLP10351-Vivaldi_Sonatas_Op_1_-_Organo_e_Violoncello.pdf#page=3 Organo e Violoncello parts, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+!!!title: @{OTL}, mvmt. @{OMV}
