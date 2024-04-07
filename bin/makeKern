@@ -24,7 +24,7 @@ die "Cannot find musedata2hum program\n" if $musedata2hum =~ /^\s*$/;
 chomp (my $humfilter = `which humfilter`);
 die "Cannot find humfilter program\n" if $humfilter =~ /^\s*$/;
 
-my $command = "$musedata2hum \"$source\" | $humfilter | grep -v Xfilter";
+my $command = "$musedata2hum --omv \"$source\" | $humfilter | grep -v Xfilter";
 my $result = `$command`;
 print $result;
 
