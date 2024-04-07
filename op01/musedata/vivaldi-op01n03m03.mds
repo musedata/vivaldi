@@ -1,0 +1,172 @@
+@@@COM: Vivaldi, Antonio Lucio
+@@@CDT: 1678/03/04-1741/08/28
+@@@OPR: 12 sonatas for two violins and basso continuo
+@@@OTL: Sonata no. @{ONM} in C major, op. @{OPS} (@{SCT})
+@@@OPS: 1
+@@@ONM: 3
+@@@OMV: 3. [Adagio]
+@@@SCT: RV 61
+@@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
+@@@OMD: Adagio
+@@@key: C
+@ Problem downloading source files for this movement, so including files directly here.
+@ #INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/03/01
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv061/stage2/03/01}
+TIMESTAMP: DEC/10/2005 [md5sum:4d911f615a55df0f3242df9014d83882]
+10/01/04 Fran Bennion
+WK#:01,03     MV#:3
+RV 61 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 3 in C Major
+Movement 3
+Violino 1
+
+Group memberships: score
+score: part 1 of 4
+$   Q:1 K:0 T:1/1 C:4  D:Adagio
+F#5    1      1 q #   d
+F#5    1      1 q     d
+G5     1      1 q     d
+rest   1      1 q
+measure 2
+G#5    1      1 q #   d
+G#5    1      1 q     d
+A5     1      1 q     d
+rest   1      1 q
+measure 3
+F5     3      1 h.    d
+E5     1-     1 q     d        -
+measure 4
+E5     1      1 q     d
+D5     1      1 q     d
+E5     2      1 h     d        F
+mheavy2
+/END
+/eof
+@#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/03/02
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv061/stage2/03/02}
+TIMESTAMP: DEC/10/2005 [md5sum:c2f30452b980efbbb4a2c47f3e188e5f]
+10/01/04 Fran Bennion
+WK#:01,03     MV#:3
+RV 61 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 3 in C Major
+Movement 3
+Violino 2
+
+Group memberships: score
+score: part 2 of 4
+$   Q:2 K:0 T:1/1 C:4  D:Adagio
+A5     2      1 q     d
+A5     2      1 q     d
+D5     2      1 q     d
+rest   2      1 q
+measure 2
+B5     2      1 q     d
+B5     2      1 q     d
+E5     2      1 q     d
+rest   2      1 q
+measure 3
+A5     2      1 q     d
+A4     2      1 q     u
+D5     2      1 q     d
+C5     1      1 e     d  [
+B4     1      1 e     d  ]
+measure 4
+A4     4      1 h     u
+G#4    4      1 h #   u        F
+mheavy2
+/END
+/eof
+@#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/03/03
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv061/stage2/03/03}
+TIMESTAMP: DEC/10/2005 [md5sum:d49b19163e80873a671bb4fcea1cd247]
+10/01/04 Fran Bennion
+WK#:01,03     MV#:3
+RV 61 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 3 in C Major
+Movement 3
+Violoncello
+
+Group memberships: score
+score: part 3 of 4
+$   Q:1 K:0 T:1/1 C:22  D:Adagio
+D3     1      1 q     d
+C3     1      1 q     u
+B2     1      1 q     u
+rest   1      1 q
+measure 2
+E3     1      1 q     d
+D3     1      1 q     d
+C3     1      1 q     u
+rest   1      1 q
+measure 3
+D3     1      1 q     d
+C3     1      1 q     u
+B2     1      1 q     u
+C3     1      1 q     u
+measure 4
+F3     2      1 h     d
+E3     2      1 h     d        F
+mheavy2
+/END
+/eof
+@#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/03/04
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv061/stage2/03/04}
+TIMESTAMP: DEC/10/2005 [md5sum:b88739f34f5af3241004ddfbbb5faf5a]
+10/01/04 Fran Bennion
+WK#:01,03     MV#:3
+RV 61 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 3 in C Major
+Movement 3
+Basso continuo
+
+Group memberships: score
+score: part 4 of 4
+$   Q:1 K:0 T:1/1 C:22  D:Adagio
+f1              x
+D3     1      1 q     d
+f2              6 4+
+C3     1      1 q     u
+f1              6
+B2     1      1 q     u
+rest   1      1 q
+measure 2
+f1              x
+E3     1      1 q     d
+f2              6 4+
+D3     1      1 q     d
+f1              6
+C3     1      1 q     u
+rest   1      1 q
+measure 3
+D3     1      1 q     d
+f2              4 2
+C3     1      1 q     u
+f2              6 5
+B2     1      1 q     u
+C3     1      1 q     u
+measure 4
+f1     1        7
+f1              6
+F3     2      1 h     d
+f1              x
+E3     2      1 h     d        F
+mheavy2
+/END
+/eof
+//
+@@@system-decoration: [(s1,s2,s3)]
+@@@URL-pdf: https://pdf.musedata.org/vivaldi-op01-no03.pdf#page=5 MuseData edition
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/1/18/IMSLP280399-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Primo.pdf#page=6 Violino primo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/d/d5/IMSLP280400-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Secondo.pdf#page=5 Violino secondo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/8/89/IMSLP280401-PMLP10351-Vivaldi_Sonatas_Op_1_-_Organo_e_Violoncello.pdf#page=5 Organo e Violoncello parts, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@title: @{OTL}, mvmt. @{OMV}
+@@@filter: extract -k 1,3,4
+@@@filter: shed -ke "s/Basso continuo/Violoncello\nContinuo/I; s/Violino/Violin/I"
+@@@filter: shed -ke "s/^part4$/part3/I; s/^staff4$/staff3/I"
+@@@filter: shed -x fb -e "s/^part\\d$//I; s/^staff\\d$//I"
+@@@filter: humbreak -m 11,22,33
+@@@filter: addkey
