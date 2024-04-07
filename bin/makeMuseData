@@ -37,10 +37,14 @@ exit(0);
 ##
 
 sub processContents {
+	my $POST = "";
 	my @contents = @_;
 	my $output = "";
 	chomp(my $download_date = `date`);
 	foreach my $line (@contents) {
+		if ($line =~ /^#INCLUDE\s+(.*)\s*$/) {
+			$POST .= "\@\@\@source-file: $1\n";
+		}
 		if ($line !~ /^#INCLUDE\s+([^\s]+)\s*$/) {
 			$output .= "$line\n";
 			next;
@@ -74,7 +78,25 @@ sub processContents {
 			}
 		}
 	}
+	$output .= "$POST";
+	my $todaysDate = getTodaysDate();
+	$output .= "!!!EEV: $todaysDate\n";
 	return $output;
+}
+
+
+
+##############################
+##
+## getTodaysDate --
+##
+
+sub getTodaysDate {
+	my ($sec, $min, $hour, $mday, $mon, $year, $wday, $yday, $isdst) = localtime();
+	$mon += 1;
+	$year += 1900;
+	my $date = sprintf("%04d/%02d/%02d", $year, $mon, $mday);
+	return $date;
 }
 
 
