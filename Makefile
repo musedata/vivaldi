@@ -27,6 +27,8 @@ all:
 
 both: musedata kern
 
+cb: clean both
+
 musedata:
 	$(BINDIR)/makeAllMuseData
 
