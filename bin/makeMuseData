@@ -78,9 +78,9 @@ sub processContents {
 			}
 		}
 	}
-	$output .= "$POST";
 	my $todaysDate = getTodaysDate();
-	$output .= "!!!EEV: $todaysDate\n";
+	$output .= "\@\@\@EEV: $todaysDate\n";
+	$output .= "$POST";
 	return $output;
 }
 
