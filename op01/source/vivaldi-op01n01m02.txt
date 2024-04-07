@@ -4,8 +4,7 @@
 @@@OTL: Sonata no. @{ONM} in G major, op. @{OPS} (@{SCT})
 @@@OPS: 1
 @@@ONM: 1
-@@@OMV@@IT: 2. Allemanda
-@@@OMV@EN: 2. Allemand
+@@@OMV: 2. Allemanda
 @@@SCT: RV 73
 @@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
 @@@OMD: Allegro

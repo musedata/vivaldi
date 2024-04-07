@@ -4,7 +4,7 @@
 @@@OTL: Sonata no. @{ONM} in G major, op. @{OPS} (@{SCT})
 @@@OPS: 1
 @@@ONM: 1
-@@@OMV@@IT: 4. Cappricio
+@@@OMV: 4. Cappricio
 @@@SCT: RV 73
 @@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
 @@@OMD: Allegro

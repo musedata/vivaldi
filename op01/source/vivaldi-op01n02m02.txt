@@ -4,7 +4,7 @@
 @@@OTL: Sonata no. @{ONM} in E minor, op. @{OPS} (@{SCT})
 @@@OPS: 1
 @@@ONM: 2
-@@@OMV@@IT: 2. Corrente
+@@@OMV: 2. Corrente
 @@@SCT: RV 67
 @@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
 @@@OMD: Allegro
