@@ -7,7 +7,7 @@
 @@@OMV: 5. Giga
 @@@SCT: RV 66
 @@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
-@@@OMD: Largo
+@@@OMD: Allegro
 @@@key: E
 #INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/05/01
 /eof
