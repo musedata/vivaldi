@@ -1,7 +1,7 @@
 @@@COM: Vivaldi, Antonio Lucio
 @@@CDT: 1678/03/04-1741/08/28
 @@@OPR: 12 sonatas for two violins and basso continuo
-@@@OTL: Sonata no. @{ONM} in C major, op. @{OPS} (@{SCT})
+@@@OTL: Sonata in C major, op. @{OPS}, no. @{ONM} (@{SCT})
 @@@OPS: 1
 @@@ONM: 3
 @@@OMV: 1. [Adagio]
@@ -13,7 +13,7 @@
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/01/01
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Sun Apr  7 07:50:03 PM PDT 2024
+DOWNLOAD_DATE = Sun Apr  7 07:55:34 PM PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -133,7 +133,7 @@ mheavy2
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/01/02
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Sun Apr  7 07:50:03 PM PDT 2024
+DOWNLOAD_DATE = Sun Apr  7 07:55:34 PM PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -246,7 +246,7 @@ mheavy2
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/01/03
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Sun Apr  7 07:50:03 PM PDT 2024
+DOWNLOAD_DATE = Sun Apr  7 07:55:34 PM PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -387,7 +387,7 @@ mheavy2
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/01/04
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Sun Apr  7 07:50:03 PM PDT 2024
+DOWNLOAD_DATE = Sun Apr  7 07:55:34 PM PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.

@@ -1,7 +1,7 @@
 @@@COM: Vivaldi, Antonio Lucio
 @@@CDT: 1678/03/04-1741/08/28
 @@@OPR: 12 sonatas for two violins and basso continuo
-@@@OTL: Sonata no. @{ONM} in F major, op. @{OPS} (@{SCT})
+@@@OTL: Sonata in F major, op. @{OPS}, no. @{ONM} (@{SCT})
 @@@OPS: 1
 @@@ONM: 5
 @@@OMV: 2. Allemanda
