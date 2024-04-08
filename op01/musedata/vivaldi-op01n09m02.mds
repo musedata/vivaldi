@@ -1,0 +1,353 @@
+@@@COM: Vivaldi, Antonio Lucio
+@@@CDT: 1678/03/04-1741/08/28
+@@@OPR: 12 sonatas for two violins and basso continuo
+@@@OTL: Sonata in A major, op. @{OPS}, no. @{ONM} (@{SCT})
+@@@OPS: 1
+@@@ONM: 9
+@@@OMV: 2. [Adagio]
+@@@SCT: RV 75
+@@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
+@@@OMD: Adagio
+@@@key: A
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/02/01
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 11:39:12 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv075/stage2/02/01}
+TIMESTAMP: DEC/10/2005 [md5sum:c9b1979d6848501679f8227ed768720f]
+10/26/04 Fran Bennion
+WK#:01,09     MV#:2
+RV 75 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 9 in A Major
+Movement 2
+Violino 1
+
+Group memberships: score
+score: part 1 of 4
+$   Q:8 K:3 T:1/1 C:4  D:Adagio
+E5     4      1 e     d  [
+E5     4      1 e     d  =
+E5     4      1 e     d  =
+E5     4      1 e     d  ]
+E#5    4      1 e #   d  [
+E#5    4      1 e     d  =
+E#5    4      1 e     d  =
+E#5    4      1 e     d  ]
+measure 2
+F#5    4      1 e     d  [
+C#6    2      1 s     d  =[    (
+P C32:o
+B5     2      1 s     d  ]]
+A5     2      1 s     d  [[
+G#5    2      1 s     d  ==
+F#5    2      1 s     d  ==
+G#5    1      1 t     d  ==[
+A5     1      1 t     d  ]]]   )
+D#5    4      1 e #   d  [
+D#5    4      1 e     d  =
+D#5    4      1 e     d  =
+D#5    4      1 e     d  ]
+measure 3
+E5     4      1 e     d  [
+B5     2      1 s     d  =[    (
+P C32:o
+A5     2      1 s     d  ]]
+G#5    2      1 s #   d  [[     +
+F#5    2      1 s     d  ==
+E5     2      1 s     d  ==
+F#5    1      1 t     d  ==[
+G5     1      1 t n   d  ]]]   )
+C#5    4      1 e     d  [
+C#5    4      1 e     d  =
+C#5    4      1 e     d  =
+C#5    4      1 e     d  ]
+measure 4
+D5     4      1 e     d  [
+A5     2      1 s     d  =[    (
+P C32:o
+F#5    2      1 s     d  ]]    )
+F#5    4      1 e     d  [
+A5     2      1 s     d  =[    (
+P C32:o
+D5     2      1 s     d  ]]    )
+D5    16-     1 h     d        -
+measure 5
+D5     8      1 q     d
+C#5   16      1 h     d
+B4     8-     1 q     d        -
+measure 6
+B4     8      1 q     d
+A4    16      1 h     u
+G#4    8      1 q     u
+measure 7
+A4    32      1 w              F
+mheavy2
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/02/02
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 11:39:12 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv075/stage2/02/02}
+TIMESTAMP: DEC/10/2005 [md5sum:528fa51da23bfc246215587003fa56b2]
+10/26/04 Fran Bennion
+WK#:01,09     MV#:2
+RV 75 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 9 in A Major
+Movement 2
+Violino 2
+
+Group memberships: score
+score: part 2 of 4
+$   Q:4 K:3 T:1/1 C:4  D:Adagio
+B4     2      1 e     d  [
+B4     2      1 e     d  =
+B4     2      1 e     d  =
+B4     2      1 e     d  ]
+B4     2      1 e     d  [
+B4     2      1 e     d  =
+B4     2      1 e     d  =
+B4     2      1 e     d  ]
+measure 2
+A4     4      1 q     u
+rest   4      1 q
+A4     2      1 e     u  [
+A4     2      1 e     u  =
+A4     2      1 e     u  =
+A4     2      1 e     u  ]
+measure 3
+G#4    4      1 q     u
+rest   4      1 q
+G4     2      1 e n   u  [
+G4     2      1 e     u  =
+G4     2      1 e     u  =
+G4     2      1 e     u  ]
+measure 4
+F#4    4      1 q     u
+rest   4      1 q
+rest   2      1 e
+B5     1      1 s     d  [[    (
+P C32:o
+G5     1      1 s n   d  ]]    )
+G5     2      1 e     d  [
+B5     1      1 s     d  =[    (
+E5     1      1 s     d  ]]    )
+measure 5
+E5     8      1 h     d
+D5     8      1 h     d
+measure 6
+C#5    8      1 h     d
+B4     8      1 h     d
+measure 7
+C#5   16      1 w              F
+mheavy2
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/02/03
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 11:39:12 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv075/stage2/02/03}
+TIMESTAMP: DEC/10/2005 [md5sum:67290304cacce93a0e3803eb166880cb]
+10/26/04 Fran Bennion
+WK#:01,09     MV#:2
+RV 75 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 9 in A Major
+Movement 2
+Violoncello
+
+Group memberships: score
+score: part 3 of 4
+$   Q:4 K:3 T:1/1 C:22  D:Adagio
+G3     2      1 e n   d  [
+G3     2      1 e     d  =
+G3     2      1 e     d  =
+G3     2      1 e     d  ]
+G#3    2      1 e #   d  [
+G#3    2      1 e     d  =
+G#3    2      1 e     d  =
+G#3    2      1 e     d  ]
+measure 2
+F#3    4      1 q     d
+rest   4      1 q
+F#3    2      1 e     d  [
+F#3    2      1 e     d  =
+F#3    2      1 e     d  =
+F#3    2      1 e     d  ]
+measure 3
+E3     4      1 q     d
+rest   4      1 q
+E3     2      1 e     d  [
+E3     2      1 e     d  =
+E3     2      1 e     d  =
+E3     2      1 e     d  ]
+measure 4
+D3     4      1 q     d
+rest   4      1 q
+rest   8      1 h
+measure 5
+rest   1      1 s
+E3     1      1 s     d  [[
+F#3    1      1 s     d  ==
+G3     1      1 s n   d  ]]
+A3     1      1 s     d  [[
+A2     1      1 s     d  ==
+A3     1      1 s     d  ==
+G3     1      1 s     d  ]]
+F#3    1      1 s     d  [[
+D3     1      1 s     d  ==
+E3     1      1 s     d  ==
+F#3    1      1 s     d  ]]
+G3     1      1 s n   u  [[     +
+G2     1      1 s n   u  ==
+G3     1      1 s     u  ==
+F#3    1      1 s     u  ]]
+measure 6
+E3     1      1 s     d  [[
+C#3    1      1 s     d  ==
+D3     1      1 s     d  ==
+E3     1      1 s     d  ]]
+F#3    1      1 s     u  [[
+F#2    1      1 s     u  ==
+F#3    1      1 s     u  ==
+E3     1      1 s     u  ]]
+D3     1      1 s     u  [[
+B2     1      1 s     u  ==
+C#3    1      1 s     u  ==
+D3     1      1 s     u  ]]
+E3     1      1 s     u  [[
+D3     1      1 s     u  ==
+E3     1      1 s     u  ==
+E2     1      1 s     u  ]]
+measure 7
+A2    16      1 w              F
+mheavy2
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/02/04
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 11:39:12 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv075/stage2/02/04}
+TIMESTAMP: DEC/10/2005 [md5sum:ffce692f3c78f10aa0cc6623477d04a4]
+10/26/04 Fran Bennion
+WK#:01,09     MV#:2
+RV 75 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 9 in A Major
+Movement 2
+Basso continuo
+
+Group memberships: score
+score: part 4 of 4
+$   Q:4 K:3 T:1/1 C:22  D:Adagio
+f1              6
+G3     2      1 e n   d  [
+G3     2      1 e     d  =
+G3     2      1 e     d  =
+G3     2      1 e     d  ]
+f1              6\
+G#3    2      1 e #   d  [
+G#3    2      1 e     d  =
+G#3    2      1 e     d  =
+G#3    2      1 e     d  ]
+measure 2
+F#3    4      1 q     d
+rest   4      1 q
+f1              6\
+F#3    2      1 e     d  [
+F#3    2      1 e     d  =
+F#3    2      1 e     d  =
+F#3    2      1 e     d  ]
+measure 3
+E3     4      1 q     d
+rest   4      1 q
+f2              6 n
+E3     2      1 e     d  [
+E3     2      1 e     d  =
+E3     2      1 e     d  =
+E3     2      1 e     d  ]
+measure 4
+D3     4      1 q     d
+rest   4      1 q
+rest   8      1 h
+measure 5
+rest   1      1 s
+f1              7
+E3     1      1 s     d  [[
+F#3    1      1 s     d  ==
+G3     1      1 s n   d  ]]
+f1              3
+P    C1:Y78
+A3     1      1 s     d  [[
+A2     1      1 s     d  ==
+A3     1      1 s     d  ==
+G3     1      1 s     d  ]]
+f2              6 5
+F#3    1      1 s     d  [[
+D3     1      1 s     d  ==
+E3     1      1 s     d  ==
+F#3    1      1 s     d  ]]
+f1              5
+G3     1      1 s n   u  [[     +
+G2     1      1 s n   u  ==
+G3     1      1 s     u  ==
+F#3    1      1 s     u  ]]
+measure 6
+f2              6 5
+P    C1:Y75
+E3     1      1 s     d  [[
+C#3    1      1 s     d  ==
+D3     1      1 s     d  ==
+E3     1      1 s     d  ]]
+F#3    1      1 s     u  [[
+F#2    1      1 s     u  ==
+F#3    1      1 s     u  ==
+E3     1      1 s     u  ]]
+f2              6 5
+D3     1      1 s     u  [[
+B2     1      1 s     u  ==
+C#3    1      1 s     u  ==
+D3     1      1 s     u  ]]
+E3     1      1 s     u  [[
+D3     1      1 s     u  ==
+E3     1      1 s     u  ==
+E2     1      1 s     u  ]]
+measure 7
+A2    16      1 w              F
+mheavy2
+/END
+/eof
+//
+@@@system-decoration: [(s1,s2,s3)]
+@@@URL-pdf: https://pdf.musedata.org/vivaldi-op01-no09.pdf#page=2 MuseData edition
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/1/18/IMSLP280399-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Primo.pdf#page=14 Violino primo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/d/d5/IMSLP280400-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Secondo.pdf#page=12 Violino secondo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/8/89/IMSLP280401-PMLP10351-Vivaldi_Sonatas_Op_1_-_Organo_e_Violoncello.pdf#page=13 Organo e Violoncello parts, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@title: @{OTL}, mvmt. @{OMV}
+@@@filter: extract -k 1,3,4
+@@@filter: shed -ke "s/Basso continuo/Violoncello\nContinuo/I; s/Violino/Violin/I"
+@@@filter: shed -ke "s/^part4$/part3/I; s/^staff4$/staff3/I"
+@@@filter: shed -x fb -e "s/^part\\d$//I; s/^staff\\d$//I"
+@@@filter: humbreak -m 4
+@@@filter: addkey
+@@@EEV: 2024/04/07
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/02/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/02/02
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/02/03
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/02/04
