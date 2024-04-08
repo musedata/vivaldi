@@ -1,0 +1,32 @@
+@@@COM: Vivaldi, Antonio Lucio
+@@@CDT: 1678/03/04-1741/08/28
+@@@OPR: 12 sonatas for two violins and basso continuo
+@@@OTL: Sonata in B minor, op. @{OPS}, no. @{ONM} (@{SCT})
+@@@OPS: 1
+@@@ONM: 11
+@@@OMV: 4. Gavotta
+@@@SCT: RV 79
+@@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
+@@@OMD: Andante
+@@@key: b
+#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv079_11/stage2/04/01
+/eof
+#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv079_11/stage2/04/02
+/eof
+#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv079_11/stage2/04/03
+/eof
+#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv079_11/stage2/04/04
+/eof
+//
+@@@system-decoration: [(s1,s2,s3)]
+@@@URL-pdf: https://pdf.musedata.org/vivaldi-op01-no11.pdf#page=7 MuseData edition
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/1/18/IMSLP280399-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Primo.pdf#page=20 Violino primo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/d/d5/IMSLP280400-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Secondo.pdf#page=15 Violino secondo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/8/89/IMSLP280401-PMLP10351-Vivaldi_Sonatas_Op_1_-_Organo_e_Violoncello.pdf#page=16 Organo e Violoncello parts, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@title: @{OTL}, mvmt. @{OMV}
+@@@filter: extract -k 1,3,4
+@@@filter: shed -ke "s/Basso continuo/Violoncello\nContinuo/I; s/Violino/Violin/I"
+@@@filter: shed -ke "s/^part4$/part3/I; s/^staff4$/staff3/I"
+@@@filter: shed -x fb -e "s/^part\\d$//I; s/^staff\\d$//I"
+@@@filter: humbreak -m 5,8,12,17,21,25,29
+@@@filter: addkey

@@ -13,7 +13,7 @@
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/04/01
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Sun Apr  7 11:39:20 PM PDT 2024
+DOWNLOAD_DATE = Mon Apr  8 12:46:06 AM PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -366,7 +366,7 @@ mheavy2          :|
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/04/02
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Sun Apr  7 11:39:20 PM PDT 2024
+DOWNLOAD_DATE = Mon Apr  8 12:46:06 AM PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -662,7 +662,7 @@ mheavy2          :|
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/04/03
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Sun Apr  7 11:39:20 PM PDT 2024
+DOWNLOAD_DATE = Mon Apr  8 12:46:06 AM PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -932,7 +932,7 @@ mheavy2          :|
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/04/04
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Sun Apr  7 11:39:20 PM PDT 2024
+DOWNLOAD_DATE = Mon Apr  8 12:46:06 AM PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -1302,8 +1302,6 @@ mheavy2          :|
 @@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/1/18/IMSLP280399-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Primo.pdf#page=15 Violino primo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
 @@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/d/d5/IMSLP280400-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Secondo.pdf#page=12 Violino secondo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
 @@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/8/89/IMSLP280401-PMLP10351-Vivaldi_Sonatas_Op_1_-_Organo_e_Violoncello.pdf#page=13 Organo e Violoncello parts, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
-@@@URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=1s L'Arte dell'Arco
-@@@URL-youtube: https://www.youtube.com/watch?v=vFz1e6g68iQ&t=6s Seattle Baroque Soloists (2010)
 @@@title: @{OTL}, mvmt. @{OMV}
 @@@filter: extract -k 1,3,4
 @@@filter: shed -ke "s/Basso continuo/Violoncello\nContinuo/I; s/Violino/Violin/I"
@@ -1311,7 +1309,7 @@ mheavy2          :|
 @@@filter: shed -x fb -e "s/^part\\d$//I; s/^staff\\d$//I"
 @@@filter: humbreak -m 8,17,25,34,42,51
 @@@filter: addkey
-@@@EEV: 2024/04/07
+@@@EEV: 2024/04/08
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/04/01
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/04/02
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/04/03
