@@ -1,0 +1,567 @@
+@@@COM: Vivaldi, Antonio Lucio
+@@@CDT: 1678/03/04-1741/08/28
+@@@OPR: 12 sonatas for two violins and basso continuo
+@@@OTL: Sonata no. @{ONM} in E major, op. @{OPS} (@{SCT})
+@@@OPS: 1
+@@@ONM: 4
+@@@OMV: 4. Sarabanda
+@@@SCT: RV 66
+@@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
+@@@OMD: Largo
+@@@key: E
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/04/01
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 05:09:05 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv066/stage2/04/01}
+TIMESTAMP: DEC/10/2005 [md5sum:1c52c1eaf82cfd37312f005728642dcb]
+10/03/04 Fran Bennion
+WK#:01,04     MV#:4
+RV 66 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 4 in E Major
+Movement 4 - Sarabanda
+Violino 1
+
+Group memberships: score
+score: part 1 of 4
+$   Q:2 K:4 T:3/4 C:4   D:Sarabanda, Largo
+G#5    2      1 q     d
+B5     3      1 q.    d
+E5     1      1 e     d
+measure 2
+D#5    3      1 q.    d
+C#5    1      1 e     d
+B4     2      1 q     d
+measure 3
+A5     2      1 q     d
+A5     3      1 q.    d
+A5     1      1 e     d
+measure 4
+A5     1      1 e     d  [     (
+P C32:o
+F#5    1      1 e     d  ]     )
+G#5    4      1 h     d
+measure 5
+F#4    1      1 e     u  [
+A#4    1      1 e     u  ]
+C#5    3      1 q.    d
+E5     1      1 e     d
+measure 6
+A#5    3      1 q.#   d
+F#5    1      1 e     d
+B5     1      1 e     d  [     (
+P C32:o
+D#5    1      1 e     d  ]     )
+measure 7
+C#5    1      1 e     d  [
+B5     1      1 e     d  ]
+A#5    3      1 q.#   d
+B5     1      1 e     d
+measure 8
+B5     6      1 h.    d
+mheavy4 9        |: :|
+E4     1      1 e     u  [     (
+P C32:u
+G#4    1      1 e     u  ]     )
+D5     3      1 q.n   d
+D5     1      1 e     d
+measure 10
+D5     1      1 e n   d  [     (
+@1  No natural sign on D5 in Roger. Natural carries over bar line. Old notation.
+B4     1      1 e     d  ]     )
+C#5    4      1 h     d
+measure 11
+F#4    1      1 e     u  [     (
+P C32:u
+A#4    1      1 e #   u  ]     )
+E5     3      1 q.    d
+E5     1      1 e     d
+measure 12
+E5     1      1 e     d  [     (
+P C32:o
+C#5    1      1 e     d  ]     )
+D#5    4      1 h     d
+measure 13
+B4     1      1 e     d  [     (
+P C32:o
+D#5    1      1 e     d  ]     )
+F#5    3      1 q.    d
+A5     1      1 e     d
+measure 14
+D#6    3      1 q.    d
+D#5    1      1 e     d
+E5     1      1 e     d  [
+P C32:o
+G#4    1      1 e     d  ]
+measure 15
+F#4    1      1 e     d  [
+E5     1      1 e     d  ]
+D#5    3      1 q.    d
+E5     1      1 e     d
+measure 16
+E5     6      1 h.    d
+mheavy2          :|
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/04/02
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 05:09:05 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv066/stage2/04/02}
+TIMESTAMP: DEC/10/2005 [md5sum:b8ba32c4636e6bea40c3541e398bf62f]
+10/03/04 Fran Bennion
+WK#:01,04     MV#:4
+RV 66 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 4 in E Major
+Movement 4 - Sarabanda
+Violino 2
+
+Group memberships: score
+score: part 2 of 4
+$   Q:2 K:4 T:3/4 C:4  D:Sarabanda, Largo
+B4     2      1 q     d
+E4     1      1 e     u  [     (
+P C32:u
+G#4    1      1 e     u  =     )
+B4     1      1 e     u  =     (
+P C32:u
+C#5    1      1 e     u  ]     )
+measure 2
+F#4    6      1 h.    u
+measure 3
+F#5    2      1 q     d
+B4     1      1 e     d  [     (
+P C32:o
+D#5    1      1 e     d  =     )
+F#5    1      1 e     d  =     (
+P C32:o
+D#5    1      1 e     d  ]     )
+measure 4
+B4     4      1 h     d
+E5     2      1 q     d
+measure 5
+A#4    1      1 e     u  [     (
+P C32:u
+C#5    1      1 e     u  =     )
+A#4    1      1 e #   u  =     (+
+P C32:u
+C#5    1      1 e     u  =     )
+G#4    1      1 e     u  =     (
+C#5    1      1 e     u  ]     )
+measure 6
+F#4    1      1 e     u  [     (
+P C32:u
+C#5    1      1 e     u  =     )
+A#4    1      1 e #   u  =     (
+C#5    1      1 e     u  =     )
+F#4    1      1 e     u  =     (
+P C32:u
+B4     1      1 e     u  ]     )
+measure 7
+E4     1      1 e     u  [
+D#5    1      1 e     u  ]
+C#5    3      1 q.    d
+F#5    1      1 e     d
+measure 8
+D#5    6      1 h.    d
+mheavy4 9        |: :|
+B4     2      1 q     d
+E4     1      1 e     u  [     (
+P C32:u
+G#4    1      1 e     u  =     )
+B4     1      1 e     u  =     (
+G#4    1      1 e     u  ]     )
+measure 10
+E4     6      1 h.    u
+measure 11
+C#5    2      1 q     d
+F#4    1      1 e     u  [     (
+P C32:u
+A#4    1      1 e #   u  =     )
+C#5    1      1 e     u  =     (
+P C32:u
+A#4    1      1 e #   u  ]     )+
+measure 12
+F#4    4      1 h     u
+F#5    2      1 q     d
+measure 13
+D#5    1      1 e     d  [     (
+P C32:o
+F#5    1      1 e     d  =     )
+D#5    1      1 e     d  =     (
+P C32:o
+F#5    1      1 e     d  =     )
+C#5    1      1 e     d  =     (
+P C32:o
+F#5    1      1 e     d  ]     )
+measure 14
+B4     1      1 e     d  [     (
+P C32:o
+F#5    1      1 e     d  =     )
+D#5    1      1 e     d  =     (
+P C32:o
+F#5    1      1 e     d  =     )
+B4     1      1 e     d  =     (
+E5     1      1 e     d  ]     )
+measure 15
+A4     1      1 e     u  [
+G#4    1      1 e     u  ]
+F#4    3      1 q.    u
+B4     1      1 e     d
+measure 16
+G#4    6      1 h.    u
+mheavy2          :|
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/04/03
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 05:09:05 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv066/stage2/04/03}
+TIMESTAMP: DEC/10/2005 [md5sum:e6c42ced87ba55291feb3e2ac564877c]
+10/03/04 Fran Bennion
+WK#:01,04     MV#:4
+RV 66 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 4 in E Major
+Movement 4 - Sarabanda
+Violoncello
+
+Group memberships: score
+score: part 3 of 4
+$   Q:2 K:4 T:3/4 C:22  D:Sarabanda, Largo
+E3     1      1 e     d  [
+F#3    1      1 e     d  =
+G#3    1      1 e     d  =
+P C32:o
+E3     1      1 e     d  =
+G#3    1      1 e     d  =
+P C32:o
+A3     1      1 e     d  ]
+measure 2
+B3     1      1 e     d  [
+B2     1      1 e     d  =
+B3     1      1 e     d  =
+C#4    1      1 e     d  =
+D#4    1      1 e     d  =
+C#4    1      1 e     d  ]
+measure 3
+B3     1      1 e     d  [
+B2     1      1 e     d  =
+D#3    1      1 e     d  =
+P C32:o
+F#3    1      1 e     d  =
+D#3    1      1 e     d  =
+P C32:o
+B2     1      1 e     d  ]
+measure 4
+E3     1      1 e     u  [
+E2     1      1 e     u  =
+E3     1      1 e     u  =
+F#3    1      1 e     u  =
+G#3    1      1 e     u  =
+E3     1      1 e     u  ]
+measure 5
+F#3    1      1 e     u  [
+P C32:u
+F#2    1      1 e     u  =
+F#3    1      1 e     u  =
+P C32:u
+F#2    1      1 e     u  =
+E2     1      1 e     u  =
+P C32:u
+E3     1      1 e     u  ]
+measure 6
+E3     1      1 e     u  [
+P C32:u
+E2     1      1 e     u  =
+E3     1      1 e     u  =
+P C32:u
+E2     1      1 e     u  =
+D#2    1      1 e     u  =
+P C32:u
+D#3    1      1 e     u  ]
+measure 7
+E3     1      1 e     u  [
+B2     1      1 e     u  =
+F#3    1      1 e     u  =
+E3     1      1 e     u  =
+F#3    1      1 e     u  =
+F#2    1      1 e     u  ]
+measure 8
+B2     6      1 h.    u
+mheavy4 9        |: :|
+G#3    1      1 e     d  [
+P C32:o
+E3     1      1 e     d  =
+G#3    1      1 e     d  =
+P C32:o
+B3     1      1 e     d  =
+G#3    1      1 e     d  =
+P C32:o
+E3     1      1 e     d  ]
+measure 10
+A3     1      1 e     d  [
+A2     1      1 e     d  =
+A3     1      1 e     d  =
+B3     1      1 e     d  =
+C#4    1      1 e     d  =
+B3     1      1 e     d  ]
+measure 11
+A#3    1      1 e #   d  [
+P C32:o
+F#3    1      1 e     d  =
+A#3    1      1 e #   d  =      +
+P C32:o
+C#4    1      1 e     d  =
+A#3    1      1 e #   d  =      +
+P C32:o
+F#3    1      1 e     d  ]
+measure 12
+B3     1      1 e     d  [
+B2     1      1 e     d  =
+B3     1      1 e     d  =
+C#4    1      1 e     d  =
+D#4    1      1 e     d  =
+C#4    1      1 e     d  ]
+measure 13
+B3     1      1 e     d  [
+P C32:o
+B2     1      1 e     d  =
+B3     1      1 e     d  =
+P C32:o
+B2     1      1 e     d  =
+A2     1      1 e     d  =
+P C32:o
+A3     1      1 e     d  ]
+measure 14
+A3     1      1 e     u  [
+A2     1      1 e     u  =
+A3     1      1 e     u  =
+A2     1      1 e     u  =
+G#2    1      1 e     u  =
+P C32:o
+G#3    1      1 e     u  ]
+measure 15
+A3     1      1 e     d  [
+E3     1      1 e     d  =
+B3     1      1 e     d  =
+A3     1      1 e     d  =
+B3     1      1 e     d  =
+B2     1      1 e     d  ]
+measure 16
+E3     6      1 h.    d
+mheavy2          :|
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/04/04
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 05:09:05 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv066/stage2/04/04}
+TIMESTAMP: DEC/10/2005 [md5sum:cadd557f6ef5b479ec25549590e847c2]
+10/03/04 Fran Bennion
+WK#:01,04     MV#:4
+RV 66 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 4 in E Major
+Movement 4 - Sarabanda
+Basso continuo
+
+Group memberships: score
+score: part 4 of 4
+$   Q:2 K:4 T:3/4 C:22  D:Sarabanda, Largo
+E3     1      1 e     d  [
+F#3    1      1 e     d  =
+f1              6
+G#3    1      1 e     d  =
+P C32:o
+E3     1      1 e     d  =
+f1              6
+G#3    1      1 e     d  =
+P C32:o
+A3     1      1 e     d  ]
+measure 2
+B3     1      1 e     d  [
+B2     1      1 e     d  =
+B3     1      1 e     d  =
+C#4    1      1 e     d  =
+f1              6
+P    C1:Y73
+D#4    1      1 e     d  =
+C#4    1      1 e     d  ]
+measure 3
+f1              7
+B3     1      1 e     d  [
+B2     1      1 e     d  =
+f1              5
+P    C1:Y75
+D#3    1      1 e     d  =
+P C32:o
+F#3    1      1 e     d  =
+D#3    1      1 e     d  =
+B2     1      1 e     d  ]
+measure 4
+f2              5 4
+E3     1      1 e     u  [
+E2     1      1 e     u  =
+f1              3
+E3     1      1 e     u  =
+F#3    1      1 e     u  =
+f1              6
+G#3    1      1 e     u  =
+E3     1      1 e     u  ]
+measure 5
+f1              x
+F#3    1      1 e     u  [
+P C32:u
+F#2    1      1 e     u  =
+F#3    1      1 e     u  =
+P C32:u
+F#2    1      1 e     u  =
+f1              6
+P    C1:Y72
+E2     1      1 e     u  =
+P C32:u
+E3     1      1 e     u  ]
+measure 6
+f2              4+ 2
+E3     1      1 e     u  [
+P C32:u
+E2     1      1 e     u  =
+E3     1      1 e     u  =
+P C32:u
+E2     1      1 e     u  =
+f1              6
+P    C1:Y77
+D#2    1      1 e     u  =
+D#3    1      1 e     u  ]
+measure 7
+f2              6 5
+E3     1      1 e     u  [
+B2     1      1 e     u  =
+f1              x
+F#3    1      1 e     u  =
+E3     1      1 e     u  =
+F#3    1      1 e     u  =
+F#2    1      1 e     u  ]
+measure 8
+B2     6      1 h.    u
+mheavy4 9        |: :|
+f1              6
+G#3    1      1 e     d  [
+P C32:o
+E3     1      1 e     d  =
+f2              6 5f
+G#3    1      1 e     d  =
+P C32:o
+B3     1      1 e     d  =
+G#3    1      1 e     d  =
+P C32:o
+E3     1      1 e     d  ]
+measure 10
+f2              5 4
+P    C1:Y78
+A3     1      1 e     d  [
+A2     1      1 e     d  =
+f1              3
+P    C1:Y78
+A3     1      1 e     d  =
+B3     1      1 e     d  =
+f1              6
+P    C1:Y78
+C#4    1      1 e     d  =
+B3     1      1 e     d  ]
+measure 11
+f1              6
+A#3    1      1 e #   d  [
+P C32:o
+F#3    1      1 e     d  =
+f2              6 5
+A#3    1      1 e #   d  =      +
+P C32:o
+C#4    1      1 e     d  =
+A#3    1      1 e #   d  =      +
+P C32:o
+F#3    1      1 e     d  ]
+measure 12
+f2              5 4
+P    C1:Y74
+B3     1      1 e     d  [
+B2     1      1 e     d  =
+f1              3
+P    C1:Y74
+B3     1      1 e     d  =
+C#4    1      1 e     d  =
+f1              6
+P    C1:Y74
+D#4    1      1 e     d  =
+C#4    1      1 e     d  ]
+measure 13
+B3     1      1 e     d  [
+P C32:o
+B2     1      1 e     d  =
+B3     1      1 e     d  =
+P C32:o
+B2     1      1 e     d  =
+f1              6
+P    C1:Y78
+A2     1      1 e     d  =
+P C32:o
+A3     1      1 e     d  ]
+measure 14
+f2              4 2
+A3     1      1 e     u  [
+A2     1      1 e     u  =
+A3     1      1 e     u  =
+A2     1      1 e     u  =
+f1              6
+G#2    1      1 e     u  =
+P C32:o
+G#3    1      1 e     u  ]
+measure 15
+f2              6 5
+A3     1      1 e     d  [
+E3     1      1 e     d  =
+f1              x
+B3     1      1 e     d  =
+A3     1      1 e     d  =
+B3     1      1 e     d  =
+B2     1      1 e     d  ]
+measure 16
+E3     6      1 h.    d
+mheavy2          :|
+/END
+/eof
+//
+@@@system-decoration: [(s1,s2,s3)]
+@@@URL-pdf: https://pdf.musedata.org/vivaldi-op01-no04.pdf#page=4 MuseData edition
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/1/18/IMSLP280399-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Primo.pdf#page=7 Violino primo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/d/d5/IMSLP280400-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Secondo.pdf#page=7 Violino secondo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/8/89/IMSLP280401-PMLP10351-Vivaldi_Sonatas_Op_1_-_Organo_e_Violoncello.pdf#page=6 Organo e Violoncello parts, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@title: @{OTL}, mvmt. @{OMV}
+@@@filter: extract -k 1,3,4
+@@@filter: shed -ke "s/Basso continuo/Violoncello\nContinuo/I; s/Violino/Violin/I"
+@@@filter: shed -ke "s/^part4$/part3/I; s/^staff4$/staff3/I"
+@@@filter: shed -x fb -e "s/^part\\d$//I; s/^staff\\d$//I"
+@@@filter: humbreak -m 8
+@@@filter: addkey
+@@@EEV: 2024/04/07
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/04/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/04/02
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/04/03
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/04/04

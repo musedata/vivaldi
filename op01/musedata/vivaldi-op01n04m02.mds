@@ -1,0 +1,914 @@
+@@@COM: Vivaldi, Antonio Lucio
+@@@CDT: 1678/03/04-1741/08/28
+@@@OPR: 12 sonatas for two violins and basso continuo
+@@@OTL: Sonata no. @{ONM} in E major, op. @{OPS} (@{SCT})
+@@@OPS: 1
+@@@ONM: 4
+@@@OMV: 2. [Allegro]
+@@@SCT: RV 66
+@@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
+@@@OMD: Allegro
+@@@key: E
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/02/01
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 05:08:57 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv066/stage2/02/01}
+TIMESTAMP: DEC/10/2005 [md5sum:f17c94dafa8db8a563c6edcbed241586]
+10/02/04 Fran Bennion
+WK#:01,04     MV#:2
+RV 66 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 4 in E Major
+Movement 2
+Violino 1
+
+Group memberships: score
+score: part 1 of 4
+$   Q:4 K:4 T:3/4 C:4  D:Allegro
+rest   2      1 e
+E5     2      1 e     d
+G#5    2      1 e     d  [
+B5     2      1 e     d  =
+E5     2      1 e     d  =
+G#5    2      1 e     d  ]
+measure 2
+F#5    2      1 e     d  [
+B4     2      1 e     d  =
+D#5    2      1 e     d  =     (
+P C32:o
+F#5    2      1 e     d  =
+B5     2      1 e     d  =     )
+F#5    2      1 e     d  ]
+measure 3
+G#5    2      1 e     d  [
+B5     2      1 e     d  =
+G#5    2      1 e     d  =
+E5     2      1 e     d  =
+B4     2      1 e     d  =
+E5     2      1 e     d  ]
+measure 4
+A4     2      1 e     u  [
+E5     2      1 e     u  =
+G#4    2      1 e     u  =
+E5     2      1 e     u  =
+F#4    2      1 e     u  =
+D#5    2      1 e     u  ]
+measure 5
+E4     8      1 h     u
+rest   4      1 q
+measure 6
+rest   2      1 e
+B5     2      1 e     d
+B5     2      1 e     d  [     (
+P C32:o
+D#5    2      1 e     d  =
+B4     2      1 e     d  =     )
+A5     2      1 e     d  ]
+measure 7
+G#5    8      1 h     d
+rest   4      1 q
+measure 8
+rest   2      1 e
+E5     2      1 e     d
+E5     2      1 e     d  [     (
+P C32:o
+C#5    2      1 e     d  =
+A#4    2      1 e #   d  =     )
+E5     2      1 e     d  ]
+measure 9
+D#5    2      1 e     d  [
+B4     2      1 e     d  =
+D#5    2      1 e     d  =
+F#5    2      1 e     d  ]
+G#5    4-     1 q     d        -
+measure 10
+G#5    2      1 e     d  [
+C#5    2      1 e     d  =
+E5     2      1 e     d  =
+G#5    2      1 e     d  ]
+A5     4-     1 q     d        -
+measure 11
+A5     2      1 e     d  [
+D#5    2      1 e     d  =
+F#5    2      1 e     d  =
+A5     2      1 e     d  ]
+B5     4-     1 q     d        -
+measure 12
+B5     2      1 e     d  [
+E5     2      1 e     d  =
+G#5    2      1 e     d  =
+B5     2      1 e     d  ]
+C#6    4-     1 q     d        -
+measure 13
+C#6    2      1 e     d  [
+F#5    2      1 e     d  =
+A#5    2      1 e #   d  =
+C#6    2      1 e     d  ]
+D#6    4-     1 q     d        -
+measure 14
+D#6    2      1 e     d  [
+F#5    2      1 e     d  ]
+B5     4      1 q     d
+A#5    4      1 q #   d
+measure 15
+B5     4      1 q     d
+rest   4      1 q
+rest   4      1 q
+measure 16
+rest   2      1 e
+B5     2      1 e     d
+B5     2      1 e     d  [     (
+P C32:o
+F#5    2      1 e     d  =
+D#5    2      1 e     d  =     )
+F#5    2      1 e     d  ]
+measure 17
+G#5    8      1 h     d
+rest   4      1 q
+measure 18
+rest   2      1 e
+E5     2      1 e     d
+E5     2      1 e     d  [     (
+P C32:o
+B4     2      1 e     d  =
+G#4    2      1 e     d  =     )
+B4     2      1 e     d  ]
+measure 19
+C#5    8      1 h     d
+A5     4      1 q     d
+measure 20
+F#5    6      1 q.    d
+D#5    2      1 e     d
+E5     2      1 e     d  [
+B4     2      1 e     d  ]
+measure 21
+C#5    6      1 q.    d
+E5     2      1 e     d
+F#5    2      1 e     d  [
+C#5    2      1 e     d  ]
+measure 22
+D#5    6      1 q.    d
+F#5    2      1 e     d
+G#5    2      1 e     d  [
+D#5    2      1 e     d  ]
+measure 23
+E5     6      1 q.    d
+G#5    2      1 e     d
+A5     2      1 e     d  [
+E5     2      1 e     d  ]
+measure 24
+F#5    6      1 q.    d
+A5     2      1 e     d
+B5     2      1 e     d  [
+F#5    2      1 e     d  ]
+measure 25
+G#5    2      1 e     d  [
+C#6    2      1 e     d  =
+G#5    2      1 e     d  =
+E5     2      1 e     d  ]
+C#6    4      1 q     d
+measure 26
+rest   2      1 e
+B5     2      1 e     d  [
+F#5    2      1 e     d  =
+D#5    2      1 e     d  ]
+B5     4      1 q     d
+measure 27
+rest   2      1 e
+A5     2      1 e     d  [
+E5     2      1 e     d  =
+C#5    2      1 e     d  ]
+A5     4      1 q     d
+measure 28
+rest   2      1 e
+G#5    2      1 e     d  [
+D#5    2      1 e     d  =
+B4     2      1 e     d  ]
+G#5    4      1 q     d
+measure 29
+rest   2      1 e
+F#5    2      1 e     d  [
+C#5    2      1 e     d  =
+A4     2      1 e     d  ]
+F#5    4      1 q     d
+measure 30
+D#5    2      1 e     u  [
+B4     2      1 e     u  =
+E5     2      1 e     u  =
+G#4    2      1 e     u  =
+B3     2      1 e     u  =
+D#5    2      1 e     u  ]
+measure 31
+E4     8      1 h     u
+rest   4      1 q
+measure 32
+rest   2      1 e
+*               G       p
+P    C17:Y58
+C#6    2      1 e     d  [
+G#5    2      1 e     d  =
+E5     2      1 e     d  ]
+C#6    4      1 q     d
+measure 33
+rest   2      1 e
+B5     2      1 e     d  [
+F#5    2      1 e     d  =
+D#5    2      1 e     d  ]
+B5     4      1 q     d
+measure 34
+rest   2      1 e
+A5     2      1 e     d  [
+E5     2      1 e     d  =
+C#5    2      1 e     d  ]
+*               G       f
+P    C17:Y60
+A5     4      1 q     d
+measure 35
+$   Q:4  T:3/2  D:Adagio
+A5    24      1 w.             F
+P    C32:Y-23
+measure 36
+G#5    8      1 h     d
+G#5   12      1 h.    d
+G#5    4      1 q     d
+measure 37
+A#5    8      1 h #   d
+B5    16-     1 w              -
+measure 38
+B5     8      1 h     d
+A#5   16      1 w #
+measure 39
+B5     8      1 h     d
+B4     8      1 h     d
+B5     8      1 h     d
+measure 40
+A5    24      1 w.n             +
+measure 41
+G#5   24      1 w.             F
+P    C32:Y-20
+mheavy2
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/02/02
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 05:08:57 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv066/stage2/02/02}
+TIMESTAMP: DEC/10/2005 [md5sum:1993810dd71bf84d6a31a20ca64d9ac5]
+10/02/04 Fran Bennion
+WK#:01,04     MV#:2
+RV 66 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 4 in E Major
+Movement 2
+Violino 2
+
+Group memberships: score
+score: part 2 of 4
+$   Q:4 K:4 T:3/4 C:4  D:Allegro
+B4     4      1 q     d
+E5     8      1 h     d
+measure 2
+B4     4      1 q     d
+F#5    8      1 h     d
+measure 3
+B4     4      1 q     d
+E5     6      1 q.    d
+D#5    2      1 e     d
+measure 4
+C#5    4      1 q     d
+B4     6      1 q.    d
+A4     2      1 e     u
+measure 5
+G#4    2      1 e     u  [
+E5     2      1 e     u  =
+E5     2      1 e     u  =     (
+G#4    2      1 e     u  =
+P C32:u
+E4     2      1 e     u  =     )
+E5     2      1 e     u  ]
+measure 6
+D#5    8      1 h     d
+rest   4      1 q
+measure 7
+rest   2      1 e
+E5     2      1 e     d
+E5     2      1 e     u  [     (
+G#4    2      1 e     u  =
+P C32:u
+E4     2      1 e     u  =     )
+E5     2      1 e     u  ]
+measure 8
+E5     2      1 e     d  [
+C#5    2      1 e     d  =
+C#5    2      1 e     d  =     (
+A#4    2      1 e #   d  =
+P C32:o
+F#4    2      1 e     d  =     )
+C#5    2      1 e     d  ]
+measure 9
+B4     4      1 q     d
+rest   2      1 e
+B4     2      1 e     d  [
+D#5    2      1 e     d  =
+B4     2      1 e     d  ]
+measure 10
+E5     6      1 q.    d
+C#5    2      1 e     d
+E5     2      1 e     d  [
+C#5    2      1 e     d  ]
+measure 11
+F#5    6      1 q.    d
+D#5    2      1 e     d
+F#5    2      1 e     d  [
+D#5    2      1 e     d  ]
+measure 12
+G#5    6      1 q.    d
+E5     2      1 e     d
+G#5    2      1 e     d  [
+E5     2      1 e     d  ]
+measure 13
+A#5    6      1 q.#   d
+F#5    2      1 e     d
+A#5    2      1 e #   d  [      +
+F#5    2      1 e     d  ]
+measure 14
+B5     4      1 q     d
+G#5    2      1 e     d  [
+E5     2      1 e     d  =
+C#5    2      1 e     d  =
+F#5    2      1 e     d  ]
+measure 15
+D#5    2      1 e     d  [
+B5     2      1 e     d  =
+B5     2      1 e     d  =     (
+P C32:o
+F#5    2      1 e     d  =
+D#5    2      1 e     d  =     )
+F#5    2      1 e     d  ]
+measure 16
+B4     8      1 h     d
+rest   4      1 q
+measure 17
+rest   2      1 e
+E5     2      1 e     d
+E5     2      1 e     d  [     (
+P C32:o
+B4     2      1 e     d  =
+G#4    2      1 e     d  =     )
+B4     2      1 e     d  ]
+measure 18
+E4     8      1 h     u
+rest   4      1 q
+measure 19
+rest   2      1 e
+A5     2      1 e     d
+A5     2      1 e     d  [     (
+P C32:o
+E5     2      1 e     d  =
+C#5    2      1 e     d  =     )
+E5     2      1 e     d  ]
+measure 20
+D#5    2      1 e     d  [
+C#5    2      1 e     d  ]
+B4     6      1 q.    d
+E5     2      1 e     d
+measure 21
+E5     2      1 e     d  [
+D#5    2      1 e     d  ]
+C#5    6      1 q.    d
+F#5    2      1 e     d
+measure 22
+F#5    2      1 e     d  [
+E5     2      1 e     d  ]
+D#5    6      1 q.    d
+G#5    2      1 e     d
+measure 23
+G#5    2      1 e     d  [
+F#5    2      1 e     d  ]
+E5     6      1 q.    d
+A5     2      1 e     d
+measure 24
+A5     2      1 e     d  [
+G#5    2      1 e     d  ]
+F#5    6      1 q.    d
+F#5    2      1 e     d
+measure 25
+B4     4      1 q     d
+rest   4      1 q
+rest   2      1 e
+G#5    2      1 e     d
+measure 26
+F#5    4      1 q     d
+B5     4      1 q     d
+rest   2      1 e
+F#5    2      1 e     d
+measure 27
+E5     4      1 q     d
+A5     4      1 q     d
+rest   2      1 e
+E5     2      1 e     d
+measure 28
+D#5    4      1 q     d
+G#5    4      1 q     d
+rest   2      1 e
+D#5    2      1 e     d
+measure 29
+C#5    4      1 q     d
+F#5    4      1 q     d
+rest   2      1 e
+C#5    2      1 e     d
+measure 30
+F#4    4      1 q     u
+rest   4      1 q
+F#4    4      1 q     u
+measure 31
+G#4    2      1 e     u  [
+E5     2      1 e     u  =
+E5     2      1 e     u  =     (
+P C32:u
+B4     2      1 e     u  =
+E4     2      1 e     u  =     )
+B4     2      1 e     u  ]
+measure 32
+E4     4      1 q     u
+rest   4      1 q
+rest   2      1 e
+*               G       p
+P    C17:Y54
+G#5    2      1 e     d
+measure 33
+F#5    4      1 q     d
+B5     4      1 q     d
+rest   2      1 e
+F#5    2      1 e     d
+measure 34
+E5     4      1 q     d
+A5     4      1 q     d
+rest   2      1 e
+*               G       f
+P    C17:Y61
+E5     2      1 e     d
+measure 35
+$   Q:4  T:3/2  D:Adagio
+D#5   24      1 w.             F
+P    C32:Y-9
+measure 36
+B4     8      1 h     d
+B4    12      1 h.    d
+B4     4      1 q     d
+measure 37
+F#5   24      1 w.
+measure 38
+E5    24      1 w.
+measure 39
+D#5   16      1 w
+E5     8-     1 h     d        -
+measure 40
+E5     8      1 h     d
+D#5   16      1 w
+measure 41
+E5    24      1 w.             F
+P    C32:Y-9
+mheavy2
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/02/03
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 05:08:57 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv066/stage2/02/03}
+TIMESTAMP: DEC/10/2005 [md5sum:e0eb50cf082765a2f6434d5fb9627d19]
+10/02/04 Fran Bennion
+WK#:01,04     MV#:2
+RV 66 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 4 in E Major
+Movement 2
+Violoncello
+
+Group memberships: score
+score: part 3 of 4
+$   Q:4 K:4 T:3/4 C:22  D:Allegro
+E3    12      1 h.    d
+measure 2
+D#3   12      1 h.    d
+measure 3
+E3     8      1 h     d
+G#3    4      1 q     d
+measure 4
+A3     4      1 q     d
+B3     4      1 q     d
+B2     4      1 q     u
+measure 5
+E3     4      1 q     d
+G#3    6      1 q.    d
+A3     2      1 e     d
+measure 6
+B3     4      1 q     d
+D#3    6      1 q.    d
+B2     2      1 e     u
+measure 7
+E3     4      1 q     d
+G#3    6      1 q.    d
+G#3    2      1 e     d
+measure 8
+A#2    8      1 h #   u
+A#2    4      1 q     u
+measure 9
+B2     2      1 e     u  [
+D#3    2      1 e     u  =
+F#3    2      1 e     u  =
+D#3    2      1 e     u  ]
+B2     4      1 q     u
+measure 10
+C#3    2      1 e     d  [
+E3     2      1 e     d  =
+G#3    2      1 e     d  =
+E3     2      1 e     d  ]
+C#3    4      1 q     u
+measure 11
+D#3    2      1 e     d  [
+F#3    2      1 e     d  =
+A3     2      1 e     d  =
+F#3    2      1 e     d  ]
+D#3    4      1 q     d
+measure 12
+E3     2      1 e     d  [
+G#3    2      1 e     d  =
+B3     2      1 e     d  =
+G#3    2      1 e     d  ]
+E3     4      1 q     d
+measure 13
+F#3    2      1 e     d  [
+A#3    2      1 e #   d  =
+C#4    2      1 e     d  =
+A#3    2      1 e #   d  =      +
+F#3    2      1 e     d  =
+E3     2      1 e     d  ]
+measure 14
+D#3    4      1 q     d
+E3     4      1 q     d
+F#3    4      1 q     d
+measure 15
+B2     8      1 h     u
+rest   4      1 q
+measure 16
+D#3    8      1 h     d
+rest   4      1 q
+measure 17
+E3     8      1 h     d
+rest   4      1 q
+measure 18
+G#3    8      1 h     d
+rest   4      1 q
+measure 19
+A3     4      1 q     d
+A2     8      1 h     u
+measure 20
+B2     6      1 q.    u
+B3     2      1 e     d
+G#3    2      1 e     u  [
+G#2    2      1 e     u  ]
+measure 21
+A2     6      1 q.    u
+C#4    2      1 e     d
+A3     2      1 e     d  [
+A2     2      1 e     d  ]
+measure 22
+B2     6      1 q.    u
+D#4    2      1 e     d
+B3     2      1 e     d  [
+B2     2      1 e     d  ]
+measure 23
+C#3    6      1 q.    u
+E4     2      1 e     d
+C#4    2      1 e     d  [
+C#3    2      1 e     d  ]
+measure 24
+D#3    6      1 q.    d
+F#4    2      1 e     d
+D#4    2      1 e     d  [
+D#3    2      1 e     d  ]
+measure 25
+E3     4      1 q     d
+E4     8-     1 h     d        -
+measure 26
+E4     4      1 q     d
+D#4    8-     1 h     d        -
+measure 27
+D#4    4      1 q     d
+C#4    8-     1 h     d        -
+measure 28
+C#4    4      1 q     d
+B3     8-     1 h     d        -
+measure 29
+B3     4      1 q     d
+A3     8      1 h     d
+measure 30
+B3     4      1 q     d
+A3     4      1 q     d
+B3     4      1 q     d
+measure 31
+E3     8      1 h     d
+rest   4      1 q
+measure 32
+*               G       p
+P    C17:Y62
+E3     4      1 q     d
+E4     8-     1 h     d        -
+measure 33
+E4     4      1 q     d
+D#4    8-     1 h     d        -
+measure 34
+D#4    4      1 q     d
+C#4    4      1 q     d
+*               G       f
+P    C17:Y61
+C#3    4      1 q     u
+measure 35
+$   Q:4  T:3/2  D:Adagio
+B2    24      1 w.             F
+P    C32:Y-9
+measure 36
+E3     8      1 h     d
+E3    12      1 h.    d
+E3     4      1 q     d
+measure 37
+E3     8      1 h     d
+D#3   16      1 w
+measure 38
+C#3   24      1 w.
+measure 39
+B2     8      1 h     u
+B3     4      1 q     d
+A3     4      1 q     d
+G#3    8      1 h     d
+measure 40
+F#3   24      1 w.
+measure 41
+E3    24      1 w.             F
+P    C32:Y-9
+mheavy2
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/02/04
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 05:08:57 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv066/stage2/02/04}
+TIMESTAMP: DEC/10/2005 [md5sum:ecfdce8270820a481b5a9da0650d87d9]
+10/02/04 Fran Bennion
+WK#:01,04     MV#:2
+RV 66 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 4 in E Major
+Movement 2
+Basso continuo
+
+Group memberships: score
+score: part 4 of 4
+$   Q:4 K:4 T:3/4 C:22  D:Allegro
+E3    12      1 h.    d
+measure 2
+f1              6
+D#3   12      1 h.    d
+measure 3
+E3     8      1 h     d
+f1              6
+G#3    4      1 q     d
+measure 4
+A3     4      1 q     d
+f2              6 4
+B3     4      1 q     d
+f2              5 3
+B2     4      1 q     u
+measure 5
+E3     4      1 q     d
+f1              6
+G#3    6      1 q.    d
+A3     2      1 e     d
+measure 6
+B3     4      1 q     d
+f1              6
+D#3    6      1 q.    d
+B2     2      1 e     u
+measure 7
+E3     4      1 q     d
+f1              6
+G#3    6      1 q.    d
+G#3    2      1 e     d
+measure 8
+f2              6 5
+A#2    8      1 h #   u
+A#2    4      1 q     u
+measure 9
+f1              5
+B2     2      1 e     u  [
+D#3    2      1 e     u  =
+F#3    2      1 e     u  =
+D#3    2      1 e     u  ]
+f1              6
+B2     4      1 q     u
+measure 10
+f1              5
+C#3    2      1 e     d  [
+E3     2      1 e     d  =
+G#3    2      1 e     d  =
+E3     2      1 e     d  ]
+f1              6
+C#3    4      1 q     u
+measure 11
+f1              5
+D#3    2      1 e     d  [
+F#3    2      1 e     d  =
+A3     2      1 e     d  =
+F#3    2      1 e     d  ]
+f1              6
+D#3    4      1 q     d
+measure 12
+f1              5
+E3     2      1 e     d  [
+G#3    2      1 e     d  =
+B3     2      1 e     d  =
+G#3    2      1 e     d  ]
+f1              6
+E3     4      1 q     d
+measure 13
+f1              x
+F#3    2      1 e     d  [
+A#3    2      1 e #   d  =
+C#4    2      1 e     d  =
+A#3    2      1 e #   d  =      +
+f1              6
+F#3    2      1 e     d  =
+E3     2      1 e     d  ]
+measure 14
+f1              6
+D#3    4      1 q     d
+E3     4      1 q     d
+f1              x
+F#3    4      1 q     d
+measure 15
+B2     8      1 h     u
+rest   4      1 q
+measure 16
+f1              6
+D#3    8      1 h     d
+rest   4      1 q
+measure 17
+E3     8      1 h     d
+rest   4      1 q
+measure 18
+f1              6
+G#3    8      1 h     d
+rest   4      1 q
+measure 19
+A3     4      1 q     d
+A2     8      1 h     u
+measure 20
+B2     6      1 q.    u
+B3     2      1 e     d
+f1              6
+G#3    2      1 e     u  [
+G#2    2      1 e     u  ]
+measure 21
+A2     6      1 q.    u
+C#4    2      1 e     d
+f1              6
+P    C1:Y75
+A3     2      1 e     d  [
+A2     2      1 e     d  ]
+measure 22
+B2     6      1 q.    u
+D#4    2      1 e     d
+f1              6
+B3     2      1 e     d  [
+P C32:u
+B2     2      1 e     d  ]
+measure 23
+C#3    6      1 q.    u
+E4     2      1 e     d
+f1              6
+C#4    2      1 e     d  [
+C#3    2      1 e     d  ]
+measure 24
+D#3    6      1 q.    d
+F#4    2      1 e     d
+f1              6
+D#4    2      1 e     d  [
+D#3    2      1 e     d  ]
+measure 25
+E3     4      1 q     d
+f1              6
+E4     8-     1 h     d        -
+measure 26
+f2              4 2
+E4     4      1 q     d
+f1              6
+D#4    8-     1 h     d        -
+measure 27
+f2              4 2
+D#4    4      1 q     d
+f1              6
+C#4    8-     1 h     d        -
+measure 28
+f2              4 2
+C#4    4      1 q     d
+f1              6
+B3     8-     1 h     d        -
+measure 29
+f2              4 2
+B3     4      1 q     d
+f1              6
+A3     8      1 h     d
+measure 30
+B3     4      1 q     d
+f2              7 5
+A3     4      1 q     d
+B3     4      1 q     d
+measure 31
+E3     8      1 h     d
+rest   4      1 q
+measure 32
+*               G       p
+P    C17:Y64
+E3     4      1 q     d
+E4     8-     1 h     d        -
+measure 33
+f2              4 2
+E4     4      1 q     d
+f1              6
+D#4    8-     1 h     d        -
+measure 34
+f2              4 2
+D#4    4      1 q     d
+f1              6
+C#4    4      1 q     d
+*               G       f
+P    C17:Y61
+C#3    4      1 q     u
+measure 35
+$   Q:4  T:3/2  D:Adagio
+f1              7
+B2    24      1 w.             F
+P    C32:Y-9
+measure 36
+E3     8      1 h     d
+E3    12      1 h.    d
+E3     4      1 q     d
+measure 37
+f2              4+ 2
+E3     8      1 h     d
+f1              6
+D#3   16      1 w
+measure 38
+f1     8        7
+f1              6\
+C#3   24      1 w.
+measure 39
+B2     8      1 h     u
+B3     4      1 q     d
+A3     4      1 q     d
+f1              6
+G#3    8      1 h     d
+measure 40
+f1     8        7
+f1              6
+F#3   24      1 w.
+measure 41
+E3    24      1 w.             F
+mheavy2
+/END
+/eof
+//
+@@@system-decoration: [(s1,s2,s3)]
+@@@URL-pdf: https://pdf.musedata.org/vivaldi-op01-no04.pdf#page=1 MuseData edition
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/1/18/IMSLP280399-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Primo.pdf#page=7 Violino primo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/d/d5/IMSLP280400-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Secondo.pdf#page=6 Violino secondo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/8/89/IMSLP280401-PMLP10351-Vivaldi_Sonatas_Op_1_-_Organo_e_Violoncello.pdf#page=6 Organo e Violoncello parts, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@title: @{OTL}, mvmt. @{OMV}
+@@@filter: extract -k 1,3,4
+@@@filter: shed -ke "s/Basso continuo/Violoncello\nContinuo/I; s/Violino/Violin/I"
+@@@filter: shed -ke "s/^part4$/part3/I; s/^staff4$/staff3/I"
+@@@filter: shed -x fb -e "s/^part\\d$//I; s/^staff\\d$//I"
+@@@filter: humbreak -m 7,15,23,31
+@@@filter: addkey
+@@@EEV: 2024/04/07
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/02/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/02/02
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/02/03
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/02/04

@@ -1,0 +1,1161 @@
+@@@COM: Vivaldi, Antonio Lucio
+@@@CDT: 1678/03/04-1741/08/28
+@@@OPR: 12 sonatas for two violins and basso continuo
+@@@OTL: Sonata no. @{ONM} in E major, op. @{OPS} (@{SCT})
+@@@OPS: 1
+@@@ONM: 4
+@@@OMV: 5. Giga
+@@@SCT: RV 66
+@@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
+@@@OMD: Largo
+@@@key: E
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/05/01
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 05:09:08 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv066/stage2/05/01}
+TIMESTAMP: DEC/10/2005 [md5sum:8f3bb9a8ce032732e07796bba37ca7e7]
+10/04/04 Fran Bennion
+WK#:01,04     MV#:5
+RV 66 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 4 in E Major
+Movement 5 - Giga
+Violino 1
+
+Group memberships: score
+score: part 1 of 4
+$   Q:4 K:4 T:12/8 C:4   D:Giga, Allegro
+E5     2      1 e     d
+measure 1
+E5     4      1 q     d
+B4     2      1 e     d
+B4     4      1 q     d
+G#5    2      1 e     d
+G#5    4      1 q     d
+E5     2      1 e     d
+E5     4      1 q     d
+B5     2      1 e     d
+measure 2
+B5     2      1 e     d  [
+A5     2      1 e     d  =
+G#5    2      1 e     d  ]
+F#5    2      1 e     d  [
+G#5    2      1 e     d  =
+E5     2      1 e     d  ]
+D#5    2      1 e     d  [
+C#5    2      1 e     d  =
+D#5    2      1 e     d  ]
+B4     2      1 e     d  [
+C#5    2      1 e     d  =
+D#5    2      1 e     d  ]
+measure 3
+E5     4      1 q     d
+G#4    2      1 e     u
+B3     4      1 q     u
+D#5    2      1 e     d
+E4     6      1 q.    u
+rest   4      1 q
+rest   2      1 e
+measure 4
+rest   2      1 e
+E5     2      1 e     d  [
+D#5    2      1 e     d  ]
+E5     2      1 e     d  [
+F#5    2      1 e     d  =
+G#5    2      1 e     d  ]
+C#5   12      1 h.    d
+measure 5
+rest   2      1 e
+F#5    2      1 e     d  [
+E5     2      1 e     d  ]
+F#5    2      1 e     d  [
+G#5    2      1 e     d  =
+A5     2      1 e     d  ]
+D#5   12      1 h.    d
+measure 6
+rest   2      1 e
+G#5    2      1 e     d  [
+F#5    2      1 e     d  ]
+G#5    2      1 e     d  [
+A5     2      1 e     d  =
+B5     2      1 e     d  ]
+E5    12      1 h.    d
+measure 7
+rest   2      1 e
+E5     2      1 e     d  [
+D#5    2      1 e     d  ]
+E5     2      1 e     d  [
+D#5    2      1 e     d  =
+C#5    2      1 e     d  ]
+F#5    4      1 q     d
+B4     2      1 e     d
+B4     4      1 q     d
+A#4    2      1 e #   u
+measure 8
+B4     2      1 e     d  [
+F#5    2      1 e     d  =
+E5     2      1 e     d  ]
+D#5    2      1 e     d  [
+E5     2      1 e     d  =
+F#5    2      1 e     d  ]
+B4     6      1 q.    d
+rest   2      1 e
+rest   2      1 e
+F#5    2      1 e     d
+measure 9
+G#5    4      1 q     d        (
+P C32:o
+C#5    2      1 e     d        )
+F#5    4      1 q     d        (
+P C32:o
+B4     2      1 e     d        )
+E5     4      1 q     d        (
+P C32:o
+A#4    2      1 e #   u        )
+B4     6-     1 q.    d        -
+measure 10
+B4     3      1 e.    d  [
+C#5    1      1 s     d  =\
+B4     2      1 e     d  ]
+F#4    4      1 q     u
+A#4    2      1 e #   u
+B3     6      1 h     u
+&1
+In the Roger facsimile the B3 appeared as a half note.  I shortened the note
+value so that it would be rhythmically correct when played, but the visual
+appearance of this measure remains like the Roger edition in the score.
+&1
+rest   4      1 q
+mheavy4          |: :|
+G#5    2      1 e     d
+measure 11
+G#5    2      1 e     d  [
+F#5    2      1 e     d  =
+E5     2      1 e     d  ]
+D#5    2      1 e     d  [
+E5     2      1 e     d  =
+C#5    2      1 e     d  ]
+B#4    2      1 e #   u  [
+G#4    2      1 e     u  =
+B#4    2      1 e     u  ]
+C#5    2      1 e     u  [
+E4     2      1 e     u  =
+C#5    2      1 e     u  ]
+measure 12
+F#4    2      1 e     u  [
+B#4    2      1 e #   u  =
+C#5    2      1 e     u  ]
+G#4    4      1 q     u
+B#4    2      1 e #   d         +
+C#5    6      1 q.    d
+rest   2      1 e
+rest   2      1 e
+F#5    2      1 e     d
+measure 13
+F#5    2      1 e     d  [
+C#5    2      1 e     d  =
+A#4    2      1 e #   d  ]
+F#4    2      1 e     d  [
+F#5    2      1 e     d  =
+E5     2      1 e     d  ]
+D#5    2      1 e     d  [
+E5     2      1 e     d  =
+F#5    2      1 e     d  ]
+B4     4      1 q     d
+B5     2      1 e     d
+measure 14
+B5     2      1 e     d  [
+F#5    2      1 e     d  =
+D#5    2      1 e     d  ]
+B4     2      1 e     d  [
+B5     2      1 e     d  =
+A5     2      1 e     d  ]
+G#5    2      1 e     d  [
+A5     2      1 e     d  =
+B5     2      1 e     d  ]
+E5     4      1 q     d
+E5     2      1 e     d
+measure 15
+E5     2      1 e     d  [     (
+P C32:o
+D#5    2      1 e     d  =
+C#5    2      1 e     d  ]     )
+C#5    2      1 e     d  [     (
+P C32:o
+B4     2      1 e     d  =
+A4     2      1 e     d  ]     )
+A5     2      1 e     d  [     (
+P C32:o
+G#5    2      1 e     d  =
+F#5    2      1 e     d  ]     )
+F#5    2      1 e     d  [     (
+P C32:o
+E5     2      1 e     d  =
+D#5    2      1 e     d  ]     )
+measure 16
+D#5    2      1 e     d  [     (
+P C32:o
+C#5    2      1 e     d  =
+D#5    2      1 e     d  ]     )
+B4     4      1 q     d
+B4     2      1 e     d
+C#5    2      1 e     d  [     (
+B4     2      1 e     d  =
+A4     2      1 e     d  ]     )
+C#5    2      1 e     d  [     (
+P C32:o
+B4     2      1 e     d  =
+C#5    2      1 e     d  ]     )
+measure 17
+D#5    2      1 e     d  [     (
+P C32:o
+C#5    2      1 e     d  =
+B4     2      1 e     d  ]     )
+D#5    2      1 e     d  [     (
+P C32:o
+C#5    2      1 e     d  =
+D#5    2      1 e     d  ]     )
+E5     2      1 e     d  [     (
+P C32:o
+D#5    2      1 e     d  =
+C#5    2      1 e     d  ]     )
+E5     2      1 e     d  [     (
+P C32:o
+D#5    2      1 e     d  =
+E5     2      1 e     d  ]     )
+measure 18
+F#5    2      1 e     d  [     (
+P C32:o
+E5     2      1 e     d  =
+D#5    2      1 e     d  ]     )
+F#5    2      1 e     d  [     (
+P C32:o
+E5     2      1 e     d  =
+F#5    2      1 e     d  ]     )
+G#5    2      1 e     d  [     (
+P C32:o
+F#5    2      1 e     d  =
+E5     2      1 e     d  ]     )
+G#5    2      1 e     d  [     (
+P C32:o
+F#5    2      1 e     d  =
+G#5    2      1 e     d  ]     )
+measure 19
+A5     2      1 e     d  [     (
+P C32:o
+G#5    2      1 e     d  =
+F#5    2      1 e     d  ]     )
+B5     4      1 q     d
+E5     2      1 e     d
+D#5    2      1 e     d  [     (
+P C32:o
+C#5    2      1 e     d  =
+B4     2      1 e     d  ]     )
+A5     6-     1 q.    d        -
+measure 20
+A5     2      1 e     d  [
+B5     2      1 e     d  =
+G#5    2      1 e     d  ]
+G#5    4      1 q     d
+F#5    2      1 e     d
+E5     6      1 q.    d
+rest   4      1 q
+rest   2      1 e
+measure 21
+rest   2      1 e
+E5     2      1 e     d  [
+D#5    2      1 e     d  ]
+E5     2      1 e     d  [
+F#5    2      1 e     d  =
+G#5    2      1 e     d  ]
+C#5   12      1 h.    d
+measure 22
+rest   2      1 e
+F#5    2      1 e     d  [
+E5     2      1 e     d  ]
+F#5    2      1 e     d  [
+G#5    2      1 e     d  =
+A5     2      1 e     d  ]
+D#5   12      1 h.    d
+measure 23
+rest   2      1 e
+G#5    2      1 e     d  [
+F#5    2      1 e     d  ]
+G#5    2      1 e     d  [
+A5     2      1 e     d  =
+B5     2      1 e     d  ]
+E5    12      1 h.    d
+measure 24
+rest   2      1 e
+A5     2      1 e     d  [
+G#5    2      1 e     d  ]
+A5     2      1 e     d  [
+B5     2      1 e     d  =
+C#6    2      1 e     d  ]
+rest   2      1 e
+F#5    2      1 e     d  [
+E5     2      1 e     d  ]
+F#5    2      1 e     d  [
+G#5    2      1 e     d  =
+A5     2      1 e     d  ]
+measure 25
+rest   2      1 e
+D#5    2      1 e     d  [
+C#5    2      1 e     d  ]
+D#5    2      1 e     d  [
+E5     2      1 e     d  =
+F#5    2      1 e     d  ]
+B4     4      1 q     d
+E5     2      1 e     d
+E5     4      1 q     d
+D#5    2      1 e     d
+measure 26
+E5     2      1 e     d  [
+B4     2      1 e     d  =
+A4     2      1 e     d  ]
+G#4    2      1 e     u  [
+A4     2      1 e     u  =
+B4     2      1 e     u  ]
+E4     6      1 q.    u
+rest   2      1 e
+rest   2      1 e
+B4     2      1 e     d
+measure 27
+C#5    4      1 q     d        (
+F#4    2      1 e     u        )
+B4     4      1 q     d        (
+P C32:o
+E4     2      1 e     u        )
+A4     4      1 q     u        (
+P C32:u
+D#4    2      1 e     u        )
+E4     6-     1 q.    u        -
+measure 28
+E4     3      1 e.    u  [
+F#4    1      1 s     u  =\
+E4     2      1 e     u  ]
+B3     4      1 q     u
+D#4    2      1 e     u
+E4    10      1 h.    u
+&1
+In the Roger facsimile the E4 appeared as a dotted half note.  I shortened
+the note value so that it would be rhythmically correct when played, but the
+visual appearance of this measure remains like the Roger edition in the score.
+&1
+mheavy2          :|
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/05/02
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 05:09:08 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv066/stage2/05/02}
+TIMESTAMP: DEC/10/2005 [md5sum:47174d2cdbca0d906089320daeaf2c63]
+10/04/04 Fran Bennion
+WK#:01,04     MV#:5
+RV 66 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 4 in E Major
+Movement 5 - Giga
+Violino 2
+
+Group memberships: score
+score: part 2 of 4
+$   Q:2 K:4 T:12/8 C:4  D:Giga, Allegro
+G#4    1      1 e     u
+measure 1
+G#4    3      1 q.    u
+rest   2      1 q
+B4     1      1 e     d
+B4     3      1 q.    d
+rest   2      1 q
+E5     1      1 e     d
+measure 2
+E5     3      1 q.    d
+C#5    3      1 q.    d
+F#4    3      1 q.    u
+rest   2      1 q
+F#5    1      1 e     d
+measure 3
+B4     2      1 q     d
+E5     1      1 e     d
+D#5    1      1 e     d  [
+E5     1      1 e     d  =
+F#5    1      1 e     d  ]
+E5     1      1 e     d  [
+B5     1      1 e     d  =
+A5     1      1 e     d  ]
+G#5    1      1 e     d  [
+A5     1      1 e     d  =
+B5     1      1 e     d  ]
+measure 4
+E5     3      1 q.    d
+rest   2      1 q
+rest   1      1 e
+rest   1      1 e
+E5     1      1 e     d  [
+D#5    1      1 e     d  ]
+E5     1      1 e     d  [
+F#5    1      1 e     d  =
+G#5    1      1 e     d  ]
+measure 5
+A5     6      1 h.    d
+rest   1      1 e
+F#5    1      1 e     d  [
+E5     1      1 e     d  ]
+F#5    1      1 e     d  [
+G#5    1      1 e     d  =
+A5     1      1 e     d  ]
+measure 6
+B5     6      1 h.    d
+rest   1      1 e
+G#5    1      1 e     d  [
+F#5    1      1 e     d  ]
+G#5    1      1 e     d  [
+A5     1      1 e     d  =
+B5     1      1 e     d  ]
+measure 7
+C#6    2      1 q     d
+F#5    1      1 e     d
+B5     3-     1 q.    d        -
+B5     2      1 q     d
+D#5    1      1 e     d
+D#5    2      1 q     d
+C#5    1      1 e     d
+measure 8
+B4     3      1 q.    d
+rest   2      1 q
+rest   1      1 e
+rest   1      1 e
+F#5    1      1 e     d  [
+E5     1      1 e     d  ]
+D#5    1      1 e     d  [
+E5     1      1 e     d  =
+F#5    1      1 e     d  ]
+measure 9
+B4     3      1 q.    d
+rest   2      1 q
+F#5    1      1 e     d
+G#5    2      1 q     d        (
+P C32:o
+C#5    1      1 e     d        )
+F#5    2      1 q     d        (
+P C32:o
+B4     1      1 e     d        )
+measure 10
+C#5    3      1 q.    d
+C#5    2      1 q     d
+F#5    1      1 e     d
+D#5    3      1 h     d
+&1
+In the Roger facsimile the D#5 appeared as a half note.  I shortened the note
+value so that it would be rhythmically correct when played, but the visual
+appearance of this measure remains like the Roger edition in the score.
+&1
+rest   2      1 q
+mheavy4          |: :|
+E5     1      1 e     d
+measure 11
+E5     3      1 q.    d
+rest   2      1 q
+A5     1      1 e     d
+D#5    3      1 q.    d
+rest   2      1 q
+G#5    1      1 e     d
+measure 12
+D#5    2      1 q     d
+E5     1      1 e     d
+E5     2      1 q     d
+D#5    1      1 e     d
+C#5    1      1 e     d  [
+G#5    1      1 e     d  =
+F#5    1      1 e     d  ]
+E5     1      1 e     d  [
+F#5    1      1 e     d  =
+D#5    1      1 e     d  ]
+measure 13
+C#5    3      1 q.    d
+rest   2      1 q
+C#5    1      1 e     d
+F#4    3      1 q.    u
+rest   2      1 q
+rest   1      1 e
+measure 14
+F#5    3      1 q.    d
+rest   2      1 q
+F#5    1      1 e     d
+B4     3      1 q.    d
+rest   2      1 q
+B4     1      1 e     d
+measure 15
+C#5    3      1 q.    d
+E5     1      1 e     d  [     (
+P C32:o
+D#5    1      1 e     d  =
+C#5    1      1 e     d  ]     )
+C#5    3      1 q.    d
+A5     1      1 e     d  [     (
+P C32:o
+G#5    1      1 e     d  =
+F#5    1      1 e     d  ]     )
+measure 16
+F#5    3      1 q.    d
+rest   2      1 q
+E5     1      1 e     d
+E5     1      1 e     d  [     (
+P C32:o
+D#5    1      1 e     d  =
+C#5    1      1 e     d  ]     )
+rest   2      1 q
+F#5    1      1 e     d
+measure 17
+F#5    1      1 e     d  [     (
+P C32:o
+E5     1      1 e     d  =
+D#5    1      1 e     d  ]     )
+rest   2      1 q
+G#5    1      1 e     d
+G#5    1      1 e     d  [     (
+P C32:o
+F#5    1      1 e     d  =
+E5     1      1 e     d  ]     )
+rest   2      1 q
+A5     1      1 e     d
+measure 18
+A5     1      1 e     d  [     (
+P C32:o
+G#5    1      1 e     d  =
+F#5    1      1 e     d  ]     )
+rest   2      1 q
+B5     1      1 e     d
+B5     1      1 e     d  [     (
+P C32:o
+A5     1      1 e     d  =
+G#5    1      1 e     d  ]     )
+rest   2      1 q
+E5     1      1 e     d
+measure 19
+C#5    3      1 q.    d
+rest   2      1 q
+C#5    1      1 e     d
+F#4    2      1 q     u
+D#5    1      1 e     d
+E5     2      1 q     d
+F#5    1      1 e     d
+measure 20
+D#5    2      1 q     d
+E5     1      1 e     d
+E5     2      1 q     d
+D#5    1      1 e     d
+E5     1      1 e     d  [
+B5     1      1 e     d  =
+A5     1      1 e     d  ]
+G#5    1      1 e     d  [
+A5     1      1 e     d  =
+B5     1      1 e     d  ]
+measure 21
+E5     3      1 q.    d
+rest   2      1 q
+rest   1      1 e
+rest   1      1 e
+E5     1      1 e     d  [
+D#5    1      1 e     d  ]
+E5     1      1 e     d  [
+F#5    1      1 e     d  =
+G#5    1      1 e     d  ]
+measure 22
+A5     6      1 h.    d
+rest   1      1 e
+F#5    1      1 e     d  [
+E5     1      1 e     d  ]
+F#5    1      1 e     d  [
+G#5    1      1 e     d  =
+A5     1      1 e     d  ]
+measure 23
+B5     6      1 h.    d
+rest   1      1 e
+G#5    1      1 e     d  [
+F#5    1      1 e     d  ]
+G#5    1      1 e     d  [
+A5     1      1 e     d  =
+B5     1      1 e     d  ]
+measure 24
+C#6    6      1 h.    d
+rest   1      1 e
+A5     1      1 e     d  [
+G#5    1      1 e     d  ]
+A5     1      1 e     d  [
+B5     1      1 e     d  =
+C#6    1      1 e     d  ]
+measure 25
+rest   1      1 e
+F#5    1      1 e     d  [
+E5     1      1 e     d  ]
+F#5    1      1 e     d  [
+G#5    1      1 e     d  =
+A5     1      1 e     d  ]
+D#5    2      1 q     d
+G#5    1      1 e     d
+F#5    3      1 q.    d
+measure 26
+E5     3      1 q.    d
+rest   2      1 q
+rest   1      1 e
+rest   1      1 e
+B4     1      1 e     u  [
+A4     1      1 e     u  ]
+G#4    1      1 e     u  [
+A4     1      1 e     u  =
+B4     1      1 e     u  ]
+measure 27
+E4     3      1 q.    u
+rest   2      1 q
+B4     1      1 e     d
+C#5    2      1 q     d
+F#4    1      1 e     u
+B4     2      1 q     d        (
+P C32:o
+E4     1      1 e     u        )
+measure 28
+F#4    3-     1 q.    u        -
+F#4    2      1 q     u
+B4     1      1 e     d
+G#4    5      1 h.    u
+&1
+In the Roger facsimile the G#4 appeared as a dotted half note.  I shortened
+the note value so that it would be rhythmically correct when played, but the
+visual appearance of this measure remains like the Roger edition in the score.
+&1
+mheavy2          :|
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/05/03
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 05:09:08 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv066/stage2/05/03}
+TIMESTAMP: DEC/10/2005 [md5sum:092ddbf9e65b3bc3ba369faec1db85c1]
+10/04/04 Fran Bennion
+WK#:01,04     MV#:5
+RV 66 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 4 in E Major
+Movement 5 - Giga
+Violoncello
+
+Group memberships: score
+score: part 3 of 4
+$   Q:2 K:4 T:12/8 C:22  D:Giga, Allegro
+E3     1      1 e     d
+measure 1
+E3     3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+E3     1      1 e     d
+E3     3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+G#3    1      1 e     d
+measure 2
+G#3    3      1 q.    d
+A#3    3      1 q.#   d
+B3     3-     1 q.    d        -
+B3     2      1 q     d
+A3     1      1 e n   d
+measure 3
+G#3    1      1 e     d  [
+F#3    1      1 e     d  =
+E3     1      1 e     d  ]
+B3     2      1 q     d
+B2     1      1 e     u
+E3     6      1 h.    d
+measure 4
+G#3    6      1 h.    d
+A3     6      1 h.    d
+measure 5
+F#3    6      1 h.    d
+B3     6      1 h.    d
+measure 6
+G#3    6      1 h.    d
+C#4    3-     1 q.    d        -
+C#4    2      1 q     d
+B3     1      1 e     d
+measure 7
+A#3    1      1 e #   d  [
+G#3    1      1 e     d  =
+F#3    1      1 e     d  ]
+G#3    1      1 e     d  [
+F#3    1      1 e     d  =
+E3     1      1 e     d  ]
+D#3    2      1 q     d
+E3     1      1 e     d
+F#3    2      1 q     d
+F#2    1      1 e     u
+measure 8
+B2     3      1 q.    u
+rest   2      1 q
+rest   1      1 e
+B2     3      1 q.    u
+rest   1      1 e
+rest   1      1 e
+D#4    1      1 e     d
+measure 9
+E4     3      1 q.    d
+D#4    3      1 q.    d
+C#4    3      1 q.    d
+D#4    1      1 e     d  [
+C#4    1      1 e     d  =
+B3     1      1 e     d  ]
+measure 10
+E3     3      1 q.    d
+F#3    3      1 q.    d
+B2     3      1 h     u
+&1
+In the Roger facsimile the B2 appeared as a half note.  I shortened the note
+value so that it would be rhythmically correct when played, but the visual
+appearance of this measure remains like the Roger edition in the score.
+&1
+rest   2      1 q
+mheavy4          |: :|
+C#3    1      1 e     u
+measure 11
+C#3    3      1 q.    u
+F#3    3      1 q.    d
+G#3    3      1 q.    d
+E3     3      1 q.    d
+measure 12
+F#3    3      1 q.    d
+G#3    3      1 q.    d
+C#3    3-     1 q.    u        -
+C#3    2      1 q     u
+B2     1      1 e     u
+measure 13
+A#2    3      1 q.#   u
+rest   1      1 e
+rest   1      1 e
+A#2    1      1 e #   u
+B2     3      1 q.    u
+rest   2      1 q
+rest   1      1 e
+measure 14
+D#3    3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+D#3    1      1 e     d
+E3     3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+G#3    1      1 e     d
+measure 15
+A3     3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+G#3    1      1 e     d
+F#3    3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+A2     1      1 e     u
+measure 16
+B2     3      1 q.    u
+rest   1      1 e
+rest   1      1 e
+G#3    1      1 e     d
+A3     3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+A#3    1      1 e #   d
+measure 17
+B3     3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+B#3    1      1 e #   d
+C#4    3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+C#4    1      1 e     d
+measure 18
+D#4    3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+D#3    1      1 e     d
+E3     3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+E3     1      1 e     d
+measure 19
+F#3    3      1 q.    d
+G#3    2      1 q     d
+A3     1      1 e     d
+B3     3      1 q.    d
+C#4    1      1 e     d  [
+B3     1      1 e     d  =
+A3     1      1 e     d  ]
+measure 20
+B3     2      1 q     d
+E3     1      1 e     d
+B3     2      1 q     d
+B2     1      1 e     u
+E3     6      1 h.    d
+measure 21
+G#3    6      1 h.    d
+A3     6      1 h.    d
+measure 22
+F#3    6      1 h.    d
+B3     6      1 h.    d
+measure 23
+G#3    6      1 h.    d
+C#4    6      1 h.    d
+measure 24
+A3     6      1 h.    d
+A2     6      1 h.    u
+measure 25
+B2     6-     1 h.    u        -
+B2     2      1 q     u
+G#2    1      1 e     u
+A2     2      1 q     u
+B2     1      1 e     u
+measure 26
+E3     3      1 q.    d
+rest   2      1 q
+rest   1      1 e
+E3     3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+G#3    1      1 e     d
+measure 27
+A3     3      1 q.    d
+G#3    3      1 q.    d
+F#3    3      1 q.    d
+G#3    1      1 e     d  [
+F#3    1      1 e     d  =
+E3     1      1 e     d  ]
+measure 28
+A2     3      1 q.    u
+B2     3      1 q.    u
+E2     5      1 h.    u
+&1
+In the Roger facsimile the G#4 appeared as a dotted half note.  I shortened
+the note value so that it would be rhythmically correct when played, but the
+visual appearance of this measure remains like the Roger edition in the score.
+&1
+mheavy2          :|
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/05/04
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 05:09:08 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv066/stage2/05/04}
+TIMESTAMP: DEC/10/2005 [md5sum:ae9cafd1732613a9d54a2455d6909527]
+10/04/04 Fran Bennion
+WK#:01,04     MV#:5
+RV 66 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 4 in E Major
+Movement 5 - Giga
+Basso continuo
+
+Group memberships: score
+score: part 4 of 4
+$   Q:2 K:4 T:12/8 C:22  D:Giga, Allegro
+E3     1      1 e     d
+measure 1
+E3     3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+E3     1      1 e     d
+E3     3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+f1              6
+G#3    1      1 e     d
+measure 2
+G#3    3      1 q.    d
+f1     2        6
+f1              5
+A#3    3      1 q.#   d
+B3     3-     1 q.    d        -
+B3     2      1 q     d
+f2              4 2
+A3     1      1 e n   d
+measure 3
+f1              6
+G#3    1      1 e     d  [
+F#3    1      1 e     d  =
+E3     1      1 e     d  ]
+f1              x
+B3     2      1 q     d
+B2     1      1 e     u
+E3     6      1 h.    d
+measure 4
+f1              6
+G#3    6      1 h.    d
+A3     6      1 h.    d
+measure 5
+f1              7
+F#3    6      1 h.    d
+f1              3
+B3     6      1 h.    d
+measure 6
+f1              7
+G#3    6      1 h.    d
+f1              3
+C#4    3-     1 q.    d        -
+C#4    2      1 q     d
+f2              4 2
+B3     1      1 e     d
+measure 7
+f1              6
+A#3    1      1 e #   d  [
+G#3    1      1 e     d  =
+F#3    1      1 e     d  ]
+f1              6
+G#3    1      1 e     d  [
+F#3    1      1 e     d  =
+E3     1      1 e     d  ]
+f1              6
+D#3    2      1 q     d
+f2              7 5
+E3     1      1 e     d
+f2              6 4
+F#3    2      1 q     d
+f2              5 x
+F#2    1      1 e     u
+measure 8
+B2     3      1 q.    u
+rest   2      1 q
+rest   1      1 e
+B2     3      1 q.    u
+rest   1      1 e
+rest   1      1 e
+D#4    1      1 e     d
+measure 9
+f1     2        5
+f1              6
+E4     3      1 q.    d
+f1     2        7
+f1              6
+D#4    3      1 q.    d
+f1     2        7
+f1              6\
+C#4    3      1 q.    d
+f1              6
+D#4    1      1 e     d  [
+C#4    1      1 e     d  =
+B3     1      1 e     d  ]
+measure 10
+f2              6 5
+E3     3      1 q.    d
+f1              x
+F#3    3      1 q.    d
+B2     3      1 h     u
+&1
+In the Roger facsimile the B2 appeared as a half note.  I shortened the note
+value so that it would be rhythmically correct when played, but the visual
+appearance of this measure remains like the Roger edition in the score.
+&1
+rest   2      1 q
+mheavy4          |: :|
+C#3    1      1 e     u
+measure 11
+C#3    3      1 q.    u
+f2              6 5
+F#3    3      1 q.    d
+f1              x
+G#3    3      1 q.    d
+f1              6
+E3     3      1 q.    d
+measure 12
+f2              6 5
+F#3    3      1 q.    d
+f2     2        6 4
+f2              5 x
+G#3    3      1 q.    d
+C#3    3-     1 q.    u        -
+C#3    2      1 q     u
+f1              5
+B2     1      1 e     u
+measure 13
+f1              6
+A#2    3      1 q.#   u
+rest   1      1 e
+rest   1      1 e
+A#2    1      1 e     u
+B2     3      1 q.    u
+rest   2      1 q
+rest   1      1 e
+measure 14
+f1              6
+D#3    3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+D#3    1      1 e     d
+E3     3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+f1              6
+G#3    1      1 e     d
+measure 15
+A3     3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+f2              4 2
+G#3    1      1 e     d
+f1              5
+F#3    3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+f1              6
+A2     1      1 e     u
+measure 16
+B2     3      1 q.    u
+rest   1      1 e
+rest   1      1 e
+f1              6
+G#3    1      1 e     d
+f1              5
+A3     3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+f1              6
+A#3    1      1 e #   d
+measure 17
+f1              5
+B3     3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+f1              6
+B#3    1      1 e #   d
+f1              5
+C#4    3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+f1              6
+C#4    1      1 e     d
+measure 18
+f1              5
+D#4    3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+f1              6
+D#3    1      1 e     d
+f1              5
+E3     3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+f1              6
+E3     1      1 e     d
+measure 19
+f1              5
+F#3    3      1 q.    d
+f1              6
+G#3    2      1 q     d
+A3     1      1 e     d
+B3     3      1 q.    d
+f1              6
+C#4    1      1 e     d  [
+B3     1      1 e     d  =
+A3     1      1 e     d  ]
+measure 20
+f1              7
+B3     2      1 q     d
+E3     1      1 e     d
+f2              6 4
+B3     2      1 q     d
+f2              5 3
+B2     1      1 e     u
+E3     6      1 h.    d
+measure 21
+f1              6
+G#3    6      1 h.    d
+A3     6      1 h.    d
+measure 22
+f1              7
+F#3    6      1 h.    d
+f1              3
+B3     6      1 h.    d
+measure 23
+f1              7
+G#3    6      1 h.    d
+f1              3
+C#4    6      1 h.    d
+measure 24
+f1              5
+A3     6      1 h.    d
+f1              6
+A2     6      1 h.    u
+measure 25
+B2     6-     1 h.    u        -
+B2     2      1 q     u
+f1              6
+G#2    1      1 e     u
+f2              6 5
+A2     2      1 q     u
+B2     1      1 e     u
+measure 26
+E3     3      1 q.    d
+rest   2      1 q
+rest   1      1 e
+E3     3      1 q.    d
+rest   1      1 e
+rest   1      1 e
+f1              6
+G#3    1      1 e     d
+measure 27
+f1     2        5
+f1              6
+A3     3      1 q.    d
+f1     2        7
+f1              6
+G#3    3      1 q.    d
+f1     2        7
+f1              6
+F#3    3      1 q.    d
+f1              6
+G#3    1      1 e     d  [
+F#3    1      1 e     d  =
+E3     1      1 e     d  ]
+measure 28
+f2              6 5
+A2     3      1 q.    u
+B2     3      1 q.    u
+E2     5      1 h.    u
+&1
+In the Roger facsimile the G#4 appeared as a dotted half note.  I shortened
+the note value so that it would be rhythmically correct when played, but the
+visual appearance of this measure remains like the Roger edition in the score.
+&1
+mheavy2          :|
+/END
+/eof
+//
+@@@system-decoration: [(s1,s2,s3)]
+@@@URL-pdf: https://pdf.musedata.org/vivaldi-op01-no04.pdf#page=5 MuseData edition
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/1/18/IMSLP280399-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Primo.pdf#page=8 Violino primo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/d/d5/IMSLP280400-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Secondo.pdf#page=7 Violino secondo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/8/89/IMSLP280401-PMLP10351-Vivaldi_Sonatas_Op_1_-_Organo_e_Violoncello.pdf#page=7 Organo e Violoncello parts, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@title: @{OTL}, mvmt. @{OMV}
+@@@filter: extract -k 1,3,4
+@@@filter: shed -ke "s/Basso continuo/Violoncello\nContinuo/I; s/Violino/Violin/I"
+@@@filter: shed -ke "s/^part4$/part3/I; s/^staff4$/staff3/I"
+@@@filter: shed -x fb -e "s/^part\\d$//I; s/^staff\\d$//I"
+@@@filter: humbreak -m 5,10,14,19,24
+@@@filter: addkey
+@@@EEV: 2024/04/07
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/05/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/05/02
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/05/03
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/05/04
