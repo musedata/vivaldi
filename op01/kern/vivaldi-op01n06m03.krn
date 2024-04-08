@@ -8,14 +8,14 @@
 !!!SCT: RV 62
 !!!SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
 !!!OMD: Adagio
-!!!key: D
+!!!key: f#
 **kern	**fb	**kern	**kern
 *part3	*part4	*part2	*part1
 *staff3	*	*staff2	*staff1
 *I"Violoncello\nContinuo	*	*I"Violin 2	*I"Violin 1
 *clefF4	*	*clefG2	*clefG2
 *k[f#c#]	*	*k[f#c#]	*k[f#c#]
-*D:	*	*D:	*D:
+*f#:	*	*f#:	*f#:
 *M4/4	*	*M4/4	*M4/4
 *met(c)	*	*met(c)	*met(c)
 =	=	=	=
@@ -141,7 +141,7 @@
 !!!SMS: RV 62 / Estienne Roger (No. 363), Amsterdam [facs.]
 !!!ENC: Fran Bennion
 !!!END: 2004/10/09
-!!!ONB: Converted from MuseData with musedata2hum on Sun Apr  7 19:56:38 2024
+!!!ONB: Converted from MuseData with musedata2hum on Sun Apr  7 21:53:44 2024
 !!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no06.pdf#page=3 MuseData edition
