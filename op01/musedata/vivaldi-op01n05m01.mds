@@ -1,0 +1,819 @@
+@@@COM: Vivaldi, Antonio Lucio
+@@@CDT: 1678/03/04-1741/08/28
+@@@OPR: 12 sonatas for two violins and basso continuo
+@@@OTL: Sonata no. @{ONM} in F major, op. @{OPS} (@{SCT})
+@@@OPS: 1
+@@@ONM: 5
+@@@OMV: 1. Preludio
+@@@SCT: RV 69
+@@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
+@@@OMD: Largo
+@@@key: F
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv069_05/stage2/01/01
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 06:37:58 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv069/stage2/01/01}
+TIMESTAMP: DEC/10/2005 [md5sum:02ca114b5e7bc452c0ce1caacf807735]
+10/04/04 Fran Bennion
+WK#:01,05     MV#:1
+RV 69 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 5 in F Major
+Movement 1 - Preludio
+Violino 1
+
+Group memberships: score
+score: part 1 of 4
+$   Q:8 K:-1 T:1/1 C:4  D:Preludio, Largo
+F5     4      1 e     d  [     (
+P C32:o
+C5     3      1 s.    d  =[    )
+F5     1      1 t     d  ]]\
+G5     4      1 e     d  [     (
+P C32:o
+C5     3      1 s.    d  =[    )
+G5     1      1 t     d  ]]\
+A5     4      1 e     d  [
+F5     4      1 e     d  ]
+rest   8      1 q
+measure 2
+rest   8      1 q
+F5     4      1 e     d  [
+F5     4      1 e     d  ]
+F5     2      1 s     d  [[    (
+P C32:o
+E5     2      1 s     d  =]    )
+F5     4      1 e     d  ]
+G5     4      1 e     d  [
+G5     4      1 e     d  ]
+measure 3
+G5     2      1 s     d  [[    (
+P C32:o
+F5     2      1 s     d  =]    )
+G5     4      1 e     d  ]
+A5     4      1 e     d  [
+A5     4      1 e     d  ]
+A5     2      1 s     d  [[    (
+P C32:o
+G5     2      1 s     d  =]    )
+A5     4      1 e     d  ]
+Bf5    4      1 e     d  [
+Bf5    4      1 e     d  ]
+measure 4
+C5     2      1 s     d  [[
+G5     2      1 s     d  ==
+A5     2      1 s     d  ==
+Bf5    2      1 s     d  ]]
+G5     8      1 q     d
+F5     8      1 q     d
+rest   4      1 e
+A5     2      1 s     d  [[
+P C32:o
+G5     2      1 s     d  ]]
+measure 5
+F5     4      1 e     d  [
+F5     4      1 e     d  ]
+F5     4      1 e     d  [
+G5     2      1 s     d  =[
+P C32:o
+F5     2      1 s     d  ]]
+E5     4      1 e     d  [
+E5     4      1 e     d  ]
+A5     4      1 e     d  [
+G5     2      1 s     d  =[
+P C32:o
+F5     2      1 s     d  ]]
+measure 6
+E5     2      1 s     d  [[
+A5     2      1 s     d  ==
+G5     2      1 s     d  ==
+F5     2      1 s     d  ]]
+E5     8      1 q     d
+D5     8      1 q     d
+rest   4      1 e
+F5     2      1 s     d  [[
+P C32:o
+E5     2      1 s     d  ]]
+measure 7
+D5     4      1 e     d  [
+E5     2      1 s     d  =[
+P C32:o
+F5     2      1 s     d  ]]
+B4     6      1 e.n   d  [
+C5     2      1 s     d  ]\
+C5     8      1 q     d
+rest   2      1 s
+C5     2      1 s     d  [[
+D5     2      1 s     d  ==
+E5     2      1 s     d  ]]
+measure 8
+F5     4      1 e     d  [
+Ef5    4      1 e f   d  =
+Ef5    4      1 e     d  =
+Ef5    4      1 e     d  ]
+Ef5    4      1 e     d  [     (
+P C32:o
+D5     4      1 e     d  ]     )
+rest   2      1 s
+D5     2      1 s     d  [[
+E5     2      1 s n   d  ==
+F5     2      1 s     d  ]]
+measure 9
+G5     4      1 e     d  [
+F5     4      1 e     d  =
+F5     4      1 e     d  =
+F5     4      1 e     d  ]
+F5     4      1 e     d  [     (
+P C32:o
+E5     4      1 e     d  ]     )
+rest   8      1 q
+measure 10
+F5     4      1 e     d  [     (
+P C32:o
+C5     3      1 s.    d  =[    )
+F5     1      1 t     d  ]]\
+G5     4      1 e     d  [     (
+P C32:o
+C5     3      1 s.    d  =[    )
+G5     1      1 t     d  ]]\
+A5     4      1 e     d  [
+F5     4      1 e     d  ]
+rest   8      1 q
+measure 11
+rest   8      1 q
+F5     4      1 e     d  [
+F5     4      1 e     d  ]
+F5     2      1 s     d  [[    (
+P C32:o
+E5     2      1 s     d  =]    )
+F5     4      1 e     d  ]
+G5     4      1 e     d  [
+G5     4      1 e     d  ]
+measure 12
+G5     2      1 s     d  [[    (
+P C32:o
+F5     2      1 s     d  =]    )
+G5     4      1 e     d  ]
+A5     4      1 e     d  [
+A5     4      1 e     d  ]
+A5     2      1 s     d  [[    (
+P C32:o
+G5     2      1 s     d  =]    )
+A5     4      1 e     d  ]
+Bf5    4      1 e     d  [
+Bf5    4      1 e     d  ]
+measure 13
+C5     2      1 s     d  [[
+G5     2      1 s     d  ==
+A5     2      1 s     d  ==
+Bf5    2      1 s     d  ]]
+G5     8      1 q     d
+F5     8      1 q     d
+rest   4      1 e
+D5     2      1 s     d  [[
+P C32:o
+C5     2      1 s     d  ]]
+measure 14
+Bf4    4      1 e     u  [
+A4     4      1 e     u  ]
+G4     8      1 q     u
+F4    16      1 h     u        F
+mheavy2
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv069_05/stage2/01/02
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 06:37:58 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv069/stage2/01/02}
+TIMESTAMP: DEC/10/2005 [md5sum:57ede4f28f63973b0b44ff96c2a38edd]
+10/04/04 Fran Bennion
+WK#:01,05     MV#:1
+RV 69 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 5 in F Major
+Movement 1 - Preludio
+Violino 2
+
+Group memberships: score
+score: part 2 of 4
+$   Q:8 K:-1 T:1/1 C:4  D:Preludio, Largo
+rest  16      1 h
+F5     4      1 e     d  [     (
+P C32:o
+C5     3      1 s.    d  =[    )
+F5     1      1 t     d  ]]\
+G5     4      1 e     d  [     (
+P C32:o
+C5     3      1 s.    d  =[    )
+G5     1      1 t     d  ]]\
+measure 2
+A5     4      1 e     d  [
+F5     4      1 e     d  ]
+C5     2      1 s     d  [[    (
+P C32:o
+Bf4    2      1 s     d  =]    )
+C5     4      1 e     d  ]
+D5     4      1 e     d  [
+D5     4      1 e     d  ]
+D5     2      1 s     d  [[    (
+C5     2      1 s     d  =]    )
+D5     4      1 e     d  ]
+measure 3
+E5     4      1 e     d  [
+E5     4      1 e     d  ]
+E5     2      1 s     d  [[    (
+P C32:o
+D5     2      1 s     d  =]    )
+E5     4      1 e     d  ]
+F5     4      1 e     d  [
+F5     4      1 e     d  ]
+F5     2      1 s     d  [[    (
+P C32:o
+E5     2      1 s     d  =]    )
+F5     4      1 e     d  ]
+measure 4
+G5     4      1 e     d  [
+F5     2      1 s     d  =[    (
+P C32:o
+G5     2      1 s     d  ]]    )
+E5     8      1 q     d
+F5     8      1 q     d
+rest   4      1 e
+F5     2      1 s     d  [[
+P C32:o
+E5     2      1 s     d  ]]
+measure 5
+D5     4      1 e     d  [
+D5     4      1 e     d  ]
+D5     4      1 e     d  [
+E5     2      1 s     d  =[
+P C32:o
+D5     2      1 s     d  ]]
+C#5    8      1 q #   d
+D5     8-     1 q     d        -
+measure 6
+D5     8      1 q     d
+C#5    8      1 q #   d
+D5     8      1 q     d
+rest   4      1 e
+D5     2      1 s     d  [[
+P C32:o
+C5     2      1 s n   d  ]]
+measure 7
+B4     4      1 e n   d  [
+C5     2      1 s     d  =[
+P C32:o
+D5     2      1 s     d  ]]
+D5     6      1 e.    d  [
+C5     2      1 s     d  ]\
+C5     8      1 q     d
+rest   2      1 s
+E5     2      1 s     d  [[
+F5     2      1 s     d  ==
+G5     2      1 s     d  ]]
+measure 8
+C5     4      1 e     d  [
+C5     4      1 e     d  =
+C5     4      1 e     d  =
+C5     4      1 e     d  ]
+F4     8      1 q     u
+rest   2      1 s
+F5     2      1 s     d  [[
+G5     2      1 s     d  ==
+A5     2      1 s     d  ]]
+measure 9
+D5     4      1 e     d  [
+D5     4      1 e     d  =
+D5     4      1 e     d  =
+D5     4      1 e     d  ]
+G4     8      1 q     u
+rest   8      1 q
+measure 10
+rest  16      1 h
+F5     4      1 e     d  [     (
+P C32:o
+C5     3      1 s.    d  =[    )
+F5     1      1 t     d  ]]\
+G5     4      1 e     d  [     (
+P C32:o
+C5     3      1 s.    d  =[    )
+G5     1      1 t     d  ]]\
+measure 11
+A5     4      1 e     d  [
+F5     4      1 e     d  ]
+C5     2      1 s     d  [[    (
+P C32:o
+Bf4    2      1 s     d  =]    )
+C5     4      1 e     d  ]
+D5     4      1 e     d  [
+D5     4      1 e     d  ]
+D5     2      1 s     d  [[    (
+P C32:o
+C5     2      1 s     d  =]    )
+D5     4      1 e     d  ]
+measure 12
+E5     4      1 e     d  [
+E5     4      1 e     d  ]
+E5     2      1 s     d  [[    (
+P C32:o
+D5     2      1 s     d  =]    )
+E5     4      1 e     d  ]
+F5     4      1 e     d  [
+F5     4      1 e     d  ]
+F5     2      1 s     d  [[    (
+P C32:o
+E5     2      1 s     d  =]    )
+F5     4      1 e     d  ]
+measure 13
+G5     4      1 e     d  [
+F5     2      1 s     d  =[
+P C32:o
+G5     2      1 s     d  ]]
+E5     8      1 q     d
+F5     8      1 q     d
+rest   4      1 e
+F4     2      1 s     u  [[
+P C32:u
+E4     2      1 s     u  ]]
+measure 14
+D4     2      1 s     u  [[
+P C32:u
+E4     2      1 s     u  ]]
+F4     8      1 q     u
+E4     4      1 e     u
+F4    16      1 h     u        F
+mheavy2
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv069_05/stage2/01/03
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 06:37:58 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv069/stage2/01/03}
+TIMESTAMP: DEC/10/2005 [md5sum:21508344e9e77be3b4c3cbd66a9d0541]
+10/04/04 Fran Bennion
+WK#:01,05     MV#:1
+RV 69 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 5 in F Major
+Movement 1 - Preludio
+Violoncello
+
+Group memberships: score
+score: part 3 of 4
+$   Q:4 K:-1 T:1/1 C:22  D:Preludio, Largo
+F3     2      1 e     d  [
+A3     1      1 s     d  =[
+F3     1      1 s     d  ]]
+C3     2      1 e     u  [
+E3     1      1 s     u  =[
+C3     1      1 s     u  ]]
+F3     2      1 e     d  [
+A3     1      1 s     d  =[
+F3     1      1 s     d  ]]
+C3     2      1 e     u  [
+E3     1      1 s     u  =[
+C3     1      1 s     u  ]]
+measure 2
+F3     2      1 e     d  [
+A3     1      1 s     d  =[
+P C32:o
+G3     1      1 s     d  ]]
+A3     2      1 e     d  [
+A2     2      1 e     d  ]
+Bf2    2      1 e     d  [
+D4     1      1 s     d  =[
+P C32:o
+C4     1      1 s     d  ]]
+B3     2      1 e n   d  [
+B2     2      1 e n   d  ]
+measure 3
+C3     2      1 e     d  [
+E4     1      1 s     d  =[
+P C32:o
+D4     1      1 s     d  ]]
+C#4    2      1 e #   d  [
+C#3    2      1 e #   d  ]
+D3     2      1 e     d  [
+F4     1      1 s     d  =[
+P C32:o
+E4     1      1 s     d  ]]
+D4     2      1 e     d  [
+D3     2      1 e     d  ]
+measure 4
+E3     2      1 e     d  [
+F3     2      1 e     d  =
+C4     2      1 e     d  =
+C3     2      1 e     d  ]
+F3     2      1 e     d  [
+A3     1      1 s     d  =[
+P C32:o
+G3     1      1 s     d  ]]
+A3     2      1 e     d  [
+A2     2      1 e     d  ]
+measure 5
+Bf2    2      1 e     d  [
+Bf3    1      1 s     d  =[
+P C32:o
+A3     1      1 s     d  ]]
+G3     2      1 e     u  [
+G2     2      1 e     u  ]
+A2     2      1 e     d  [
+A3     1      1 s     d  =[
+P C32:o
+G3     1      1 s     d  ]]
+F3     2      1 e     d  [
+E3     1      1 s     d  =[
+P C32:o
+D3     1      1 s     d  ]]
+measure 6
+G3     2      1 e     d  [
+E3     2      1 e     d  =
+A3     2      1 e     d  =
+A2     2      1 e     d  ]
+D3     2      1 e     d  [
+F3     1      1 s     d  =[
+P C32:o
+E3     1      1 s     d  ]]
+F3     2      1 e     d  [
+D3     2      1 e     d  ]
+measure 7
+G3     2      1 e     d  [
+C3     2      1 e     d  =
+G3     2      1 e     d  =
+G2     2      1 e     d  ]
+C3     2      1 e     d  [
+A3     1      1 s     d  =[
+P C32:o
+Bf3    1      1 s     d  ]]
+C4     2      1 e     d  [
+Bf3    2      1 e     d  ]
+measure 8
+A3     2      1 e     d  [
+C4     1      1 s     d  =[
+P C32:o
+Bf3    1      1 s     d  ]]
+A3     2      1 e     d  [
+A2     2      1 e     d  ]
+Bf2    2      1 e     d  [
+Bf3    1      1 s     d  =[
+P C32:o
+C4     1      1 s     d  ]]
+D4     2      1 e     d  [
+C4     2      1 e     d  ]
+measure 9
+B3     2      1 e n   d  [
+D4     1      1 s     d  =[
+P C32:o
+C4     1      1 s     d  ]]
+B3     2      1 e n   d  [      +
+B2     2      1 e n   d  ]
+C3     2      1 e     d  [
+C4     1      1 s     d  =[
+P C32:o
+Bf3    1      1 s f   d  ]]
+A3     2      1 e     d  [
+G3     2      1 e     d  ]
+measure 10
+F3     2      1 e     d  [
+A3     1      1 s     d  =[
+F3     1      1 s     d  ]]
+C3     2      1 e     u  [
+E3     1      1 s     u  =[
+C3     1      1 s     u  ]]
+F3     2      1 e     d  [
+A3     1      1 s     d  =[
+F3     1      1 s     d  ]]
+C3     2      1 e     u  [
+E3     1      1 s     u  =[
+C3     1      1 s     u  ]]
+measure 11
+F3     2      1 e     d  [
+A3     1      1 s     d  =[
+P C32:o
+G3     1      1 s     d  ]]
+A3     2      1 e     d  [
+A2     2      1 e     d  ]
+Bf2    2      1 e     d  [
+D4     1      1 s     d  =[
+P C32:o
+C4     1      1 s     d  ]]
+B3     2      1 e n   d  [
+B2     2      1 e n   d  ]
+measure 12
+C3     2      1 e     d  [
+E4     1      1 s     d  =[
+P C32:o
+D4     1      1 s     d  ]]
+C#4    2      1 e #   d  [
+C#3    2      1 e #   d  ]
+D3     2      1 e     d  [
+F4     1      1 s     d  =[
+P C32:o
+E4     1      1 s     d  ]]
+D4     2      1 e     d  [
+D3     2      1 e     d  ]
+measure 13
+C3     2      1 e     d  [
+F3     2      1 e     d  =
+C4     2      1 e     d  =
+C3     2      1 e     d  ]
+F3     2      1 e     d  [
+A3     1      1 s     d  =[
+P C32:o
+G3     1      1 s     d  ]]
+A3     2      1 e     d  [
+F3     2      1 e     d  ]
+measure 14
+G3     2      1 e     d  [
+A3     1      1 s     d  =[    (
+P C32:o
+Bf3    1      1 s     d  ]]    )
+C4     2      1 e     d  [
+C3     2      1 e     d  ]
+F2     8      1 h     u        F
+mheavy2
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv069_05/stage2/01/04
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 06:37:58 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv069/stage2/01/04}
+TIMESTAMP: DEC/10/2005 [md5sum:f9201dd658fe2f57d5e6b9e6ad88f1c2]
+10/04/04 Fran Bennion
+WK#:01,05     MV#:1
+RV 69 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 5 in F Major
+Movement 1 - Preludio
+Basso continuo
+
+Group memberships: score
+score: part 4 of 4
+$   Q:4 K:-1 T:1/1 C:22  D:Preludio, Largo
+F3     2      1 e     d  [
+f1              6
+A3     1      1 s     d  =[
+F3     1      1 s     d  ]]
+C3     2      1 e     u  [
+f1              6
+E3     1      1 s     u  =[
+C3     1      1 s     u  ]]
+F3     2      1 e     d  [
+f1              6
+A3     1      1 s     d  =[
+F3     1      1 s     d  ]]
+C3     2      1 e     u  [
+f1              6
+E3     1      1 s     u  =[
+C3     1      1 s     u  ]]
+measure 2
+F3     2      1 e     d  [
+f1              6
+A3     1      1 s     d  =[
+P C32:o
+G3     1      1 s     d  ]]
+A3     2      1 e     d  [
+A2     2      1 e     d  ]
+Bf2    2      1 e     d  [
+f1              6
+D4     1      1 s     d  =[
+P C32:o
+C4     1      1 s     d  ]]
+f1              6
+B3     2      1 e n   d  [
+B2     2      1 e n   d  ]      +
+measure 3
+C3     2      1 e     d  [
+E4     1      1 s     d  =[
+P C32:o
+D4     1      1 s     d  ]]
+f1              6
+C#4    2      1 e #   d  [
+C#3    2      1 e #   d  ]
+D3     2      1 e     d  [
+F4     1      1 s     d  =[
+P C32:o
+E4     1      1 s     d  ]]
+f1              6
+D4     2      1 e     d  [
+D3     2      1 e     d  ]
+measure 4
+f1              6
+P    C1:Y72
+E3     2      1 e     d  [
+F3     2      1 e     d  =
+C4     2      1 e     d  =
+C3     2      1 e     d  ]
+F3     2      1 e     d  [
+f1              6
+A3     1      1 s     d  =[
+P C32:o
+G3     1      1 s     d  ]]
+A3     2      1 e     d  [
+A2     2      1 e     d  ]
+measure 5
+Bf2    2      1 e     d  [
+Bf3    1      1 s     d  =[
+P C32:o
+A3     1      1 s     d  ]]
+f1              7
+G3     2      1 e     u  [
+f1              6
+G2     2      1 e     u  ]
+f1              x
+P    C1:Y79
+A2     2      1 e     d  [
+A3     1      1 s     d  =[
+P C32:o
+G3     1      1 s     d  ]]
+f1              6
+F3     2      1 e     d  [
+E3     1      1 s     d  =[
+P C32:o
+D3     1      1 s     d  ]]
+measure 6
+f2              6 5
+G3     2      1 e     d  [
+E3     2      1 e     d  =
+f1              x
+P    C1:Y77
+A3     2      1 e     d  =
+A2     2      1 e     d  ]
+D3     2      1 e     d  [
+f1              6
+F3     1      1 s     d  =[
+P C32:o
+E3     1      1 s     d  ]]
+F3     2      1 e     d  [
+D3     2      1 e     d  ]
+measure 7
+f2              7 n
+P    C1:Y77
+G3     2      1 e     d  [
+C3     2      1 e     d  =
+f1              n
+P    C1:Y83
+G3     2      1 e     d  =
+G2     2      1 e     d  ]
+C3     2      1 e     d  [
+f1              6
+A3     1      1 s     d  =[
+P C32:o
+Bf3    1      1 s     d  ]]
+C4     2      1 e     d  [
+Bf3    2      1 e     d  ]
+measure 8
+f1              6
+A3     2      1 e     d  [
+f1              f
+C4     1      1 s     d  =[
+P C32:o
+Bf3    1      1 s     d  ]]
+f2              6 5f
+A3     2      1 e     d  [
+A2     2      1 e     d  ]
+f2              5 4f
+P    C1:Y78
+Bf2    2      1 e     d  [
+f1              3
+Bf3    1      1 s     d  =[
+P C32:o
+C4     1      1 s     d  ]]
+f1              6
+D4     2      1 e     d  [
+C4     2      1 e     d  ]
+measure 9
+f1              6
+B3     2      1 e n   d  [
+f1              6\
+D4     1      1 s     d  =[
+P C32:o
+C4     1      1 s     d  ]]
+f2              6 5
+B3     2      1 e n   d  [     +
+B2     2      1 e n   d  ]
+f2              5 4
+P    C1:Y78
+C3     2      1 e     d  [
+f1              3
+C4     1      1 s     d  =[
+P C32:o
+Bf3    1      1 s f   d  ]]
+&1
+There was not a flat on the B3 in Roger but it was implied for harmonic reasons,
+where the key often reverts to the key signature at the ends of measures.
+&1
+f1              6
+A3     2      1 e     d  [
+f1              6
+G3     2      1 e     d  ]
+measure 10
+F3     2      1 e     d  [
+f1              6
+A3     1      1 s     d  =[
+F3     1      1 s     d  ]]
+C3     2      1 e     u  [
+f1              6
+E3     1      1 s     u  =[
+C3     1      1 s     u  ]]
+F3     2      1 e     d  [
+f1              6
+A3     1      1 s     d  =[
+F3     1      1 s     d  ]]
+C3     2      1 e     u  [
+f1              6
+E3     1      1 s     u  =[
+C3     1      1 s     u  ]]
+measure 11
+F3     2      1 e     d  [
+f1              6
+A3     1      1 s     d  =[
+P C32:o
+G3     1      1 s     d  ]]
+A3     2      1 e     d  [
+A2     2      1 e     d  ]
+Bf2    2      1 e     d  [
+f1              6
+D4     1      1 s     d  =[
+P C32:o
+C4     1      1 s     d  ]]
+f1              6
+B3     2      1 e n   d  [
+B2     2      1 e n   d  ]
+measure 12
+C3     2      1 e     d  [
+E4     1      1 s     d  =[
+P C32:o
+D4     1      1 s     d  ]]
+f1              6
+C#4    2      1 e #   d  [
+C#3    2      1 e #   d  ]
+D3     2      1 e     d  [
+F4     1      1 s     d  =[
+P C32:o
+E4     1      1 s     d  ]]
+f1              6
+D4     2      1 e     d  [
+D3     2      1 e     d  ]
+measure 13
+C3     2      1 e     d  [
+F3     2      1 e     d  =
+C4     2      1 e     d  =
+C3     2      1 e     d  ]
+F3     2      1 e     d  [
+f1              6
+A3     1      1 s     d  =[
+P C32:o
+G3     1      1 s     d  ]]
+A3     2      1 e     d  [
+F3     2      1 e     d  ]
+measure 14
+f1              7
+G3     2      1 e     d  [
+f1              6
+A3     1      1 s     d  =[
+P C32:o
+Bf3    1      1 s     d  ]]
+f2              5 4
+C4     2      1 e     d  [
+f1              3
+P    C1:Y78
+C3     2      1 e     d  ]
+F2     8      1 h     u        F
+mheavy2
+/END
+/eof
+//
+@@@system-decoration: [(s1,s2,s3)]
+@@@URL-pdf: https://pdf.musedata.org/vivaldi-op01-no05.pdf#page=1 MuseData edition
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/1/18/IMSLP280399-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Primo.pdf#page=8 Violino primo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/d/d5/IMSLP280400-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Secondo.pdf#page=7 Violino secondo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/8/89/IMSLP280401-PMLP10351-Vivaldi_Sonatas_Op_1_-_Organo_e_Violoncello.pdf#page=7 Organo e Violoncello parts, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@title: @{OTL}, mvmt. @{OMV}
+@@@filter: extract -k 1,3,4
+@@@filter: shed -ke "s/Basso continuo/Violoncello\nContinuo/I; s/Violino/Violin/I"
+@@@filter: shed -ke "s/^part4$/part3/I; s/^staff4$/staff3/I"
+@@@filter: shed -x fb -e "s/^part\\d$//I; s/^staff\\d$//I"
+@@@filter: humbreak -m 4,8,11
+@@@filter: addkey
+@@@EEV: 2024/04/07
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv069_05/stage2/01/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv069_05/stage2/01/02
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv069_05/stage2/01/03
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv069_05/stage2/01/04
