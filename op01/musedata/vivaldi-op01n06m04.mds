@@ -1,0 +1,1026 @@
+@@@COM: Vivaldi, Antonio Lucio
+@@@CDT: 1678/03/04-1741/08/28
+@@@OPR: 12 sonatas for two violins and basso continuo
+@@@OTL: Sonata no. @{ONM} in D major, op. @{OPS} (@{SCT})
+@@@OPS: 1
+@@@ONM: 6
+@@@OMV: 4. Allemanda
+@@@SCT: RV 62
+@@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
+@@@OMD: Allegro
+@@@key: D
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/04/01
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 07:51:01 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv062/stage2/04/01}
+TIMESTAMP: DEC/10/2005 [md5sum:f0f842de870dfc7453db2474277bfa0a]
+10/11/04 Fran Bennion
+WK#:01,06     MV#:4
+RV 62 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 6 in D Major
+Movement 4 - Allemanda
+Violino 1
+
+Group memberships: score
+score: part 1 of 4
+$   Q:4 K:2 T:1/1 C:4  D:Allemanda, Allegro
+A5     2      1 e     d  [
+G5     1      1 s     d  =[
+P C32:o
+F#5    1      1 s     d  ]]
+E5     2      1 e     d  [
+D5     2      1 e     d  ]
+D5     2      1 e     d  [     (
+P C32:o
+C#5    2      1 e     d  ]     )
+rest   2      1 e
+A5     2      1 e     d
+measure 2
+A5     2      1 e     d  [
+G5     1      1 s     d  =[
+P C32:o
+F#5    1      1 s     d  ]]
+E5     2      1 e     d  [
+D5     2      1 e     d  ]
+D5     2      1 e     d  [     (
+P C32:o
+C#5    2      1 e     d  ]     )
+rest   2      1 e
+A5     2      1 e     d
+measure 3
+A5     2      1 e     d  [
+G5     1      1 s     d  =[
+P C32:o
+F#5    1      1 s     d  ]]
+G5     2      1 e     d  [
+A5     2      1 e     d  ]
+B5     8-     1 h     d        -
+measure 4
+B5     2      1 e     d  [
+A5     1      1 s     d  =[
+P C32:o
+G5     1      1 s     d  ]]
+F#5    2      1 e     d  [
+E5     2      1 e     d  ]
+A5     8-     1 h     d        -
+measure 5
+A5     2      1 e     d  [
+B5     1      1 s     d  =[
+P C32:o
+A5     1      1 s     d  ]]
+B5     2      1 e     d  [
+F#5    2      1 e     d  ]
+G5     8-     1 h     d        -
+measure 6
+G5     2      1 e     d  [
+A5     1      1 s     d  =[
+P C32:o
+B5     1      1 s     d  ]]
+A5     2      1 e     d  [
+G5     2      1 e     d  ]
+G5     2      1 e     d  [     (
+P C32:o
+F#5    2      1 e     d  ]     )
+rest   2      1 e
+B5     2      1 e     d
+measure 7
+G#5    2      1 e #   d  [
+E5     2      1 e     d  ]
+A5     8      1 h     d
+G#5    4      1 q #   d         +
+measure 8
+A5     2      1 e     d  [
+*               G       p
+P    C17:Y59
+E5     2      1 e     d  =
+F#5    2      1 e     d  =
+F#5    2      1 e     d  ]
+F#5    2      1 e     d  [
+B4     2      1 e     d  =
+E5     2      1 e     d  =
+E5     2      1 e     d  ]
+measure 9
+E5     2      1 e     d  [
+A4     2      1 e     d  ]
+D5     8      1 h     d
+C#5    4      1 q     d
+measure 10
+B4     8      1 h     d
+A4     8      1 h     u
+mheavy4 11       :|:
+E5     2      1 e     d  [
+F#5    1      1 s     d  =[
+P C32:o
+G5     1      1 s     d  ]]
+F#5    2      1 e     d  [
+E5     2      1 e     d  ]
+E5     2      1 e     d  [     (
+P C32:o
+D5     2      1 e     d  ]     )
+G5     4-     1 q     d        -
+measure 12
+G5     2      1 e     d  [
+C#5    2      1 e     d  ]
+F#5    4-     1 q     d        -
+F#5    2      1 e     d  [
+B4     2      1 e     d  ]
+E5     4-     1 q     d        -
+measure 13
+E5     2      1 e     d  [
+D5     2      1 e     d  ]
+G5     4-     1 q     d        -
+G5     2      1 e     d  [
+F#5    2      1 e     d  =
+B5     2      1 e     d  =
+G#5    2      1 e #   d  ]
+measure 14
+E#5    2      1 e #   d  [
+C#5    2      1 e     d  ]
+F#5    8      1 h     d
+E#5    4      1 q #   d         +
+measure 15
+F#5    2      1 e     d  [
+F#5    1      1 s     d  =[
+P C32:o
+G5     1      1 s n   d  ]]     +
+A5     4-     1 q     d        -
+A5     2      1 e     d  [
+A5     2      1 e     d  ]
+A5     2      1 e     d  [
+G5     1      1 s     d  =[
+P C32:o
+F#5    1      1 s     d  ]]
+measure 16
+G5     2      1 e     d  [
+E5     1      1 s     d  =[
+P C32:o
+F#5    1      1 s     d  ]]
+G5     4-     1 q     d        -
+G5     2      1 e     d  [
+G5     2      1 e     d  ]
+G5     2      1 e     d  [
+F#5    1      1 s     d  =[
+P C32:o
+E5     1      1 s     d  ]]
+measure 17
+F#5    2      1 e     d  [
+F#5    2      1 e     d  ]
+F#5    1      1 s     d  [[
+E5     1      1 s     d  ==
+D5     1      1 s     d  ==
+C#5    1      1 s     d  ]]
+B4     2      1 e     d  [
+G5     1      1 s     d  =[
+F#5    1      1 s     d  ]]
+E5     1      1 s     d  [[
+D5     1      1 s     d  ==
+C#5    1      1 s     d  ==
+B4     1      1 s     d  ]]
+measure 18
+A#4    2      1 e #   d  [
+F#5    2      1 e     d  ]
+F#5    1      1 s     d  [[
+G5     1      1 s     d  ==
+F#5    1      1 s     d  ==
+E5     1      1 s     d  ]]
+D5     2      1 e     d  [
+B4     2      1 e     d  ]
+F#5    4-     1 q     d        -
+measure 19
+F#5    2      1 e     d  [
+E5     2      1 e     d  =
+E5     2      1 e     d  =
+E5     2      1 e     d  ]
+A#5    4      1 q #   d
+B5     4-     1 q     d        -
+measure 20
+B5     4      1 q     d
+A#5    4      1 q #   d
+B5     3      1 e.    d  [
+A5     1      1 s n   d  ]\
+G5     1      1 s     d  [[
+F#5    1      1 s     d  ==
+E5     1      1 s     d  ==
+D5     1      1 s     d  ]]
+measure 21
+C#5    2      1 e     d  [
+A4     2      1 e     d  ]
+A5     4-     1 q     d        -
+A5     2      1 e     d  [
+G5     1      1 s     d  =[
+P C32:o
+F#5    1      1 s     d  ]]
+G5     4-     1 q     d        -
+measure 22
+G5     2      1 e     d  [
+F#5    1      1 s     d  =[
+P C32:o
+E5     1      1 s     d  ]]
+F#5    2      1 e     d  [
+G5     1      1 s     d  =[
+P C32:o
+F#5    1      1 s     d  ]]
+E5     8      1 h     d
+measure 23
+*               G       p
+P    C17:Y71
+D5     2      1 e     d  [
+A4     2      1 e     d  =
+B4     2      1 e     d  =
+B4     2      1 e     d  ]
+B4     2      1 e     u  [
+E4     2      1 e     u  =
+A4     2      1 e     u  =
+A4     2      1 e     u  ]
+measure 24
+A4     2      1 e     u  [
+D4     2      1 e     u  ]
+G4     8      1 h     u
+F#4    4      1 q     u
+measure 25
+E4     8      1 h     u
+D4     8      1 h     u         F
+mheavy2          :|
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/04/02
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 07:51:01 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv062/stage2/04/02}
+TIMESTAMP: DEC/10/2005 [md5sum:27568c688ca114c92e2962eecccfacd2]
+10/11/04 Fran Bennion
+WK#:01,06     MV#:4
+RV 62 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 6 in D Major
+Movement 4 - Allemanda
+Violino 2
+
+Group memberships: score
+score: part 2 of 4
+$   Q:4 K:2 T:1/1 C:4   D:Allemanda, Allegro
+F#5    4      1 q     d
+rest   2      1 e
+F#5    2      1 e     d
+F#5    2      1 e     d  [     (
+P C32:o
+E5     2      1 e     d  ]     )
+rest   2      1 e
+E5     2      1 e     d
+measure 2
+F#5    4      1 q     d
+rest   2      1 e
+F#5    2      1 e     d
+F#5    2      1 e     d  [     (
+P C32:o
+E5     2      1 e     d  ]     )
+rest   4      1 q
+measure 3
+rest   4      1 q
+rest   2      1 e
+D5     2      1 e     d
+D5     2      1 e     d  [
+C#5    1      1 s     d  =[
+P C32:o
+B4     1      1 s     d  ]]
+C#5    2      1 e     d  [
+D5     2      1 e     d  ]
+measure 4
+E5     8-     1 h     d        -
+E5     2      1 e     d  [
+D5     1      1 s     d  =[
+P C32:o
+C#5    1      1 s     d  ]]
+B4     2      1 e     u  [
+A4     2      1 e     u  ]
+measure 5
+D5     8-     1 h     d        -
+D5     2      1 e     d  [
+E5     1      1 s     d  =[
+P C32:o
+D5     1      1 s     d  ]]
+E5     2      1 e     d  [
+B4     2      1 e     d  ]
+measure 6
+C#5    6      1 q.    d
+C#5    2      1 e     d
+D5     4      1 q     d
+rest   4      1 q
+measure 7
+rest   2      1 e
+E5     2      1 e     d
+C#5    2      1 e     d  [
+A4     2      1 e     d  ]
+B4     6      1 q.    d
+E5     2      1 e     d
+measure 8
+*               G       p
+P    C17:Y65
+C#5    6      1 q.    d
+C#5    2      1 e     d
+B4     6      1 q.    d
+B4     2      1 e     d
+measure 9
+A4     4      1 q     u
+rest   2      1 e
+F#5    2      1 e     d
+G#4    4      1 q #   u
+A4     4-     1 q     u        -
+measure 10
+A4     4      1 q     u
+G#4    4      1 q #   u
+A4     8      1 h     u
+mheavy4 11       :|:
+C#5    6      1 q.    d
+C#5    2      1 e     d
+F#4    4      1 q     u
+rest   2      1 e
+D5     2      1 e     d
+measure 12
+C#5    4      1 q     d
+D5     4      1 q     d
+B4     8      1 h     d
+measure 13
+A4     4      1 q     u
+rest   2      1 e
+E5     2      1 e     d
+A4     4      1 q     u
+D5     4      1 q     d
+measure 14
+G#4    4      1 q #   u
+rest   2      1 e
+C#5    2      1 e     d
+D5     2      1 e     d  [
+B4     2      1 e     d  =
+G#4    2      1 e #   d  =      +
+C#5    2      1 e     d  ]
+measure 15
+A4     4      1 q     u
+rest   2      1 e
+F#5    1      1 s     d  [[
+P C32:o
+E5     1      1 s     d  ]]
+D#5    2      1 e #   d  [
+D#5    2      1 e     d  =
+D#5    2      1 e     d  =
+D#5    2      1 e     d  ]
+measure 16
+E5     4      1 q     d
+rest   2      1 e
+E5     1      1 s     d  [[
+P C32:o
+D5     1      1 s     d  ]]
+C#5    2      1 e     d  [
+C#5    2      1 e     d  =
+C#5    2      1 e     d  =
+C#5    2      1 e     d  ]
+measure 17
+D5     2      1 e     d  [
+A4     2      1 e     d  ]
+D5     4      1 q     d
+G4     4      1 q     u
+E5     4      1 q     d
+measure 18
+C#5    6      1 q.    d
+C#5    2      1 e     d
+F#4    4      1 q     u
+rest   2      1 e
+B4     2      1 e     d
+measure 19
+G5     8      1 h     d
+C#5    4      1 q     d
+D5     4      1 q     d
+measure 20
+C#5    8      1 h     d
+B4     6      1 q.    d
+B4     2      1 e     d
+measure 21
+E4     4      1 q     u
+rest   4      1 q
+B4     8      1 h     d
+measure 22
+C#5    4      1 q     d
+D5     8      1 h     d
+C#5    4      1 q     d
+measure 23
+*               G       p
+P    C17:Y59
+D5     4      1 q     d
+rest   2      1 e
+F#4    2      1 e     u
+E4     6      1 q.    u
+E4     2      1 e     u
+measure 24
+D4     4      1 q     u
+rest   2      1 e
+B4     2      1 e     d
+C#4    4      1 q     u
+D4     4-     1 q     u        -
+measure 25
+D4     4      1 q     u
+C#4    4      1 q     u
+D4     8      1 h     u         F
+P   C33:Y-10
+mheavy2          :|
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/04/03
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 07:51:01 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv062/stage2/04/03}
+TIMESTAMP: DEC/10/2005 [md5sum:c8ff235b785c29f26e562771a845e399]
+10/11/04 Fran Bennion
+WK#:01,06     MV#:4
+RV 62 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 6 in D Major
+Movement 4 - Allemanda
+Violoncello
+
+Group memberships: score
+score: part 3 of 4
+$   Q:2 K:2 T:1/1 C:22  D:Allemanda, Allegro
+D4     1      1 e     d  [
+D3     1      1 e     d  ]
+rest   1      1 e
+D4     1      1 e     d
+A3     1      1 e     d  [
+A2     1      1 e     d  ]
+rest   1      1 e
+A3     1      1 e     d
+measure 2
+D4     1      1 e     d  [
+D3     1      1 e     d  ]
+rest   1      1 e
+D4     1      1 e     d
+A3     1      1 e     d  [
+A2     1      1 e     d  ]
+rest   1      1 e
+A3     1      1 e     d
+measure 3
+D4     1      1 e     d  [
+D3     1      1 e     d  ]
+rest   1      1 e
+D4     1      1 e     d
+G3     1      1 e     u  [
+G2     1      1 e     u  ]
+rest   1      1 e
+G3     1      1 e     d
+measure 4
+C#4    1      1 e     d  [
+C#3    1      1 e     d  ]
+rest   1      1 e
+C#4    1      1 e     d
+F#3    1      1 e     u  [
+F#2    1      1 e     u  ]
+rest   1      1 e
+F#3    1      1 e     d
+measure 5
+B3     1      1 e     d  [
+B2     1      1 e     d  ]
+rest   1      1 e
+B3     1      1 e     d
+E3     1      1 e     u  [
+E2     1      1 e     u  ]
+rest   1      1 e
+E3     1      1 e     d
+measure 6
+A3     1      1 e     d  [
+A2     1      1 e     d  ]
+rest   1      1 e
+A3     1      1 e     d
+D3     1      1 e     u  [
+D2     1      1 e     u  ]
+rest   1      1 e
+D4     1      1 e     d
+measure 7
+E4     1      1 e     d  [
+E3     1      1 e     d  ]
+rest   1      1 e
+C#4    1      1 e     d
+D4     1      1 e     d  [
+B3     1      1 e     d  =
+E4     1      1 e     d  =
+E3     1      1 e     d  ]
+measure 8
+A3     1      1 e     d  [
+A2     1      1 e     d  ]
+rest   1      1 e
+*               G       p
+P    C17:Y57
+A3     1      1 e     d
+G#3    1      1 e #   u  [
+G#2    1      1 e #   u  ]
+&1
+No # on G2 in Roger.  # understood (harmonic reasons).
+CCARH program automatically prints a # for such octave jumps.
+&1
+rest   1      1 e
+G#3    1      1 e     d
+measure 9
+F#3    1      1 e     u  [
+F#2    1      1 e     u  ]
+rest   1      1 e
+F#3    1      1 e     d
+E3     1      1 e     u  [
+E2     1      1 e     u  ]
+rest   1      1 e
+A2     1      1 e     u
+measure 10
+D3     1      1 e     u  [
+B2     1      1 e     u  ]
+E3     1      1 e     u  [
+E2     1      1 e     u  ]
+A2     4      1 h     u
+mheavy4 11       :|:
+A#3    1      1 e #   d  [
+A#2    1      1 e #   d  ]
+rest   1      1 e
+A#3    1      1 e     d
+B3     1      1 e     d  [
+B2     1      1 e     d  ]
+rest   1      1 e
+B3     1      1 e     d
+measure 12
+A3     1      1 e n   d  [      +
+A2     1      1 e     d  ]
+rest   1      1 e
+D4     1      1 e     d
+G3     1      1 e     u  [
+G2     1      1 e     u  ]
+rest   1      1 e
+G3     1      1 e     d
+measure 13
+F#3    1      1 e     u  [
+F#2    1      1 e     u  ]
+rest   1      1 e
+C#4    1      1 e     d
+D4     1      1 e     d  [
+D3     1      1 e     d  ]
+rest   1      1 e
+B3     1      1 e     d
+measure 14
+C#4    1      1 e     d  [
+C#3    1      1 e     d  ]
+rest   1      1 e
+A3     1      1 e     d
+B3     1      1 e     d  [
+G#3    1      1 e #   d  =
+C#4    1      1 e     d  =
+C#3    1      1 e     d  ]
+measure 15
+F#3    1      1 e     u  [
+F#2    1      1 e     u  ]
+rest   1      1 e
+F#3    1      1 e     d
+B3     1      1 e     d  [
+B2     1      1 e     d  ]
+rest   1      1 e
+B3     1      1 e     d
+measure 16
+E3     1      1 e     u  [
+E2     1      1 e     u  ]
+rest   1      1 e
+E3     1      1 e     d
+A3     1      1 e     d  [
+A2     1      1 e     d  ]
+rest   1      1 e
+A3     1      1 e     d
+measure 17
+D3     1      1 e     u  [
+D2     1      1 e     u  ]
+rest   1      1 e
+D4     1      1 e     d
+E4     1      1 e     d  [
+E3     1      1 e     d  ]
+rest   1      1 e
+E4     1      1 e     d
+measure 18
+F#4    1      1 e     d  [
+F#3    1      1 e     d  ]
+rest   1      1 e
+A#3    1      1 e #   d
+B3     1      1 e     d  [
+B2     1      1 e     d  ]
+rest   1      1 e
+B3     1      1 e     d
+measure 19
+E3     1      1 e     u  [
+E2     1      1 e     u  ]
+rest   1      1 e
+E3     1      1 e     d
+F#3    1      1 e     u  [
+F#2    1      1 e     u  ]
+rest   1      1 e
+D3     1      1 e     d
+measure 20
+E3     1      1 e     u  [
+C#3    1      1 e     u  =
+F#3    1      1 e     u  =
+F#2    1      1 e     u  ]
+B3     1      1 e     d  [
+B2     1      1 e     d  ]
+rest   1      1 e
+G3     1      1 e     d
+measure 21
+A3     1      1 e     d  [
+A2     1      1 e     d  ]
+rest   1      1 e
+A3     1      1 e     d
+D4     1      1 e     d  [
+D3     1      1 e     d  ]
+rest   1      1 e
+E4     1      1 e     d
+measure 22
+A3     1      1 e     d  [
+A2     1      1 e     d  ]
+rest   1      1 e
+D3     1      1 e     d
+G3     1      1 e     d  [
+E3     1      1 e     d  =
+A3     1      1 e     d  =
+A2     1      1 e     d  ]
+measure 23
+D4     1      1 e     d  [
+D3     1      1 e     d  ]
+rest   1      1 e
+*               G       p
+P    C17:Y56
+D4     1      1 e     d
+C#4    1      1 e     d  [
+C#3    1      1 e     d  ]
+rest   1      1 e
+C#4    1      1 e     d
+measure 24
+B3     1      1 e     d  [
+B2     1      1 e     d  ]
+rest   1      1 e
+B3     1      1 e     d
+A3     1      1 e     d  [
+A2     1      1 e     d  ]
+rest   1      1 e
+D3     1      1 e     d
+measure 25
+G3     1      1 e     d  [
+E3     1      1 e     d  =
+A3     1      1 e     d  =
+A2     1      1 e     d  ]
+D2     4      1 h     u         F
+P   C33:Y-9
+mheavy2          :|
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/04/04
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 07:51:01 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv062/stage2/04/04}
+TIMESTAMP: DEC/10/2005 [md5sum:265efc94c903b380a307e18c98d8739f]
+10/11/04 Fran Bennion
+WK#:01,06     MV#:4
+RV 62 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 6 in D Major
+Movement 4 - Allemanda
+Basso continuo
+
+Group memberships: score
+score: part 4 of 4
+$   Q:2 K:2 T:1/1 C:22  D:Allemanda
+D4     1      1 e     d  [
+D3     1      1 e     d  ]
+rest   1      1 e
+D4     1      1 e     d
+f2              6 4
+A3     1      1 e     d  [
+f2              5 3
+P    C1:Y79
+A2     1      1 e     d  ]
+rest   1      1 e
+A3     1      1 e     d
+measure 2
+D4     1      1 e     d  [
+D3     1      1 e     d  ]
+rest   1      1 e
+D4     1      1 e     d
+f2              6 4
+A3     1      1 e     d  [
+f2              5 3
+P    C1:Y79
+A2     1      1 e     d  ]
+rest   1      1 e
+A3     1      1 e     d
+measure 3
+D4     1      1 e     d  [
+D3     1      1 e     d  ]
+rest   1      1 e
+D4     1      1 e     d
+G3     1      1 e     u  [
+G2     1      1 e     u  ]
+rest   1      1 e
+G3     1      1 e     d
+measure 4
+f1              7
+C#4    1      1 e     d  [
+C#3    1      1 e     d  ]
+rest   1      1 e
+C#4    1      1 e     d
+f1              7
+F#3    1      1 e     u  [
+F#2    1      1 e     u  ]
+rest   1      1 e
+F#3    1      1 e     d
+measure 5
+f1              7
+B3     1      1 e     d  [
+B2     1      1 e     d  ]
+rest   1      1 e
+B3     1      1 e     d
+f1              7
+E3     1      1 e     u  [
+E2     1      1 e     u  ]
+rest   1      1 e
+E3     1      1 e     d
+measure 6
+f1              7
+A3     1      1 e     d  [
+A2     1      1 e     d  ]
+rest   1      1 e
+A3     1      1 e     d
+f2              5 4
+D3     1      1 e     u  [
+f1              3
+P    C1:Y78
+D2     1      1 e     u  ]
+rest   1      1 e
+f1              6
+D4     1      1 e     d
+measure 7
+f1              x
+E4     1      1 e     d  [
+E3     1      1 e     d  ]
+rest   1      1 e
+f1              6
+C#4    1      1 e     d
+f2              6 5
+D4     1      1 e     d  [
+B3     1      1 e     d  =
+f1              x
+E4     1      1 e     d  =
+E3     1      1 e     d  ]
+measure 8
+A3     1      1 e     d  [
+A2     1      1 e     d  ]
+rest   1      1 e
+*               G       p
+P    C17:Y59
+A3     1      1 e     d
+f1              7
+G#3    1      1 e #   u  [
+G#2    1      1 e #   u  ]
+&1
+No # on G2 in Roger.  # understood (harmonic reasons).
+CCARH program automatically prints a # for such octave jumps.
+&1
+rest   1      1 e
+f1              6
+G#3    1      1 e     d
+measure 9
+f1              7
+F#3    1      1 e     u  [
+F#2    1      1 e     u  ]
+rest   1      1 e
+f1              6
+F#3    1      1 e     d
+f2              7 x
+E3     1      1 e     u  [
+E2     1      1 e     u  ]
+rest   1      1 e
+A2     1      1 e     u
+measure 10
+f2              6 5
+D3     1      1 e     u  [
+B2     1      1 e     u  ]
+f1              x
+E3     1      1 e     u  [
+E2     1      1 e     u  ]
+A2     4      1 h     u
+mheavy4 11       :|:
+f1              6
+A#3    1      1 e #   d  [
+A#2    1      1 e #   d  ]
+rest   1      1 e
+A#3    1      1 e #   d         +
+f2              5 4
+B3     1      1 e     d  [
+f1              3
+P    C1:Y77
+B2     1      1 e     d  ]
+rest   1      1 e
+f1              6
+B3     1      1 e     d
+measure 12
+f1              7
+A3     1      1 e n   d  [      +
+A2     1      1 e     d  ]
+rest   1      1 e
+D4     1      1 e     d
+f1              7
+G3     1      1 e     u  [
+G2     1      1 e     u  ]
+rest   1      1 e
+f1              6
+G3     1      1 e     d
+measure 13
+f1              7
+F#3    1      1 e     u  [
+f1              6
+F#2    1      1 e     u  ]
+rest   1      1 e
+f1              5f
+C#4    1      1 e     d
+f2              5 4
+D4     1      1 e     d  [
+f1              3
+D3     1      1 e     d  ]
+rest   1      1 e
+f1              6\
+B3     1      1 e     d
+measure 14
+f2              7 x
+C#4    1      1 e     d  [
+C#3    1      1 e     d  ]
+rest   1      1 e
+f1              6
+A3     1      1 e     d
+f2              6\ 5
+B3     1      1 e     d  [
+G#3    1      1 e #   d  =
+f1              x
+C#4    1      1 e     d  =
+C#3    1      1 e     d  ]
+measure 15
+F#3    1      1 e     u  [
+F#2    1      1 e     u  ]
+rest   1      1 e
+F#3    1      1 e     d
+f2              7 x
+B3     1      1 e     d  [
+B2     1      1 e     d  ]
+rest   1      1 e
+B3     1      1 e     d
+measure 16
+E3     1      1 e     u  [
+E2     1      1 e     u  ]
+rest   1      1 e
+E3     1      1 e     d
+f1              7
+P    C1:Y73
+A3     1      1 e     d  [
+A2     1      1 e     d  ]
+rest   1      1 e
+A3     1      1 e     d
+measure 17
+D3     1      1 e     u  [
+D2     1      1 e     u  ]
+rest   1      1 e
+f1              6
+D4     1      1 e     d
+E4     1      1 e     d  [
+E3     1      1 e     d  ]
+rest   1      1 e
+E4     1      1 e     d
+measure 18
+f1              x
+F#4    1      1 e     d  [
+F#3    1      1 e     d  ]
+rest   1      1 e
+f1              6
+A#3    1      1 e #   d
+B3     1      1 e     d  [
+B2     1      1 e     d  ]
+rest   1      1 e
+B3     1      1 e     d
+measure 19
+f1              9
+E3     1      1 e     u  [
+f1              8
+P    C1:Y73
+E2     1      1 e     u  ]
+rest   1      1 e
+E3     1      1 e     d
+f1              x
+F#3    1      1 e     u  [
+F#2    1      1 e     u  ]
+rest   1      1 e
+f1              6
+P    C1:Y72
+D3     1      1 e     d
+measure 20
+f2              6 5
+E3     1      1 e     u  [
+C#3    1      1 e     u  =
+f1              x
+F#3    1      1 e     u  =
+F#2    1      1 e     u  ]
+B3     1      1 e     d  [
+B2     1      1 e     d  ]
+rest   1      1 e
+f1              6
+G3     1      1 e     d
+measure 21
+A3     1      1 e     d  [
+A2     1      1 e     d  ]
+rest   1      1 e
+A3     1      1 e     d
+f2              6 5
+D4     1      1 e     d  [
+D3     1      1 e     d  ]
+rest   1      1 e
+E4     1      1 e     d
+measure 22
+f1              7
+P    C1:Y74
+A3     1      1 e     d  [
+A2     1      1 e     d  ]
+rest   1      1 e
+D3     1      1 e     d
+f2              6 5
+G3     1      1 e     d  [
+E3     1      1 e     d  =
+A3     1      1 e     d  =
+A2     1      1 e     d  ]
+measure 23
+D4     1      1 e     d  [
+D3     1      1 e     d  ]
+rest   1      1 e
+*               G       p
+P    C17:Y81
+f1              6
+P    C1:Y63
+D4     1      1 e     d
+f1              7
+P    C1:Y70
+C#4    1      1 e     d  [
+C#3    1      1 e     d  ]
+rest   1      1 e
+f1              6
+C#4    1      1 e     d
+measure 24
+f1              7
+B3     1      1 e     d  [
+B2     1      1 e     d  ]
+rest   1      1 e
+f1              6
+B3     1      1 e     d
+f1              7
+P    C1:Y74
+A3     1      1 e     d  [
+A2     1      1 e     d  ]
+rest   1      1 e
+D3     1      1 e     d
+measure 25
+f2              6 5
+G3     1      1 e     d  [
+E3     1      1 e     d  =
+A3     1      1 e     d  =
+A2     1      1 e     d  ]
+D2     4      1 h     u         F
+P   C33:Y-9
+mheavy2          :|
+/END
+/eof
+//
+@@@system-decoration: [(s1,s2,s3)]
+@@@URL-pdf: https://pdf.musedata.org/vivaldi-op01-no06.pdf#page=4 MuseData edition
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/1/18/IMSLP280399-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Primo.pdf#page=10 Violino primo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/d/d5/IMSLP280400-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Secondo.pdf#page=9 Violino secondo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/8/89/IMSLP280401-PMLP10351-Vivaldi_Sonatas_Op_1_-_Organo_e_Violoncello.pdf#page=8 Organo e Violoncello parts, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@title: @{OTL}, mvmt. @{OMV}
+@@@filter: extract -k 1,3,4
+@@@filter: shed -ke "s/Basso continuo/Violoncello\nContinuo/I; s/Violino/Violin/I"
+@@@filter: shed -ke "s/^part4$/part3/I; s/^staff4$/staff3/I"
+@@@filter: shed -x fb -e "s/^part\\d$//I; s/^staff\\d$//I"
+@@@filter: humbreak -m 5,10,15,20
+@@@filter: addkey
+@@@EEV: 2024/04/07
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/04/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/04/02
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/04/03
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/04/04

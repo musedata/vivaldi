@@ -1,0 +1,492 @@
+@@@COM: Vivaldi, Antonio Lucio
+@@@CDT: 1678/03/04-1741/08/28
+@@@OPR: 12 sonatas for two violins and basso continuo
+@@@OTL: Sonata no. @{ONM} in D major, op. @{OPS} (@{SCT})
+@@@OPS: 1
+@@@ONM: 6
+@@@OMV: 3. [Adagio]
+@@@SCT: RV 62
+@@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
+@@@OMD: Adagio
+@@@key: D
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/03/01
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 07:50:57 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv062/stage2/03/01}
+TIMESTAMP: DEC/10/2005 [md5sum:b396d6575daf8b61c13792e0450cd342]
+10/09/04 Fran Bennion
+WK#:01,06     MV#:3
+RV 62 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 6 in D Major
+Movement 3
+Violino 1
+
+Group memberships: score
+score: part 1 of 4
+$   Q:4 K:2 T:1/1 C:4  D:Adagio
+rest   4      1 q
+rest   2      1 e
+C#6    2      1 e     d
+A5     2      1 e     d  [
+G#5    1      1 s #   d  =[
+P C32:o
+F#5    1      1 s     d  ]]
+D6     4-     1 q     d        -
+measure 2
+D6     4      1 q     d
+C#6    4-     1 q     d        -
+C#6    2      1 e     d  [
+B5     1      1 s     d  =[
+P C32:o
+A#5    1      1 s #   d  ]]
+B5     4-     1 q     d        -
+measure 3
+B5     2      1 e     d  [
+A5     1      1 s     d  =[
+P C32:o
+G#5    1      1 s #   d  ]]
+A5     4-     1 q     d        -
+A5     2      1 e     d  [
+G#5    1      1 s #   d  =[     +
+P C32:o
+F#5    1      1 s     d  ]]
+G#5    2      1 e #   d  [      +
+F#5    2      1 e     d  ]
+measure 4
+E5     2      1 e     d  [
+C#5    2      1 e     d  ]
+A5     8      1 h     d
+G#5    4-     1 q #   d        -
+measure 5
+G#5    4      1 q     d
+F#5    4-     1 q     d        -
+F#5    2      1 e     d  [
+E5     2      1 e     d  ]
+D#5    4      1 q #   d
+measure 6
+C#5    6      1 q.    d
+E5     2      1 e     d
+F#5    6      1 q.    d
+G#5    1      1 s #   d  [[
+P C32:o
+F#5    1      1 s     d  ]]
+measure 7
+E#5    4      1 q #   d
+E5     4      1 q n   d
+D#5    4      1 q #   d
+D5     4      1 q n   d
+measure 8
+C#5    4      1 q #   d         +
+C5     4      1 q n   d
+B4     4      1 q     d
+E5     4-     1 q     d        -
+measure 9
+E5     4      1 q     d
+E#5    4      1 q #   d
+F#5    4      1 q     d
+D6     4-     1 q     d        -
+measure 10
+D6     2      1 e     d  [
+C#6    1      1 s     d  =[
+P C32:o
+B#5    1      1 s #   d  ]]
+C#6    4-     1 q     d        -
+C#6    2      1 e     d  [
+B5     1      1 s n   d  =[
+P C32:o
+A#5    1      1 s #   d  ]]
+B5     4      1 q     d
+measure 11
+B5     4      1 q     d
+rest   2      1 e
+B5     2      1 e     d
+B5     2      1 e     d  [
+P C32:o
+A#5    2      1 e #   d  ]
+A5     4      1 q n   d
+measure 12
+A5     2      1 e     d  [
+P C32:o
+G#5    2      1 e #   d  ]
+G5     4      1 q n   d
+G5     2      1 e     d  [
+P C32:o
+F#5    2      1 e     d  ]
+B5     4      1 q     d
+measure 13
+E#5    4      1 q #   d
+F#5    8      1 h     d
+E#5    4      1 q #   d         +
+measure 14
+F#5   16      1 w              F
+P    C32:Y-20
+mheavy2          :|
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/03/02
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 07:50:57 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv062/stage2/03/02}
+TIMESTAMP: DEC/10/2005 [md5sum:e86ca98aef0400e77baae3519c70079d]
+10/09/04 Fran Bennion
+WK#:01,06     MV#:3
+RV 62 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 6 in D Major
+Movement 3
+Violino 2
+
+Group memberships: score
+score: part 2 of 4
+$   Q:4 K:2 T:1/1 C:4   D:Adagio
+rest   8      1 h
+rest   4      1 q
+rest   2      1 e
+B5     2      1 e     d
+measure 2
+G#5    2      1 e #   d  [
+F#5    1      1 s     d  =[
+P C32:o
+E5     1      1 s     d  ]]
+A5     1      1 s     d  [[
+G#5    1      1 s #   d  ==     +
+F#5    1      1 s     d  ==
+E5     1      1 s     d  ]]
+F#5    6      1 q.    d
+G#5    1      1 s #   d  [[     +
+P C32:o
+F#5    1      1 s     d  ]]
+measure 3
+E#5    4      1 q #   d
+F#5    1      1 s     d  [[
+E5     1      1 s n   d  ==
+D#5    1      1 s #   d  ==
+C#5    1      1 s     d  ]]
+D#5    6      1 q.#   d         +
+D#5    2      1 e     d
+measure 4
+G#4    6      1 q.#   u
+C#5    2      1 e     d
+B#4    4      1 q #   d
+B4     4      1 q n   d
+measure 5
+A#4    4      1 q #   u
+A4     4      1 q n   u
+G#4    2      1 e #   u
+C#5    4      1 q     d
+B#4    2      1 e #   d
+measure 6
+C#5    2      1 e     d  [
+E5     1      1 s     d  =[
+P C32:o
+D#5    1      1 s #   d  ]]
+C#5    4      1 q     d
+D#5    8      1 h #   d         +
+measure 7
+C#5    8-     1 h     d        -
+C#5    4      1 q     d
+B4     4-     1 q     d        -
+measure 8
+B4     4      1 q     d
+A4     8      1 h     u
+G#4    4      1 q #   u
+measure 9
+C#5    6      1 h     d
+B4     2      1 e     d
+A4     4      1 q     u
+rest   4      1 q
+measure 10
+G#5    6      1 q.#   d
+A5     1      1 s     d  [[
+P C32:o
+G#5    1      1 s #   d  ]]     +
+F#5    6      1 q.    d
+E#5    1      1 s #   d  [[
+P C32:o
+D#5    1      1 s #   d  ]]
+measure 11
+E#5    4      1 q #   d
+rest   2      1 e
+E#5    2      1 e     d
+C#5    4      1 q     d
+D#5    4      1 q #   d
+measure 12
+B4     4      1 q     d
+C#5    4      1 q     d
+D5     8      1 h n   d         +
+measure 13
+C#5    6      1 q.    d
+B4     1      1 s     u  [[
+P C32:u
+A4     1      1 s     u  ]]
+G#4    8      1 h #   u
+measure 14
+F#4   16      1 w              F
+@1  No fermata in Roger ed.  Fermata in Violino 1.
+mheavy2          :|
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/03/03
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 07:50:57 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv062/stage2/03/03}
+TIMESTAMP: DEC/10/2005 [md5sum:697ac382679a8b806a797e48f8fbf31f]
+10/09/04 Fran Bennion
+WK#:01,06     MV#:3
+RV 62 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 6 in D Major
+Movement 3
+Violoncello
+
+Group memberships: score
+score: part 3 of 4
+$   Q:2 K:2 T:1/1 C:22  D:Adagio
+F#3    2      1 q     d
+E#3    2      1 q #   d
+F#3    2      1 q     d
+B2     2      1 q     u
+measure 2
+E3     2      1 q     d
+F#3    1      1 e     d  [
+C#3    1      1 e     d  ]
+D3     2      1 q     d
+G#2    2      1 q #   u
+measure 3
+C#3    2      1 q     u
+F#2    2      1 q     u
+B2     2      1 q     u
+B#2    2      1 q #   u
+measure 4
+C#3    4      1 h     u
+D#3    2      1 q #   d
+E#3    2      1 q #   d
+measure 5
+F#3    3      1 q.    d
+B#2    1      1 e #   u
+C#3    2      1 q     u
+G#3    2      1 q #   d
+measure 6
+C#3    2      1 q     u
+C#4    4      1 h     d
+B3     2-     1 q     d        -
+measure 7
+B3     2      1 q     d
+A#3    2      1 q #   d
+B3     3      1 q.    d
+G#3    1      1 e #   d
+measure 8
+A3     3      1 q.    d
+D#3    1      1 e #   d
+E3     4      1 h     d
+measure 9
+A2     2      1 q     u
+G#2    2      1 q #   u
+F#2    2      1 q     u
+rest   1      1 e
+F#3    1      1 e     d
+measure 10
+E3     2      1 q     d
+A2     2      1 q     u
+D3     2      1 q     d
+G#2    2      1 q #   u
+measure 11
+C#3    2      1 q     u
+rest   1      1 e
+C#3    1      1 e     u
+F#2    2      1 q     u
+F#3    2      1 q     d
+measure 12
+E3     2      1 q     d
+A#2    2      1 q #   u
+B2     2      1 q     u
+B3     2-     1 q     d        -
+measure 13
+B3     2      1 q     d
+A3     1      1 e     d  [
+B3     1      1 e     d  ]
+C#4    2      1 q     d
+C#3    2      1 q     u
+measure 14
+F#2    8      1 w              F
+@1  No fermata in Roger ed.  Fermata in Violino 1.
+mheavy2          :|
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/03/04
+COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
+DOWNLOAD_DATE = Sun Apr  7 07:50:57 PM PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op1/rv062/stage2/03/04}
+TIMESTAMP: DEC/10/2005 [md5sum:a27a61b962063652133cfaaa60af14c7]
+10/09/04 Fran Bennion
+WK#:01,06     MV#:3
+RV 62 / Estienne Roger (No. 363), Amsterdam [facs.]
+Vivaldi Op.1, No 6 in D Major
+Movement 3
+Basso continuo
+
+Group memberships: score
+score: part 4 of 4
+$   Q:2 K:2 T:1/1 C:22   D:Adagio
+F#3    2      1 q     d
+f1              6
+E#3    2      1 q     d
+F#3    2      1 q     d
+B2     2      1 q     u
+measure 2
+f2              7 x
+E3     2      1 q     d
+f1              5
+F#3    1      1 e     d  [
+f1              6
+P    C1:Y73
+C#3    1      1 e     d  ]
+f1              7
+P    C1:Y73
+D3     2      1 q     d
+f1              7
+G#2    2      1 q #   u
+measure 3
+f2              7 x
+C#3    2      1 q     u
+F#2    2      1 q     u
+f2              7 x
+B2     2      1 q     u
+f2              6\ 5
+B#2    2      1 q #   u
+measure 4
+f1     2        5+
+f1              6
+C#3    4      1 h     u
+f2              6\ 5
+D#3    2      1 q #   d
+f1              5f
+E#3    2      1 q #   d
+measure 5
+f2     2        9 x
+f2              8 f
+F#3    3      1 q.    d
+f2              7f 5f
+B#2    1      1 e #   u
+f2     1        5+ 4
+f2              b 3
+C#3    2      1 q     u
+f2     1        5+ 4
+f2              b x
+G#3    2      1 q #   d
+measure 6
+C#3    2      1 q     u
+f1     2        5
+f2              4 2+
+C#4    4      1 h     d
+f1     2        x
+B3     2-     1 q n   d        -
+measure 7
+f2              4+ 2
+B3     2      1 q     d
+f2              5f 3
+A#3    2      1 q #   d
+f2     2        9 x
+f2              8 f
+B3     3      1 q.    d
+f1              5f
+G#3    1      1 e #   d
+measure 8
+f2     2        9 x
+f2              8 f
+A3     3      1 q.    d
+f2              7f 5f
+D#3    1      1 e #   d
+f2     2        5 4
+f2              b x
+E3     4      1 h     d
+measure 9
+A2     2      1 q     u
+f1              6\
+G#2    2      1 q #   u
+F#2    2      1 q     u
+rest   1      1 e
+f1              6
+F#3    1      1 e     d
+measure 10
+f2              7 x
+E3     2      1 q     d
+f1              7
+A2     2      1 q     u
+f1              7
+P    C1:Y72
+D3     2      1 q     d
+f1              7
+G#2    2      1 q #   u
+measure 11
+f2              7 x
+C#3    2      1 q     u
+rest   1      1 e
+C#3    1      1 e     u
+f2     1        5 4
+f2              b x
+F#2    2      1 q     u
+f2              6\ f
+F#3    2      1 q     d
+measure 12
+f2     1        5 4
+f2              b x
+E3     2      1 q     d
+f1              7f
+A#2    2      1 q #   u
+f2     1        6 f
+f1              5
+B2     2      1 q     u
+B3     2-     1 q     d        -
+measure 13
+f2              4+ 2
+B3     2      1 q     d
+f1              6
+A3     1      1 e     d  [
+B3     1      1 e     d  ]
+f2              5+ 4
+C#4    2      1 q     d
+f1              x
+C#3    2      1 q     u
+measure 14
+F#2    8      1 w              F
+@1  No fermata in Roger ed.  Fermata in Violino 1.
+mheavy2          :|
+/END
+/eof
+//
+@@@system-decoration: [(s1,s2,s3)]
+@@@URL-pdf: https://pdf.musedata.org/vivaldi-op01-no06.pdf#page=3 MuseData edition
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/1/18/IMSLP280399-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Primo.pdf#page=10 Violino primo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/d/d5/IMSLP280400-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Secondo.pdf#page=9 Violino secondo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/8/89/IMSLP280401-PMLP10351-Vivaldi_Sonatas_Op_1_-_Organo_e_Violoncello.pdf#page=8 Organo e Violoncello parts, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@title: @{OTL}, mvmt. @{OMV}
+@@@filter: extract -k 1,3,4
+@@@filter: shed -ke "s/Basso continuo/Violoncello\nContinuo/I; s/Violino/Violin/I"
+@@@filter: shed -ke "s/^part4$/part3/I; s/^staff4$/staff3/I"
+@@@filter: shed -x fb -e "s/^part\\d$//I; s/^staff\\d$//I"
+@@@filter: humbreak -m 4,10
+@@@filter: addkey
+@@@EEV: 2024/04/07
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/03/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/03/02
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/03/03
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/03/04
