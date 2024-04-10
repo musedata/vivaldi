@@ -26,13 +26,13 @@
 2D\	.	2f/	2b\
 2D\	.	2f/	2b\
 =2	=2	=2	=2
-1.C	-	1.e-X	1.cc
+1.C;	-	1.e-X;	1.cc;
 =3	=3	=3	=3
 2BBn/	6	2g/	2dd\
 2BB/	.	2g/	2dd\
 2BB/	.	2g/	2dd\
 =4	=4	=4	=4
-1.C	-	1.g	1.ee-X
+1.C;	-	1.g;	1.ee-X;
 =5	=5	=5	=5
 1.r	.	2gg\	1.r
 .	.	2gg\	.
@@ -103,13 +103,13 @@
 2D\	.	2g/	2a/
 2D\	.	2g/	2a/
 =22	=22	=22	=22
-1.D	#	1.f#X	1.a
+1.D;	#	1.f#X;	1.a;
 ==	==	==	==
 *-	*-	*-	*-
 !!!SMS: RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
 !!!ENC: Fran Bennion
 !!!END: 2004/09/23
-!!!ONB: Converted from MuseData with musedata2hum on Mon Apr  8 00:46:37 2024
+!!!ONB: Converted from MuseData with musedata2hum on Tue Apr  9 22:33:09 2024
 !!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no01.pdf#page=4 MuseData edition
@@ -119,7 +119,7 @@
 !!!URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=226s L'Arte dell'Arco
 !!!URL-youtube: https://www.youtube.com/watch?v=vFz1e6g68iQ&t=223s Seattle Baroque Soloists (2010)
 !!!title: @{OTL}, mvmt. @{OMV}
-!!!EEV: 2024/04/08
+!!!EEV: 2024/04/09
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/03/01
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/03/02
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/03/03
