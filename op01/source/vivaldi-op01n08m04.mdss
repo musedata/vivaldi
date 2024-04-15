@@ -1,26 +1,26 @@
 @@@COM: Vivaldi, Antonio Lucio
 @@@CDT: 1678/03/04-1741/08/28
 @@@OPR: 12 sonatas for two violins and basso continuo
-@@@OTL: Sonata in D major, op. @{OPS}, no. @{ONM} (@{SCT})
+@@@OTL: Sonata in D minor, op. @{OPS}, no. @{ONM} (@{SCT})
 @@@OPS: 1
 @@@ONM: 8
-@@@OMV: 3. [Grave]
+@@@OMV: 4. Giga
 @@@SCT: RV 64
 @@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
-@@@OMD: Grave
+@@@OMD: Allegro
 @@@key: d
-#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv064_08/stage2/03/01
+#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv064_08/stage2/04/01
 /eof
-#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv064_08/stage2/03/02
+#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv064_08/stage2/04/02
 /eof
-#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv064_08/stage2/03/03
+#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv064_08/stage2/04/03
 /eof
-#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv064_08/stage2/03/04
+#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv064_08/stage2/04/04
 /eof
 //
 @@@system-decoration: [(s1,s2,s3)]
-@@@URL-pdf: https://pdf.musedata.org/vivaldi-op01-no08.pdf#page=4 MuseData edition
-@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/1/18/IMSLP280399-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Primo.pdf#page=13 Violino primo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
+@@@URL-pdf: https://pdf.musedata.org/vivaldi-op01-no08.pdf#page=6 MuseData edition
+@@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/1/18/IMSLP280399-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Primo.pdf#page=14 Violino primo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
 @@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/d/d5/IMSLP280400-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Secondo.pdf#page=11 Violino secondo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
 @@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/8/89/IMSLP280401-PMLP10351-Vivaldi_Sonatas_Op_1_-_Organo_e_Violoncello.pdf#page=12 Organo e Violoncello parts, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
 @@@title: @{OTL}, mvmt. @{OMV}
@@ -28,5 +28,5 @@
 @@@filter: shed -ke "s/Basso continuo/Violoncello\nContinuo/I; s/Violino/Violin/I"
 @@@filter: shed -ke "s/^part4$/part3/I; s/^staff4$/staff3/I"
 @@@filter: shed -x fb -e "s/^part\\d$//I; s/^staff\\d$//I"
-@@@filter: humbreak -m 3,6,9,12
+@@@filter: humbreak -m 4,9,14,19,23,27,31
 @@@filter: addkey

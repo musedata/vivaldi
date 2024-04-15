@@ -33,7 +33,7 @@ exit(0);
 
 sub processOpus {
 	my ($opus) = @_;
-	my @sources = sort glob("$opus/source/*.txt");
+	my @sources = sort glob("$opus/source/*.mdss");
 	foreach my $source (@sources) {
 		processSource($opus, $source);
 	}
@@ -49,7 +49,7 @@ sub processSource {
 	my ($opus, $source) = @_;
 	my $base = $source;
 	$base =~ s/.*\///;
-	$base =~ s/\.txt$//;
+	$base =~ s/\.mdss$//;
 	my $target = "$opus/musedata/$base.mds";
 	my $command = "bin/makeMuseData $source > $target";
 	print stderr "$command\n";
