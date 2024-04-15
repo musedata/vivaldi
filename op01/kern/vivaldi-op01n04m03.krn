@@ -18,6 +18,7 @@
 *E:	*	*E:	*E:
 *M4/4	*	*M4/4	*M4/4
 *met(c)	*	*met(c)	*met(c)
+*MM152	*	*MM152	*MM152
 =1	=1	=1	=1
 8E\L	.	4bb\	2r
 8BB\	.	.	.
@@ -289,7 +290,7 @@
 !!!SMS: RV 66 / Estienne Roger (No. 363), Amsterdam [facs.]
 !!!ENC: Fran Bennion
 !!!END: 2004/10/02
-!!!ONB: Converted from MuseData with musedata2hum on Sun Apr 14 22:46:01 2024
+!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 15 02:34:25 2024
 !!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no04.pdf#page=3 MuseData edition
@@ -297,7 +298,7 @@
 !!!URL-pdf: https://s9.imslp.org/files/imglnks/usimg/d/d5/IMSLP280400-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Secondo.pdf#page=6 Violino secondo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
 !!!URL-pdf: https://s9.imslp.org/files/imglnks/usimg/8/89/IMSLP280401-PMLP10351-Vivaldi_Sonatas_Op_1_-_Organo_e_Violoncello.pdf#page=6 Organo e Violoncello parts, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
 !!!title: @{OTL}, mvmt. @{OMV}
-!!!EEV: 2024/04/14
+!!!EEV: 2024/04/15
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/03/01
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/03/02
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/03/03

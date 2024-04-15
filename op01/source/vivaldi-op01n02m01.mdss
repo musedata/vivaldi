@@ -31,4 +31,4 @@
 @@@filter: shed -x fb -e "s/^part\\d$//I; s/^staff\\d$//I"
 @@@filter: humbreak -m 4,8,12,16
 @@@filter: addkey
-@filter: addtempo -q 40
+@@@filter: addtempo -q 40
