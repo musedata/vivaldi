@@ -30,3 +30,4 @@
 @@@filter: shed -x fb -e "s/^part\\d$//I; s/^staff\\d$//I"
 @@@filter: humbreak -m 11,22,33
 @@@filter: addkey
+@filter: addtempo -q 75

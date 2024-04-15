@@ -31,3 +31,4 @@
 @@@filter: humbreak -m 5,9,13,18,22,26,31
 @@@filter: addkey
 @@@RNB: Strange figure line near end of movement (what is "1" at end of line?): f1              5f      1
+@filter: addtempo -q 106
