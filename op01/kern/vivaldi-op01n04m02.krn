@@ -4,7 +4,7 @@
 !!!OTL: Sonata in E major, op. @{OPS}, no. @{ONM} (@{SCT})
 !!!OPS: 1
 !!!ONM: 4
-!!!OMV: 2. [Allegro]
+!!!OMV: 2. [Allegro &mdash; Adagio]
 !!!SCT: RV 66
 !!!SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
 !!!OMD: Allegro
@@ -263,6 +263,7 @@
 =35	=35	=35	=35	=35	=35	=35
 !!!OMD: Adagio
 *M3/2	*	*	*M3/2	*	*M3/2	*
+*MM92	*	*	*MM92	*	*MM92	*
 1.BB;	.	7	1.dd#y;	.	1.aa;	.
 =36	=36	=36	=36	=36	=36	=36
 2E\	.	.	2b\	.	2gg#y\	.
@@ -289,7 +290,7 @@
 !!!SMS: RV 66 / Estienne Roger (No. 363), Amsterdam [facs.]
 !!!ENC: Fran Bennion
 !!!END: 2004/10/02
-!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 15 02:34:25 2024
+!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 15 10:02:48 2024
 !!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no04.pdf#page=1 MuseData edition

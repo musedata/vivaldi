@@ -4,7 +4,7 @@
 @@@OTL: Sonata in E major, op. @{OPS}, no. @{ONM} (@{SCT})
 @@@OPS: 1
 @@@ONM: 4
-@@@OMV: 2. [Allegro]
+@@@OMV: 2. [Allegro &mdash; Adagio]
 @@@SCT: RV 66
 @@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
 @@@OMD: Allegro
@@ -30,4 +30,4 @@
 @@@filter: shed -x fb -e "s/^part\\d$//I; s/^staff\\d$//I"
 @@@filter: humbreak -m 7,15,23,31
 @@@filter: addkey
-@@@filter: addtempo -q 160
+@@@filter: addtempo -q "160; m35:92"
