@@ -18,7 +18,7 @@
 *g:	*	*g:	*g:
 *M4/4	*	*M4/4	*M4/4
 *met(c)	*	*met(c)	*met(c)
-=	=	=	=
+=1	=1	=1	=1
 4GG/	.	4b-y\	8dd\L
 .	.	.	8g\
 8BB-y/L	6	8dd\L	8gg\
@@ -85,7 +85,7 @@
 !!!SMS: RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
 !!!ENC: Fran Bennion
 !!!END: 2004/09/24
-!!!ONB: Converted from MuseData with musedata2hum on Sat Apr 13 05:01:29 2024
+!!!ONB: Converted from MuseData with musedata2hum on Sun Apr 14 19:40:18 2024
 !!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no01.pdf#page=5 MuseData edition

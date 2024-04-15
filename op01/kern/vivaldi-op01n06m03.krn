@@ -18,7 +18,7 @@
 *f#:	*	*f#:	*f#:
 *M4/4	*	*M4/4	*M4/4
 *met(c)	*	*met(c)	*met(c)
-=	=	=	=
+=1	=1	=1	=1
 4F#y\	.	2r	4r
 4E#y\	6	.	8r
 .	.	.	8ccc#y\
@@ -93,6 +93,7 @@
 2E\	5 4	.	4b\
 .	X #	4g#X/	[4ee\
 =9	=9	=9	=9
+!	!	!LO:N:vis=2	!
 4AA/	.	4.cc#y\	4ee\]
 4GG#X/	6#/	.	4ee#X\
 .	.	8b\	.
@@ -141,7 +142,7 @@
 !!!SMS: RV 62 / Estienne Roger (No. 363), Amsterdam [facs.]
 !!!ENC: Fran Bennion
 !!!END: 2004/10/09
-!!!ONB: Converted from MuseData with musedata2hum on Sat Apr 13 05:01:30 2024
+!!!ONB: Converted from MuseData with musedata2hum on Sun Apr 14 19:40:19 2024
 !!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no06.pdf#page=3 MuseData edition
