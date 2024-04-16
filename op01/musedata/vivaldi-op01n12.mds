@@ -13,7 +13,7 @@
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/01
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 15 10:02:41 PDT 2024
+DOWNLOAD_DATE = Mon Apr 15 17:07:19 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -2445,7 +2445,7 @@ mheavy2
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/02
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 15 10:02:41 PDT 2024
+DOWNLOAD_DATE = Mon Apr 15 17:07:19 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -4497,7 +4497,7 @@ mheavy2
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/03
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 15 10:02:41 PDT 2024
+DOWNLOAD_DATE = Mon Apr 15 17:07:19 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -6480,7 +6480,7 @@ mheavy2
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/04
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 15 10:02:41 PDT 2024
+DOWNLOAD_DATE = Mon Apr 15 17:07:19 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -8796,7 +8796,7 @@ mheavy2
 @@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/d/d5/IMSLP280400-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Secondo.pdf#page=16 Violino secondo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
 @@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/8/89/IMSLP280401-PMLP10351-Vivaldi_Sonatas_Op_1_-_Organo_e_Violoncello.pdf#page=16 Organo e Violoncello parts, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
 @@@URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=2031s L'Arte dell'Arco
-@@@URL=youtube: https://www.youtube.com/watch?v=hyqan5fcOkA&t=3s Rome Chamber Music Festival (2021)
+@@@URL-youtube: https://www.youtube.com/watch?v=hyqan5fcOkA&t=3s Rome Chamber Music Festival (2021)
 @@@title: @{OTL}
 @@@filter: extract -k 1,3,4
 @@@filter: shed -ke "s/Basso continuo/Violoncello\nContinuo/I; s/Violino/Violin/I"
