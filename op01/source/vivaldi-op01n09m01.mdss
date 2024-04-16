@@ -32,3 +32,4 @@
 @@@filter: humbreak -m 6,13,20
 @@@filter: addkey
 @@@filter: addtempo -q 198
+@filter: addlabels -d "A,A" -r "A" -l "m0:A"
