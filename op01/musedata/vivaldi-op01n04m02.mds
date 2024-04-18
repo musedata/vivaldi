@@ -13,7 +13,7 @@
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/02/01
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 15 17:04:35 PDT 2024
+DOWNLOAD_DATE = Thu Apr 18 09:39:35 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -257,7 +257,7 @@ mheavy2
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/02/02
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 15 17:04:35 PDT 2024
+DOWNLOAD_DATE = Thu Apr 18 09:39:35 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -484,7 +484,7 @@ mheavy2
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/02/03
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 15 17:04:35 PDT 2024
+DOWNLOAD_DATE = Thu Apr 18 09:39:35 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -666,7 +666,7 @@ mheavy2
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/02/04
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 15 17:04:35 PDT 2024
+DOWNLOAD_DATE = Thu Apr 18 09:39:35 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -909,7 +909,7 @@ mheavy2
 @@@filter: humbreak -m 7,15,23,31
 @@@filter: addkey
 @@@filter: addtempo -q "160; m35:92"
-@@@EEV: 2024/04/15
+@@@EEV: 2024/04/18
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/02/01
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/02/02
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/02/03

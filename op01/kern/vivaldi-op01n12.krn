@@ -12,6 +12,8 @@
 **kern	**dynam	**fb	**kern	**dynam	**kern	**dynam
 *part3	*part4	*part4	*part2	*part2	*part1	*part1
 *staff3	*	*	*staff2	*	*staff1	*
+*>[A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T]	*>[A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T]	*>[A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T]	*>[A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T]	*>[A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T]	*>[A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T]	*>[A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T]
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *I"Violoncello\nContinuo	*	*	*I"Violin 2	*	*I"Violin 1	*
 *clefF4	*	*	*clefG2	*	*clefG2	*
 *k[b-]	*	*	*k[b-]	*	*k[b-]	*
@@ -90,6 +92,7 @@
 2.D\;	.	.	2.d/;	.	2.dd\;	.
 !!LO:LB:g=original
 =17||	=17||	=17||	=17||	=17||	=17||	=17||
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
 !!!OMD: 2. Andante
 *MM120	*	*	*MM120	*	*MM120	*
 4D\	.	.	4dd\	.	4ff\	.
@@ -198,6 +201,7 @@
 2.D\;	.	.	2.dd\;	.	2.dd\;	.
 !!LO:LB:g=original
 =33||	=33||	=33||	=33||	=33||	=33||	=33||
+*>C	*>C	*>C	*>C	*>C	*>C	*>C
 !!!OMD: 3. Allegro
 *MM150	*	*	*MM150	*	*MM150	*
 4d\	.	.	4r	.	4d/	.
@@ -263,6 +267,7 @@
 2AA/	.	.	4.cc#X\	.	4.ee\	.
 .	.	.	8dd\	.	8dd\	.
 =48	=48	=48	=48	=48	=48	=48
+*>D	*>D	*>D	*>D	*>D	*>D	*>D
 2.D\;	.	.	2.dd\;	.	2.dd\;	.
 !!LO:LB:g=original
 =49||	=49||	=49||	=49||	=49||	=49||	=49||
@@ -375,6 +380,7 @@
 2.D\;	.	.	2.dd\;	.	2.dd\;	.
 !!LO:LB:g=original
 =65||	=65||	=65||	=65||	=65||	=65||	=65||
+*>E	*>E	*>E	*>E	*>E	*>E	*>E
 !!!OMD: 5.
 *MM150	*	*	*MM150	*	*MM150	*
 8D\L	.	.	16r	.	2.r	.
@@ -543,6 +549,7 @@
 2.D\	.	.	2.f/	.	2.dd\	.
 !!LO:LB:g=original
 =81||	=81||	=81||	=81||	=81||	=81||	=81||
+*>F	*>F	*>F	*>F	*>F	*>F	*>F
 !!!OMD: 6.
 *MM152	*	*	*MM152	*	*MM152	*
 16D\LL	.	.	8dd/L	.	2.r	.
@@ -739,6 +746,7 @@
 2.D\;	.	.	2.dd\;	.	2.dd\;	.
 !!LO:LB:g=original
 =97||	=97||	=97||	=97||	=97||	=97||	=97||
+*>G	*>G	*>G	*>G	*>G	*>G	*>G
 !!!OMD: 7.
 *MM150	*	*	*MM150	*	*MM150	*
 8d\	.	.	16dd/LL	.	4r	.
@@ -937,6 +945,7 @@
 2.D\;	.	.	2.f/;	.	2.d/;	.
 !!LO:LB:g=original
 =113||	=113||	=113||	=113||	=113||	=113||	=113||
+*>H	*>H	*>H	*>H	*>H	*>H	*>H
 !!!OMD: 8.
 *MM152	*	*	*MM152	*	*MM152	*
 4D\	.	.	4f/	.	(8dd\L	.
@@ -1073,6 +1082,7 @@
 =128	=128	=128	=128	=128	=128	=128
 2.D\;	.	.	2.f/;	.	2.dd\;	.
 =129||	=129||	=129||	=129||	=129||	=129||	=129||
+*>I	*>I	*>I	*>I	*>I	*>I	*>I
 !!!OMD: 9. Adagio
 *MM66	*	*	*MM66	*	*MM66	*
 8D\L	.	.	2.r	.	4d/	.
@@ -1184,6 +1194,7 @@
 =144	=144	=144	=144	=144	=144	=144
 2.D\;	.	.	2.dd\;	.	2.dd\;	.
 =145||	=145||	=145||	=145||	=145||	=145||	=145||
+*>J	*>J	*>J	*>J	*>J	*>J	*>J
 !!!OMD: 10. Vivace
 *MM138	*	*	*MM138	*	*MM138	*
 4D\	.	.	4f/	.	8dd/L	.
@@ -1295,6 +1306,7 @@
 =160	=160	=160	=160	=160	=160	=160
 2.D\;	.	.	2.d/;	.	2.dd\;	.
 =161||	=161||	=161||	=161||	=161||	=161||	=161||
+*>K	*>K	*>K	*>K	*>K	*>K	*>K
 !!!OMD: 11. Allegro
 *MM160	*	*	*MM160	*	*MM160	*
 8D\L	.	.	4r	.	16r	.
@@ -1497,6 +1509,7 @@
 =176	=176	=176	=176	=176	=176	=176
 2.D\;	.	.	2.dd\;	.	2.dd\;	.
 =177||	=177||	=177||	=177||	=177||	=177||	=177||
+*>L	*>L	*>L	*>L	*>L	*>L	*>L
 !!!OMD: 12. Largetto
 *MM44	*	*	*MM44	*	*MM44	*
 2D\	.	.	2f/	.	4aa\	.
@@ -1585,6 +1598,7 @@
 2.D\;	.	.	2.dd\;	.	2.dd\;	.
 !!LO:LB:g=original
 =193||	=193||	=193||	=193||	=193||	=193||	=193||
+*>M	*>M	*>M	*>M	*>M	*>M	*>M
 !!!OMD: 13. Allegro
 *M3/4	*	*	*M9/8	*	*M9/8	*
 *MM156	*	*	*MM156	*	*MM156	*
@@ -1741,6 +1755,7 @@
 2.D\;	.	.	2.dd\;	.	2.dd\;	.
 !!LO:LB:g=original
 =209||	=209||	=209||	=209||	=209||	=209||	=209||
+*>N	*>N	*>N	*>N	*>N	*>N	*>N
 !!!OMD: 14.
 *M9/8	*	*	*M3/4	*	*M3/4	*
 *MM156	*	*	*MM156	*	*MM156	*
@@ -1899,6 +1914,7 @@
 2.D\;	.	.	2.dd\;	.	2.dd\;	.
 !!LO:LB:g=original
 =225||	=225||	=225||	=225||	=225||	=225||	=225||
+*>O	*>O	*>O	*>O	*>O	*>O	*>O
 !!!OMD: 15. Adagio
 *M12/8	*	*	*M12/8	*	*M12/8	*
 *MM55	*	*	*MM55	*	*MM55	*
@@ -1986,6 +2002,7 @@
 2.D\;	.	.	2.dd\;	.	2.dd\;	.
 !!LO:LB:g=original
 =233||	=233||	=233||	=233||	=233||	=233||	=233||
+*>P	*>P	*>P	*>P	*>P	*>P	*>P
 !!!OMD: 16. Allegro
 *M3/4	*	*	*M3/4	*	*M3/4	*
 *MM154	*	*	*MM154	*	*MM154	*
@@ -2097,6 +2114,7 @@
 =248	=248	=248	=248	=248	=248	=248
 2.D\;	.	.	2.d/;	.	2.d/;	.
 =249||	=249||	=249||	=249||	=249||	=249||	=249||
+*>Q	*>Q	*>Q	*>Q	*>Q	*>Q	*>Q
 !!!OMD: 17.
 !!!OMD: 17
 !!!OMD: 17.
@@ -2286,6 +2304,7 @@
 =264	=264	=264	=264	=264	=264	=264
 2.D\;	.	.	2.d/;	.	2.d/;	.
 =265||	=265||	=265||	=265||	=265||	=265||	=265||
+*>R	*>R	*>R	*>R	*>R	*>R	*>R
 !!!OMD: 18.
 !!!OMD: 18
 *MM150	*	*	*MM150	*	*MM150	*
@@ -2489,6 +2508,7 @@
 =280	=280	=280	=280	=280	=280	=280
 2.D\;	.	.	2.dd\;	.	2.dd\;	.
 =281||	=281||	=281||	=281||	=281||	=281||	=281||
+*>S	*>S	*>S	*>S	*>S	*>S	*>S
 !!!OMD: 19.
 *MM150	*	*	*MM150	*	*MM150	*
 8D\L	.	.	16dd\LL	.	16ff\LL	.
@@ -2691,6 +2711,7 @@
 =296	=296	=296	=296	=296	=296	=296
 2.D\;	.	.	2.dd\;	.	2.ddd\;	.
 =297||	=297||	=297||	=297||	=297||	=297||	=297||
+*>T	*>T	*>T	*>T	*>T	*>T	*>T
 !!!OMD: 20.
 *MM154	*	*	*MM154	*	*MM154	*
 16D\LL	.	.	4dd\	.	4ff\	.
@@ -2982,7 +3003,7 @@
 !!!SMS: RV 63 / Estienne Roger (No. 363), Amsterdam [facs.]
 !!!ENC: Fran Bennion
 !!!END: 2004/11/03
-!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 15 17:07:28 2024
+!!!ONB: Converted from MuseData with musedata2hum on Thu Apr 18 10:10:47 2024
 !!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._1:_Suonate_da_camera_a_tr.C3.A8.2C_due_violini_e_violone_o_cembalo Information about Op. 1 on the CCARH wiki
@@ -2993,7 +3014,7 @@
 !!!URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=2031s L'Arte dell'Arco
 !!!URL-youtube: https://www.youtube.com/watch?v=hyqan5fcOkA&t=3s Rome Chamber Music Festival (2021)
 !!!title: @{OTL}
-!!!EEV: 2024/04/15
+!!!EEV: 2024/04/18
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/01
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/02
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/03

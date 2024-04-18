@@ -32,4 +32,9 @@
 @@@filter: humbreak -m 5,9,13
 @@@filter: addkey
 @@@filter: addtempo -q 225
-@filter: addlabels -d "I,A,A,B,B1,B,B2" -r "I,A,B,B2" -l "m0:I; m1:A; m6b:B; m17:B1; m17b:B2"
+@RNB: First measure bar number 1 needs to be added:
+@@@filter: shed -e "s/^$/1/B"
+@@@filter: addlabels -d "I,A,A,B,B1,B,B2" -r "I,A,B,B2" -l "m0:I; m1:A; m6b:B; m17:B1; m17b:B2"
+@RNB: Violin 2 part originally notated in C, but modern edition in 12/8:
+@@@filter: grep -v "met.c."
+@@@filter: shed -k -e "s/^M4\/4/M12\/8/I"

@@ -32,4 +32,4 @@
 @@@filter: humbreak -m 4,8,12,15,19,23
 @@@filter: addkey
 @@@filter: addtempo -q 50
-@filter: addlabels -d "A,A,B,B" -r "A,B" -l "m0:A; m9:B"
+@@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "m0:A; m9:B"

@@ -12,14 +12,18 @@
 **kern	**dynam	**fb	**kern	**dynam	**kern	**dynam
 *part3	*part4	*part4	*part2	*part2	*part1	*part1
 *staff3	*	*	*staff2	*	*staff1	*
+*>[I,A,A,B,B1,B,B2]	*>[I,A,A,B,B1,B,B2]	*>[I,A,A,B,B1,B,B2]	*>[I,A,A,B,B1,B,B2]	*>[I,A,A,B,B1,B,B2]	*>[I,A,A,B,B1,B,B2]	*>[I,A,A,B,B1,B,B2]
+*>norep[I,A,B,B2]	*>norep[I,A,B,B2]	*>norep[I,A,B,B2]	*>norep[I,A,B,B2]	*>norep[I,A,B,B2]	*>norep[I,A,B,B2]	*>norep[I,A,B,B2]
+*>I	*>I	*>I	*>I	*>I	*>I	*>I
 *I"Violoncello\nContinuo	*	*	*I"Violin 2	*	*I"Violin 1	*
 *clefF4	*	*	*clefG2	*	*clefG2	*
 *k[b-e-]	*	*	*k[b-e-]	*	*k[b-e-]	*
 *E-:	*	*	*E-:	*	*E-:	*
-*M12/8	*	*	*M4/4	*	*M12/8	*
+*M12/8	*	*	*M12\/8	*	*M12/8	*
 *	*	*	*met(c)	*	*	*
 *MM225	*	*	*MM225	*	*MM225	*
-=	=	=	=	=	=	=
+=1	=1	=1	=1	=1	=1	=1
+*>A	*>A	*>A	*>A	*>A	*>A	*>A
 4.r	.	.	4.r	.	8r	.
 .	.	.	.	.	8r	.
 .	.	.	.	.	8ee-y\	.
@@ -88,6 +92,7 @@
 4.BB-y/	.	.	4.dd\	.	4b-y\	.
 .	.	.	.	.	8ee-y\	.
 =:|!|:	=:|!|:	=:|!|:	=:|!|:	=:|!|:	=:|!|:	=:|!|:
+*>B	*>B	*>B	*>B	*>B	*>B	*>B
 4.E-y\	.	.	4.gg\	.	8ee-y\L	.
 .	.	.	.	.	8ff\	.
 .	.	.	.	.	8gg\J	.
@@ -226,9 +231,11 @@
 .	.	.	.	.	8e-y/	.
 .	.	.	.	.	8d/J	.
 =17	=17	=17	=17	=17	=17	=17
+*>B1	*>B1	*>B1	*>B1	*>B1	*>B1	*>B1
 4.E-y\	.	.	4.g/	.	4e-y/	.
 .	.	.	.	.	8ee-y\	.
 =1:|!	=1:|!	=1:|!	=1:|!	=1:|!	=1:|!	=1:|!
+*>B2	*>B2	*>B2	*>B2	*>B2	*>B2	*>B2
 4.E-y\	.	.	4.g/	.	4.e-y/	.
 2.ryy	.	.	2.ryy	.	2.ryy	.
 ==	==	==	==	==	==	==
@@ -236,7 +243,7 @@
 !!!SMS: RV 65 / Estienne Roger (No. 363), Amsterdam [facs.]
 !!!ENC: Fran Bennion
 !!!END: 2004/10/20
-!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 15 17:07:27 2024
+!!!ONB: Converted from MuseData with musedata2hum on Thu Apr 18 10:10:46 2024
 !!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no07.pdf#page=5 MuseData edition
@@ -245,7 +252,7 @@
 !!!URL-pdf: https://s9.imslp.org/files/imglnks/usimg/8/89/IMSLP280401-PMLP10351-Vivaldi_Sonatas_Op_1_-_Organo_e_Violoncello.pdf#page=11 Organo e Violoncello parts, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
 !!!URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=3453s L'Arte dell'Arco
 !!!title: @{OTL}, mvmt. @{OMV}
-!!!EEV: 2024/04/15
+!!!EEV: 2024/04/18
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv065_07/stage2/04/01
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv065_07/stage2/04/02
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv065_07/stage2/04/03
