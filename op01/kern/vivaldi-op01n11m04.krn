@@ -12,10 +12,10 @@
 **kern	**dynam	**fb	**kern	**dynam	**kern	**dynam
 *part3	*part4	*part4	*part2	*part2	*part1	*part1
 *staff3	*	*	*staff2	*	*staff1	*
+*I"Violoncello\nContinuo	*	*	*I"Violin 2	*	*I"Violin 1	*
 *>[A,A]	*>[A,A]	*>[A,A]	*>[A,A]	*>[A,A]	*>[A,A]	*>[A,A]
 *>norep[A]	*>norep[A]	*>norep[A]	*>norep[A]	*>norep[A]	*>norep[A]	*>norep[A]
 *>A	*>A	*>A	*>A	*>A	*>A	*>A
-*I"Violoncello\nContinuo	*	*	*I"Violin 2	*	*I"Violin 1	*
 *clefF4	*	*	*clefG2	*	*clefG2	*
 *k[f#c#]	*	*	*k[f#c#]	*	*k[f#c#]	*
 *b:	*	*	*b:	*	*b:	*
@@ -434,7 +434,7 @@
 !!!SMS: RV 79 / Estienne Roger (No. 363), Amsterdam [facs.]
 !!!ENC: Fran Bennion
 !!!END: 2004/11/02
-!!!ONB: Converted from MuseData with musedata2hum on Thu Apr 18 10:10:47 2024
+!!!ONB: Converted from MuseData with musedata2hum on Thu Apr 18 11:35:01 2024
 !!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no11.pdf#page=7 MuseData edition
