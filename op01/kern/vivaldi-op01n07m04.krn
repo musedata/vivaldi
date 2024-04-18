@@ -9,6 +9,7 @@
 !!!SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
 !!!OMD: Presto
 !!!key: E-
+!!!ONB: Violin 2 part originally written in 4/4
 **kern	**dynam	**fb	**kern	**dynam	**kern	**dynam
 *part3	*part4	*part4	*part2	*part2	*part1	*part1
 *staff3	*	*	*staff2	*	*staff1	*
@@ -242,7 +243,7 @@
 !!!SMS: RV 65 / Estienne Roger (No. 363), Amsterdam [facs.]
 !!!ENC: Fran Bennion
 !!!END: 2004/10/20
-!!!ONB: Converted from MuseData with musedata2hum on Thu Apr 18 11:35:00 2024
+!!!ONB: Converted from MuseData with musedata2hum on Thu Apr 18 12:02:55 2024
 !!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no07.pdf#page=5 MuseData edition
