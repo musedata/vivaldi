@@ -21,116 +21,115 @@
 *E:	*	*E:	*E:
 *M3/4	*	*M3/4	*M3/4
 *MM100	*	*MM100	*MM100
-=1	=1	=1	=1
 8E\L	.	4b\	4gg#y\
 8F#y\	.	.	.
 8G#y\	6	(8e/L	4.bb\
 8E\	.	8g#y/)	.
 8G#y\	6	(8b/	.
 8A\J	.	8cc#y/J)	8ee\
-=2	=2	=2	=2
+=1	=1	=1	=1
 8B\L	.	2.f#y/	4.dd#y\
 8BB\	.	.	.
 8B\	.	.	.
 8c#y\	.	.	8cc#y\
 8d#y\	6	.	4b\
 8c#y\J	.	.	.
-=3	=3	=3	=3
+=2	=2	=2	=2
 8B\L	7	4ff#y\	4aa\
 8BB\	.	.	.
 8D#y\	5	(8b\L	4.aa\
 8F#y\	.	8dd#y\)	.
 8D#y\	.	(8ff#y\	.
 8BB\J	.	8dd#y\J)	8aa\
-=4	=4	=4	=4
+=3	=3	=3	=3
 8E/L	5 4	2b\	(8aa\L
 8EE/	.	.	8ff#y\J)
 8E/	3	.	2gg#y\
 8F#y/	.	.	.
 8G#y/	6	4ee\	.
 8E/J	.	.	.
-=5	=5	=5	=5
+=4	=4	=4	=4
 8F#y/L	#	(8a#y/L	8f#y/L
 8FF#y/	.	8cc#y/)	8a#y/J
 8F#y/	.	(8a#X/	4.cc#y\
 8FF#y/	.	8cc#y/)	.
 8EE/	6	(8g#y/	.
 8E/J	.	8cc#y/J)	8ee\
-=6	=6	=6	=6
+=5	=5	=5	=5
 8E/L	4#| 2	(8f#y/L	4.aa#X\
 8EE/	.	8cc#y/)	.
 8E/	.	(8a#X/	.
 8EE/	.	8cc#y/)	8ff#y\
 8DD#y/	6	(8f#y/	(8bb\L
 8D#y/J	.	8b/J)	8dd#y\J)
-=7	=7	=7	=7
+=6	=6	=6	=6
 8E/L	6 5	8e/L	8cc#y\L
 8BB/	.	8dd#y/J	8bb\J
 8F#y/	#	4.cc#y\	4.aa#X\
 8E/	.	.	.
 8F#y/	.	.	.
 8FF#y/J	.	8ff#y\	8bb\
-!!LO:LB:g=original
-=8	=8	=8	=8
+=7	=7	=7	=7
 2.BB/	.	2.dd#y\	2.bb\
-=9:|!|:	=9:|!|:	=9:|!|:	=9:|!|:
-*>B	*>B	*>B	*>B
+!!LO:LB:g=original
+=8:|!|:	=8:|!|:	=8:|!|:	=8:|!|:
 8G#y\L	6	4b\	(8e/L
 8E\	.	.	8g#y/J)
 8G#y\	6 5-r	(8e/L	4.ddn\
 8B\	.	8g#y/)	.
 8G#y\	.	(8b/	.
 8E\J	.	8g#y/J)	8dd\
-=10	=10	=10	=10
+=9	=9	=9	=9
+*>B	*>B	*>B	*>B
 8A\L	5 4	2.e/	(8ddn\L
 8AA\	.	.	8b\J)
 8A\	3	.	2cc#y\
 8B\	.	.	.
 8c#y\	6	.	.
 8B\J	.	.	.
-=11	=11	=11	=11
+=10	=10	=10	=10
 8A#X\L	6	4cc#y\	(8f#y/L
 8F#y\	.	.	8a#X/J)
 8A#X\	6 5	(8f#y/L	4.ee\
 8c#y\	.	8a#X/)	.
 8A#X\	.	(8cc#y/	.
 8F#y\J	.	8a#X/J)	8ee\
-=12	=12	=12	=12
+=11	=11	=11	=11
 8B\L	5 4	2f#y/	(8ee\L
 8BB\	.	.	8cc#y\J)
 8B\	3	.	2dd#y\
 8c#y\	.	.	.
 8d#y\	6	4ff#y\	.
 8c#y\J	.	.	.
-=13	=13	=13	=13
+=12	=12	=12	=12
 8B\L	.	(8dd#y\L	(8b\L
 8BB\	.	8ff#y\)	8dd#y\J)
 8B\	.	(8dd#y\	4.ff#y\
 8BB\	.	8ff#y\)	.
 8AA\	6	(8cc#y\	.
 8A\J	.	8ff#y\J)	8aa\
-=14	=14	=14	=14
+=13	=13	=13	=13
 8A/L	4 2	(8b\L	4.ddd#y\
 8AA/	.	8ff#y\)	.
 8A/	.	(8dd#y\	.
 8AA/	.	8ff#y\)	8dd#y\
 8GG#y/	6	(8b\	8ee\L
 8G#y/J	.	8ee\J)	8g#y\J
-=15	=15	=15	=15
+=14	=14	=14	=14
 8A\L	6 5	8a/L	8f#y\L
 8E\	.	8g#y/J	8ee\J
 8B\	#	4.f#y/	4.dd#y\
 8A\	.	.	.
 8B\	.	.	.
 8BB\J	.	8b\	8ee\
-=16	=16	=16	=16
+=15	=15	=15	=15
 2.E\	.	2.g#y/	2.ee\
 =:|!	=:|!	=:|!	=:|!
 *-	*-	*-	*-
 !!!SMS: RV 66 / Estienne Roger (No. 363), Amsterdam [facs.]
 !!!ENC: Fran Bennion
 !!!END: 2004/10/03
-!!!ONB: Converted from MuseData with musedata2hum on Thu Apr 18 12:02:54 2024
+!!!ONB: Converted from MuseData with musedata2hum on Fri Apr 19 13:10:03 2024
 !!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no04.pdf#page=4 MuseData edition
