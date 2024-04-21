@@ -32,3 +32,6 @@
 @@@filter: humbreak -m 7,15,23,31
 @@@filter: addkey
 @@@filter: addtempo -q "160; m35:92"
+@@@filter: addlabels -d "A,B" -l "0:A; m35:B"
+@RNB: measure 35 is missing a double barline at the Adagio section:
+@@@filter: shed -e "s/^35$/35||/"
