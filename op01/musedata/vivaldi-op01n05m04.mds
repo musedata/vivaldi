@@ -13,7 +13,7 @@
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv069_05/stage2/04/01
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Fri Apr 19 13:31:30 PDT 2024
+DOWNLOAD_DATE = Sat Apr 20 21:07:13 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -97,7 +97,7 @@ mheavy2          disc-end2
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv069_05/stage2/04/02
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Fri Apr 19 13:31:30 PDT 2024
+DOWNLOAD_DATE = Sat Apr 20 21:07:13 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -176,7 +176,7 @@ mheavy2          disc-end2
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv069_05/stage2/04/03
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Fri Apr 19 13:31:30 PDT 2024
+DOWNLOAD_DATE = Sat Apr 20 21:07:13 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -310,7 +310,7 @@ mheavy2          disc-end2
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv069_05/stage2/04/04
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Fri Apr 19 13:31:30 PDT 2024
+DOWNLOAD_DATE = Sat Apr 20 21:07:13 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -487,7 +487,7 @@ mheavy2          disc-end2
 @@@filter: addkey
 @@@filter: addtempo -q 158
 @@@filter: addlabels -d "A,A,B,B1,B,B2" -r "A,B,B2" -l "m0:A; m4b:B; m12:B1, m12b:B2"
-@@@EEV: 2024/04/19
+@@@EEV: 2024/04/20
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv069_05/stage2/04/01
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv069_05/stage2/04/02
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv069_05/stage2/04/03

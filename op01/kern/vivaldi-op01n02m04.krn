@@ -53,7 +53,8 @@
 8DD#X/	.	8b\	.
 8DD#X/	.	4ff#y\	8r
 8D#y/J	.	.	8b\
-=	=	=	=
+!!LO:LB:g=original
+=4	=4	=4	=4
 8E/L	.	8r	16gg\LL
 .	.	.	16ff#y\
 8EE/	.	4b\	16ee\
@@ -61,11 +62,10 @@
 8F#y/	5#| 4	.	4cc#X\
 8FF#y/J	#	8a#X/	.
 4.BB/	.	4.b\	4.b\
-!!LO:LB:g=original
-=4:|!|:	=4:|!|:	=4:|!|:	=4:|!|:
+=:|!|:	=:|!|:	=:|!|:	=:|!|:
+*>B	*>B	*>B	*>B
 8dn\	6	8r	8b\
 =5	=5	=5	=5
-*>B	*>B	*>B	*>B
 8d\L	4#| 2	8r	4gg#X\
 8D\	.	8ee\	.
 8D\	.	4b\	8r
@@ -105,7 +105,7 @@
 !!!SMS: RV 67 / Estienne Roger (No. 363), Amsterdam [facs.]
 !!!ENC: Fran Bennion
 !!!END: 2004/09/27
-!!!ONB: Converted from MuseData with musedata2hum on Fri Apr 19 13:33:08 2024
+!!!ONB: Converted from MuseData with musedata2hum on Sat Apr 20 21:10:35 2024
 !!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no02.pdf#page=6 MuseData edition
@@ -114,7 +114,7 @@
 !!!URL-pdf: https://s9.imslp.org/files/imglnks/usimg/8/89/IMSLP280401-PMLP10351-Vivaldi_Sonatas_Op_1_-_Organo_e_Violoncello.pdf#page=4 Organo e Violoncello parts, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
 !!!URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=5048s L'Arte dell'Arco
 !!!title: @{OTL}, mvmt. @{OMV}
-!!!EEV: 2024/04/19
+!!!EEV: 2024/04/20
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv067_02/stage2/04/01
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv067_02/stage2/04/02
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv067_02/stage2/04/03

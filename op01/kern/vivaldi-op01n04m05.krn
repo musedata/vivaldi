@@ -143,10 +143,10 @@
 !LO:N:vis=2	!	!LO:N:vis=2	!LO:N:vis=2
 4.BB/	.	4.dd#y\	4.B/
 4r	.	4r	4r
-=11:|!|:	=11:|!|:	=11:|!|:	=11:|!|:
+=:|!|:	=:|!|:	=:|!|:	=:|!|:
 *>B	*>B	*>B	*>B
 8C#y/	.	8ee\	8gg#y\
-=12	=12	=12	=12
+=11	=11	=11	=11
 4.C#y/	.	4.ee\	8gg#y\L
 .	.	.	8ff#y\
 .	.	.	8ee\J
@@ -159,7 +159,7 @@
 4.E\	6	4r	8cc#y/L
 .	.	.	8e/
 .	.	8gg#y\	8cc#y/J
-=13	=13	=13	=13
+=12	=12	=12	=12
 4.F#y\	6 5	4dd#y\	8f#y/L
 .	.	.	8b#X/
 .	.	8ee\	8cc#y/J
@@ -171,8 +171,7 @@
 4C#y/]	.	8ee\L	8r
 .	.	8ff#y\	8r
 8BB/	5	8dd#y\J	8ff#y\
-!!LO:LB:g=original
-=14	=14	=14	=14
+=13	=13	=13	=13
 4.AA#X/	6	4.cc#y\	8ff#y\L
 .	.	.	8cc#y\
 .	.	.	8a#X\J
@@ -184,7 +183,8 @@
 .	.	.	8ff#y\J
 4r	.	4r	4b\
 8r	.	8r	8bb\
-=15	=15	=15	=15
+!!LO:LB:g=original
+=14	=14	=14	=14
 4.D#y\	6	4.ff#y\	8bb\L
 .	.	.	8ff#y\
 .	.	.	8dd#y\J
@@ -197,7 +197,7 @@
 8r	.	4r	4ee\
 8r	.	.	.
 8G#y\	6	8b\	8ee\
-=16	=16	=16	=16
+=15	=15	=15	=15
 4.A\	.	4.cc#y\	(8ee\L
 .	.	.	8dd#y\
 .	.	.	8cc#y\J)
@@ -210,7 +210,7 @@
 8r	.	(8aa\L	(8ff#y\L
 8r	.	8gg#y\	8ee\
 8AA/	6	8ff#y\J)	8dd#y\J)
-=17	=17	=17	=17
+=16	=16	=16	=16
 4.BB/	.	4.ff#y\	(8dd#y\L
 .	.	.	8cc#y\
 .	.	.	8dd#y\J)
@@ -223,7 +223,7 @@
 8r	.	4r	(8cc#y\L
 8r	.	.	8b\
 8A#X\	6	8ff#y\	8cc#y\J)
-=18	=18	=18	=18
+=17	=17	=17	=17
 4.B\	5	(8ff#y\L	(8dd#y\L
 .	.	8ee\	8cc#y\
 .	.	8dd#y\J)	8b\J)
@@ -236,8 +236,7 @@
 8r	.	4r	(8ee\L
 8r	.	.	8dd#y\
 8c#y\	6	8aa\	8ee\J)
-!!LO:LB:g=original
-=19	=19	=19	=19
+=18	=18	=18	=18
 4.d#y\	5	(8aa\L	(8ff#y\L
 .	.	8gg#y\	8ee\
 .	.	8ff#y\J)	8dd#y\J)
@@ -250,7 +249,8 @@
 8r	.	4r	(8gg#y\L
 8r	.	.	8ff#y\
 8E\	6	8ee\	8gg#y\J)
-=20	=20	=20	=20
+!!LO:LB:g=original
+=19	=19	=19	=19
 4.F#y\	5	4.cc#y\	(8aa\L
 .	.	.	8gg#y\
 .	.	.	8ff#y\J)
@@ -262,7 +262,7 @@
 8c#y\L	6	4ee\	[4.aa\
 8B\	.	.	.
 8A\J	.	8ff#y\	.
-=21	=21	=21	=21
+=20	=20	=20	=20
 4B\	7	4dd#y\	8aa\L]
 .	.	.	8bb\
 8E\	.	8ee\	8gg#y\J
@@ -274,7 +274,7 @@
 .	.	8gg#y\L	4r
 .	.	8aa\	.
 .	.	8bb\J	8r
-=22	=22	=22	=22
+=21	=21	=21	=21
 2.G#y\	6	4.ee\	8r
 .	.	.	8ee\L
 .	.	.	8dd#y\J
@@ -287,7 +287,7 @@
 .	.	8ee\L	.
 .	.	8ff#y\	.
 .	.	8gg#y\J	.
-=23	=23	=23	=23
+=22	=22	=22	=22
 2.F#y\	7	2.aa\	8r
 .	.	.	8ff#y\L
 .	.	.	8ee\J
@@ -300,8 +300,7 @@
 .	.	8ff#y\L	.
 .	.	8gg#y\	.
 .	.	8aa\J	.
-!!LO:LB:g=original
-=24	=24	=24	=24
+=23	=23	=23	=23
 2.G#y\	7	2.bb\	8r
 .	.	.	8gg#y\L
 .	.	.	8ff#y\J
@@ -314,7 +313,8 @@
 .	.	8gg#y\L	.
 .	.	8aa\	.
 .	.	8bb\J	.
-=25	=25	=25	=25
+!!LO:LB:g=original
+=24	=24	=24	=24
 2.A\	5	2.ccc#y\	8r
 .	.	.	8aa\L
 .	.	.	8gg#y\J
@@ -327,7 +327,7 @@
 .	.	8aa\L	8ff#y\L
 .	.	8bb\	8gg#y\
 .	.	8ccc#y\J	8aa\J
-=26	=26	=26	=26
+=25	=25	=25	=25
 [2.BB/	.	8r	8r
 .	.	8ff#y\L	8dd#y\L
 .	.	8ee\J	8cc#y\J
@@ -338,7 +338,7 @@
 8GG#y/	6	8gg#y\	8ee\
 4AA/	6 5	4.ff#y\	4ee\
 8BB/	.	.	8dd#y\
-=27	=27	=27	=27
+=26	=26	=26	=26
 4.E\	.	4.ee\	8ee\L
 .	.	.	8b\
 .	.	.	8a\J
@@ -351,7 +351,7 @@
 8r	.	8g#y/L	8r
 8r	.	8a/	8r
 8G#y\	6	8b/J	8b\
-=28	=28	=28	=28
+=27	=27	=27	=27
 4.A\	5	4.e/	(4cc#y\
 .	6	.	8f#y/)
 4.G#y\	7	4r	(4b\
@@ -361,7 +361,7 @@
 8G#y\L	6	(4b\	[4.e/
 8F#y\	.	.	.
 8E\J	.	8e/)	.
-=29	=29	=29	=29
+=28	=28	=28	=28
 4.AA/	6 5	[4.f#y/	8.e/L]
 .	.	.	16f#y/k
 .	.	.	8e/J
@@ -373,7 +373,7 @@
 !!!SMS: RV 66 / Estienne Roger (No. 363), Amsterdam [facs.]
 !!!ENC: Fran Bennion
 !!!END: 2004/10/04
-!!!ONB: Converted from MuseData with musedata2hum on Fri Apr 19 13:33:09 2024
+!!!ONB: Converted from MuseData with musedata2hum on Sat Apr 20 21:10:35 2024
 !!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no04.pdf#page=5 MuseData edition
@@ -382,7 +382,7 @@
 !!!URL-pdf: https://s9.imslp.org/files/imglnks/usimg/8/89/IMSLP280401-PMLP10351-Vivaldi_Sonatas_Op_1_-_Organo_e_Violoncello.pdf#page=7 Organo e Violoncello parts, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
 !!!URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=4129s L'Arte dell'Arco
 !!!title: @{OTL}, mvmt. @{OMV}
-!!!EEV: 2024/04/19
+!!!EEV: 2024/04/20
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/05/01
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/05/02
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/05/03

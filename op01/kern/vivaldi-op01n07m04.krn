@@ -22,10 +22,11 @@
 *E-:	*	*	*E-:	*	*E-:	*
 *M12/8	*	*	*M12/8	*	*M12/8	*
 *MM225	*	*	*MM225	*	*MM225	*
+=1	=1	=1	=1	=1	=1	=1
 4.r	.	.	4.r	.	8r	.
 .	.	.	.	.	8r	.
 .	.	.	.	.	8ee-y\	.
-=1!|:	=1!|:	=1!|:	=1!|:	=1!|:	=1!|:	=1!|:
+=!|:	=!|:	=!|:	=!|:	=!|:	=!|:	=!|:
 *>A	*>A	*>A	*>A	*>A	*>A	*>A
 4.E-y\	.	.	4.b-y\	.	(8ee-y\L	.
 .	.	.	.	.	8ff\)	.
@@ -90,7 +91,7 @@
 =6	=6	=6	=6	=6	=6	=6
 4.BB-y/	.	.	4.dd\	.	4b-y\	.
 .	.	.	.	.	8ee-y\	.
-=7:|!|:	=7:|!|:	=7:|!|:	=7:|!|:	=7:|!|:	=7:|!|:	=7:|!|:
+=:|!|:	=:|!|:	=:|!|:	=:|!|:	=:|!|:	=:|!|:	=:|!|:
 *>B	*>B	*>B	*>B	*>B	*>B	*>B
 4.E-y\	.	.	4.gg\	.	8ee-y\L	.
 .	.	.	.	.	8ff\	.
@@ -101,7 +102,7 @@
 .	.	6	4.aa-X\	.	8dd\L	.
 .	.	.	.	.	8ee-y\	.
 .	.	.	.	.	8cc\J	.
-=8	=8	=8	=8	=8	=8	=8
+=7	=7	=7	=7	=7	=7	=7
 4.G\	.	n	4.dd\	.	8bn/L	.
 .	.	.	.	.	8a/	.
 .	.	.	.	.	8g/J	.
@@ -114,8 +115,7 @@
 4.G\	.	n	4.bn\	.	8dd\L	.
 .	.	.	.	.	8cc\	.
 .	.	.	.	.	8dd\J	.
-!!LO:LB:g=original
-=9	=9	=9	=9	=9	=9	=9
+=8	=8	=8	=8	=8	=8	=8
 4.C/	.	.	4.cc\	.	4.cc\	.
 4.E-y\	.	6	4.g/	.	8cc\L	.
 .	.	.	.	.	8dd\	.
@@ -126,7 +126,8 @@
 .	.	.	.	.	8ff\L	.
 .	.	.	.	.	8cc\	.
 .	.	.	.	.	8ff\J	.
-=10	=10	=10	=10	=10	=10	=10
+!!LO:LB:g=original
+=9	=9	=9	=9	=9	=9	=9
 4.BB-y/	.	.	2.f/	.	8dd\L	.
 .	.	.	.	.	8cc\	.
 .	.	.	.	.	8b-y\J	.
@@ -139,7 +140,7 @@
 4.G\	.	.	.	.	8ee-y\L	.
 .	.	.	.	.	8b-y\	.
 .	.	.	.	.	8ee-y\J	.
-=11	=11	=11	=11	=11	=11	=11
+=10	=10	=10	=10	=10	=10	=10
 4.A-X\	.	5	2.e-y/	.	8cc\L	.
 .	.	.	.	.	8ee-y\	.
 .	.	.	.	.	8dd\J	.
@@ -152,7 +153,7 @@
 4.AAn/	.	.	.	.	8ff\L	.
 .	.	.	.	.	8cc\	.
 .	.	.	.	.	8ff\J	.
-=12	=12	=12	=12	=12	=12	=12
+=11	=11	=11	=11	=11	=11	=11
 4.B-y\	.	5	2.f/	.	8dd\L	.
 .	.	.	.	.	8ff\	.
 .	.	.	.	.	8ee-y\J	.
@@ -165,8 +166,7 @@
 4.BBn/	.	.	.	.	8gg\L	.
 .	.	.	.	.	8dd\	.
 .	.	.	.	.	8gg\J	.
-!!LO:LB:g=original
-=13	=13	=13	=13	=13	=13	=13
+=12	=12	=12	=12	=12	=12	=12
 4.c\	.	5	2.g/	.	8ee-y\L	.
 .	.	.	.	.	8gg\	.
 .	.	.	.	.	8ff\J	.
@@ -179,7 +179,8 @@
 4.An\	.	6	.	.	8ff\L	.
 .	.	.	.	.	8ee-y\	.
 .	.	.	.	.	8ff\J	.
-=14	=14	=14	=14	=14	=14	=14
+!!LO:LB:g=original
+=13	=13	=13	=13	=13	=13	=13
 4.B-y\	.	.	4.f/]	.	8dd\L	.
 .	.	.	.	.	8cc\	.
 .	.	.	.	.	8b-y\J	.
@@ -192,7 +193,7 @@
 4.BB-y/	.	7-r	.	.	8dd/L	.
 .	.	.	.	.	8b-y/	.
 .	.	.	.	.	8f/J	.
-=15	=15	=15	=15	=15	=15	=15
+=14	=14	=14	=14	=14	=14	=14
 4.EE-y/	.	.	4.g/	.	8ee-y/L	.
 .	.	.	.	.	8g/	.
 .	.	.	.	.	8e-y/J	.
@@ -205,7 +206,7 @@
 4.B-y\	.	.	4.b-y\	.	8f/L	.
 .	.	.	.	.	8e-y/	.
 .	.	.	.	.	8d/J	.
-=16	=16	=16	=16	=16	=16	=16
+=15	=15	=15	=15	=15	=15	=15
 4.E-y\	.	.	4.g/	.	4.e-y/	.
 4.G\	p	6	4.b-y\	p	8b-y/L	p
 .	.	.	.	.	8g/	.
@@ -216,8 +217,7 @@
 4.BB-y/	.	7-r	.	.	8dd/L	.
 .	.	.	.	.	8b-y/	.
 .	.	.	.	.	8f/J	.
-=17	=17	=17	=17	=17	=17	=17
-*>B1	*>B1	*>B1	*>B1	*>B1	*>B1	*>B1
+=16	=16	=16	=16	=16	=16	=16
 4.EE-y/	.	.	4.g/	.	8ee-y/L	.
 .	.	.	.	.	8g/	.
 .	.	.	.	.	8e-y/J	.
@@ -230,11 +230,12 @@
 4.B-y\	.	.	4.b-y\	.	8f/L	.
 .	.	.	.	.	8e-y/	.
 .	.	.	.	.	8d/J	.
-=18	=18	=18	=18	=18	=18	=18
-*>B2	*>B2	*>B2	*>B2	*>B2	*>B2	*>B2
+=17	=17	=17	=17	=17	=17	=17
+*>B1	*>B1	*>B1	*>B1	*>B1	*>B1	*>B1
 4.E-y\	.	.	4.g/	.	4e-y/	.
 .	.	.	.	.	8ee-y\	.
-=19:|!	=19:|!	=19:|!	=19:|!	=19:|!	=19:|!	=19:|!
+=1:|!	=1:|!	=1:|!	=1:|!	=1:|!	=1:|!	=1:|!
+*>B2	*>B2	*>B2	*>B2	*>B2	*>B2	*>B2
 4.E-y\	.	.	4.g/	.	4.e-y/	.
 2.ryy	.	.	2.ryy	.	2.ryy	.
 ==	==	==	==	==	==	==
@@ -242,7 +243,7 @@
 !!!SMS: RV 65 / Estienne Roger (No. 363), Amsterdam [facs.]
 !!!ENC: Fran Bennion
 !!!END: 2004/10/20
-!!!ONB: Converted from MuseData with musedata2hum on Fri Apr 19 13:33:10 2024
+!!!ONB: Converted from MuseData with musedata2hum on Sat Apr 20 21:10:36 2024
 !!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no07.pdf#page=5 MuseData edition
@@ -251,7 +252,7 @@
 !!!URL-pdf: https://s9.imslp.org/files/imglnks/usimg/8/89/IMSLP280401-PMLP10351-Vivaldi_Sonatas_Op_1_-_Organo_e_Violoncello.pdf#page=11 Organo e Violoncello parts, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
 !!!URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=3453s L'Arte dell'Arco
 !!!title: @{OTL}, mvmt. @{OMV}
-!!!EEV: 2024/04/19
+!!!EEV: 2024/04/20
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv065_07/stage2/04/01
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv065_07/stage2/04/02
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv065_07/stage2/04/03
