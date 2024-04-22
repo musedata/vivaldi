@@ -13,7 +13,7 @@
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/02/01
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Sun Apr 21 18:47:44 PDT 2024
+DOWNLOAD_DATE = Sun Apr 21 22:19:16 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -276,7 +276,7 @@ mheavy2          :|
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/02/02
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Sun Apr 21 18:47:44 PDT 2024
+DOWNLOAD_DATE = Sun Apr 21 22:19:16 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -528,7 +528,7 @@ mheavy2          :|
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/02/03
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Sun Apr 21 18:47:44 PDT 2024
+DOWNLOAD_DATE = Sun Apr 21 22:19:16 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -744,7 +744,7 @@ mheavy2          :|
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/02/04
 COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Sun Apr 21 18:47:44 PDT 2024
+DOWNLOAD_DATE = Sun Apr 21 22:19:16 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -1049,6 +1049,7 @@ mheavy2          :|
 /eof
 //
 @@@system-decoration: [(s1,s2,s3)]
+@@@URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._1:_Suonate_da_camera_a_tr.C3.A8.2C_due_violini_e_violone_o_cembalo Information about Vivaldi Op. 1 on the CCARH wiki
 @@@URL-pdf: https://pdf.musedata.org/vivaldi-op01-no06.pdf#page=2 MuseData edition
 @@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/1/18/IMSLP280399-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Primo.pdf#page=10 Violino primo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
 @@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/d/d5/IMSLP280400-PMLP10351-Vivaldi_Sonatas_Op_1_-_Violino_Secondo.pdf#page=9 Violino secondo part, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
