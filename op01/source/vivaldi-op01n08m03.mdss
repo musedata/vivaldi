@@ -29,6 +29,6 @@
 @@@filter: shed -ke "s/Basso continuo/Violoncello\nContinuo/I; s/Violino/Violin/I"
 @@@filter: shed -ke "s/^part4$/part3/I; s/^staff4$/staff3/I"
 @@@filter: shed -x fb -e "s/^part\\d$//I; s/^staff\\d$//I"
-@@@filter: humbreak -m 3,6,9,12
+@@@filter: humbreak -m 3,p6,9,12
 @@@filter: addkey
 @@@filter: addtempo -q 32

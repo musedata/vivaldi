@@ -29,7 +29,7 @@
 @@@filter: shed -ke "s/Basso continuo/Violoncello\nContinuo/I; s/Violino/Violin/I"
 @@@filter: shed -ke "s/^part4$/part3/I; s/^staff4$/staff3/I"
 @@@filter: shed -x fb -e "s/^part\\d$//I; s/^staff\\d$//I"
-@@@filter: humbreak -m 8,17,27,35,44,53,62,71
+@@@filter: humbreak -m 8,17,27,p35,44,53,62,71
 @@@filter: addkey
 @@@filter: addtempo -q 120
 @@@filter: addlabels -d "A,A1,A,A2,B,B" -r "A,A2,B" -l "m0:A; m31:A1; m32:A2; m32b:B"

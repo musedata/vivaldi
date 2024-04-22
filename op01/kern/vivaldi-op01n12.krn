@@ -199,7 +199,7 @@
 .	.	.	8dd\	.	8dd\	.
 =32	=32	=32	=32	=32	=32	=32
 2.D\;	.	.	2.dd\;	.	2.dd\;	.
-!!LO:LB:g=original
+!!LO:PB:g=original
 =33||	=33||	=33||	=33||	=33||	=33||	=33||
 *>C	*>C	*>C	*>C	*>C	*>C	*>C
 !!!OMD: 3. Allegro
@@ -378,7 +378,7 @@
 .	.	.	8dd\	.	8dd\	.
 =64	=64	=64	=64	=64	=64	=64
 2.D\;	.	.	2.dd\;	.	2.dd\;	.
-!!LO:LB:g=original
+!!LO:PB:g=original
 =65||	=65||	=65||	=65||	=65||	=65||	=65||
 *>E	*>E	*>E	*>E	*>E	*>E	*>E
 !!!OMD: 5.
@@ -616,7 +616,7 @@
 16A\	.	.	.	.	.	.
 16G\	.	.	.	.	8aa\J	.
 16F\JJ	.	.	.	.	.	.
-!!LO:LB:g=original
+!!LO:PB:g=original
 =86	=86	=86	=86	=86	=86	=86
 16c\LL	.	.	8ee/L	.	4.gg\	.
 16c\	.	.	.	.	.	.
@@ -879,7 +879,7 @@
 .	.	.	.	.	16a\	.
 8AA/	.	.	.	.	16gg\	.
 .	.	.	.	.	16ee\JJ	.
-!!LO:LB:g=original
+!!LO:PB:g=original
 =107	=107	=107	=107	=107	=107	=107
 8d\	.	.	16dd/LL	.	4ff\	.
 .	.	.	16a/	.	.	.
@@ -1119,7 +1119,7 @@
 8F\	.	.	.	.	8gg\J	.
 8F\	.	.	[4ff\	.	4aa\	.
 8f\J	.	.	.	.	.	.
-!!LO:LB:g=original
+!!LO:PB:g=original
 =134	=134	=134	=134	=134	=134	=134
 8C\L	.	5 4	4ff\]	.	4gg\	.
 8c\	.	.	.	.	.	.
@@ -1360,7 +1360,7 @@
 .	.	.	16ccc\LL	.	.	.
 8E\J	.	.	16gg\	.	.	.
 .	.	.	16ccc\JJ	.	.	.
-!!LO:LB:g=original
+!!LO:PB:g=original
 =165	=165	=165	=165	=165	=165	=165
 8F\L	.	.	4aa\	.	16r	.
 .	.	.	.	.	16ccc\LL	.
@@ -1596,7 +1596,7 @@
 .	.	.	8dd\	.	8dd\	.
 =192	=192	=192	=192	=192	=192	=192
 2.D\;	.	.	2.dd\;	.	2.dd\;	.
-!!LO:LB:g=original
+!!LO:PB:g=original
 =193||	=193||	=193||	=193||	=193||	=193||	=193||
 *>M	*>M	*>M	*>M	*>M	*>M	*>M
 !!!OMD: 13. Allegro
@@ -1808,7 +1808,7 @@
 12A\L	.	6	4r	.	4r	.
 12G\	.	.	.	.	.	.
 12F\J	.	.	.	.	.	.
-!!LO:LB:g=original
+!!LO:PB:g=original
 =214	=214	=214	=214	=214	=214	=214
 12c\L	.	.	4ee\	.	4gg\	.
 12C\	.	.	.	.	.	.
@@ -2000,7 +2000,7 @@
 4A\	.	6 4	(4dd\	.	(4ff\	.
 8AA/	.	5 #	8cc#X\)	.	8ee\)	.
 2.D\;	.	.	2.dd\;	.	2.dd\;	.
-!!LO:LB:g=original
+!!LO:PB:g=original
 =233||	=233||	=233||	=233||	=233||	=233||	=233||
 *>P	*>P	*>P	*>P	*>P	*>P	*>P
 !!!OMD: 16. Allegro
@@ -2264,7 +2264,7 @@
 16A\	.	.	.	.	.	.
 16B-y\	.	.	8e/J	.	8g\J	.
 16c\JJ	.	.	.	.	.	.
-!!LO:LB:g=original
+!!LO:PB:g=original
 =261	=261	=261	=261	=261	=261	=261
 8F/L	.	.	8f\L	.	8a\L	.
 8FF/J	.	.	16ff\L	.	16aa\L	.
@@ -2536,7 +2536,7 @@
 .	.	.	16ee\	.	16gg\	.
 8A\J	.	.	16ee\	.	16gg\	.
 .	.	.	16cc#X\JJ	.	16ee\JJ	.
-!!LO:LB:g=original
+!!LO:PB:g=original
 =283	=283	=283	=283	=283	=283	=283
 8D\L	.	.	16dd\LL	.	16ff\LL	.
 .	.	.	16ff\	.	16aa\	.
@@ -2805,7 +2805,7 @@
 16d\	.	.	.	.	.	.
 16d\	.	.	.	.	.	.
 16D\JJ	.	.	.	.	.	.
-!!LO:LB:g=original
+!!LO:PB:g=original
 =304	=304	=304	=304	=304	=304	=304
 4AA/	.	7 #	16cc#X\LL	.	16ee\LL	.
 .	.	.	16ee\	.	16gg\	.
@@ -3003,7 +3003,7 @@
 !!!SMS: RV 63 / Estienne Roger (No. 363), Amsterdam [facs.]
 !!!ENC: Fran Bennion
 !!!END: 2004/11/03
-!!!ONB: Converted from MuseData with musedata2hum on Sat Apr 20 23:12:57 2024
+!!!ONB: Converted from MuseData with musedata2hum on Sun Apr 21 19:21:00 2024
 !!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._1:_Suonate_da_camera_a_tr.C3.A8.2C_due_violini_e_violone_o_cembalo Information about Op. 1 on the CCARH wiki
@@ -3014,7 +3014,7 @@
 !!!URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=2031s L'Arte dell'Arco
 !!!URL-youtube: https://www.youtube.com/watch?v=hyqan5fcOkA&t=3s Rome Chamber Music Festival (2021)
 !!!title: @{OTL}
-!!!EEV: 2024/04/20
+!!!EEV: 2024/04/21
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/01
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/02
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/03
