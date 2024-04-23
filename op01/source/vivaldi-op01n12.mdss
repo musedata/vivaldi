@@ -9,13 +9,13 @@
 @@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
 @@@OMD: Adagio
 @@@key: d
-#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/01
+#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no12/stage2/01/01
 /eof
-#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/02
+#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no12/stage2/01/02
 /eof
-#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/03
+#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no12/stage2/01/03
 /eof
-#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/04
+#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no12/stage2/01/04
 /eof
 //
 @@@system-decoration: [(s1,s2,s3)]

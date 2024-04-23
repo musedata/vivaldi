@@ -11,24 +11,24 @@
 @@@key: g
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/04/01
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:48:55 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/01
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:09:50 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv073/stage2/04/01}
 TIMESTAMP: DEC/10/2005 [md5sum:4f3a49711def6aa40cdc47d732a50348]
-09/23/04 Fran Bennion
+09/23/04 Fran Bennion  rev. 05/12/21 E Correia
 WK#:01,01     MV#:4
 RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 1 in g minor
-Movement 4 - Capricio
+Vivaldi Op. 1, No. 1 in g minor
+Movement 4 - Capriccio
 Violino 1
 
 Group memberships: score
 score: part 1 of 4
-$   Q:2  K:-1  T:3/4  C:4  D:Capricio, Allegro
+$   Q:2  K:-1  T:3/4  C:4  D:Allegro
 &
 Sonata I is in g minor but Roger has notated it in 1 flat (Op01No01), these
 files.  It has been transcribed to 2 flats (modern notation) in Op1No1Gm.
@@ -95,7 +95,7 @@ Ef5    1      1 e f   u  [
 C5     1      1 e     u  =
 G4     1      1 e     u  =
 Ef4    1      1 e f   u  ]
-Ef5    1      1 e f   d         +
+Ef5    1      1 e f   d
 rest   1      1 e
 measure 11
 F5     1      1 e     d  [
@@ -211,7 +211,7 @@ F#5    1      1 e #   u  [
 D5     1      1 e     u  =
 A4     1      1 e     u  =
 D4     1      1 e     u  ]
-F#5    2      1 q #   d         +
+F#5    2      1 q #   d
 measure 27
 G5     6      1 h.    d        F
 mheavy2          :|
@@ -219,24 +219,24 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/04/02
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:48:55 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/02
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:09:50 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv073/stage2/04/02}
 TIMESTAMP: DEC/10/2005 [md5sum:50ccb11fe5b885464f0f712d6ff5485a]
-09/23/04 Fran Bennion
+09/23/04 Fran Bennion  rev. 05/12/21 E Correia
 WK#:01,01     MV#:4
 RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 1 in g minor
-Movement 4 - Capricio
+Vivaldi Op. 1, No. 1 in g minor
+Movement 4 - Capriccio
 Violino 2
 
 Group memberships: score
 score: part 2 of 4
-$   Q:2  K:-1  T:3/4  C:4  D:Capricio, Allegro
+$   Q:2  K:-1  T:3/4  C:4  D:Allegro
 &
 Sonata I is in g minor but Roger has notated it in 1 flat (Op01No01), these
 files.  It has been transcribed to 2 flats (modern notation) in Op1No1Gm.
@@ -319,7 +319,7 @@ rest   2      1 q
 rest   1      1 e
 G5     1      1 e     d  [
 Ef5    1      1 e f   d  =
-Bf4    1      1 e     d  ]
+Bf4    1    &11 e     d  ]
 &1
 Roger has C5 but it seems wrong.  To fit the pattern in the surrounding
 measures it should be a Bf4 and that is also what is in the scanned edition.
@@ -407,24 +407,24 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/04/03
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:48:55 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/03
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:09:50 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv073/stage2/04/03}
 TIMESTAMP: DEC/10/2005 [md5sum:4a6ceb05cf12699162f70fa2ca5e883e]
-09/23/04 Fran Bennion
+09/23/04 Fran Bennion  rev. 05/12/21 E Correia
 WK#:01,01     MV#:4
 RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 1 in g minor
-Movement 4 - Capricio
+Vivaldi Op. 1, No. 1 in g minor
+Movement 4 - Capriccio
 Violoncello
 
 Group memberships: score
 score: part 3 of 4
-$   Q:1  K:-1  T:3/4  C:22  D:Capricio, Allegro
+$   Q:1  K:-1  T:3/4  C:22  D:Allegro
 &
 Sonata I is in g minor but Roger has notated it in 1 flat (Op01No01), these
 files.  It has been transcribed to 2 flats (modern notation) in Op1No1Gm.
@@ -435,7 +435,7 @@ G2     1      1 q     u
 measure 2
 F#2    1      1 q #   u
 D3     1      1 q     d
-F#2    1      1 q #   u         +
+F#2    1      1 q #   u
 measure 3
 G2     1      1 q     u
 G3     1      1 q     d
@@ -443,7 +443,7 @@ G2     1      1 q     u
 measure 4
 F#2    1      1 q #   u
 D3     1      1 q     d
-F#2    1      1 q #   u         +
+F#2    1      1 q #   u
 measure 5
 G2     1      1 q     u
 G3     1      1 q     d
@@ -451,7 +451,7 @@ G2     1      1 q     u
 measure 6
 F#2    1      1 q #   u
 D3     1      1 q     d
-F#2    1      1 q #   u         +
+F#2    1      1 q #   u
 measure 7
 G2     1      1 q     u
 G3     1      1 q     d
@@ -481,7 +481,7 @@ D3     1      1 q     d
 measure 14
 Ef3    1      1 q f   d
 Ef4    1      1 q f   d
-Ef3    1      1 q f   d         +
+Ef3    1      1 q f   d
 measure 15
 E3     1      1 q n   d         +
 C4     1      1 q     d
@@ -492,12 +492,12 @@ F4     1      1 q     d
 F3     1      1 q     d
 measure 17
 F#3    1      1 q #   d
-F#4    1      1 q #   d
+F#4    1      1 q     d         &1+
 &1
 No # on F4 in Roger.  # understood (harmonic reasons).
 CCARH program automatically prints a # for such octave jumps.
 &1
-F#3    1      1 q #   d         +
+F#3    1      1 q #   d
 measure 18
 G3     1      1 q     d
 Bf3    1      1 q     d
@@ -545,24 +545,24 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/04/04
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:48:55 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/04
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:09:50 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv073/stage2/04/04}
 TIMESTAMP: DEC/10/2005 [md5sum:068e438272dc4cb64f29c7221608beb5]
-09/23/04 Fran Bennion
+09/23/04 Fran Bennion  rev. 05/12/21 E Correia
 WK#:01,01     MV#:4
 RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 1 in g minor
-Movement 4 - Capricio
+Vivaldi Op. 1, No. 1 in g minor
+Movement 4 - Capriccio
 Basso continuo
 
 Group memberships: score
 score: part 4 of 4
-$   Q:1  K:-1  T:3/4  C:22  D:Capricio, Allegro
+$   Q:1  K:-1  T:3/4  C:22  D:Allegro
 &
 Sonata I is in g minor but Roger has notated it in 1 flat (Op01No01), these
 files.  It has been transcribed to 2 flats (modern notation) in Op1No1Gm.
@@ -574,7 +574,7 @@ measure 2
 f1              6
 F#2    1      1 q #   u
 D3     1      1 q     d
-F#2    1      1 q #   u         +
+F#2    1      1 q #   u
 measure 3
 G2     1      1 q     u
 G3     1      1 q     d
@@ -583,7 +583,7 @@ measure 4
 f1              6
 F#2    1      1 q #   u
 D3     1      1 q     d
-F#2    1      1 q #   u         +
+F#2    1      1 q #   u
 measure 5
 G2     1      1 q     u
 G3     1      1 q     d
@@ -592,19 +592,19 @@ measure 6
 f1              6
 F#2    1      1 q #   u
 D3     1      1 q     d
-F#2    1      1 q #   u         +
+F#2    1      1 q #   u
 measure 7
 G2     1      1 q     u
 G3     1      1 q     d
 G2     1      1 q     u
 measure 8
-f1              x
+f1              #
 D3     3      1 h.    d
 mheavy4 9        :|:
 f1              n
 G2     1      1 q     u
 G3     1      1 q     d
-f1              7/
+f1              7n
 @  The "/" after the figure "7" could be a flat (refers to F5 natural in Viol.1).
 G2     1      1 q     u
 measure 10
@@ -630,7 +630,7 @@ measure 14
 f1              5
 Ef3    1      1 q f   d
 Ef4    1      1 q f   d
-Ef3    1      1 q f   d         +
+Ef3    1      1 q f   d
 measure 15
 f1              6
 E3     1      1 q n   d         +
@@ -644,12 +644,12 @@ F3     1      1 q     d
 measure 17
 f1              6
 F#3    1      1 q #   d
-F#4    1      1 q #   d
+F#4    1      1 q #   d         &1+
 &1
 No # on F4 in Roger.  # understood (harmonic reasons).
 CCARH program automatically prints a # for such octave jumps.
 &1
-F#3    1      1 q #   d         +
+F#3    1      1 q #   d
 measure 18
 f1              5
 G3     1      1 q     d
@@ -659,11 +659,11 @@ G3     1      1 q     d
 measure 19
 f1              7
 A3     1      1 q     d
-f2              7 x
+f2              7 #
 D4     1      1 q     d
 D3     1      1 q     d
 measure 20
-f2              7 x
+f2              7 #
 D3     1      1 q     d
 D4     1      1 q     d
 D3     1      1 q     d
@@ -673,7 +673,7 @@ D3     1      1 q     d
 D4     1      1 q     d
 D3     1      1 q     d
 measure 22
-f2              5 x
+f2              5 #
 D3     1      1 q     d
 D4     1      1 q     d
 D3     1      1 q     d
@@ -685,7 +685,7 @@ D3     1      1 q     d
 D4     1      1 q     d
 D3     1      1 q     d
 measure 24
-f2              5 x
+f2              5 #
 D3     1      1 q     d
 D4     1      1 q     d
 D3     1      1 q     d
@@ -696,7 +696,7 @@ G2     1      1 q     u
 G3     1      1 q     d
 G2     1      1 q     u
 measure 26
-f1              x
+f1              #
 D2     1      1 q     u
 D3     1      1 q     d
 D2     1      1 q     u
@@ -725,7 +725,7 @@ mheavy2          :|
 @@@filter: addtempo -q 220
 @@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "m0:A; m9:B"
 @@@EEV: 2024/04/22
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/04/01
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/04/02
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/04/03
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/04/04
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/02
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/03
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/04

@@ -11,24 +11,24 @@
 @@@key: g
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/02/01
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:48:44 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/02/01
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:09:40 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv073/stage2/02/01}
 TIMESTAMP: DEC/10/2005 [md5sum:a4fce51b19190593aa3d092e350b152e]
-09/22/04 Fran Bennion
+09/22/04 Fran Bennion  rev. 05/12/21 E Correia
 WK#:01,01     MV#:2
 RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 1 in g minor
+Vivaldi Op. 1, No. 1 in g minor
 Movement 2 - Allemanda
 Violino 1
 
 Group memberships: score
 score: part 1 of 4
-$   Q:4  K:-1  T:1/1  C:4  D:Allemanda, Allegro
+$   Q:4  K:-1  T:1/1  C:4  D: Allegro
 &
 Sonata I is in g minor but Roger has notated it in 1 flat (Op01No01), these
 files.  It has been transcribed to 2 flats (modern notation) in Op1No1Gm.
@@ -52,8 +52,8 @@ G5     2      1 e     d
 measure 3
 Af5    2      1 e f   d  [     (
 F#5    2      1 e #   d  ]     )
-G5     8      1 h     d
-F#5    4      1 q #   d         +
+G5     8      1 h     d         &3t
+F#5    4      1 q #   d
 measure 4
 G5     4      1 q     d
 rest   4      1 q
@@ -62,7 +62,7 @@ Ef5    1      1 s f   d  ==
 C5     1      1 s     d  ==
 G5     1      1 s     d  ]]
 G5     1      1 s     d  [[
-Ef5    1      1 s f   d  ==     +
+Ef5    1      1 s f   d  ==
 C5     1      1 s     d  ==
 G5     1      1 s     d  ]]
 measure 5
@@ -86,7 +86,7 @@ C5     1      1 s     d  ==
 A5     1      1 s     d  ]]
 Bf5    1      1 s     d  [[
 F5     1      1 s     d  ==
-Ef5    1      1 s f   d  ==     +
+Ef5    1      1 s f   d  ==
 D5     1      1 s     d  ]]
 C5     3      1 e.    d  [
 Bf4    1      1 s     d  ]\
@@ -99,7 +99,7 @@ Af5    2      1 e f   d  ]
 Af5    1      1 s     d  [[
 G5     1      1 s     d  ==
 F5     1      1 s     d  ==
-Af5    1      1 s f   d  ]]     +
+Af5    1      1 s f   d  ]]
 measure 8
 G5     2      1 e     d  [
 C5     2      1 e     d  ]
@@ -135,9 +135,9 @@ F5     6      1 q.    d
 G5     2      1 e     d
 measure 12
 Ef5    2      1 e f   d  [     (
-C#5    2      1 e #   d  ]     )+
-D5     8      1 h     d
-C#5    4      1 q #   d         +
+C#5    2      1 e #   d  ]     )
+D5     8      1 h     d         &3t
+C#5    4      1 q #   d
 @  The C#5s in meas. 12 were scanned as C5s
 measure 13
 D5     1      1 s     u  [[
@@ -188,7 +188,7 @@ measure 18
 Ef5    3      1 e.f   d  [
 F5     1      1 s     d  =\
 D5     3      1 e.    d  =
-Ef5    1      1 s f   d  ]\     +
+Ef5    1      1 s f   d  ]\
 C5     3      1 e.    d  [
 D5     1      1 s     d  =\
 Bf4    3      1 e.    d  =
@@ -207,7 +207,7 @@ Af5    2      1 e f   d  ]
 Af5    1      1 s     d  [[
 G5     1      1 s     d  ==
 F5     1      1 s     d  ==
-Af5    1      1 s f   d  ]]     +
+Af5    1      1 s f   d  ]]
 G5     2      1 e     d  [
 C5     2      1 e     d  ]
 C6     4-     1 q     d        -
@@ -241,20 +241,20 @@ Bf5    1      1 s     d  ==
 A5     1      1 s     d  ==
 G5     1      1 s     d  ]]
 measure 24
-F#5    1      1 s #   d  [[    (+
+F#5    1      1 s #   d  [[    (
 E5     1      1 s     d  =]    )
 D5     2      1 e     d  ]
 rest   2      1 e
 G5     2      1 e     d
 Af5    2      1 e f   d  [     (
 G5     2      1 e     d  =     )
-Af5    2      1 e f   d  =     (+
+Af5    2      1 e f   d  =     (
 G5     2      1 e     d  ]     )
 measure 25
-F#5    2      1 e #   d  [     (+
+F#5    2      1 e #   d  [     (
 A5     2      1 e n   d  =     )+
 D5     2      1 e     d  =     (
-F#5    2      1 e #   d  ]     )+
+F#5    2      1 e #   d  ]     )
 G5     2      1 e     d  [     (
 D5     2      1 e     d  =     )
 A5     2      1 e     d  =     (
@@ -263,8 +263,8 @@ D5     2      1 e     d  ]     )
 measure 26
 C6     2      1 e     d  [     (
 F#5    2      1 e #   d  ]     )
-G5     8      1 h     d
-F#5    4      1 q #   d         +
+G5     8      1 h     d         &3t
+F#5    4      1 q #   d
 measure 27
 G5     4      1 q     d
 rest   2      1 e
@@ -273,22 +273,22 @@ P    C17:Y58
 G5     2      1 e     d
 Af5    2      1 e f   d  [     (
 G5     2      1 e     d  =     )
-Af5    2      1 e f   d  =     (+
+Af5    2      1 e f   d  =     (
 G5     2      1 e     d  ]     )
 measure 28
 F#5    2      1 e #   d  [     (
 A5     2      1 e n   d  =     )+
 D5     2      1 e     d  =     (
-F#5    2      1 e #   d  ]     )+
+F#5    2      1 e #   d  ]     )
 G5     2      1 e     d  [     (
 D5     2      1 e     d  =     )
 Ef5    2      1 e f   d  =     (
 C5     2      1 e     d  ]     )
 measure 29
 Af4    2      1 e f   u  [     (
-F#4    2      1 e #   u  ]     )+
-G4     8      1 h     u
-F#4    4      1 q #   u         +
+F#4    2      1 e #   u  ]     )
+G4     8      1 h     u         &3t
+F#4    4      1 q #   u
 measure 30
 *               G       f
 P    C17:Y64
@@ -304,24 +304,24 @@ mheavy2                         :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/02/02
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:48:44 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/02/02
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:09:40 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv073/stage2/02/02}
 TIMESTAMP: DEC/10/2005 [md5sum:421b1a66df60e73cd9ada961641678ae]
-09/22/04 Fran Bennion
+09/22/04 Fran Bennion  rev. 05/12/21 E Correia
 WK#:01,01     MV#:2
 RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 1 in g minor
+Vivaldi Op. 1, No. 1 in g minor
 Movement 2 - Allemanda
 Violino 2
 
 Group memberships: score
 score: part 2 of 4
-$   Q:4  K:-1  T:1/1  C:4  D:Allemanda, Allegro
+$   Q:4  K:-1  T:1/1  C:4  D:Allegro
 &
 Sonata I is in g minor but Roger has notated it in 1 flat (Op01No01), these
 files.  It has been transcribed to 2 flats (modern notation) in Op1No1Gm.
@@ -346,7 +346,7 @@ measure 3
 C6     4      1 q     d
 Bf5    2      1 e     d  [     (
 A5     2      1 e     d  ]     )
-Bf5    4      1 q     d
+Bf5    4      1 q     d         &2t
 A5     4      1 q     d
 measure 4
 G5     1      1 s     d  [[
@@ -380,7 +380,7 @@ A4     3      1 e.    u  [
 Bf4    1      1 s     u  ]\
 measure 7
 @   "$  K:0" was picked up here by the scanner.
-Bf4    4      1 q f   d
+Bf4    4      1 q     d
 rest   2      1 e
 Bf4    2      1 e     d
 F5     8-     1 h     d        -
@@ -390,7 +390,7 @@ Ef5    2      1 e f   d  ]
 Ef5    1      1 s     d  [[
 D5     1      1 s     d  ==
 C5     1      1 s     d  ==
-Ef5    1      1 s f   d  ]]     +
+Ef5    1      1 s f   d  ]]
 D5     2      1 e     d  [
 G4     2      1 e     d  ]
 G5     4-     1 q     d        -
@@ -422,7 +422,7 @@ measure 12
 G5     4      1 q     d
 F5     2      1 e     d  [
 E5     2      1 e     d  ]
-F5     4      1 q     d
+F5     4      1 q     d        &2t
 E5     4      1 q     d
 measure 13
 D5     4      1 q     d
@@ -465,7 +465,7 @@ Ef5    1      1 s f   d  ==
 C5     1      1 s     d  ]]
 F5     4-     1 q     d        -
 F5     2      1 e     d
-Ef5    4      1 q f   d         +
+Ef5    4      1 q f   d
 D5     2-     1 e     d        -
 measure 18
 D5     2      1 e     d
@@ -487,7 +487,7 @@ Ef5    2      1 e f   d  ]
 Ef5    1      1 s     d  [[
 D5     1      1 s     d  ==
 C5     1      1 s     d  ==
-Ef5    1      1 s f   d  ]]     +
+Ef5    1      1 s f   d  ]]
 measure 21
 D5     2      1 e     d  [
 G4     2      1 e     d  ]
@@ -525,14 +525,14 @@ rest   2      1 e
 A5     2      1 e     d
 D5     4      1 q     d
 rest   2      1 e
-F#5    2      1 e n   d         +
+F#5    2      1 e #   d
 measure 26
 G5     2      1 e     d  [
 A5     2      1 e     d  =
 D5     2      1 e     d  =
 C5     2      1 e     d  ]
 Bf4    4      1 q     d
-A4     4      1 q     u
+A4     4      1 q     u         &2t
 measure 27
 G4     4      1 q     u
 *               G       p
@@ -553,7 +553,7 @@ C5     4      1 q     d
 Bf4    2      1 e     u  [     (
 A4     2      1 e     u  ]     )
 Bf4    4      1 q     d
-A4     4      1 q     u
+A4     4      1 q     u         &2t
 measure 30
 G4     4      1 q     u
 rest   1      1 s
@@ -568,24 +568,24 @@ mheavy2                         :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/02/03
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:48:44 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/02/03
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:09:40 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv073/stage2/02/03}
 TIMESTAMP: DEC/10/2005 [md5sum:39fa5d4862dea9a947a078cbe57b845b]
-09/22/04 Fran Bennion
+09/22/04 Fran Bennion  rev. 05/12/21 E Correia
 WK#:01,01     MV#:2
 RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 1 in g minor
+Vivaldi Op. 1, No. 1 in g minor
 Movement 2 - Allemanda
 Violoncello
 
 Group memberships: score
 score: part 3 of 4
-$   Q:4  K:-1  T:1/1  C:22  D:Allemanda, Allegro
+$   Q:4  K:-1  T:1/1  C:22  D:Allegro
 &
 Sonata I is in g minor but Roger has notated it in 1 flat (Op01No01), these
 files.  It has been transcribed to 2 flats (modern notation) in Op1No1Gm.
@@ -597,7 +597,7 @@ G3     2      1 e     d
 F#3    4      1 q #   d
 rest   2      1 e
 G3     2      1 e     d
-F#3    4      1 q #   d         +
+F#3    4      1 q #   d
 measure 2
 rest   2      1 e
 G3     2      1 e     d
@@ -629,7 +629,7 @@ measure 6
 Ef3    4      1 q f   d
 F3     4      1 q     d
 Bf2    2      1 e     u  [
-Ef3    2      1 e f   u  =      +
+Ef3    2      1 e f   u  =
 F3     2      1 e     u  =
 F2     2      1 e     u  ]
 measure 7
@@ -703,14 +703,14 @@ D4     2      1 e     d
 C#4    4      1 q #   d
 rest   2      1 e
 D4     2      1 e     d
-C#4    4      1 q #   d         +
+C#4    4      1 q #   d
 measure 15
 rest   2      1 e
 D4     2      1 e     d
 C#4    4      1 q #   d
 rest   2      1 e
 D4     2      1 e     d
-C#4    4      1 q #   d         +
+C#4    4      1 q #   d
 measure 16
 D4     2      1 e     d  [
 D3     2      1 e     d  ]
@@ -718,7 +718,7 @@ rest   4      1 q
 rest   2      1 e
 D4     2      1 e     d
 Ef4    2      1 e f   d  [
-C4     2      1 e     d  ]
+C4     2      1 e     d  ]      &2+
 measure 17
 D4     2      1 e     d  [
 C4     2      1 e     d  =
@@ -735,12 +735,12 @@ G3     2      1 e     d  ]
 Ef3    2      1 e f   d  [
 F3     2      1 e     d  =
 D3     2      1 e     d  =
-Ef3    2      1 e f   d  ]      +
+Ef3    2      1 e f   d  ]
 measure 19
-Ef3    2      1 e     d  [
+Ef3    2      1 e     d  [      &1+
 @1  Old notation - flat carries over bar line.  Scanner entered E3s this measure.
 D3     1      1 s     d  =[
-Ef3    1      1 s f   d  ]]     +
+Ef3    1      1 s f   d  ]]
 F3     2      1 e     u  [
 F2     2      1 e     u  ]
 Bf2    4      1 q     u
@@ -835,24 +835,24 @@ mheavy2                         :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/02/04
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:48:44 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/02/04
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:09:40 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv073/stage2/02/04}
 TIMESTAMP: DEC/10/2005 [md5sum:36265edfb3b565173f1495d46af796d2]
-09/22/04 Fran Bennion
+09/22/04 Fran Bennion  rev. 05/12/21 E Correia
 WK#:01,01     MV#:2
 RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 1 in g minor
+Vivaldi Op. 1, No. 1 in g minor
 Movement 2 - Allemanda
 Basso continuo
 
 Group memberships: score
 score: part 4 of 4
-$   Q:4  K:-1  T:1/1  C:22  D:Allemanda, Allegro
+$   Q:4  K:-1  T:1/1  C:22  D:(Allegro)
 &
 Sonata I is in g minor but Roger has notated it in 1 flat (Op01No01), these
 files.  It has been transcribed to 2 flats (modern notation) in Op1No1Gm.
@@ -866,7 +866,7 @@ F#3    4      1 q #   d
 rest   2      1 e
 G3     2      1 e     d
 f1              6
-F#3    4      1 q #   d         +
+F#3    4      1 q #   d
 measure 2
 rest   2      1 e
 G3     2      1 e     d
@@ -880,7 +880,7 @@ D3     2      1 e     d  ]
 measure 3
 f2              6f f
 C3     2      1 e     u  [
-f1              x
+f1              #
 D3     2      1 e     u  =
 f1              5
 Ef3    2      1 e f   u  =
@@ -889,7 +889,7 @@ C3     2      1 e     u  ]
 f2              6 4
 D3     2      1 e     u  [
 C3     2      1 e     u  =
-f2              5 x
+f2              5 #
 D3     2      1 e     u  =
 D2     2      1 e     u  ]
 measure 4
@@ -911,11 +911,11 @@ f1              6
 Ef3    4      1 q f   d
 F3     4      1 q     d
 Bf2    2      1 e     u  [
-Ef3    2      1 e f   u  =      +
+Ef3    2      1 e f   u  =
 F3     2      1 e     u  =
 F2     2      1 e     u  ]
 measure 7
-Bf2    4      1 q f   u
+Bf2    4      1 q     u
 rest   4      1 q
 rest   8      1 h
 measure 8
@@ -977,7 +977,7 @@ A3     1      1 s     d  [[
 G3     1      1 s     d  ==
 F3     1      1 s     d  ==
 G3     1      1 s     d  ]]
-f2              5 x
+f2              5 #
 A3     1      1 s     d  [[
 G3     1      1 s     d  ==
 A3     1      1 s     d  ==
@@ -996,7 +996,7 @@ C#4    4      1 q #   d
 rest   2      1 e
 D4     2      1 e     d
 f1              6
-C#4    4      1 q #   d         +
+C#4    4      1 q #   d
 measure 15
 rest   2      1 e
 D4     2      1 e     d
@@ -1005,7 +1005,7 @@ C#4    4      1 q #   d
 rest   2      1 e
 D4     2      1 e     d
 f1              6
-C#4    4      1 q #   d         +
+C#4    4      1 q #   d
 measure 16
 D4     2      1 e     d  [
 D3     2      1 e     d  ]
@@ -1040,14 +1040,14 @@ Ef3    2      1 e f   d  [
 F3     2      1 e     d  =
 f2              6 5
 D3     2      1 e     d  =
-Ef3    2      1 e f   d  ]      +
+Ef3    2      1 e f   d  ]
 measure 19
 f2              4 2
-Ef3    2      1 e     d  [
+Ef3    2      1 e     d  [      &1+
 @1  Old notation - flat carries over bar line.  No flat on E3 in Roger.
 f1              6
 D3     1      1 s     d  =[
-Ef3    1      1 s f   d  ]]     +
+Ef3    1      1 s f   d  ]]
 f2              5 4
 F3     2      1 e     u  [
 f1              3
@@ -1090,7 +1090,7 @@ Bf3    1      1 s     d  ==
 C4     1      1 s     d  ==
 A3     1      1 s     d  ]]
 measure 24
-f1              x
+f1              #
 D4     2      1 e     d  [
 C4     2      1 e     d  =
 f1              6
@@ -1100,7 +1100,7 @@ f2              6f f
 C4     4      1 q     d
 C3     4      1 q     u
 measure 25
-f1              x
+f1              #
 D3     4      1 q     d
 f2              6 4+
 C3     4      1 q     u
@@ -1123,7 +1123,7 @@ C3     2      1 e     u  ]
 f2              6 4
 D3     2      1 e     u  [
 C3     2      1 e     u  =
-f2              5 x
+f2              5 #
 D3     2      1 e     u  =
 D2     2      1 e     u  ]
 measure 27
@@ -1139,7 +1139,7 @@ f2              6f f
 C4     4      1 q     d
 C3     4      1 q     u
 measure 28
-f1              x
+f1              #
 D3     4      1 q     d
 f2              6 4+
 C3     4      1 q     u
@@ -1149,16 +1149,16 @@ C3     4-     1 q     u        -
 measure 29
 f1              6f
 C3     2      1 e     u  [
-f1              x
+f1              #
 D3     2      1 e     u  =
 f1              5
 Ef3    2      1 e f   u  =
-f1              6f
+f1              6n
 C3     2      1 e     u  ]
 f2              6 4
 D3     2      1 e     u  [
 C3     2      1 e     u  =
-f2              5 x
+f2              5 #
 D3     2      1 e     u  =
 D2     2      1 e     u  ]
 measure 30
@@ -1189,7 +1189,7 @@ mheavy2                         :|
 @@@filter: addtempo -q 124
 @@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "0:A; m13b:B"
 @@@EEV: 2024/04/22
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/02/01
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/02/02
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/02/03
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/02/04
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/02/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/02/02
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/02/03
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/02/04

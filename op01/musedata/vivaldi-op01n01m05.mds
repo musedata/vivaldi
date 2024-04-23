@@ -11,24 +11,24 @@
 @@@key: g
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/05/01
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:49:00 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/05/01
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:09:55 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv073/stage2/05/01}
 TIMESTAMP: DEC/10/2005 [md5sum:eae84d8aa7aa145746ff7cab6440221d]
-09/24/04 Fran Bennion
+09/24/04 Fran Bennion  rev. 05/12/21 E Correia
 WK#:01,01     MV#:5
 RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 1 in g minor
+Vivaldi Op. 1, No. 1 in g minor
 Movement 5 - Gavotta
 Violino 1
 
 Group memberships: score
 score: part 1 of 4
-$   Q:2  K:-1  T:1/1  C:4  D:Gavotta, Allegro
+$   Q:2  K:-1  T:1/1  C:4  D:Allegro
 &
 Sonata I is in g minor but Roger has notated it in 1 flat (Op01No01), these
 files.  It has been transcribed to 2 flats (modern notation) in Op1No1Gm.
@@ -55,10 +55,10 @@ Ef5    1      1 e f   d  ]
 D5     1      1 e     d  [
 F5     1      1 e     d  =
 Bf5    1      1 e     d  =
-Ef5    1      1 e f   d  ]      +
+Ef5    1      1 e f   d  ]
 measure 4
 D5     2      1 q     d
-C5     2      1 q     d
+C5     2      1 q     d         &2t
 Bf4    4      1 h     d
 mheavy4 5       :|:
 D5     1      1 e     d  [
@@ -87,32 +87,32 @@ G5     1      1 e     d  =     (
 C5     1      1 e     d  ]     )
 measure 8
 Bf4    2      1 q     d
-A4     2      1 q     u
+A4     2      1 q     u         &2t
 G4     4      1 h     u         F
-P    C33:Y-13
+P    C33:Y-10
 mheavy2          :|
 /END
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/05/02
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:49:00 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/05/02
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:09:55 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv073/stage2/05/02}
 TIMESTAMP: DEC/10/2005 [md5sum:dad875583526134ce5061434c36cfa63]
-09/24/04 Fran Bennion
+09/24/04 Fran Bennion  rev. 05/12/21 E Correia
 WK#:01,01     MV#:5
 RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 1 in g minor
+Vivaldi Op. 1, No. 1 in g minor
 Movement 5 - Gavotta
 Violino 2
 
 Group memberships: score
 score: part 2 of 4
-$   Q:2  K:-1  T:1/1  C:4  D:Gavotta, Allegro
+$   Q:2  K:-1  T:1/1  C:4  D:Allegro
 &
 Sonata I is in g minor but Roger has notated it in 1 flat (Op01No01), these
 files.  It has been transcribed to 2 flats (modern notation) in Op1No1Gm.
@@ -126,7 +126,7 @@ C5     1      1 e     d
 measure 2
 F#5    2      1 q #   d
 D5     1      1 e     d  [
-F#5    1      1 e #   d  ]      +
+F#5    1      1 e #   d  ]
 G5     2      1 q     d
 D5     2-     1 q     d        -
 measure 3
@@ -135,7 +135,7 @@ C5     4      1 h     d
 Bf4    2-     1 q     d        -
 measure 4
 Bf4    2      1 q     d
-A4     2      1 q     u
+A4     2      1 q     u         &2t
 Bf4    4      1 h     d
 mheavy4 5          :|:
 rest   2      1 q
@@ -148,35 +148,35 @@ A4     4      1 h     u
 measure 7
 D5     2      1 q     d
 Ef5    2      1 q f   d
-A4     2      1 q n   u
+A4     2      1 q     u
 G4     2-     1 q     u        -
 measure 8
 G4     2      1 q     u
-F#4    2      1 q #   u
+F#4    2      1 q #   u         &2t
 G4     4      1 h     u        F
 mheavy2          :|
 /END
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/05/03
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:49:00 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/05/03
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:09:55 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv073/stage2/05/03}
 TIMESTAMP: DEC/10/2005 [md5sum:30d867f0fee200639df3ba4f489edfc0]
-09/24/04 Fran Bennion
+09/24/04 Fran Bennion  rev. 05/12/21 E Correia
 WK#:01,01     MV#:5
 RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 1 in g minor
+Vivaldi Op. 1, No. 1 in g minor
 Movement 5 - Gavotta
 Violoncello
 
 Group memberships: score
 score: part 3 of 4
-$   Q:2  K:-1  T:1/1  C:22  D:Gavotta, Allegro
+$   Q:2  K:-1  T:1/1  C:22  D:Allegro
 &
 Sonata I is in g minor but Roger has notated it in 1 flat (Op01No01), these
 files.  It has been transcribed to 2 flats (modern notation) in Op1No1Gm.
@@ -225,24 +225,24 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/05/04
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:49:00 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/05/04
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:09:55 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv073/stage2/05/04}
 TIMESTAMP: DEC/10/2005 [md5sum:0d9b8beb77d2ab89d530bc92a5f07d7a]
-09/24/04 Fran Bennion
+09/24/04 Fran Bennion  rev. 05/12/21 E Correia
 WK#:01,01     MV#:5
 RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 1 in g minor
+Vivaldi Op. 1, No. 1 in g minor
 Movement 5 - Gavotta
 Basso continuo
 
 Group memberships: score
 score: part 4 of 4
-$   Q:2  K:-1  T:1/1  C:22  D:Gavotta, Allegro
+$   Q:2  K:-1  T:1/1  C:22  D:Allegro
 &
 Sonata I is in g minor but Roger has notated it in 1 flat (Op01No01), these
 files.  It has been transcribed to 2 flats (modern notation) in Op1No1Gm.
@@ -251,13 +251,13 @@ G2     2      1 q     u
 f1              6
 Bf2    1      1 e     u  [
 C3     1      1 e     u  ]
-f1              x
+f1              #
 D3     2      1 q     d
 f1     1        7
 f1              6
 Ef3    2      1 q f   d
 measure 2
-f1              x
+f1              #
 D3     1      1 e     u  [
 C3     1      1 e     u  =
 f1              6
@@ -288,14 +288,14 @@ C3     4      1 h     u
 measure 6
 f1              6
 C#3    4      1 h     u
-f1              x
+f1              #
 D3     4      1 h     d
 measure 7
 f1              6
 Bf2    2      1 q     u
 f2              6f f
 C3     2      1 q     u
-f1              x
+f1              #
 D3     2      1 q     d
 rest   1      1 e
 f1              6
@@ -304,7 +304,7 @@ measure 8
 f2              6 4
 D3     1      1 e     u  [
 C3     1      1 e     u  =
-f2              5 x
+f2              5 #
 D3     1      1 e     u  =
 D2     1      1 e     u  ]
 G2     4      1 h     u        F
@@ -330,7 +330,7 @@ mheavy2          :|
 @@@filter: addtempo -q 120
 @@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "m0:A; m5:B"
 @@@EEV: 2024/04/22
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/05/01
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/05/02
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/05/03
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/05/04
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/05/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/05/02
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/05/03
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/05/04

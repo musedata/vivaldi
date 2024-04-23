@@ -11,24 +11,24 @@
 @@@key: g
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/01/01
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:48:38 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/01/01
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:09:35 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv073/stage2/01/01}
 TIMESTAMP: DEC/10/2005 [md5sum:974b7c4fd816495d01aeb59558b24873]
-09/20/04 Fran Bennion
+09/20/04 Fran Bennion  rev. 05/12/21 E Correia
 WK#:01,01     MV#:1
 RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 1 in g minor
+Vivaldi Op. 1, No. 1 in g minor
 Movement 1 - Preludio
 Violino 1
 
 Group memberships: score
 score: part 1 of 4
-$   Q:8  K:-1  T:1/1  C:4  D:Preludio, Grave
+$   Q:8  K:-1  T:1/1  C:4  D:Grave
 &
 Sonata I is in g minor but Roger has notated it in 1 flat (Op01No01), these
 files.  It has been transcribed to 2 flats (modern notation) in Op1No1Gm.
@@ -37,7 +37,7 @@ rest  16      1 h
 rest   8      1 q
 G4     8      1 q     u
 measure 2
-Ef5   24      1 h.f   d
+Ef5   24      1 h.f   d         &3t
 D5     8      1 q     d
 measure 3
 Bf5   12      1 q.    d
@@ -52,7 +52,7 @@ A5     4      1 e     d  [
 G5     4      1 e     d  ]
 measure 5
 F#5    8      1 q #   d
-G5    16      1 h     d
+G5    16      1 h     d         &3t
 F#5    8      1 q     d         +
 measure 6
 G5     8      1 q     d
@@ -65,7 +65,7 @@ Ef5    8      1 q f   d
 G5     8      1 q     d
 C5     4      1 e     d
 F5     8      1 q     d
-Ef5    4      1 e     d         +
+Ef5    4      1 e f   d         +
 measure 8
 D5     4      1 e     d  [
 Bf5    2      1 s     d  =[    (
@@ -135,33 +135,33 @@ G4     4      1 e     u  [
 D5     4      1 e     u  ]
 *               G       f
 P    C17:Y60
-G5    16      1 h     d
+G5    16      1 h     d         &3t
 F#5    8      1 q #   d
 measure 18
-G5    32      1 w
+G5    32      1 w     d
 mheavy2
 /END
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/01/02
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:48:38 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/01/02
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:09:35 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv073/stage2/01/02}
 TIMESTAMP: DEC/10/2005 [md5sum:083c986cf9b28384dd309d1648ec1702]
-09/20/04 Fran Bennion
+09/20/04 Fran Bennion  rev. 05/12/21 E Correia
 WK#:01,01     MV#:1
 RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 1 in g minor
+Vivaldi Op. 1, No. 1 in g minor
 Movement 1 - Preludio
 Violino 2
 
 Group memberships: score
 score: part 2 of 4
-$   Q:8  K:-1  T:1/1  C:4  D:Preludio, Grave
+$   Q:8  K:-1  T:1/1  C:4  D:Grave
 &
 Sonata I is in g minor but Roger has notated it in 1 flat (Op01No01), these
 files.  It has been transcribed to 2 flats (modern notation) in Op1No1Gm.
@@ -187,7 +187,7 @@ C5     8-     1 q     d        -
 measure 5
 C5     8      1 q     d
 Bf4    8      1 q     d
-A4    16      1 h     u
+A4    16      1 h     u         &3t
 measure 6
 G4     4      1 e     u
 D5     8      1 q     d
@@ -227,7 +227,7 @@ Ef5   24      1 h.f   d
 D5     4      1 e     d  [
 C5     4      1 e     d  ]
 measure 13
-Bf4    4      1 e f   u  [
+Bf4    4      1 e     u  [
 G4     4      1 e     u  ]
 G5     8-     1 q     d        -
 G5     4      1 e     d
@@ -237,7 +237,7 @@ measure 14
 Ef5    4      1 e     d
 D5     8      1 q     d
 C5     8      1 q     d
-Bf4    4      1 e f   d
+Bf4    4      1 e     d
 A4     6      1 e.    u  [
 G4     2      1 s     u  ]\
 measure 15
@@ -245,7 +245,7 @@ G4     8      1 q     u
 rest   4      1 e
 *               G       p
 P    C17:Y59
-Bf5    4      1 e f   d
+Bf5    4      1 e     d
 A5     4      1 e     d  [
 D5     4      1 e     d  ]
 G5     4      1 e     d  [
@@ -267,33 +267,33 @@ rest   4      1 e
 *               G       f
 P    C17:Y60
 Ef5    4      1 e f   d
-Bf4    8      1 q     d
+Bf4    8      1 q     d         &3t
 A4     8      1 q     u
 measure 18
-G4    32      1 w
+G4    32      1 w     u
 mheavy2
 /END
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/01/03
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:48:38 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/01/03
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:09:35 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv073/stage2/01/03}
 TIMESTAMP: DEC/10/2005 [md5sum:8f1cd9e21741d0cbe5167ad72f0aa8de]
-09/20/04 Fran Bennion
+09/20/04 Fran Bennion  rev. 05/12/21 E Correia
 WK#:01,01     MV#:1
 RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 1 in g minor
+Vivaldi Op. 1, No. 1 in g minor
 Movement 1 - Preludio
 Violoncello
 
 Group memberships: score
 score: part 3 of 4
-$   Q:2  K:-1  T:1/1  C:22  D:Preludio, Grave
+$   Q:2  K:-1  T:1/1  C:22  D:Grave
 &
 Sonata I is in g minor but Roger has notated it in 1 flat (Op01No01), these
 files.  It has been transcribed to 2 flats (modern notation) in Op1No1Gm.
@@ -357,7 +357,7 @@ Ef3    2      1 q f   d
 Bf2    1      1 e     u  [
 C3     1      1 e     u  ]
 D3     2      1 q     d
-Ef3    2      1 q     d         +
+Ef3    2      1 q     d
 measure 14
 Bf3    2      1 q     d
 C4     2      1 q     d
@@ -391,30 +391,30 @@ C3     1      1 e     u  =
 D3     1      1 e     u  =
 D2     1      1 e     u  ]
 measure 18
-G2     8      1 w
+G2     8      1 w     u
 mheavy2
 /END
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/01/04
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:48:38 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/01/04
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:09:35 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv073/stage2/01/04}
 TIMESTAMP: DEC/10/2005 [md5sum:955c42fa43a87f26e6295c8970278fa0]
-09/20/04 Fran Bennion
+09/20/04 Fran Bennion  rev. 05/12/21 E Correia
 WK#:01,01     MV#:1
 RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 1 in g minor
+Vivaldi Op. 1, No. 1 in g minor
 Movement 1 - Preludio
 Basso continuo
 
 Group memberships: score
 score: part 4 of 4
-$   Q:2  K:-1  T:1/1  C:22  D:Preludio, Grave
+$   Q:2  K:-1  T:1/1  C:22  D:Grave
 &
 Sonata I is in g minor but Roger has notated it in 1 flat (Op01No01), these
 files.  It has been transcribed to 2 flats (modern notation) in Op1No1Gm.
@@ -447,15 +447,15 @@ f2     2        5 f
 f1              6
 C3     4      1 h     u
 measure 5
-f2              7 x
+f2              7 #
 D3     2      1 q     d
 f1              5
 Ef3    1      1 e f   u  [
 f1              6
 Bf2    1      1 e     u  ]
-f2              6 5f
+f2              6 5
 C3     2      1 q     u
-f1              x
+f1              #
 D3     2      1 q     d
 measure 6
 G3     2      1 q     d
@@ -476,7 +476,7 @@ measure 8
 Bf2    2      1 q     u
 f1              6
 Bf3    2      1 q     d
-f1              x
+f1              #
 A3     1      1 e     d  [
 G3     1      1 e     d  ]
 f1              6
@@ -484,7 +484,7 @@ F3     2      1 q     d
 measure 9
 f1              7
 E3     2      1 q     d
-f2              7 x
+f2              7 #
 A3     2      1 q     d
 D3     3      1 q.    d
 f3              7 4 2
@@ -509,7 +509,7 @@ measure 12
 f2     2        9 f
 f1              8
 C3     4      1 h     u
-f2     2        9 x
+f2     2        9f #
 f1              8
 D3     4      1 h     d
 measure 13
@@ -518,14 +518,14 @@ f1              6
 Bf2    1      1 e     u  [
 C3     1      1 e     u  ]
 f2     1        5 4
-f1              3
+f2              b 3
 D3     2      1 q     d
 f1     1        9
 f1              8
-Ef3    2      1 q     d         +
+Ef3    2      1 q f   d         +
 measure 14
-f2     1        5 4
-f1              3
+f2     1        5 4f
+f2              b 3
 Bf3    2      1 q     d
 f2     1        9 f
 f1              8
@@ -533,7 +533,7 @@ C4     2      1 q     d
 f2              6 5
 F#3    1      1 e #   d  [
 G3     1      1 e     d  =
-f1              x
+f1              #
 D4     1      1 e     d  =
 D3     1      1 e     d  ]
 measure 15
@@ -544,14 +544,14 @@ f1              6
 Bf2    1      1 e     u  [
 C3     1      1 e     u  ]
 f2     1        5 4
-f1              3
+f2              b 3
 D3     2      1 q     d
 f1     1        9
 f1              8
 Ef3    2      1 q f   d
 measure 16
-f2     1        5 4
-f1              3
+f2     1        5f 4
+f2              b 3
 Bf3    2      1 q     d
 f2     1        9 f
 f1              8
@@ -559,7 +559,7 @@ C4     2      1 q     d
 f2              6 5
 F#3    1      1 e #   d  [
 G3     1      1 e     d  =
-f1              x
+f1              #
 D4     1      1 e     d  =
 D3     1      1 e     d  ]
 measure 17
@@ -572,11 +572,11 @@ C3     1      1 e     u
 f2              6 4
 D3     1      1 e     u  [
 C3     1      1 e     u  =
-f2              5 x
+f2              5 #
 D3     1      1 e     u  =
 D2     1      1 e     u  ]
 measure 18
-G2     8      1 w
+G2     8      1 w     u
 mheavy2
 /END
 /eof
@@ -598,7 +598,7 @@ mheavy2
 @@@filter: addkey
 @@@filter: addtempo -q 46
 @@@EEV: 2024/04/22
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/01/01
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/01/02
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/01/03
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/01/04
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/01/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/01/02
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/01/03
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/01/04

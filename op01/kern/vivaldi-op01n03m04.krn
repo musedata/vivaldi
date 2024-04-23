@@ -103,7 +103,7 @@
 16A\	.	.	.	.	.	.
 16d\	.	#	.	.	16ff#X\L	.
 16c\	.	.	.	.	16ee\J	.
-16d\	.	.	.	.	8ff#X\J	.
+16d\	.	.	.	.	8ff#y\J	.
 16D\JJ	.	.	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16
 4.GG/	.	.	4.g/	.	4.gg\	.
@@ -114,9 +114,9 @@
 .	.	.	.	.	[8gg\J	.
 =18	=18	=18	=18	=18	=18	=18
 4.r	.	.	8a/L	.	8gg\L]	.
-.	.	.	8d/	.	16ff#y\L	.
+.	.	.	8d/	.	16ff#X\L	.
 .	.	.	.	.	16ee\J	.
-.	.	.	[8dd/J	.	8ff#X\J	.
+.	.	.	[8dd/J	.	8ff#y\J	.
 =19	=19	=19	=19	=19	=19	=19
 4.r	.	.	8dd\L]	.	8ee\	.
 .	.	.	16cc\L	.	[4aa\	.
@@ -129,9 +129,9 @@
 .	.	.	.	.	[8gg\J	.
 =21	=21	=21	=21	=21	=21	=21
 4.r	.	.	8a\L	.	8gg\L]	.
-.	.	.	8dd\	.	16ff#y\L	.
+.	.	.	8dd\	.	16ff#X\L	.
 .	.	.	.	.	16ee\J	.
-.	.	.	8cc\J	.	8ff#X\J	.
+.	.	.	8cc\J	.	8ff#y\J	.
 !!LO:LB:g=original
 =22	=22	=22	=22	=22	=22	=22
 8.GG/L	.	.	8b\L	.	8gg\L	.
@@ -264,7 +264,7 @@
 =43	=43	=43	=43	=43	=43	=43
 16F\LL	.	7 5	16cc\LL]	.	16ee\LL]	.
 16D\	.	.	16dd\J	.	16ff\J	.
-16G\	.	.	8.b\	.	8.dd\	.
+16G\	.	.	8.b\	.	8.dd\T	.
 16F\	.	.	.	.	.	.
 16G\	.	.	.	.	.	.
 16GG\JJ	.	.	16cc\Jk	.	16cc\Jk	.
@@ -274,10 +274,10 @@
 =:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
 *-	*-	*-	*-	*-	*-	*-
 !!!SMS: RV 61 / Estienne Roger (No. 363), Amsterdam [facs.]
-!!!ENC: Fran Bennion
+!!!ENC: Fran Bennion   rev. 05/12/21 E Correia
 !!!END: 2004/10/01
-!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 01:53:20 2024
-!!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 21:24:10 2024
+!!!YEM: (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._1:_Suonate_da_camera_a_tr.C3.A8.2C_due_violini_e_violone_o_cembalo Information about Vivaldi Op. 1 on the CCARH wiki
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no03.pdf#page=1 MuseData edition
@@ -287,7 +287,7 @@
 !!!URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=3767s L'Arte dell'Arco
 !!!title: @{OTL}, mov. @{OMV}
 !!!EEV: 2024/04/22
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/04/01
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/04/02
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/04/03
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/04/04
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/04/01
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/04/02
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/04/03
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/04/04

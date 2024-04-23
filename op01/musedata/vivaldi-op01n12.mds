@@ -11,18 +11,18 @@
 @@@key: d
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/01
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:52:46 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no12/stage2/01/01
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:13:19 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv063/stage2/01/01}
 TIMESTAMP: DEC/10/2005 [md5sum:313948ea6e29dbff398209717a8c7dcc]
-11/03/04 Fran Bennion
+11/03/04 Fran Bennion   rev. 05/19/21 E Correia
 WK#:01,12     MV#:1
 RV 63 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 12 in d minor - "Folia"
+Vivaldi Op. 1, No. 12 in d minor - "Folia"
 Movement 1
 Violino 1
 
@@ -168,7 +168,6 @@ Bf5    2      1 e     d
 measure 31
 A5     2      1 e     d  [
 G5     1      1 s     d  =[
-P C32:o
 F5     1      1 s     d  ]]
 E5     6      1 q.    d
 D5     2      1 e     d
@@ -249,7 +248,7 @@ C#5    2      1 q #   d
 rest   1      1 e
 E4     1      1 e     u  [
 A4     1      1 e     u  =
-C#5    1      1 e #   u  ]      +
+C#5    1      1 e #   u  ]
 measure 51
 D5     2      1 q     d
 rest   1      1 e
@@ -426,7 +425,6 @@ G5     2      1 e     d  ]
 measure 79
 F5     2      1 e     d  [
 E5     1      1 s     d  =[
-P C32:o
 D5     1      1 s     d  ]]
 C#5    6      1 q.#   d
 D5     2      1 e     d
@@ -472,10 +470,8 @@ measure 88
 C#5    1      1 e #   d  [
 A5     1      1 e     d  =
 A5     1      1 e     d  =     (
-P C32:o
 G5     1      1 e     d  =     )
 G5     1      1 e     d  =     (
-P C32:o
 F5     1      1 e     d  ]     )
 measure 89
 F5     2      1 q     d
@@ -515,7 +511,7 @@ C#5    1      1 e #   d  =
 D5     1      1 e     d  =
 F4     1      1 e     d  ]
 A3     1      1 e     u  [
-C#5    1      1 e     u  ]      +
+C#5    1      1 e     u  ]
 measure 96
 D5     6      1 h.    d        F
 mdouble 97
@@ -595,7 +591,7 @@ A4     2      1 e     d  ]
 E5     1      1 s     d  [[
 A5     1      1 s     d  ==
 E5     1      1 s     d  ==
-C#5    1      1 s #   d  ]]     +
+C#5    1      1 s #   d  ]]
 A4     1      1 s     d  [[
 E5     1      1 s     d  ==
 A5     1      1 s     d  ==
@@ -663,180 +659,134 @@ E5     1      1 s     d  ]]
 measure 111
 F5     2      1 e     d  [
 E5     1      1 s     d  =[
-P C32:o
 D5     1      1 s     d  ]]
 C#5    2      1 e #   d  [
 D5     2      1 e     d  ]
 E4     2      1 e     u  [
-C#5    2      1 e #   u  ]      +
+C#5    2      1 e #   u  ]
 measure 112
 D4    12      1 h.    u        F
 mdouble 113
 $   Q:6  D:8.
 D5     3      1 e     d  [     (
-P C32:o
 A4     3      1 e     d  =     )
 F5     3      1 e     d  =     (
-P C32:o
 D5     3      1 e     d  =     )
 A5     3      1 e     d  =     (
-P C32:o
 D5     3      1 e     d  ]     )
 measure 114
 C#5    3      1 e #   d  [     (
-P C32:o
 A4     3      1 e     d  =     )
 E5     3      1 e     d  =     (
-P C32:o
-C#5    3      1 e #   d  =     )+
+C#5    3      1 e #   d  =     )
 A5     3      1 e     d  =     (
-P C32:o
-C#5    3      1 e #   d  ]     )+
+C#5    3      1 e #   d  ]     )
 measure 115
 D5     3      1 e     d  [     (
-P C32:o
 A4     3      1 e     d  =     )
 F5     3      1 e     d  =     (
-P C32:o
 D5     3      1 e     d  =     )
 A5     3      1 e     d  =     (
-P C32:o
 D5     3      1 e     d  ]     )
 measure 116
 E5     3      1 e     d  [     (
-P C32:o
 C5     3      1 e     d  =     )
 G5     3      1 e     d  =     (
-P C32:o
 E5     3      1 e     d  =     )
 C6     3      1 e     d  =     (
-P C32:o
 E5     3      1 e     d  ]     )
 measure 117
 F5     3      1 e     d  [     (
-P C32:o
 C5     3      1 e     d  =     )
 A5     3      1 e     d  =     (
-P C32:o
 F5     3      1 e     d  =     )
 C6     3      1 e     d  =     (
-P C32:o
 F5     3      1 e     d  ]     )
 measure 118
 E5     3      1 e     d  [     (
-P C32:o
 C5     3      1 e     d  =     )
 G5     3      1 e     d  =     (
-P C32:o
 E5     3      1 e     d  =     )
 Bf5    3      1 e     d  =     (
-P C32:o
 E5     3      1 e     d  ]     )
 measure 119
 A5     3      1 e     d  [     (
-P C32:o
 A4     3      1 e     d  =     )
 D5     3      1 e     d  =     (
-P C32:o
 F5     3      1 e     d  =     )
 E5     3      1 e     d  =     (
-P C32:o
 D5     3      1 e     d  ]     )
 measure 120
 C#5    2      1 e #3  d  [     *(
-P C33:o
 Bf4    2      1 e  3  d  =
 A4     2      1 e  3  d  ]     !)
 E5     2      1 e  3  d  [     *(
-P C33:o
 D5     2      1 e  3  d  =
-C#5    2      1 e #3  d  ]     !)+
+C#5    2      1 e #3  d  ]     !)
 A5     3      1 e     d  [     (
-P C32:o
-C#5    3      1 e #   d  ]     )+
+C#5    3      1 e #   d  ]     )
 measure 121
 D5     3      1 e     d  [
 A4     3      1 e     d  ]
 F5     2      1 e  3  d  [     *(
-P C33:o
 E5     2      1 e  3  d  =
 D5     2      1 e  3  d  ]     !)
 A5     3      1 e     d  [     (
-P C32:o
 D5     3      1 e     d  ]     )
 measure 122
-C#5    2      1 e #3  d  [     *(
-P C33:o
+C#5    2      1 e #3  d  [     (
 Bf4    2      1 e  3  d  =
-A4     2      1 e  3  d  ]     !)
-E5     2      1 e  3  d  [     *(
-P C33:o
+A4     2      1 e  3  d  ]     )
+E5     2      1 e  3  d  [     (
 D5     2      1 e  3  d  =
-C#5    2      1 e #3  d  ]     !)+
-P C34:u
-A5     3      1 e     d  [     [
-P C32:o
-C#5    3      1 e #   d  ]     ]+
+C#5    2      1 e #3  d  ]     )
+A5     3      1 e     d  [     (
+C#5    3      1 e #   d  ]     )
 measure 123
 D5     3      1 e     d  [     (
 A4     3      1 e     d  ]     )
-P C32:u
-F5     2      1 e  3  d  [     *[
-P C33:o
+F5     2      1 e  3  d  [     (
 E5     2      1 e  3  d  =
-D5     2      1 e  3  d  ]     !]
+D5     2      1 e  3  d  ]     )
 A5     3      1 e     d  [     (
-P C32:o
 D5     3      1 e     d  ]     )
 measure 124
-E5     2      1 e  3  d  [     *(
-P C33:o
+E5     2      1 e  3  d  [     (
 D5     2      1 e  3  d  =
-C5     2      1 e  3  d  ]     !)
-G5     2      1 e  3  d  [     *(
-P C33:o
+C5     2      1 e  3  d  ]     )
+G5     2      1 e  3  d  [     (
 F5     2      1 e  3  d  =
-E5     2      1 e  3  d  ]     !)
+E5     2      1 e  3  d  ]     )
 C6     3      1 e     d  [     (
-P C32:o
 E5     3      1 e     d  ]     )
 measure 125
 F5     3      1 e     d  [     (
-P C32:o
 C5     3      1 e     d  ]     )
-A5     2      1 e  3  d  [     *(
-P C33:o
+A5     2      1 e  3  d  [     (
 G5     2      1 e  3  d  =
-F5     2      1 e  3  d  ]     !)
+F5     2      1 e  3  d  ]     )
 C6     3      1 e     d  [     (
-P C32:o
 F5     3      1 e     d  ]     )
 measure 126
-E5     2      1 e  3  d  [     *(
-P C33:o
+E5     2      1 e  3  d  [     (
 D5     2      1 e  3  d  =
-C5     2      1 e  3  d  ]     !)
-G5     2      1 e  3  d  [     *(
-P C33:o
+C5     2      1 e  3  d  ]     )
+G5     2      1 e  3  d  [     (
 F5     2      1 e  3  d  =
-E5     2      1 e  3  d  ]     !)
-Bf5    2      1 e  3  d  [     *(
-P C33:o
+E5     2      1 e  3  d  ]     )
+Bf5    2      1 e  3  d  [     (
 A5     2      1 e  3  d  =
-G5     2      1 e  3  d  ]     !)
+G5     2      1 e  3  d  ]     )
 measure 127
-F5     2      1 e  3  d  [     *(
-P C33:o
+F5     2      1 e  3  d  [     (
 E5     2      1 e  3  d  =
-D5     2      1 e  3  d  ]     !)
-C#5    2      1 e #3  d  [     *(
-P C33:o
+D5     2      1 e  3  d  ]     )
+C#5    2      1 e #3  d  [     (
 A4     2      1 e  3  d  =
-D5     2      1 e  3  d  ]     !)
-E4     2      1 e  3  u  [     *(
-P   C0:t3   C33:o
+D5     2      1 e  3  d  ]     )
+E4     2      1 e  3  u  [     (
 D5     2      1 e  3  u  =
-C#5    2      1 e  3  u  ]     !)+
+C#5    2      1 e  3  u  ]     )
 measure 128
 D5    18      1 h.    d        F
 mdouble 129
@@ -847,16 +797,16 @@ measure 130
 D5     2      1 q     d
 C#5    1      1 e #   d  [
 B4     1      1 e n   d  ]
-C#5    2      1 q #   d         +
+C#5    2      1 q #   d
 measure 131
 D5     2      1 q     d
 A4     2      1 q     u
 A5     1      1 e     d  [
 B5     1      1 e n   d  ]
 measure 132
-C6     2      1 q n   d
+C6     2      1 q n   d         +
 C5     2      1 q     d
-Bf5    2-     1 q f   d        -
+Bf5    2-     1 q f   d        -+
 measure 133
 Bf5    2      1 q     d
 A5     1      1 e     d  [
@@ -899,7 +849,6 @@ C5     2      1 q     d
 F5     2      1 q     d
 measure 142
 Ef5    2      1 q f   d        (
-P C32:o
 C#5    2      1 q #   d        )
 D5     2      1 q     d
 measure 143
@@ -921,7 +870,7 @@ A3     2      1 e     u  =
 C#4    2      1 e #   u  =
 E4     2      1 e     u  =
 A4     2      1 e     u  =
-C#5    2      1 e #   u  ]      +
+C#5    2      1 e #   u  ]
 measure 147
 D5     2      1 e     u  [
 D4     2      1 e     u  =
@@ -963,7 +912,7 @@ A3     2      1 e     u  =
 C#4    2      1 e #   u  =
 E4     2      1 e     u  =
 A4     2      1 e     u  =
-C#5    2      1 e #   u  ]      +
+C#5    2      1 e #   u  ]
 measure 153
 D5     2      1 e     u  [
 D4     2      1 e     u  =
@@ -977,7 +926,7 @@ A3     2      1 e     u  =
 C#4    2      1 e #   u  =
 E4     2      1 e     u  =
 A4     2      1 e     u  =
-C#5    2      1 e #   u  ]      +
+C#5    2      1 e #   u  ]
 measure 155
 D5     2      1 e     u  [
 D4     2      1 e     u  =
@@ -1003,7 +952,6 @@ measure 158
 E5     2      1 e     d  [
 F5     2      1 e     d  =
 G5     2      1 e     d  =     (
-P C32:o
 C#5    2      1 e #   d  =
 A4     2      1 e     d  =     )
 G5     2      1 e     d  ]
@@ -1032,7 +980,7 @@ rest   1      1 s
 A5     1      1 s     d  [[
 E5     1      1 s     d  ==
 A5     1      1 s     d  ]]
-C#5    4      1 q #   d         +
+C#5    4      1 q #   d
 measure 163
 rest   1      1 s
 A5     1      1 s     d  [[
@@ -1083,7 +1031,7 @@ rest   1      1 s
 A5     1      1 s     d  [[
 E5     1      1 s     d  ==
 A5     1      1 s     d  ]]
-C#5    4      1 q #   d         +
+C#5    4      1 q #   d
 measure 169
 rest   1      1 s
 A5     1      1 s     d  [[
@@ -1100,7 +1048,7 @@ rest   1      1 s
 A5     1      1 s     d  [[
 E5     1      1 s     d  ==
 A5     1      1 s     d  ]]
-C#5    4      1 q #   d         +
+C#5    4      1 q #   d
 measure 171
 rest   1      1 s
 A5     1      1 s     d  [[
@@ -1151,92 +1099,71 @@ E5     1      1 s     d  ]]
 measure 176
 D5    12      1 h.    d        F
 mdouble 177
-$   Q:8  D:12. Largetto
+$   Q:8  D:12. Larghetto
 A5     8      1 q     d
 G5     4      1 e     d  [     (
-P C32:o
 F5     4      1 e     d  ]     )
 E5     4      1 e     d  [     (
-P C32:o
 F5     3      1 s.    d  =[
-G5     1      1 t     d  ]]\   )(
-P C33:o
+G5     1      1 t     d  ]]\
 measure 178
 C#5   16      1 h #   d        )
 C#5    8      1 q     d
 measure 179
 D5     8      1 q     d
 D5     6      1 e.    d  [     (
-P C32:o
 E5     2      1 s     d  =\    )
 F5     6      1 e.    d  =     (
-P C32:o
-G5     2      1 s     d  ]\    )(
-P C33:o
+G5     2      1 s     d  ]\
 measure 180
 E5    16      1 h     d        )
 E5     8      1 q     d
 measure 181
 F5     8      1 q     d
 G5     6      1 e.    d  [     (
-P C32:o
 A5     2      1 s     d  =\    )
 G5     6      1 e.    d  =     (
-P C32:o
 F5     2      1 s     d  ]\    )
 measure 182
 E5     8      1 q     d
 F5     6      1 e.    d  [     (
-P C32:o
 G5     2      1 s     d  =\    )
 F5     6      1 e.    d  =     (
-P C32:o
 E5     2      1 s     d  ]\    )
 measure 183
 D5     8      1 q     d
 E5     6      1 e.    d  [     (
-P C32:o
 F5     2      1 s     d  =\    )
 E5     6      1 e.    d  =     (
-P C32:o
-D5     2      1 s     d  ]\    )(
+D5     2      1 s     d  ]\
 measure 184
 C#5   24      1 h.#   d        )
 measure 185
 A5     8      1 q     d
 G5     4      1 e     d  [     (
-P C32:o
 F5     4      1 e     d  ]     )
 E5     4      1 e     d  [     (
-P C32:o
 F5     3      1 s.    d  =[
-G5     1      1 t     d  ]]\   )(
-P C33:o
+G5     1      1 t     d  ]]\
 measure 186
 C#5   16      1 h #   d        )
 C#5    8      1 q     d
 measure 187
 D5     8      1 q     d
 D5     6      1 e.    d  [     (
-P C32:o
 E5     2      1 s     d  =\    )
 F5     6      1 e.    d  =     (
-P C32:o
-G5     2      1 s     d  ]\    )(
-P C33:o
+G5     2      1 s     d  ]\
 measure 188
 E5    16      1 h     d        )
 E5     8      1 q     d
 measure 189
 A5     8      1 q     d
 G5     4      1 e     d  [     (
-P C32:o
 F5     4      1 e     d  ]     )
 E5     4      1 e     d  [     (
-P C32:o
 F5     3      1 s.    d  =[
-G5     1      1 t     d  ]]\   )(
-P C33:o
+G5     1      1 t     d  ]]\
 measure 190
 C#5   12      1 q.#   d        )
 A4     4      1 e     u
@@ -1472,7 +1399,7 @@ D5     2      1 e     d
 D5     4      1 q     d
 C#5    2      1 e #   d
 A3     4      1 q     u
-C#5    2      1 e #   d         +
+C#5    2      1 e #   d
 measure 226
 D5     3      1 e.    d  [
 E5     1      1 s     d  =\
@@ -1480,7 +1407,6 @@ D5     2      1 e     d  ]
 A5     4      1 q     d
 D5     2      1 e     d
 E5     3      1 e.    d  [     (
-P C32:o
 D5     1      1 s     d  =\
 C5     2      1 e     d  ]     )
 C4     4      1 q     u
@@ -1503,7 +1429,6 @@ D5     2      1 e     d  ]
 Bf5    4      1 q     d
 D5     2      1 e     d
 D5     6      1 q.    d        (
-P C32:o
 C#5    6      1 q.#   d        )
 measure 229
 D5     3      1 e.    d  [
@@ -1512,10 +1437,9 @@ D5     2      1 e     d  ]
 A5     4      1 q     d
 D5     2      1 e     d
 D5     4      1 q     d
-P C32:o
 C#5    2      1 e #   d
 A3     4      1 q     u
-C#5    2      1 e #   d         +
+C#5    2      1 e #   d
 measure 230
 D5     3      1 e.    d  [
 E5     1      1 s     d  =\
@@ -1523,7 +1447,6 @@ D5     2      1 e     d  ]
 A5     4      1 q     d
 D5     2      1 e     d
 E5     3      1 e.    d  [     (
-P C32:o
 D5     1      1 s     d  =\
 C5     2      1 e     d  ]     )
 C4     4      1 q     u
@@ -1535,19 +1458,15 @@ F5     2      1 e     d  ]
 C6     4      1 q     d
 F5     2      1 e     d
 F5     4      1 q     d
-P C32:o
 E5     2      1 e     d
 Bf5    3      1 e.    d  [     (
-P C32:o
 A5     1      1 s     d  =\
 G5     2      1 e     d  ]     )
 measure 232
 A5     3      1 e.    d  [     (
-P C32:o
 G5     1      1 s     d  =\
 F5     2      1 e     d  ]     )
 F5     4      1 q     d        (
-P C32:o
 E5     2      1 e     d        )
 D5    12      1 h.    d        F
 mdouble 233
@@ -1562,9 +1481,9 @@ measure 234
 C#5    1      1 e #   u  [
 E4     1      1 e     u  =
 A3     1      1 e     u  =
-C#5    1      1 e #   u  =      +
+C#5    1      1 e #   u  =
 A3     1      1 e     u  =
-C#5    1      1 e #   u  ]      +
+C#5    1      1 e #   u  ]
 measure 235
 D5     1      1 e     u  [
 F4     1      1 e     u  =
@@ -1604,9 +1523,9 @@ measure 240
 C#5    1      1 e #   u  [
 E4     1      1 e     u  =
 A3     1      1 e     u  =
-C#5    1      1 e #   u  =      +
+C#5    1      1 e #   u  =
 A3     1      1 e     u  =
-C#5    1      1 e #   u  ]      +
+C#5    1      1 e #   u  ]
 measure 241
 D5     1      1 e     u  [
 F4     1      1 e     u  =
@@ -1618,9 +1537,9 @@ measure 242
 C#5    1      1 e #   u  [
 E4     1      1 e     u  =
 A3     1      1 e     u  =
-C#5    1      1 e #   u  =      +
+C#5    1      1 e #   u  =
 A3     1      1 e     u  =
-C#5    1      1 e #   u  ]      +
+C#5    1      1 e #   u  ]
 measure 243
 D5     1      1 e     u  [
 F4     1      1 e     u  =
@@ -1702,7 +1621,6 @@ A4     2      1 e     d  ]
 measure 254
 G4     2      1 e     d  [
 G5     1      1 s     d  =[
-P C32:o
 F5     1      1 s     d  ]]
 G5     2      1 e     d  [
 G4     2      1 e     d  ]
@@ -1711,7 +1629,6 @@ G4     2      1 e     d  ]
 measure 255
 F4     2      1 e     d  [
 F5     1      1 s     d  =[
-P C32:o
 E5     1      1 s     d  ]]
 F5     2      1 e     d  [
 F4     2      1 e     d  ]
@@ -1720,7 +1637,6 @@ F4     2      1 e     d  ]
 measure 256
 E4     2      1 e     d  [
 E5     1      1 s     d  =[
-P C32:o
 D5     1      1 s     d  ]]
 E5     2      1 e     u  [
 E4     2      1 e     u  ]
@@ -1729,7 +1645,6 @@ E4     2      1 e     u  ]
 measure 257
 F4     2      1 e     d  [
 F5     1      1 s     d  =[
-P C32:o
 E5     1      1 s     d  ]]
 F5     2      1 e     d  [
 F4     2      1 e     d  ]
@@ -1738,7 +1653,6 @@ F4     2      1 e     d  ]
 measure 258
 E4     2      1 e     d  [
 E5     1      1 s     d  =[
-P C32:o
 D5     1      1 s     d  ]]
 E5     2      1 e     u  [
 E4     2      1 e     u  ]
@@ -1747,7 +1661,6 @@ E4     2      1 e     u  ]
 measure 259
 F4     2      1 e     d  [
 F5     1      1 s     d  =[
-P C32:o
 E5     1      1 s     d  ]]
 F5     2      1 e     d  [
 F4     2      1 e     d  ]
@@ -1756,7 +1669,6 @@ F4     2      1 e     d  ]
 measure 260
 G4     2      1 e     d  [
 G5     1      1 s     d  =[
-P C32:o
 F5     1      1 s     d  ]]
 G5     2      1 e     d  [
 G4     2      1 e     d  ]
@@ -1765,7 +1677,6 @@ G4     2      1 e     d  ]
 measure 261
 A4     2      1 e     d  [
 A5     1      1 s     d  =[
-P C32:o
 G5     1      1 s     d  ]]
 A5     2      1 e     d  [
 A4     2      1 e     d  ]
@@ -1774,7 +1685,6 @@ A4     2      1 e     d  ]
 measure 262
 G4     2      1 e     d  [
 G5     1      1 s     d  =[
-P C32:o
 F5     1      1 s     d  ]]
 G5     2      1 e     d  [
 G4     2      1 e     d  ]
@@ -1783,7 +1693,6 @@ G4     2      1 e     d  ]
 measure 263
 F5     2      1 e     d  [
 G5     1      1 s     d  =[
-P C32:o
 F5     1      1 s     d  ]]
 E5     2      1 e     u  [
 E4     2      1 e     u  ]
@@ -1792,7 +1701,7 @@ E4     2      1 e     u  ]
 measure 264
 D4    12      1 h.    u        F
 mdouble 265
-$   Q:4  D:18
+$   Q:4  D:18.
 F5     1      1 s     d  [[
 D5     1      1 s     d  ==
 A4     1      1 s     d  ==
@@ -1811,11 +1720,11 @@ C#5    1      1 s #   d  ==
 A4     1      1 s     d  ==
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
-C#5    1      1 s #   d  ==     +
+C#5    1      1 s #   d  ==
 A4     1      1 s     d  ==
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
-C#5    1      1 s #   d  ==     +
+C#5    1      1 s #   d  ==
 A4     1      1 s     d  ==
 E5     1      1 s     d  ]]
 measure 267
@@ -1889,11 +1798,11 @@ C#5    1      1 s #   d  ==
 A4     1      1 s     d  ==
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
-C#5    1      1 s #   d  ==     +
+C#5    1      1 s #   d  ==
 A4     1      1 s     d  ==
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
-C#5    1      1 s #   d  ==     +
+C#5    1      1 s #   d  ==
 A4     1      1 s     d  ==
 E5     1      1 s     d  ]]
 measure 273
@@ -1915,11 +1824,11 @@ C#5    1      1 s #   d  ==
 A4     1      1 s     d  ==
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
-C#5    1      1 s #   d  ==     +
+C#5    1      1 s #   d  ==
 A4     1      1 s     d  ==
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
-C#5    1      1 s #   d  ==     +
+C#5    1      1 s #   d  ==
 A4     1      1 s     d  ==
 E5     1      1 s     d  ]]
 measure 275
@@ -1984,7 +1893,7 @@ C#5    1      1 s #   d  ==
 A4     1      1 s     d  ==
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
-C#5    1      1 s #   d  ==     +
+C#5    1      1 s #   d  ==
 A4     1      1 s     d  ==
 E5     1      1 s     d  ]]
 measure 280
@@ -1992,269 +1901,185 @@ D5    12      1 h.    d        F
 mdouble 281
 $   Q:4  D:19.
 F5     1      1 s     d  [[
-P C32:o
 A5     1      1 s     d  ==
 A5     1      1 s     d  ==
-P C32:o
 F5     1      1 s     d  ]]
 F5     1      1 s     d  [[
-P C32:o
 A5     1      1 s     d  ==
 A5     1      1 s     d  ==
-P C32:o
 F5     1      1 s     d  ]]
 F5     1      1 s     d  [[
-P C32:o
 A5     1      1 s     d  ==
 A5     1      1 s     d  ==
-P C32:o
 F5     1      1 s     d  ]]
 measure 282
 E5     1      1 s     d  [[
-P C32:o
 G5     1      1 s     d  ==
 G5     1      1 s     d  ==
-P C32:o
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
-P C32:o
 G5     1      1 s     d  ==
 G5     1      1 s     d  ==
-P C32:o
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
-P C32:o
 G5     1      1 s     d  ==
 G5     1      1 s     d  ==
-P C32:o
 E5     1      1 s     d  ]]
 measure 283
 F5     1      1 s     d  [[
-P C32:o
 A5     1      1 s     d  ==
 A5     1      1 s     d  ==
-P C32:o
 F5     1      1 s     d  ]]
 F5     1      1 s     d  [[
-P C32:o
 A5     1      1 s     d  ==
 A5     1      1 s     d  ==
-P C32:o
 F5     1      1 s     d  ]]
 F5     1      1 s     d  [[
-P C32:o
 Bf5    1      1 s     d  ==
 Bf5    1      1 s     d  ==
-P C32:o
 F5     1      1 s     d  ]]
 measure 284
 G5     1      1 s     d  [[
-P C32:o
 Bf5    1      1 s     d  ==
 Bf5    1      1 s     d  ==
-P C32:o
 G5     1      1 s     d  ]]
 G5     1      1 s     d  [[
-P C32:o
 Bf5    1      1 s     d  ==
 Bf5    1      1 s     d  ==
-P C32:o
 G5     1      1 s     d  ]]
 G5     1      1 s     d  [[
-P C32:o
 Bf5    1      1 s     d  ==
 Bf5    1      1 s     d  ==
-P C32:o
 G5     1      1 s     d  ]]
 measure 285
 A5     1      1 s     d  [[
-P C32:o
 C6     1      1 s     d  ==
 C6     1      1 s     d  ==
-P C32:o
 A5     1      1 s     d  ]]
 A5     1      1 s     d  [[
-P C32:o
 C6     1      1 s     d  ==
 C6     1      1 s     d  ==
-P C32:o
 A5     1      1 s     d  ]]
 A5     1      1 s     d  [[
-P C32:o
 C6     1      1 s     d  ==
 C6     1      1 s     d  ==
-P C32:o
 A5     1      1 s     d  ]]
 measure 286
 G5     1      1 s     d  [[
-P C32:o
 Bf5    1      1 s     d  ==
 Bf5    1      1 s     d  ==
-P C32:o
 G5     1      1 s     d  ]]
 G5     1      1 s     d  [[
-P C32:o
 Bf5    1      1 s     d  ==
 Bf5    1      1 s     d  ==
-P C32:o
 G5     1      1 s     d  ]]
 G5     1      1 s     d  [[
-P C32:o
 Bf5    1      1 s     d  ==
 Bf5    1      1 s     d  ==
-P C32:o
 G5     1      1 s     d  ]]
 measure 287
 F5     1      1 s     d  [[
-P C32:o
 A5     1      1 s     d  ==
 A5     1      1 s     d  ==
-P C32:o
 F5     1      1 s     d  ]]
 F5     1      1 s     d  [[
-P C32:o
 A5     1      1 s     d  ==
 A5     1      1 s     d  ==
-P C32:o
 F5     1      1 s     d  ]]
 F5     1      1 s     d  [[
-P C32:o
 A5     1      1 s     d  ==
 A5     1      1 s     d  ==
-P C32:o
 F5     1      1 s     d  ]]
 measure 288
 E5     1      1 s     d  [[
-P C32:o
 G5     1      1 s     d  ==
 G5     1      1 s     d  ==
-P C32:o
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
-P C32:o
 G5     1      1 s     d  ==
 G5     1      1 s     d  ==
-P C32:o
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
-P C32:o
 G5     1      1 s     d  ==
 G5     1      1 s     d  ==
-P C32:o
 E5     1      1 s     d  ]]
 measure 289
 F5     1      1 s     d  [[
-P C32:o
 A5     1      1 s     d  ==
 A5     1      1 s     d  ==
-P C32:o
 F5     1      1 s     d  ]]
 F5     1      1 s     d  [[
-P C32:o
 A5     1      1 s     d  ==
 A5     1      1 s     d  ==
-P C32:o
 F5     1      1 s     d  ]]
 F5     1      1 s     d  [[
-P C32:o
 A5     1      1 s     d  ==
 A5     1      1 s     d  ==
-P C32:o
 F5     1      1 s     d  ]]
 measure 290
 E5     1      1 s     d  [[
-P C32:o
 G5     1      1 s     d  ==
 G5     1      1 s     d  ==
-P C32:o
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
-P C32:o
 G5     1      1 s     d  ==
 G5     1      1 s     d  ==
-P C32:o
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
-P C32:o
 G5     1      1 s     d  ==
 G5     1      1 s     d  ==
-P C32:o
 E5     1      1 s     d  ]]
 measure 291
 F5     1      1 s     d  [[
-P C32:o
 A5     1      1 s     d  ==
 A5     1      1 s     d  ==
-P C32:o
 F5     1      1 s     d  ]]
 F5     1      1 s     d  [[
-P C32:o
 A5     1      1 s     d  ==
 A5     1      1 s     d  ==
-P C32:o
 F5     1      1 s     d  ]]
 F5     1      1 s     d  [[
-P C32:o
 Bf5    1      1 s     d  ==
 Bf5    1      1 s     d  ==
-P C32:o
 F5     1      1 s     d  ]]
 measure 292
 G5     1      1 s     d  [[
-P C32:o
 Bf5    1      1 s     d  ==
 Bf5    1      1 s     d  ==
-P C32:o
 G5     1      1 s     d  ]]
 G5     1      1 s     d  [[
-P C32:o
 Bf5    1      1 s     d  ==
 Bf5    1      1 s     d  ==
-P C32:o
 G5     1      1 s     d  ]]
 G5     1      1 s     d  [[
-P C32:o
 Bf5    1      1 s     d  ==
 Bf5    1      1 s     d  ==
-P C32:o
 G5     1      1 s     d  ]]
 measure 293
 A5     1      1 s     d  [[
-P C32:o
 C6     1      1 s     d  ==
 C6     1      1 s     d  ==
-P C32:o
 A5     1      1 s     d  ]]
 A5     1      1 s     d  [[
-P C32:o
 C6     1      1 s     d  ==
 C6     1      1 s     d  ==
-P C32:o
 A5     1      1 s     d  ]]
 A5     1      1 s     d  [[
-P C32:o
 C6     1      1 s     d  ==
 C6     1      1 s     d  ==
-P C32:o
 A5     1      1 s     d  ]]
 measure 294
 G5     1      1 s     d  [[
-P C32:o
 Bf5    1      1 s     d  ==
 Bf5    1      1 s     d  ==
-P C32:o
 G5     1      1 s     d  ]]
 G5     1      1 s     d  [[
-P C32:o
 Bf5    1      1 s     d  ==
 Bf5    1      1 s     d  ==
-P C32:o
 G5     1      1 s     d  ]]
 G5     1      1 s     d  [[
-P C32:o
 Bf5    1      1 s     d  ==
 Bf5    1      1 s     d  ==
-P C32:o
 G5     1      1 s     d  ]]
 measure 295
 F5     1      1 s     d  [[
@@ -2268,7 +2093,7 @@ D6     1      1 s     d  ]]
 E5     1      1 s     d  [[
 C#6    1      1 s #   d  ==
 E5     1      1 s     d  ==
-C#6    1      1 s #   d  ]]     +
+C#6    1      1 s #   d  ]]
 measure 296
 D6    12      1 h.    d        F
 mdouble 297
@@ -2443,18 +2268,18 @@ mheavy2
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/02
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:52:46 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no12/stage2/01/02
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:13:19 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv063/stage2/01/02}
 TIMESTAMP: DEC/10/2005 [md5sum:ac932874ea7b7acb00072cb34e397f27]
-11/03/04 Fran Bennion
+11/03/04 Fran Bennion   rev. 05/19/21 E Correia
 WK#:01,12     MV#:1
 RV 63 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 12 in d minor - "Folia"
+Vivaldi Op. 1, No. 12 in d minor - "Folia"
 Movement 1
 Violino 2
 
@@ -2601,7 +2426,6 @@ E5     1      1 s     d  ]\
 measure 31
 F5     2      1 e     d  [
 E5     1      1 s     d  =[
-P C32:o
 D5     1      1 s     d  ]]
 C#5    6      1 q.#   d
 D5     2      1 e     d
@@ -2692,7 +2516,7 @@ D4     1      1 e     u  ]
 F5     2      1 q     d
 measure 52
 rest   1      1 e
-C5     1      1 e     u  [
+C5     1      1 e     u  [      +
 G4     1      1 e     u  =
 E4     1      1 e     u  ]
 G5     2      1 q     d
@@ -2731,7 +2555,7 @@ C#5    2      1 q #   d
 rest   1      1 e
 E4     1      1 e     u  [
 A4     1      1 e     u  =
-C#5    1      1 e #   u  ]      +
+C#5    1      1 e #   u  ]
 measure 59
 D5     2      1 q     d
 rest   1      1 e
@@ -2741,7 +2565,7 @@ D5     1      1 e     u  ]
 measure 60
 E5     2      1 q     d
 rest   1      1 e
-C5     1      1 e     d  [
+C5     1      1 e     d  [      +
 E5     1      1 e     d  =
 G5     1      1 e     d  ]
 measure 61
@@ -2752,7 +2576,6 @@ C5     1      1 e     d  =
 F5     1      1 e     d  ]
 measure 62
 Ef5    1      1 e f   d  [     (
-P C32:o
 C#5    1      1 e #   d  ]     )
 D5     4-     1 h     d        -
 measure 63
@@ -2826,7 +2649,7 @@ E5     2      1 e     d
 measure 73
 A4     1      1 s     d  [[
 D5     1      1 s     d  ==
-C5     1      1 s     d  ==
+C5     1      1 s     d  ==     +
 Bf4    1      1 s     d  ]]
 A4     1      1 s     u  [[
 G4     1      1 s     u  ==
@@ -2841,7 +2664,7 @@ rest   4      1 q
 measure 75
 rest   1      1 s
 D5     1      1 s     d  [[
-C5     1      1 s     d  ==
+C5     1      1 s     d  ==     +
 Bf4    1      1 s     d  ]]
 A4     1      1 s     u  [[
 G4     1      1 s     u  ==
@@ -3016,7 +2839,7 @@ A5     1      1 s     d  ==
 E5     1      1 s     d  ==
 C#5    1      1 s #   d  ]]
 A4     6      1 q.    u
-C#5    2      1 e #   d         +
+C#5    2      1 e #   d
 measure 105
 D5     1      1 s     u  [[
 A4     1      1 s     u  ==
@@ -3067,7 +2890,7 @@ E4     2      1 e     u
 A4     4      1 q     u
 G4     2      1 e     u
 measure 112
-F4    12      1 h.    u        F
+F4    12      1 h.    u        &1F
 @1  No fermata in Roger.  In all other parts and in scan.
 mdouble 113
 $   Q:2  D:8.
@@ -3195,14 +3018,14 @@ E5     4      1 e     d  ]
 measure 136
 C#5    8      1 q #   d
 A4     8      1 q     u
-C#5    8      1 q #   d         +
+C#5    8      1 q #   d
 measure 137
 D5    24-     1 h.    d        -
 measure 138
 D5     8      1 q     d
 C#5    4      1 e     d  [
 B4     4      1 e n   d  ]
-C#5    8      1 q #   d         +
+C#5    8      1 q #   d
 measure 139
 D5     8      1 q     d
 A4     8      1 q     u
@@ -3284,7 +3107,6 @@ Bf4    2      1 e     d
 measure 159
 A4     2      1 e     u  [
 G4     1      1 s     u  =[
-P C32:u
 F4     1      1 s     u  ]]
 E4     6      1 q.    u
 D4     2      1 e     u
@@ -3425,11 +3247,11 @@ D5     1      1 s     u  ]]
 E4     1      1 s     u  [[
 C#5    1      1 s #   u  ==
 A4     1      1 s     u  ==
-C#5    1      1 s #   u  ]]     +
+C#5    1      1 s #   u  ]]
 measure 176
 D5    12      1 h.    d        F
 mdouble 177
-$   Q:2  D:12. Largetto
+$   Q:2  D:12. Larghetto
 F4     4      1 h     u
 Bf4    2      1 q     d
 measure 178
@@ -3488,7 +3310,7 @@ D5     2      1 e  3  d  [     (
 C#5    2      1 e #3  d  =
 D5     2      1 e  3  d  ]     )
 D5     2      1 e  3  d  [     (
-C#5    2      1 e #3  d  =      +
+C#5    2      1 e #3  d  =
 D5     2      1 e  3  d  ]     )
 D5     2      1 e  3  d  [     (
 E5     2      1 e  3  d  =
@@ -3498,20 +3320,20 @@ C#5    2      1 e #3  d  [     (
 B4     2      1 e n3  d  =
 C#5    2      1 e  3  d  ]     )
 C#5    2      1 e  3  d  [     (
-B4     2      1 e n3  d  =      +
-C#5    2      1 e #3  d  ]     )+
+B4     2      1 e n3  d  =
+C#5    2      1 e #3  d  ]     )
 C#5    2      1 e  3  d  [     (
-B4     2      1 e n3  d  =      +
-C#5    2      1 e #3  d  ]     )+
+B4     2      1 e n3  d  =
+C#5    2      1 e #3  d  ]     )
 measure 195
 D5     2      1 e  3  d  [     (
 C#5    2      1 e #3  d  =
 D5     2      1 e  3  d  ]     )
 D5     2      1 e  3  d  [     (
-C#5    2      1 e #3  d  =      +
+C#5    2      1 e #3  d  =
 D5     2      1 e  3  d  ]     )
 D5     2      1 e  3  d  [     (
-C5     2      1 e #3  d  =      +
+C#5    2      1 e #3  d  =
 D5     2      1 e  3  d  ]     )
 measure 196
 E5     2      1 e  3  d  [     (
@@ -3548,14 +3370,14 @@ D5     2      1 e  3  d  [     (
 C#5    2      1 e #3  d  =
 D5     2      1 e  3  d  ]     )
 D5     2      1 e  3  d  [     (
-C#5    2      1 e #3  d  =      +
+C#5    2      1 e #3  d  =
 D5     2      1 e  3  d  ]     )
 D5     2      1 e  3  d  [     (
 E5     2      1 e  3  d  =
 D5     2      1 e  3  d  ]     )
 measure 200
 C#5    2      1 e #3  d  [     (
-B4     2      1 e n3  d  =      &1
+B4     2    &11 e n3  d  =      &1
 &1
 No natural on the B4s in this measure in Roger. An oversight?
 B flats make more harmonic sense.  Scanned edition has B naturals.
@@ -3563,40 +3385,40 @@ B flats make more harmonic sense.  Scanned edition has B naturals.
 C#5    2      1 e  3  d  ]     )
 C#5    2      1 e  3  d  [     (
 B4     2      1 e  3  d  =      &1
-C#5    2      1 e #3  d  ]     )+
+C#5    2      1 e #3  d  ]     )
 C#5    2      1 e  3  d  [     (
 B4     2      1 e  3  d  =      &1
-C#5    2      1 e #3  d  ]     )+
+C#5    2      1 e #3  d  ]     )
 measure 201
 D5     2      1 e  3  d  [     (
 C#5    2      1 e #3  d  =
 D5     2      1 e  3  d  ]     )
 D5     2      1 e  3  d  [     (
-C#5    2      1 e #3  d  =      +
+C#5    2      1 e #3  d  =
 D5     2      1 e  3  d  ]     )
 D5     2      1 e  3  d  [     (
 E5     2      1 e  3  d  =
 D5     2      1 e  3  d  ]     )
 measure 202
 C#5    2      1 e #3  d  [     (
-B4     2      1 e n3  d  =      &1
+B4     2    &11 e n3  d  =      &1
 &1
 No natural on the B4s in this measure in Roger. An oversight?
 B flats make more harmonic sense.  Scanned edition has B naturals.
 &1
-C#5    2      1 e #3  d  ]     )+
+C#5    2      1 e #3  d  ]     )
 C#5    2      1 e  3  d  [     (
 B4     2      1 e  3  d  =      &1
-C#5    2      1 e #3  d  ]     )+
+C#5    2      1 e #3  d  ]     )
 C#5    2      1 e  3  d  [     (
 B4     2      1 e  3  d  =      &1
-C#5    2      1 e #3  d  ]     )+
+C#5    2      1 e #3  d  ]     )
 measure 203
 D5     2      1 e  3  d  [     (
 C#5    2      1 e #3  d  =
 D5     2      1 e  3  d  ]     )
 D5     2      1 e  3  d  [     (
-C#5    2      1 e #3  d  =      +
+C#5    2      1 e #3  d  =
 D5     2      1 e  3  d  ]     )
 D5     2      1 e  3  d  [     (
 C5     2      1 e n3  d  =
@@ -3764,16 +3586,13 @@ A4     4      1 q     u
 A4     2      1 e     u
 G4     6      1 q.    u
 G5     3      1 e.    d  [     (
-P C32:o
 F5     1      1 s     d  =\
 E5     2      1 e     d  ]     )
 measure 232
 F5     3      1 e.    d  [     (
-P C32:o
 E5     1      1 s     d  =\
 D5     2      1 e     d  ]     )
 D5     4      1 q     d        (
-P C32:o
 C#5    2      1 e #   d        )
 D5    12      1 h.    d        F
 mdouble 233
@@ -3843,7 +3662,6 @@ mdouble 249
 $   Q:4   D:17.
 rest   2      1 e
 D5     1      1 s     d  [[
-P C32:o
 C#5    1      1 s #   d  ]]
 D5     2      1 e     u  [
 D4     2      1 e     u  ]
@@ -3852,7 +3670,6 @@ D4     2      1 e     u  ]
 measure 250
 C#4    2      1 e #   u  [
 C#5    1      1 s #   u  =[
-P C32:u
 B4     1      1 s n   u  ]]
 C#5    2      1 e     u  [
 C#4    2      1 e     u  ]
@@ -3861,7 +3678,6 @@ C#4    2      1 e     u  ]
 measure 251
 D4     2      1 e     u  [
 D5     1      1 s     u  =[
-P C32:u
 C#5    1      1 s #   u  ]]
 D5     2      1 e     u  [
 D4     2      1 e     u  ]
@@ -3870,7 +3686,6 @@ D4     2      1 e     u  ]
 measure 252
 E4     2      1 e     u  [
 E5     1      1 s     u  =[
-P C32:o
 D5     1      1 s     u  ]]
 E5     2      1 e     u  [
 E4     2      1 e     u  ]
@@ -3879,7 +3694,6 @@ E4     2      1 e     u  ]
 measure 253
 F4     2      1 e     d  [
 F5     1      1 s     d  =[
-P C32:o
 E5     1      1 s     d  ]]
 F5     2      1 e     d  [
 F4     2      1 e     d  ]
@@ -3888,7 +3702,6 @@ F4     2      1 e     d  ]
 measure 254
 E4     2      1 e     u  [
 E5     1      1 s     u  =[
-P C32:o
 D5     1      1 s     u  ]]
 E5     2      1 e     u  [
 E4     2      1 e     u  ]
@@ -3897,7 +3710,6 @@ E4     2      1 e     u  ]
 measure 255
 D4     2      1 e     u  [
 D5     1      1 s     u  =[
-P C32:u
 C#5    1      1 s #   u  ]]
 D5     2      1 e     u  [
 D4     2      1 e     u  ]
@@ -3906,16 +3718,14 @@ D4     2      1 e     u  ]
 measure 256
 C#4    2      1 e #   u  [
 C#5    1      1 s #   u  =[
-P C32:u
 B4     1      1 s n   u  ]]
-C#5    2      1 e #   u  [      +
-C#4    2      1 e #   u  ]      +
-C#5    2      1 e #   u  [      +
-C#4    2      1 e #   u  ]      +
+C#5    2      1 e #   u  [
+C#4    2      1 e #   u  ]
+C#5    2      1 e #   u  [
+C#4    2      1 e #   u  ]
 measure 257
 D4     2      1 e     u  [
 D5     1      1 s     u  =[
-P C32:u
 C#5    1      1 s #   u  ]]
 D5     2      1 e     u  [
 D4     2      1 e     u  ]
@@ -3924,16 +3734,14 @@ D4     2      1 e     u  ]
 measure 258
 C#4    2      1 e #   u  [
 C#5    1      1 s #   u  =[
-P C32:u
 B4     1      1 s n   u  ]]
-C#5    2      1 e #   u  [      +
-C#4    2      1 e #   u  ]      +
-C#5    2      1 e #   u  [      +
-C#4    2      1 e #   u  ]      +
+C#5    2      1 e #   u  [
+C#4    2      1 e #   u  ]
+C#5    2      1 e #   u  [
+C#4    2      1 e #   u  ]
 measure 259
 D4     2      1 e     u  [
 D5     1      1 s     u  =[
-P C32:u
 C#5    1      1 s #   u  ]]
 D5     2      1 e     u  [
 D4     2      1 e     u  ]
@@ -3942,7 +3750,6 @@ D4     2      1 e     u  ]
 measure 260
 E4     2      1 e     u  [
 E5     1      1 s     u  =[
-P C32:u
 D5     1      1 s     u  ]]
 E5     2      1 e     u  [
 E4     2      1 e     u  ]
@@ -3951,7 +3758,6 @@ E4     2      1 e     u  ]
 measure 261
 F4     2      1 e     d  [
 F5     1      1 s     d  =[
-P C32:o
 E5     1      1 s     d  ]]
 F5     2      1 e     d  [
 F4     2      1 e     d  ]
@@ -3960,7 +3766,6 @@ F4     2      1 e     d  ]
 measure 262
 E4     2      1 e     d  [
 E5     1      1 s     d  =[
-P C32:o
 D5     1      1 s     d  ]]
 E5     2      1 e     u  [
 E4     2      1 e     u  ]
@@ -3969,16 +3774,15 @@ E4     2      1 e     u  ]
 measure 263
 D5     2      1 e     d  [
 E5     1      1 s     d  =[
-P C32:o
 D5     1      1 s     d  ]]
 C#5    2      1 e #   u  [
 C#4    2      1 e #   u  ]
-C#5    2      1 e #   u  [      +
-C#4    2      1 e #   u  ]      +
+C#5    2      1 e #   u  [
+C#4    2      1 e #   u  ]
 measure 264
 D4    12      1 h.    u        F
 mdouble 265
-$   Q:2  D:18
+$   Q:2  D:18.
 D5     2      1 q     d
 D5     3      1 q.    d
 D5     1      1 e     d
@@ -4043,269 +3847,185 @@ D5     6      1 h.    d        F
 mdouble 281
 $   Q:4  D:19.
 D5     1      1 s     d  [[
-P C32:o
 F5     1      1 s     d  ==
 F5     1      1 s     d  ==
-P C32:o
 D5     1      1 s     d  ]]
 D5     1      1 s     d  [[
-P C32:o
 F5     1      1 s     d  ==
 F5     1      1 s     d  ==
-P C32:o
 D5     1      1 s     d  ]]
 D5     1      1 s     d  [[
-P C32:o
 F5     1      1 s     d  ==
 F5     1      1 s     d  ==
-P C32:o
 D5     1      1 s     d  ]]
 measure 282
 C#5    1      1 s #   d  [[
-P C32:o
 E5     1      1 s     d  ==
 E5     1      1 s     d  ==
-P C32:o
-C#5    1      1 s #   d  ]]     +
+C#5    1      1 s #   d  ]]
 C#5    1      1 s     d  [[
-P C32:o
 E5     1      1 s     d  ==
 E5     1      1 s     d  ==
-P C32:o
-C#5    1      1 s #   d  ]]     +
+C#5    1      1 s #   d  ]]
 C#5    1      1 s     d  [[
-P C32:o
 E5     1      1 s     d  ==
 E5     1      1 s     d  ==
-P C32:o
-C#5    1      1 s #   d  ]]     +
+C#5    1      1 s #   d  ]]
 measure 283
 D5     1      1 s     d  [[
-P C32:o
 F5     1      1 s     d  ==
 F5     1      1 s     d  ==
-P C32:o
 D5     1      1 s     d  ]]
 D5     1      1 s     d  [[
-P C32:o
 F5     1      1 s     d  ==
 F5     1      1 s     d  ==
-P C32:o
 D5     1      1 s     d  ]]
 D5     1      1 s     d  [[
-P C32:o
 F5     1      1 s     d  ==
 F5     1      1 s     d  ==
-P C32:o
 D5     1      1 s     d  ]]
 measure 284
 E5     1      1 s     d  [[
-P C32:o
 G5     1      1 s     d  ==
 G5     1      1 s     d  ==
-P C32:o
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
-P C32:o
 G5     1      1 s     d  ==
 G5     1      1 s     d  ==
-P C32:o
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
-P C32:o
 G5     1      1 s     d  ==
 G5     1      1 s     d  ==
-P C32:o
 E5     1      1 s     d  ]]
 measure 285
 F5     1      1 s     d  [[
-P C32:o
 A5     1      1 s     d  ==
 A5     1      1 s     d  ==
-P C32:o
 F5     1      1 s     d  ]]
 F5     1      1 s     d  [[
-P C32:o
 A5     1      1 s     d  ==
 A5     1      1 s     d  ==
-P C32:o
 F5     1      1 s     d  ]]
 F5     1      1 s     d  [[
-P C32:o
 A5     1      1 s     d  ==
 A5     1      1 s     d  ==
-P C32:o
 F5     1      1 s     d  ]]
 measure 286
 E5     1      1 s     d  [[
-P C32:o
 G5     1      1 s     d  ==
 G5     1      1 s     d  ==
-P C32:o
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
-P C32:o
 G5     1      1 s     d  ==
 G5     1      1 s     d  ==
-P C32:o
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
-P C32:o
 G5     1      1 s     d  ==
 G5     1      1 s     d  ==
-P C32:o
 E5     1      1 s     d  ]]
 measure 287
 D5     1      1 s     d  [[
-P C32:o
 F5     1      1 s     d  ==
 F5     1      1 s     d  ==
-P C32:o
 D5     1      1 s     d  ]]
 D5     1      1 s     d  [[
-P C32:o
 F5     1      1 s     d  ==
 F5     1      1 s     d  ==
-P C32:o
 D5     1      1 s     d  ]]
 D5     1      1 s     d  [[
-P C32:o
 F5     1      1 s     d  ==
 F5     1      1 s     d  ==
-P C32:o
 D5     1      1 s     d  ]]
 measure 288
 C#5    1      1 s #   d  [[
-P C32:o
 E5     1      1 s     d  ==
 E5     1      1 s     d  ==
-P C32:o
-C#5    1      1 s #   d  ]]     +
+C#5    1      1 s #   d  ]]
 C#5    1      1 s     d  [[
-P C32:o
 E5     1      1 s     d  ==
 E5     1      1 s     d  ==
-P C32:o
-C#5    1      1 s #   d  ]]     +
+C#5    1      1 s #   d  ]]
 C#5    1      1 s     d  [[
-P C32:o
 E5     1      1 s     d  ==
 E5     1      1 s     d  ==
-P C32:o
-C#5    1      1 s #   d  ]]     +
+C#5    1      1 s #   d  ]]
 measure 289
 D5     1      1 s     d  [[
-P C32:o
 F5     1      1 s     d  ==
 F5     1      1 s     d  ==
-P C32:o
 D5     1      1 s     d  ]]
 D5     1      1 s     d  [[
-P C32:o
 F5     1      1 s     d  ==
 F5     1      1 s     d  ==
-P C32:o
 D5     1      1 s     d  ]]
 D5     1      1 s     d  [[
-P C32:o
 F5     1      1 s     d  ==
 F5     1      1 s     d  ==
-P C32:o
 D5     1      1 s     d  ]]
 measure 290
 C#5    1      1 s #   d  [[
-P C32:o
 E5     1      1 s     d  ==
 E5     1      1 s     d  ==
-P C32:o
-C#5    1      1 s #   d  ]]     +
+C#5    1      1 s #   d  ]]
 C#5    1      1 s     d  [[
-P C32:o
 E5     1      1 s     d  ==
 E5     1      1 s     d  ==
-P C32:o
-C#5    1      1 s #   d  ]]     +
+C#5    1      1 s #   d  ]]
 C#5    1      1 s     d  [[
-P C32:o
 E5     1      1 s     d  ==
 E5     1      1 s     d  ==
-P C32:o
-C#5    1      1 s #   d  ]]     +
+C#5    1      1 s #   d  ]]
 measure 291
 D5     1      1 s     d  [[
-P C32:o
 F5     1      1 s     d  ==
 F5     1      1 s     d  ==
-P C32:o
 D5     1      1 s     d  ]]
 D5     1      1 s     d  [[
-P C32:o
 F5     1      1 s     d  ==
 F5     1      1 s     d  ==
-P C32:o
 D5     1      1 s     d  ]]
 D5     1      1 s     d  [[
-P C32:o
 F5     1      1 s     d  ==
 F5     1      1 s     d  ==
-P C32:o
 D5     1      1 s     d  ]]
 measure 292
 E5     1      1 s     d  [[
-P C32:o
 G5     1      1 s     d  ==
 G5     1      1 s     d  ==
-P C32:o
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
-P C32:o
 G5     1      1 s     d  ==
 G5     1      1 s     d  ==
-P C32:o
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
-P C32:o
 G5     1      1 s     d  ==
 G5     1      1 s     d  ==
-P C32:o
 E5     1      1 s     d  ]]
 measure 293
 F5     1      1 s     d  [[
-P C32:o
 A5     1      1 s     d  ==
 A5     1      1 s     d  ==
-P C32:o
 F5     1      1 s     d  ]]
 F5     1      1 s     d  [[
-P C32:o
 A5     1      1 s     d  ==
 A5     1      1 s     d  ==
-P C32:o
 F5     1      1 s     d  ]]
 F5     1      1 s     d  [[
-P C32:o
 A5     1      1 s     d  ==
 A5     1      1 s     d  ==
-P C32:o
 F5     1      1 s     d  ]]
 measure 294
 E5     1      1 s     d  [[
-P C32:o
 G5     1      1 s     d  ==
 G5     1      1 s     d  ==
-P C32:o
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
-P C32:o
 G5     1      1 s     d  ==
 G5     1      1 s     d  ==
-P C32:o
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
-P C32:o
 G5     1      1 s     d  ==
 G5     1      1 s     d  ==
-P C32:o
 E5     1      1 s     d  ]]
 measure 295
 A4     1      1 s     d  [[
@@ -4331,15 +4051,15 @@ measure 298
 C#5    1      1 s #   d  [[
 E5     1      1 s     d  ==
 E5     1      1 s     d  ==
-C#5    1      1 s #   d  ]]     +
+C#5    1      1 s #   d  ]]
 C#5    1      1 s     d  [[
 E5     1      1 s     d  ==
 E5     1      1 s     d  ==
-C#5    1      1 s #   d  ]]     +
+C#5    1      1 s #   d  ]]
 C#5    1      1 s     d  [[
 E5     1      1 s     d  ==
 E5     1      1 s     d  ==
-C#5    1      1 s #   d  ]]     +
+C#5    1      1 s #   d  ]]
 measure 299
 D5     4      1 q     d
 D4     4      1 q     u
@@ -4382,33 +4102,32 @@ measure 304
 C#5    1      1 s #   d  [[
 E5     1      1 s     d  ==
 E5     1      1 s     d  ==
-C#5    1      1 s #   d  ]]     +
+C#5    1      1 s #   d  ]]
 C#5    1      1 s     d  [[
 E5     1      1 s     d  ==
 E5     1      1 s     d  ==
-C#5    1      1 s #   d  ]]     +
+C#5    1      1 s #   d  ]]
 C#5    1      1 s     d  [[
 E5     1      1 s     d  ==
 E5     1      1 s     d  ==
-C#5    1      1 s #   d  ]]     +
+C#5    1      1 s #   d  ]]
 measure 305
 D5     4      1 q     d
 D4     4      1 q     u
 D5     4      1 q     d
 measure 306
 C#5    1      1 s #   d  [[
-P C32:o
 E5     1      1 s     d  ==
 E5     1      1 s     d  ==
-C#5    1      1 s #   d  ]]     +
+C#5    1      1 s #   d  ]]
 C#5    1      1 s     d  [[
 E5     1      1 s     d  ==
 E5     1      1 s     d  ==
-C#5    1      1 s #   d  ]]     +
+C#5    1      1 s #   d  ]]
 C#5    1      1 s     d  [[
 E5     1      1 s     d  ==
 E5     1      1 s     d  ==
-C#5    1      1 s #   d  ]]     +
+C#5    1      1 s #   d  ]]
 measure 307
 D5     4      1 q     d
 D4     4      1 q     u
@@ -4454,7 +4173,7 @@ E5     1      1 s     d  ==
 G5     1      1 s     d  ]]
 C#5    1      1 s #   d  [[
 E5     1      1 s     d  ==
-C#5    1      1 s #   d  ==     +
+C#5    1      1 s #   d  ==
 E5     1      1 s     d  ]]
 measure 312
 D5    12      1 h.    d
@@ -4495,18 +4214,18 @@ mheavy2
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/03
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:52:46 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no12/stage2/01/03
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:13:19 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv063/stage2/01/03}
 TIMESTAMP: DEC/10/2005 [md5sum:a2377cc52e42fb4d9ccc1d9be822dbb6]
-11/03/04 Fran Bennion
+11/03/04 Fran Bennion   rev. 05/19/21 E Correia
 WK#:01,12     MV#:1
 RV 63 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 12 in d minor - "Folia"
+Vivaldi Op. 1, No. 12 in d minor - "Folia"
 Movement 1
 Violoncello
 
@@ -4650,7 +4369,7 @@ C4     4      1 q     d
 C#4    3      1 e.#   d  [
 D4     1      1 s     d  =\
 E4     3      1 e.    d  =
-C#4    1      1 s #   d  ]\     +
+C#4    1      1 s #   d  ]\
 measure 31
 D4     2      1 e     d  [
 G3     2      1 e     d  ]
@@ -4797,8 +4516,8 @@ measure 66
 A2     2      1 e     u  [
 B2     2      1 e n   u  =
 C#3    2      1 e #   u  =
-B2     2      1 e n   u  =      +
-C#3    2      1 e #   u  =      +
+B2     2      1 e n   u  =
+C#3    2      1 e #   u  =
 A2     2      1 e     u  ]
 measure 67
 D3     2      1 e     d  [
@@ -4842,7 +4561,7 @@ D3     1      1 s     u  ==
 C#3    1      1 s #   u  ==
 B2     1      1 s n   u  ]]
 A2     2      1 e     u  [
-C#3    2      1 e #   u  ]      +
+C#3    2      1 e #   u  ]
 measure 73
 D3     2      1 e     d  [
 E3     2      1 e     d  =
@@ -4854,8 +4573,8 @@ measure 74
 A2     2      1 e     u  [
 B2     2      1 e n   u  =
 C#3    2      1 e #   u  =
-B2     2      1 e n   u  =      +
-C#3    2      1 e #   u  =      +
+B2     2      1 e n   u  =
+C#3    2      1 e #   u  =
 A2     2      1 e     u  ]
 measure 75
 D3     2      1 e     d  [
@@ -4909,11 +4628,11 @@ C#4    1      1 s #   d  ==
 D4     1      1 s     d  ==
 E4     1      1 s     d  ]]
 A3     1      1 s     d  [[
-C#4    1      1 s #   d  ==     +
+C#4    1      1 s #   d  ==
 D4     1      1 s     d  ==
 E4     1      1 s     d  ]]
 A3     1      1 s     d  [[
-C#4    1      1 s #   d  ==     +
+C#4    1      1 s #   d  ==
 B3     1      1 s n   d  ==
 A3     1      1 s     d  ]]
 measure 83
@@ -4965,7 +4684,7 @@ C#4    1      1 s     d  ==
 D4     1      1 s     d  ==
 E4     1      1 s     d  ]]
 A3     1      1 s     d  [[
-C#4    1      1 s #   d  ==     +
+C#4    1      1 s #   d  ==
 B3     1      1 s n   d  ==
 A3     1      1 s     d  ]]
 measure 87
@@ -4987,11 +4706,11 @@ C#3    1      1 s #   d  ==
 D3     1      1 s     d  ==
 E3     1      1 s     d  ]]
 A2     1      1 s     u  [[
-C#3    1      1 s #   u  ==     +
+C#3    1      1 s #   u  ==
 D3     1      1 s     u  ==
 E3     1      1 s     u  ]]
 A2     1      1 s     u  [[
-C#3    1      1 s #   u  ==     +
+C#3    1      1 s #   u  ==
 B2     1      1 s n   u  ==
 A2     1      1 s     u  ]]
 measure 89
@@ -5013,11 +4732,11 @@ C#4    1      1 s #   d  ==
 D4     1      1 s     d  ==
 E4     1      1 s     d  ]]
 A3     1      1 s     d  [[
-C#4    1      1 s #   d  ==     +
+C#4    1      1 s #   d  ==
 D4     1      1 s     d  ==
 E4     1      1 s     d  ]]
 A3     1      1 s     d  [[
-C#4    1      1 s #   d  ==     +
+C#4    1      1 s #   d  ==
 B3     1      1 s n   d  ==
 A3     1      1 s     d  ]]
 measure 91
@@ -5069,7 +4788,7 @@ C#4    1      1 s     d  ==
 D4     1      1 s     d  ==
 E4     1      1 s     d  ]]
 A3     1      1 s     d  [[
-C#4    1      1 s #   d  ==     +
+C#4    1      1 s #   d  ==
 B3     1      1 s n   d  ==
 A3     1      1 s     d  ]]
 measure 95
@@ -5138,7 +4857,7 @@ D3     4      1 q     d
 F3     4      1 q     d
 D3     2      1 e     d
 measure 108
-C4     2      1 e n   d
+C4     2      1 e n   d         +
 C3     4      1 q     u
 E3     4      1 q     d
 C3     2      1 e     u
@@ -5156,7 +4875,6 @@ measure 111
 D3     2      1 e     d
 G3     4      1 q     d
 F3     1      1 s     d  [[
-P C32:o
 G3     1      1 s     d  ]]
 A3     2      1 e     d  [
 A2     2      1 e     d  ]
@@ -5495,7 +5213,7 @@ A2     2      1 q     u
 measure 176
 D3     6      1 h.    d        F
 mdouble 177
-$   Q:2  D:12. Largetto
+$   Q:2  D:12. Larghetto
 D3     4      1 h     d
 G2     2      1 q     u
 measure 178
@@ -5627,8 +5345,8 @@ B2     2      1 e n3  d  ]
 C#3    2      1 e #3  d  [
 D3     2      1 e  3  d  =
 E3     2      1 e  3  d  ]
-C#3    2      1 e #3  u  [      +
-B2     2      1 e n3  u  =      +
+C#3    2      1 e #3  u  [
+B2     2      1 e n3  u  =
 A2     2      1 e  3  u  ]
 measure 211
 D4     2      1 e  3  d  [
@@ -5641,7 +5359,7 @@ F3     2      1 e  3  d  [
 E3     2      1 e  3  d  =
 D3     2      1 e  3  d  ]
 measure 212
-C4     2      1 e n3  d  [
+C4     2      1 e n3  d  [      +
 C3     2      1 e  3  d  =
 D3     2      1 e  3  d  ]
 E3     2      1 e  3  d  [
@@ -5687,8 +5405,8 @@ B2     2      1 e n3  d  ]
 C#3    2      1 e #3  d  [
 D3     2      1 e  3  d  =
 E3     2      1 e  3  d  ]
-C#3    2      1 e #3  u  [      +
-B2     2      1 e n3  u  =      +
+C#3    2      1 e #3  u  [
+B2     2      1 e n3  u  =
 A2     2      1 e  3  u  ]
 measure 217
 D4     2      1 e  3  d  [
@@ -5707,8 +5425,8 @@ B2     2      1 e n3  d  ]
 C#3    2      1 e #3  d  [
 D3     2      1 e  3  d  =
 E3     2      1 e  3  d  ]
-C#3    2      1 e #3  u  [      +
-B2     2      1 e n3  u  =      +
+C#3    2      1 e #3  u  [
+B2     2      1 e n3  u  =
 A2     2      1 e  3  u  ]
 measure 219
 D4     2      1 e  3  d  [
@@ -5896,7 +5614,7 @@ A2     1      1 q     u
 measure 248
 D3     3      1 h.    d        F
 mdouble 249
-$   Q:4  D:17
+$   Q:4  D:17.
 D4     2      1 e     d  [
 D3     2      1 e     d  ]
 D3     1      1 s     d  [[
@@ -6098,7 +5816,7 @@ C3     2      1 q     u
 C#3    1      1 e #   u  [
 E3     1      1 e     u  =
 D3     1      1 e     u  =
-C#3    1      1 e #   u  ]      +
+C#3    1      1 e #   u  ]
 measure 271
 D3     2      1 q     d
 G2     1      1 e     u  [
@@ -6146,7 +5864,7 @@ C3     2      1 q     u
 C#3    1      1 e #   u  [
 E3     1      1 e     u  =
 D3     1      1 e     u  =
-C#3    1      1 e #   u  ]      +
+C#3    1      1 e #   u  ]
 measure 279
 D3     2      1 q     d
 A3     2      1 q     d
@@ -6478,18 +6196,18 @@ mheavy2
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/04
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:52:46 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no12/stage2/01/04
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:13:19 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv063/stage2/01/04}
 TIMESTAMP: DEC/10/2005 [md5sum:1ad632dd29657cc3caab929b2d432a6e]
-11/03/04 Fran Bennion
+11/03/04 Fran Bennion   rev. 05/19/21 E Correia
 WK#:01,12     MV#:1
 RV 63 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 12 in d minor - "Folia"
+Vivaldi Op. 1, No. 12 in d minor - "Folia"
 Movement 1
 Basso continuo
 
@@ -6500,7 +6218,7 @@ D3     2      1 q     d
 D3     3      1 q.    d
 D3     1      1 e     d
 measure 2
-f1              x
+f1              #
 A2     2      1 q     u
 A2     3      1 q.    u
 A2     1      1 e     u
@@ -6527,7 +6245,7 @@ Bf2    3      1 q.    u
 f2              7 5
 G2     1      1 e     u
 measure 8
-f1              x
+f1              #
 A2     2      1 q     u
 A3     1      1 e     d  [
 G3     1      1 e     d  =
@@ -6541,7 +6259,7 @@ D3     2      1 q     d
 D3     3      1 q.    d
 D3     1      1 e     d
 measure 10
-f1              x
+f1              #
 A2     2      1 q     u
 A2     3      1 q.    u
 A2     1      1 e     u
@@ -6559,13 +6277,13 @@ F3     3      1 q.    d
 F3     1      1 e     d
 measure 14
 C3     2      1 q     u
-f2              7 5+
+f2              7 5
 C#3    3      1 q.#   u
 C#3    1      1 e     u
 measure 15
 D3     1      1 e     d  [
 G3     1      1 e     d  ]
-f1              x
+f1              #
 A3     2      1 q     d
 A2     2      1 q     u
 measure 16
@@ -6576,7 +6294,7 @@ D3     4      1 q     d
 D4     4      1 q     d
 rest   4      1 q
 measure 18
-f1              x
+f1              #
 A3     3      1 e.    d  [
 Bf3    1      1 s     d  =\
 A3     3      1 e.    d  =
@@ -6608,7 +6326,7 @@ measure 23
 D4     4      1 q     d
 D3     8      1 h     d
 measure 24
-f1              x
+f1              #
 A3     3      1 e.    d  [
 Bf3    1      1 s     d  =\
 A3     3      1 e.    d  =
@@ -6621,7 +6339,7 @@ D3     4      1 q     d
 D4     4      1 q     d
 rest   4      1 q
 measure 26
-f1              x
+f1              #
 A3     3      1 e.    d  [
 Bf3    1      1 s     d  =\
 A3     3      1 e.    d  =
@@ -6651,11 +6369,11 @@ f2              7 5
 C#4    3      1 e.#   d  [
 D4     1      1 s     d  =\
 E4     3      1 e.    d  =
-C#4    1      1 s #   d  ]\     +
+C#4    1      1 s #   d  ]\
 measure 31
 D4     2      1 e     d  [
 G3     2      1 e     d  ]
-f1              x
+f1              #
 A3     4      1 q     d
 A2     4      1 q     u
 measure 32
@@ -6666,7 +6384,7 @@ D4     2      1 q     d
 rest   2      1 q
 D3     2      1 q     d
 measure 34
-f1              x
+f1              #
 A3     2      1 q     d
 rest   2      1 q
 A2     2      1 q     u
@@ -6692,7 +6410,7 @@ D4     2      1 q     d
 rest   2      1 q
 G2     2      1 q     u
 measure 40
-f1              x
+f1              #
 A2     2      1 q     u
 A3     2      1 q     d
 A2     2      1 q     u
@@ -6701,7 +6419,7 @@ D3     2      1 q     d
 rest   2      1 q
 D3     2      1 q     d
 measure 42
-f1              x
+f1              #
 A3     2      1 q     d
 rest   2      1 q
 A2     2      1 q     u
@@ -6734,7 +6452,7 @@ D3     2      1 q     d
 D4     2      1 q     d
 D3     2      1 q     d
 measure 50
-f1              x
+f1              #
 A2     2      1 q     u
 A3     2      1 q     d
 A2     2      1 q     u
@@ -6763,7 +6481,7 @@ f1     1        5
 f1              6
 Bf2    2      1 q     u
 measure 56
-f1              x
+f1              #
 A2     2      1 q     u
 A3     2      1 q     d
 A2     2      1 q     u
@@ -6772,7 +6490,7 @@ D3     2      1 q     d
 D4     2      1 q     d
 D3     2      1 q     d
 measure 58
-f1              x
+f1              #
 A2     2      1 q     u
 A3     2      1 q     d
 A2     2      1 q     u
@@ -6791,7 +6509,7 @@ F3     2      1 q     d
 measure 62
 f1              6f
 G3     1      1 e     d  [
-f1              x
+f1              #
 A3     1      1 e     d  =
 Bf3    1      1 e     d  =
 A3     1      1 e     d  =
@@ -6801,7 +6519,7 @@ Bf3    1      1 e     d  ]
 measure 63
 f2              6 4
 A3     2      1 q     d
-f2              5 x
+f2              5 #
 A2     4      1 h     u
 measure 64
 D3     6      1 h.    d        F
@@ -6816,14 +6534,14 @@ f1              6
 F3     2      1 e     d  =
 G3     2      1 e     d  ]
 measure 66
-f1              x
+f1              #
 A2     2      1 e     u  [
 B2     2      1 e n   u  =
 f1              6
 C#3    2      1 e #   u  =
-B2     2      1 e n   u  =      +
+B2     2      1 e n   u  =
 f1              6
-C#3    2      1 e #   u  =      +
+C#3    2      1 e #   u  =
 A2     2      1 e     u  ]
 measure 67
 D3     2      1 e     d  [
@@ -6869,7 +6587,7 @@ f1              6
 F3     2      1 e     d  =
 G3     2      1 e     d  ]
 measure 72
-f1              x
+f1              #
 A3     1      1 s     d  [[
 A3     1      1 s     d  ==
 G3     1      1 s     d  ==
@@ -6879,9 +6597,9 @@ E3     1      1 s     u  [[
 D3     1      1 s     u  ==
 C#3    1      1 s #   u  ==
 B2     1      1 s n   u  ]]
-f2              7 x
+f2              7 #
 A2     2      1 e     u  [
-C#3    2      1 e #   u  ]      +
+C#3    2      1 e #   u  ]
 measure 73
 D3     2      1 e     d  [
 E3     2      1 e     d  =
@@ -6892,14 +6610,14 @@ f1              6
 F3     2      1 e     d  =
 G3     2      1 e     d  ]
 measure 74
-f1              x
+f1              #
 A2     2      1 e     u  [
 B2     2      1 e n   u  =
 f1              6
 C#3    2      1 e #   u  =
-B2     2      1 e n   u  =      +
+B2     2      1 e n   u  =
 f1              6
-C#3    2      1 e     u  =      +
+C#3    2      1 e     u  =
 A2     2      1 e     u  ]
 measure 75
 D3     2      1 e     d  [
@@ -6938,7 +6656,7 @@ C#4    2      1 e     d
 measure 79
 D4     2      1 e     d  [
 G3     2      1 e     d  ]
-f1              x
+f1              #
 A3     4      1 q     d
 A2     4      1 q     u
 measure 80
@@ -6958,18 +6676,18 @@ F3     1      1 s     d  ==
 E3     1      1 s     d  ==
 D3     1      1 s     d  ]]
 measure 82
-f1              x
+f1              #
 A3     1      1 s     d  [[
 C#4    1      1 s #   d  ==
 D4     1      1 s     d  ==
 E4     1      1 s     d  ]]
 A3     1      1 s     d  [[
-C#4    1      1 s #   d  ==     +
+C#4    1      1 s #   d  ==
 D4     1      1 s     d  ==
 E4     1      1 s     d  ]]
-f2              7 x
+f2              7 #
 A3     1      1 s     d  [[
-C#4    1      1 s #   d  ==     +
+C#4    1      1 s #   d  ==
 B3     1      1 s n   d  ==
 A3     1      1 s     d  ]]
 measure 83
@@ -7022,9 +6740,9 @@ C#4    1      1 s #   d  [[
 C#4    1      1 s     d  ==
 D4     1      1 s     d  ==
 E4     1      1 s     d  ]]
-f2              7 x
+f2              7 #
 A3     1      1 s     d  [[
-C#4    1      1 s #   d  ==     +
+C#4    1      1 s #   d  ==
 B3     1      1 s n   d  ==
 A3     1      1 s     d  ]]
 measure 87
@@ -7041,19 +6759,19 @@ F3     1      1 s     d  ==
 E3     1      1 s     d  ==
 D3     1      1 s     d  ]]
 measure 88
-f1              x
+f1              #
 P    C1:Y73
 A3     1      1 s     d  [[
 C#3    1      1 s #   d  ==
 D3     1      1 s     d  ==
 E3     1      1 s     d  ]]
 A2     1      1 s     u  [[
-C#3    1      1 s #   u  ==     +
+C#3    1      1 s #   u  ==
 D3     1      1 s     u  ==
 E3     1      1 s     u  ]]
-f2              7 x
+f2              7 #
 A2     1      1 s     u  [[
-C#3    1      1 s #   u  ==     +
+C#3    1      1 s #   u  ==
 B2     1      1 s n   u  ==
 A2     1      1 s     u  ]]
 measure 89
@@ -7070,18 +6788,18 @@ F3     1      1 s     d  ==
 E3     1      1 s     d  ==
 D3     1      1 s     d  ]]
 measure 90
-f1              x
+f1              #
 A3     1      1 s     d  [[
 C#4    1      1 s #   d  ==
 D4     1      1 s     d  ==
 E4     1      1 s     d  ]]
 A3     1      1 s     d  [[
-C#4    1      1 s #   d  ==     +
+C#4    1      1 s #   d  ==
 D4     1      1 s     d  ==
 E4     1      1 s     d  ]]
-f2              7 x
+f2              7 #
 A3     1      1 s     d  [[
-C#4    1      1 s #   d  ==     +
+C#4    1      1 s #   d  ==
 B3     1      1 s n   d  ==
 A3     1      1 s     d  ]]
 measure 91
@@ -7134,20 +6852,20 @@ C#4    1      1 s #   d  [[
 C#4    1      1 s     d  ==
 D4     1      1 s     d  ==
 E4     1      1 s     d  ]]
-f2              7 x
+f2              7 #
 A3     1      1 s     d  [[
-C#4    1      1 s #   d  ==     +
+C#4    1      1 s #   d  ==
 B3     1      1 s n   d  ==
 A3     1      1 s     d  ]]
 measure 95
 D4     2      1 e     d  [
-f1              x
+f1              3
 A3     2      1 e     d  =
 f1              5
 P    C1:Y73
 Bf3    2      1 e     d  =
 G3     2      1 e     d  =
-f1              x
+f1              #
 P    C1:Y76
 A3     2      1 e     d  =
 A2     2      1 e     d  ]
@@ -7198,7 +6916,7 @@ f1              6
 F4     4      1 q     d
 D4     2      1 e     d
 measure 104
-f1              x
+f1              #
 A3     2      1 e     d
 A2     4      1 q     u
 f1              6
@@ -7211,7 +6929,7 @@ f1              6
 F3     4      1 q     d
 D3     2      1 e     d
 measure 106
-f1              x
+f1              #
 A3     2      1 e     d
 A2     4      1 q     u
 f1              6
@@ -7224,7 +6942,7 @@ f1              6
 F3     4      1 q     d
 D3     2      1 e     d
 measure 108
-C4     2      1 e n   d
+C4     2      1 e n   d         +
 C3     4      1 q     u
 f1              6
 E3     4      1 q     d
@@ -7250,7 +6968,7 @@ G3     4      1 q     d
 f1              6
 F3     1      1 s     d  [[
 G3     1      1 s     d  ]]
-f1              x
+f1              #
 A3     2      1 e     d  [
 A2     2      1 e     d  ]
 measure 112
@@ -7261,7 +6979,7 @@ D3     2      1 q     d
 D3     3      1 q.    d
 D3     1      1 e     d
 measure 114
-f1              x
+f1              #
 A2     2      1 q     u
 A2     3      1 q.    u
 A2     1      1 e     u
@@ -7288,7 +7006,7 @@ Bf2    2      1 q     u
 f2              6 5
 G2     2      1 q     u
 measure 120
-f1              x
+f1              #
 A2     2      1 q     u
 A2     3      1 q.    u
 A2     1      1 e     u
@@ -7297,7 +7015,7 @@ D3     2      1 q     d
 D3     3      1 q.    d
 D3     1      1 e     d
 measure 122
-f1              x
+f1              #
 A2     2      1 q     u
 A2     3      1 q.    u
 A2     1      1 e     u
@@ -7321,9 +7039,9 @@ C#3    1      1 e     u
 measure 127
 D3     1      1 e     d  [
 G3     1      1 e     d  ]
-f1              x
+f1              #
 A3     2      1 q     d
-f2              7 x
+f2              7 #
 A2     2      1 q     u
 measure 128
 D3     6      1 h.    d        F
@@ -7340,7 +7058,7 @@ f2              5 4
 P    C1:Y81
 A2     1      1 e     d  [
 A3     1      1 e     d  =
-f2              7 x
+f2              7 #
 P    C1:Y79
 A3     1      1 e     d  =
 A2     1      1 e     d  =
@@ -7355,7 +7073,7 @@ D4     1      1 e     d  =
 D3     1      1 e     d  =
 f1              5
 D3     1      1 e     d  =
-f1              6\
+f1              6n
 D4     1      1 e     d  ]
 measure 132
 f2              5 4
@@ -7386,7 +7104,7 @@ f1              3
 P    C1:Y79
 C4     1      1 e     d  =
 C3     1      1 e     d  =
-f1              x
+f1              #
 P    C1:Y74
 A2     1      1 e     d  =
 C#3    1      1 e #   d  ]
@@ -7404,7 +7122,7 @@ P    C1:Y88
 G3     1      1 e     d  =
 G2     1      1 e     d  ]
 measure 136
-f1              x
+f1              #
 P    C1:Y75
 A2     1      1 e     d  [
 A3     1      1 e     d  =
@@ -7424,11 +7142,11 @@ f2              5 4
 P    C1:Y80
 A2     1      1 e     d  [
 A3     1      1 e     d  =
-f1              x
+f1              #
 P    C1:Y78
 A3     1      1 e     d  =
 A2     1      1 e     d  =
-f2              7 x
+f2              7 #
 P    C1:Y76
 A2     1      1 e     d  =
 A3     1      1 e     d  ]
@@ -7441,7 +7159,7 @@ D4     1      1 e     d  =
 D3     1      1 e     d  =
 f1              5
 D3     1      1 e     d  =
-f1              6\
+f1              6n
 D4     1      1 e     d  ]
 measure 140
 f2              5 4
@@ -7478,7 +7196,7 @@ f2              6 4
 P    C1:Y79
 A3     1      1 e     d  [
 D3     1      1 e     d  =
-f2              5 x
+f2              5 #
 P    C1:Y79
 A3     1      1 e     d  =
 A2     1      1 e     d  =
@@ -7492,7 +7210,7 @@ D3     2      1 q     d
 rest   2      1 q
 D3     2      1 q     d
 measure 146
-f1              x
+f1              #
 A3     2      1 q     d
 rest   2      1 q
 A3     2      1 q     d
@@ -7511,7 +7229,7 @@ F2     2      1 q     u
 measure 150
 C3     2      1 q     u
 rest   2      1 q
-f2              7 x
+f2              7 #
 A2     2      1 q     u
 measure 151
 D3     2      1 q     d
@@ -7519,14 +7237,14 @@ rest   2      1 q
 f2              7 5
 G2     2      1 q     u
 measure 152
-f1              x
+f1              #
 A2     6      1 h.    u
 measure 153
 D3     2      1 q     d
 rest   2      1 q
 D3     2      1 q     d
 measure 154
-f1              x
+f1              #
 A3     2      1 q     d
 rest   2      1 q
 A3     2      1 q     d
@@ -7549,7 +7267,7 @@ C#3    4      1 h #   u
 measure 159
 D3     1      1 e     d  [
 G3     1      1 e     d  ]
-f1              x
+f1              #
 A3     2      1 q     d
 A2     2      1 q     u
 measure 160
@@ -7563,7 +7281,7 @@ D3     1      1 e     d  ]
 D3     2      1 q     d
 measure 162
 rest   1      1 e
-f1              x
+f1              #
 A3     1      1 e     d
 A3     1      1 e     u  [
 A2     1      1 e     u  =
@@ -7593,7 +7311,7 @@ rest   1      1 e
 C4     1      1 e     d
 C4     1      1 e     d  [
 C3     1      1 e     d  =
-f3              7 5 x
+f3              7 5 #
 P    C1:Y77
 A2     1      1 e     d  =
 C#3    1      1 e #   d  ]
@@ -7607,7 +7325,7 @@ P    C1:Y87
 G3     1      1 e     d  =
 G2     1      1 e     d  ]
 measure 168
-f1              x
+f1              #
 P    C1:Y78
 A2     1      1 e     d  [
 A3     1      1 e     d  =
@@ -7623,7 +7341,7 @@ D3     1      1 e     d  ]
 D3     2      1 q     d
 measure 170
 rest   1      1 e
-f1              x
+f1              #
 A3     1      1 e     d
 A3     1      1 e     d  [
 A2     1      1 e     d  =
@@ -7653,7 +7371,7 @@ rest   1      1 e
 C4     1      1 e     d
 C4     1      1 e     d  [
 C3     1      1 e     d  =
-f3              7 5 x
+f3              7 5 #
 P    C1:Y76
 A2     1      1 e     d  =
 C#3    1      1 e #   d  ]
@@ -7661,17 +7379,17 @@ measure 175
 D3     2      1 q     d
 f2              5 4
 A3     2      1 q     d
-f1              x
+f1              #
 A2     2      1 q     u
 measure 176
 D3     6      1 h.    d        F
 mdouble 177
-$   Q:2  D:12. Largetto
+$   Q:2  D:12. Larghetto
 D3     4      1 h     d
 f1              6
 G2     2      1 q     u
 measure 178
-f1              x
+f1              #
 A2     4      1 h     u
 A2     2      1 q     u
 measure 179
@@ -7693,14 +7411,14 @@ Bf2    2      1 q     u
 f1              6
 G2     4      1 h     u
 measure 184
-f1              x
+f1              #
 A2     6      1 h.    u
 measure 185
 D3     4      1 h     d
 f1              6
 G2     2      1 q     u
 measure 186
-f1              x
+f1              #
 A2     4      1 h     u
 A2     2      1 q     u
 measure 187
@@ -7715,7 +7433,7 @@ f1     2        5
 f1              6
 G3     4      1 h     d
 measure 190
-f1              x
+f1              #
 A3     3      1 q.    d
 G3     1      1 e     d
 f1              6
@@ -7724,7 +7442,7 @@ E3     1      1 e     d  ]
 measure 191
 D3     1      1 e     d  [
 G3     1      1 e     d  ]
-f1              x
+f1              #
 A3     2      1 q     d
 A2     2      1 q     u
 measure 192
@@ -7735,7 +7453,7 @@ D4     6      1 q     d
 D3     6      1 q     d
 rest   6      1 q
 measure 194
-f1              x
+f1              #
 A3     6      1 q     d
 A2     6      1 q     u
 rest   6      1 q
@@ -7755,7 +7473,7 @@ measure 198
 C3     6      1 q     u
 f2              6 5
 C#3    6      1 q #   u
-f2              7 x
+f2              7 #
 A2     6      1 q     u
 measure 199
 D3     6      1 q     d
@@ -7764,7 +7482,7 @@ Bf2    6      1 q     u
 f1              7
 G2     6      1 q     u
 measure 200
-f1              x
+f1              #
 A2     6      1 q     u
 A3     6      1 q     d
 rest   6      1 q
@@ -7773,7 +7491,7 @@ D3     6      1 q     d
 D4     6      1 q     d
 rest   6      1 q
 measure 202
-f1              x
+f1              #
 A2     6      1 q     u
 A3     6      1 q     d
 rest   6      1 q
@@ -7793,7 +7511,7 @@ measure 206
 C3     6      1 q     u
 f2              6 5
 C#3    6      1 q #   u
-f2              7 x
+f2              7 #
 A2     6      1 q     u
 measure 207
 D3     3      1 e     d  [
@@ -7816,7 +7534,7 @@ F3     2      1 e  3  d  [
 E3     2      1 e  3  d  =
 D3     2      1 e  3  d  ]
 measure 210
-f1              x
+f1              #
 P    C1:Y72
 A3     2      1 e  3  d  [
 A2     2      1 e  3  d  =
@@ -7826,7 +7544,7 @@ C#3    2      1 e #3  d  [
 D3     2      1 e  3  d  =
 E3     2      1 e  3  d  ]
 f1              6
-C#3    2      1 e #3  u  [      +
+C#3    2      1 e #3  u  [
 B2     2      1 e n3  u  =      +
 A2     2      1 e  3  u  ]
 measure 211
@@ -7842,7 +7560,7 @@ F3     2      1 e  3  d  [
 E3     2      1 e  3  d  =
 D3     2      1 e  3  d  ]
 measure 212
-C4     2      1 e n3  d  [
+C4     2      1 e n3  d  [      +
 C3     2      1 e  3  d  =
 D3     2      1 e  3  d  ]
 f1              6
@@ -7890,7 +7608,7 @@ F3     2      1 e  3  d  [
 E3     2      1 e  3  d  =
 D3     2      1 e  3  d  ]
 measure 216
-f1              x
+f1              #
 P    C1:Y72
 A3     2      1 e  3  d  [
 A2     2      1 e  3  d  =
@@ -7900,7 +7618,7 @@ C#3    2      1 e #3  d  [
 D3     2      1 e  3  d  =
 E3     2      1 e  3  d  ]
 f1              6
-C#3    2      1 e #3  u  [      +
+C#3    2      1 e #3  u  [
 B2     2      1 e n3  u  =      +
 A2     2      1 e  3  u  ]
 measure 217
@@ -7916,7 +7634,7 @@ F3     2      1 e  3  d  [
 E3     2      1 e  3  d  =
 D3     2      1 e  3  d  ]
 measure 218
-f1              x
+f1              #
 P    C1:Y72
 A3     2      1 e  3  d  [
 A2     2      1 e  3  d  =
@@ -7926,7 +7644,7 @@ C#3    2      1 e #3  d  [
 D3     2      1 e  3  d  =
 E3     2      1 e  3  d  ]
 f1              6
-C#3    2      1 e #3  u  [      +
+C#3    2      1 e #3  u  [
 B2     2      1 e n3  u  =      +
 A2     2      1 e  3  u  ]
 measure 219
@@ -7973,7 +7691,7 @@ f1              6
 E3     2      1 e  3  d  [
 F3     2      1 e  3  d  =
 G3     2      1 e  3  d  ]
-f1              x
+f1              #
 A2     2      1 e  3  u  [
 B2     2      1 e n3  u  =
 C#3    2      1 e #3  u  ]
@@ -7986,7 +7704,7 @@ A3     2      1 e  3  d  =
 Bf3    2      1 e  3  d  ]
 f2              5 4
 A3     4      1 q  3  d
-f1              x
+f1              #
 A2     2      1 e  3  u
 measure 224
 D3    18      1 h.    d        F
@@ -7998,7 +7716,7 @@ D3     2      1 q     d
 D3     1      1 e     d
 f2              5 4
 A2     2      1 q     u
-f1              x
+f1              #
 A2     1      1 e     u
 A2     2      1 q     u
 A2     1      1 e     u
@@ -8020,7 +7738,7 @@ C3     2      1 q     u
 f2              6 5
 C#3    1      1 e #   u
 C#3    2      1 q     u
-f1              x
+f1              #
 A2     1      1 e     u
 measure 228
 D3     2      1 q     d
@@ -8031,7 +7749,7 @@ G2     1      1 e     u
 f2              5 4
 A2     2      1 q     u
 A2     1      1 e     u
-f1              x
+f1              #
 A2     2      1 q     u
 A2     1      1 e     u
 measure 229
@@ -8041,7 +7759,7 @@ D3     2      1 q     d
 D3     1      1 e     d
 f2              5 4
 A2     2      1 q     u
-f1              x
+f1              #
 A2     1      1 e     u
 A2     2      1 q     u
 A2     1      1 e     u
@@ -8061,7 +7779,7 @@ F3     2      1 q     d
 F3     1      1 e     d
 f2              5 4
 C3     2      1 q     u
-f1              3
+f2              b 3
 C3     1      1 e     u
 f2              7 5
 C#3    1      1 e #   d  [
@@ -8073,7 +7791,7 @@ f2              7 5
 G3     1      1 e     d
 f2              6 4
 A3     2      1 q     d
-f2              5 x
+f2              5 #
 A2     1      1 e     u
 D3     6      1 h.    d        F
 mdouble 233
@@ -8082,7 +7800,7 @@ D3     1      1 q     d
 D3     1      1 q     d
 D3     1      1 q     d
 measure 234
-f1              x
+f1              #
 A2     1      1 q     u
 A2     1      1 q     u
 A2     1      1 q     u
@@ -8109,7 +7827,7 @@ Bf2    1      1 q     u
 f2              7 5
 G2     1      1 q     u
 measure 240
-f1              x
+f1              #
 A2     1      1 q     u
 A2     1      1 q     u
 A2     1      1 q     u
@@ -8118,7 +7836,7 @@ D3     1      1 q     d
 D3     1      1 q     d
 D3     1      1 q     d
 measure 242
-f1              x
+f1              #
 A2     1      1 q     u
 A2     1      1 q     u
 A2     1      1 q     u
@@ -8143,7 +7861,7 @@ measure 247
 D3     1      1 q     d
 f2              5 4
 A3     1      1 q     d
-f1              x
+f1              #
 A2     1      1 q     u
 measure 248
 D3     3      1 h.    d        F
@@ -8161,7 +7879,7 @@ B3     1      1 s n   d  ==
 C#4    1      1 s #   d  ==
 D4     1      1 s     d  ]]
 measure 250
-f1              x
+f1              #
 A3     2      1 e     d  [
 A2     2      1 e     d  ]
 A2     1      1 s     u  [[
@@ -8238,7 +7956,7 @@ E3     1      1 s     d  ==
 F3     1      1 s     d  ==
 G3     1      1 s     d  ]]
 measure 256
-f1              x
+f1              #
 A2     4      1 q     u
 A2     1      1 s     u  [[
 B2     1      1 s n   u  ==
@@ -8262,7 +7980,7 @@ B3     1      1 s n   d  ==
 C#4    1      1 s #   d  ==
 D4     1      1 s     d  ]]
 measure 258
-f1              x
+f1              #
 A3     2      1 e     d  [
 A2     2      1 e     d  ]
 A2     1      1 s     u  [[
@@ -8327,7 +8045,7 @@ C#4    1      1 s #   d  ]]
 measure 263
 D3     2      1 e     u  [
 G2     2      1 e     u  ]
-f1              x
+f1              #
 A2     1      1 s     u  [[
 B2     1      1 s n   u  ==
 C#3    1      1 s #   u  ==
@@ -8347,7 +8065,7 @@ F3     1      1 e     d  =
 E3     1      1 e     d  =
 D3     1      1 e     d  ]
 measure 266
-f1              x
+f1              #
 A3     2      1 q     d
 A2     1      1 e     u  [
 C#3    1      1 e #   u  =
@@ -8377,7 +8095,7 @@ f2              6 5
 C#3    1      1 e #   u  [
 E3     1      1 e     u  =
 D3     1      1 e     u  =
-C#3    1      1 e #   u  ]      +
+C#3    1      1 e #   u  ]
 measure 271
 D3     2      1 q     d
 f2              7 5
@@ -8386,7 +8104,7 @@ Bf2    1      1 e     u  =
 A2     1      1 e     u  =
 G2     1      1 e     u  ]
 measure 272
-f1              x
+f1              #
 A2     2      1 q     u
 A3     1      1 e     d  [
 C#4    1      1 e #   d  =
@@ -8399,7 +8117,7 @@ F3     1      1 e     d  =
 E3     1      1 e     d  =
 D3     1      1 e     d  ]
 measure 274
-f1              x
+f1              #
 A3     2      1 q     d
 A2     1      1 e     u  [
 C#3    1      1 e #   u  =
@@ -8429,10 +8147,10 @@ f2              7 5
 C#3    1      1 e #   u  [
 E3     1      1 e     u  =
 D3     1      1 e     u  =
-C#3    1      1 e #   u  ]      +
+C#3    1      1 e #   u  ]
 measure 279
 D3     2      1 q     d
-f1              x
+f1              #
 A3     2      1 q     d
 A2     2      1 q     u
 measure 280
@@ -8446,7 +8164,7 @@ D3     1      1 e     d  =
 D3     1      1 e     d  =
 D3     1      1 e     d  ]
 measure 282
-f1              x
+f1              #
 A3     1      1 e     d  [
 A3     1      1 e     d  =
 A3     1      1 e     d  =
@@ -8492,7 +8210,7 @@ D3     1      1 e     d  =
 D3     1      1 e     d  =
 D3     1      1 e     d  ]
 measure 288
-f2              7 x
+f2              7 #
 A3     1      1 e     d  [
 A3     1      1 e     d  =
 A3     1      1 e     d  =
@@ -8507,7 +8225,7 @@ D3     1      1 e     d  =
 D3     1      1 e     d  =
 D3     1      1 e     d  ]
 measure 290
-f1              x
+f1              #
 A3     1      1 e     d  [
 A3     1      1 e     d  =
 A3     1      1 e     d  =
@@ -8551,7 +8269,7 @@ D3     1      1 e     d  =
 f2              6 5
 G3     1      1 e     d  =
 G3     1      1 e     d  =
-f1              x
+f1              #
 A3     1      1 e     d  =
 A3     1      1 e     d  ]
 measure 296
@@ -8571,7 +8289,7 @@ D4     1      1 s     d  ==
 D4     1      1 s     d  ==
 D3     1      1 s     d  ]]
 measure 298
-f2              7 x
+f2              7 #
 A2     4      1 q     u
 A3     4      1 q     d
 A2     4      1 q     u
@@ -8626,7 +8344,7 @@ D4     1      1 s     d  ==
 D4     1      1 s     d  ==
 D3     1      1 s     d  ]]
 measure 304
-f2              7 x
+f2              7 #
 A2     4      1 q     u
 A3     4      1 q     d
 A2     4      1 q     u
@@ -8644,7 +8362,7 @@ D4     1      1 s     d  ==
 D4     1      1 s     d  ==
 D3     1      1 s     d  ]]
 measure 306
-f2              7 x
+f2              7 #
 A2     4      1 q     u
 A3     4      1 q     d
 A2     4      1 q     u
@@ -8689,7 +8407,7 @@ measure 311
 D3     4      1 q     d
 f2              5 4
 A3     4      1 q     d
-f1              x
+f1              #
 A2     4      1 q     u
 measure 312
 D3    12      1 h.    d
@@ -8721,7 +8439,7 @@ G3     1      1 s     u  ==
 G3     1      1 s     u  ==
 G2     1      1 s     u  ]]
 measure 315
-f1              x
+f1              #
 P    C1:Y80
 A2     1      1 s     d  [[
 A3     1      1 s     d  ==
@@ -8769,7 +8487,7 @@ G3     1      1 s     u  ==
 G3     1      1 s     u  ==
 G2     1      1 s     u  ]]
 measure 319
-f1              x
+f1              #
 P    C1:Y80
 A2     1      1 s     d  [[
 A3     1      1 s     d  ==
@@ -8807,7 +8525,7 @@ mheavy2
 @@@filter: addtempo -q "60; m17:120; m33:150; m49:154; m65:150; m81:152; m97:150; m113:152; m129:66; m145:138; m161:160; m177:44; m193:156; m209:156; m225:55; m233:154; m249:150; m265:150; m281:150; m297:154"
 @@@filter: addlabels -d "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T" -l "m0:A; m17:B; m33:C; m49:D; m65:E; m81:F; m97:G; m113:H; m129:I; m145:J; m161:K; m177:L; m193:M; m209:N; m225:O; m233:P; m249:Q; m265:R; m281:S; m297:T"
 @@@EEV: 2024/04/22
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/01
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/02
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/03
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/04
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no12/stage2/01/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no12/stage2/01/02
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no12/stage2/01/03
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no12/stage2/01/04

@@ -11,24 +11,24 @@
 @@@key: e
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv067_02/stage2/02/01
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:49:11 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no02/stage2/02/01
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:10:05 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv067/stage2/02/01}
 TIMESTAMP: DEC/10/2005 [md5sum:6a7f3d267c839dc272ef4e664920785d]
-09/24/04 Fran Bennion
+09/24/04 Fran Bennion   rev. 05/12/21 E Correia
 WK#:01,02     MV#:2
 RV 67 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 2 in e minor
+Vivaldi Op. 1, No. 2 in e minor
 Movement 2 - Corrente
 Violino 1
 
 Group memberships: score
 score: part 1 of 4
-$   Q:4  K:1  T:3/4  C:4  D:Corrente, Allegro
+$   Q:4  K:1  T:3/4  C:4  D:Allegro
 rest   1      1 s
 measure 1
 rest   4      1 q
@@ -62,7 +62,7 @@ F#5    1      1 s     d  =\    )
 F#5    3      1 e.    d  =     (
 E5     1      1 s     d  =\    )
 E5     3      1 e.    d  =     (
-D#5    1      1 s n   d  ]\    )+
+D#5    1      1 s #   d  ]\    )
 measure 7
 E5    12      1 h.    d
 measure 8
@@ -76,7 +76,7 @@ measure 9
 D#5    6      1 q.#   d
 B4     2      1 e     d
 C#5    3      1 e.#   d  [
-D#5    1      1 s #   d  ]\     +
+D#5    1      1 s     d  ]\
 measure 10
 E5     3      1 e.    d  [
 D#5    1      1 s #   d  =\
@@ -93,7 +93,7 @@ F#5    1      1 s     d  ]\
 measure 12
 G5     3      1 e.    d  [
 A5     1      1 s     d  ]\
-F#5    8      1 h     d
+F#5    8      1 h     d         &2t
 measure 13
 E5     3      1 e.    d  [
 B4     1      1 s     d  =\
@@ -111,7 +111,7 @@ A5     1      1 s     d  ]\
 measure 15
 G5     2      1 e     d  [
 B5     2      1 e     d  ]
-A5     6      1 q.    d        (
+A5     6      1 q.    d        (&2t
 G5     1      1 s     d  [[
 A5     1      1 s     d  ]]    )
 measure 16
@@ -186,7 +186,7 @@ D5     4      1 q     d
 measure 28
 G5     3      1 e.    d  [
 A5     1      1 s     d  ]\
-F#5    6      1 q.    d
+F#5    6      1 q.    d         &2t
 G5     2      1 e     d
 measure 29
 G5     3      1 e.    d  [
@@ -198,20 +198,20 @@ D5     1      1 s     d  ]\
 measure 30
 G#5    2      1 e #   d  [
 A5     2      1 e     d  ]
-A5     6      1 q.    d
-G#5    2      1 e #   d         +
+A5     6      1 q.    d         &2t
+G#5    2      1 e     d
 measure 31
 A5     3      1 e.    d  [
 C#5    1      1 s #   d  =\
 E5     3      1 e.    d  =
-G5     1      1 s n   d  =\
-C#5    3      1 e.#   d  =      +
+G5     1      1 s n   d  =\     +
+C#5    3      1 e.    d  =
 E5     1      1 s     d  ]\
 measure 32
 A#5    2      1 e #   d  [
 B5     2      1 e     d  ]
-B5     6      1 q.    d
-A#5    2      1 e #   d         +
+B5     6      1 q.    d         &2t
+A#5    2      1 e     d
 measure 33
 B5     3      1 e.    d  [
 B4     1      1 s     d  =\
@@ -267,13 +267,13 @@ measure 41
 D#5    3      1 e.#   d  [
 C#5    1      1 s #   d  =\
 B4     3      1 e.    d  =
-D#5    1      1 s #   d  =\     +
+D#5    1      1 s     d  =\
 E5     3      1 e.    d  =
 F#5    1      1 s     d  ]\
 measure 42
 B4     3      1 e.    d  [
 E5     1      1 s     d  ]\
-D#5    6      1 q.#   d
+D#5    6      1 q.#   d         &2t
 E5     2      1 e     d
 measure 43
 E5     4      1 q     d
@@ -300,7 +300,7 @@ B4     4      1 q     d
 measure 49
 E5     3      1 e.    d  [
 G4     1      1 s     d  ]\
-F#4    6      1 q.    u
+F#4    6      1 q.    u         &2t
 E4     2      1 e     u
 measure 50
 *               G       f
@@ -322,24 +322,24 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv067_02/stage2/02/02
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:49:11 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no02/stage2/02/02
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:10:05 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv067/stage2/02/02}
 TIMESTAMP: DEC/10/2005 [md5sum:ac178390ed0ce2f7d0f9b068c1553456]
-09/24/04 Fran Bennion
+09/24/04 Fran Bennion   rev. 05/12/21 E Correia
 WK#:01,02     MV#:2
 RV 67 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 2 in e minor
+Vivaldi Op. 1, No. 2 in e minor
 Movement 2 - Corrente
 Violino 2
 
 Group memberships: score
 score: part 2 of 4
-$   Q:4  K:1  T:3/4  C:4  D:Corrente, Allegro
+$   Q:4  K:1  T:3/4  C:4  D:Allegro
 E5     1      1 s     d
 measure 1
 E5     3      1 e.    u  [
@@ -409,7 +409,7 @@ E5     2      1 e     d
 measure 14
 D#5    4      1 q #   d
 F#5    4      1 q     d
-D#5    4      1 q #   d         +
+D#5    4      1 q     d
 measure 15
 B4     4      1 q     d
 E5     8      1 h     d
@@ -460,14 +460,12 @@ rest   4      1 q
 D5     4      1 q     d
 measure 24
 G4     4-     1 q     u        -
-P   C32:u
 G4     3      1 e.    d  [
 C5     1      1 s     d  =\
 D5     3      1 e.    d  =
 E5     1      1 s     d  ]\
 measure 25
 A4     4-     1 q     u        -
-P   C32:u
 A4     3      1 e.    d  [
 D5     1      1 s     d  =\
 E5     3      1 e.    d  =
@@ -507,7 +505,7 @@ D5     2      1 e     u  ]
 C#5    8      1 h #   d
 measure 33
 B4     3      1 e.    d  [
-D#5    1      1 s n   d  =\     +
+D#5    1      1 s #   d  =\
 E5     3      1 e.    d  =
 F#5    1      1 s     d  =\
 G5     3      1 e.    d  =
@@ -584,7 +582,7 @@ measure 48
 D#5    3      1 e.#   d  [
 C#5    1      1 s #   d  =\
 B4     3      1 e.    d  =
-D#5    1      1 s #   d  =\     +
+D#5    1      1 s     d  =\
 E5     3      1 e.    d  =
 F#5    1      1 s     d  ]\
 measure 49
@@ -612,24 +610,24 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv067_02/stage2/02/03
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:49:11 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no02/stage2/02/03
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:10:05 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv067/stage2/02/03}
 TIMESTAMP: DEC/10/2005 [md5sum:6936ca65ad15c041cf3870cee514321b]
-09/24/04 Fran Bennion
+09/24/04 Fran Bennion   rev. 05/12/21 E Correia
 WK#:01,02     MV#:2
 RV 67 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 2 in e minor
+Vivaldi Op. 1, No. 2 in e minor
 Movement 2 - Corrente
 Violoncello
 
 Group memberships: score
 score: part 3 of 4
-$   Q:4  K:1  T:3/4  C:22  D:Corrente, Allegro
+$   Q:4  K:1  T:3/4  C:22  D:Allegro
 rest   1      1 s
 measure 1
 E4     4      1 q     d
@@ -873,37 +871,37 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv067_02/stage2/02/04
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:49:11 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no02/stage2/02/04
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:10:05 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv067/stage2/02/04}
 TIMESTAMP: DEC/10/2005 [md5sum:fbd4228a1274b4b5bcf6026556cab1a6]
-09/24/04 Fran Bennion
+09/24/04 Fran Bennion   rev. 05/12/21 E Correia
 WK#:01,02     MV#:2
 RV 67 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 2 in e minor
+Vivaldi Op. 1, No. 2 in e minor
 Movement 2 - Corrente
 Basso continuo
 
 Group memberships: score
 score: part 4 of 4
-$   Q:4  K:1  T:3/4  C:22  D:Corrente, Allegro
+$   Q:4  K:1  T:3/4  C:22  D:Allegro
 rest   1      1 s
 measure 1
 E4     4      1 q     d
 E3     4      1 q     d
 rest   4      1 q
 measure 2
-f1              x
+f1              #
 B3     4      1 q     d
 B2     4      1 q     u
 rest   4      1 q
 measure 3
 E4     4      1 q     d
-f2              7 x
+f2              7 #
 E3     4      1 q     d
 rest   4      1 q
 measure 4
@@ -932,7 +930,7 @@ f1              7
 F#2    4      1 q     u
 rest   4      1 q
 measure 9
-f1              x
+f1              #
 B3     4      1 q     d
 f1              7
 B2     4      1 q     u
@@ -950,7 +948,7 @@ measure 12
 E3     4      1 q     d
 f2              5 4
 B3     4      1 q     d
-f1              x
+f1              #
 B2     4      1 q     u
 measure 13
 E3     4      1 q     d
@@ -968,24 +966,24 @@ D4     2      1 e n   d  ]      +
 f1              6
 C4     8      1 h     d
 measure 16
-f1              x
+f1              #
 B3     4      1 q     d
 B2     4      1 q     u
 rest   4      1 q
 measure 17
-f1              x
+f1              #
 B3     4      1 q     d
 B2     4      1 q     u
 rest   4      1 q
 measure 18
-f1              x
+f1              #
 B2     8      1 h     u
 rest   2      1 e
 rest   1      1 s
 mheavy4             :|:
 rest   1      1 s
 measure 19
-f1              x
+f1              #
 B3     4      1 q     d
 B2     4      1 q     u
 rest   4      1 q
@@ -1060,10 +1058,10 @@ C3     1      1 s     u  =[
 D3     1      1 s     u  ]]
 f2              5 4
 E3     4      1 q     d
-f1              x
+f1              #
 E2     4      1 q     u
 measure 31
-f1              x
+f1              #
 A2     4      1 q     u
 rest   2      1 e
 rest   1      1 s
@@ -1079,10 +1077,10 @@ D3     1      1 s     d  =[
 E3     1      1 s     d  ]]
 f2              5+ 4
 F#3    4      1 q     d
-f1              x
+f1              #
 F#2    4      1 q     u
 measure 33
-f1              x
+f1              #
 B2     8      1 h     u
 f2              6+ 4
 A2     4      1 q n   u
@@ -1097,7 +1095,7 @@ f1     4        5
 f1              6
 A2     8      1 h     u
 measure 36
-f1              x
+f1              #
 B2     8      1 h     u
 E3     4      1 q     d
 measure 37
@@ -1115,7 +1113,7 @@ rest   4      1 q
 measure 39
 f1              7
 F#3    4      1 q     d
-f2              7 x
+f2              7 #
 B3     4      1 q     d
 rest   4      1 q
 measure 40
@@ -1126,7 +1124,7 @@ A3     4-     1 q     d        -
 measure 41
 f2              4+ 2
 A3     4      1 q     d
-f1              x
+f1              #
 B3     3      1 e.    d  [
 A3     1      1 s     d  =\
 f1              6
@@ -1136,7 +1134,7 @@ measure 42
 f1              6
 G3     3      1 e.    d  [
 A3     1      1 s     d  ]\
-f1              x
+f1              #
 B3     4      1 q     d
 B2     4      1 q     u
 measure 43
@@ -1164,7 +1162,7 @@ rest   4      1 q
 measure 46
 f1              7
 F#3    4      1 q     d
-f2              7 x
+f2              7 #
 B3     4      1 q     d
 rest   4      1 q
 measure 47
@@ -1175,7 +1173,7 @@ A3     4-     1 q     d        -
 measure 48
 f2              4+ 2
 A3     4      1 q     d
-f1              x
+f1              #
 B3     3      1 e.    d  [
 A3     1      1 s     d  =\
 f1              6
@@ -1185,7 +1183,7 @@ measure 49
 f1              6
 G3     3      1 e.    d  [
 A3     1      1 s     d  ]\
-f1              x
+f1              #
 B3     4      1 q     d
 B2     4      1 q     u
 measure 50
@@ -1223,7 +1221,7 @@ mheavy2          :|
 @@@filter: addtempo -q 168
 @@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "m0:A; m18b:B"
 @@@EEV: 2024/04/22
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv067_02/stage2/02/01
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv067_02/stage2/02/02
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv067_02/stage2/02/03
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv067_02/stage2/02/04
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no02/stage2/02/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no02/stage2/02/02
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no02/stage2/02/03
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no02/stage2/02/04

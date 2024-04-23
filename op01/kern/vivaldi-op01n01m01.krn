@@ -26,7 +26,7 @@
 4B-y\	.	.	[2dd\	.	4r	.
 4Bn\	.	6	.	.	4g/	.
 =2	=2	=2	=2	=2	=2	=2
-4.c\	.	9 8 -	4dd\]	.	2.ee-X\	.
+4.c\	.	9 8 -	4dd\]	.	2.ee-X\T	.
 .	.	.	4cc\	.	.	.
 8B-X\	.	.	.	.	.	.
 4A\	.	6 5-r	[2ff\	.	.	.
@@ -48,9 +48,9 @@
 .	.	.	.	.	8gg\J	.
 =5	=5	=5	=5	=5	=5	=5
 4D\	.	7 #	4cc\]	.	4ff#X\	.
-8E-X/L	.	5	4b-y\	.	2gg\	.
+8E-X/L	.	5	4b-y\	.	2gg\T	.
 8BB-y/J	.	6	.	.	.	.
-4C/	.	6 5-r	2a/	.	.	.
+4C/	.	6 5	2a/T	.	.	.
 4D\	.	#	.	.	4ff#y\	.
 =6	=6	=6	=6	=6	=6	=6
 4G\	.	.	8g/	.	4gg\	.
@@ -70,7 +70,7 @@
 4F\	.	.	4a/	.	8cc\	.
 .	.	.	.	.	4ff\	.
 4AA/	.	6 5-r	4cc\	.	.	.
-.	.	.	.	.	8ee-y\	.
+.	.	.	.	.	8ee-X\	.
 =8	=8	=8	=8	=8	=8	=8
 4BB-y/	.	.	4f/	.	8dd\L	.
 .	.	.	.	.	(16bb-y\L	.
@@ -108,28 +108,28 @@
 =12	=12	=12	=12	=12	=12	=12
 2C/	.	9 -	2.ee-X\	.	4dd\]	.
 .	.	8	.	.	4cc\	.
-2D\	.	9 #	.	.	2ff#X\	.
+2D\	.	9-r #	.	.	2ff#X\	.
 .	.	8	8dd\L	.	.	.
 .	.	.	8cc\J	.	.	.
 !!LO:LB:g=original
 =13	=13	=13	=13	=13	=13	=13
-4E-X\	.	.	8b-X/L	.	4gg\	.
+4E-X\	.	.	8b-y/L	.	4gg\	.
 .	.	.	8g/J	.	.	.
 8BB-y/L	.	6	[4gg\	.	8r	.
 8C/J	.	.	.	.	8bb-y\	.
 4D\	.	5 4	8gg\]	.	8aa\L	.
-.	.	3	4ff\	.	8dd\J	.
-4E-y\	.	9	.	.	8gg\L	.
+.	.	X 3	4ff\	.	8dd\J	.
+4E-X\	.	9	.	.	8gg\L	.
 .	.	8	[8ee-X\	.	(16.aa\L	.
 .	.	.	.	.	32gg\JJk)	.
 =14	=14	=14	=14	=14	=14	=14
-4B-y\	.	5 4	8ee-y\]	.	8ff\L	.
-.	.	3	4dd\	.	8b-y\J	.
+4B-y\	.	5 4-r	8ee-y\]	.	8ff\L	.
+.	.	X 3	4dd\	.	8b-y\J	.
 4c\	.	9 -	.	.	8ee-X\L	.
 .	.	8	4cc\	.	(16.ff\L	.
 .	.	.	.	.	32ee-y\JJk)	.
 8F#X\L	.	6 5	.	.	8.dd\L	.
-8G\	.	.	8b-X\	.	.	.
+8G\	.	.	8b-y\	.	.	.
 .	.	.	.	.	16gg\k	.
 8d\	.	#	8.a/L	.	8.ff#X\	.
 8D\J	.	.	.	.	.	.
@@ -138,15 +138,15 @@
 4G\	.	.	4g/	.	8gg\L	.
 .	.	.	.	.	8g\J	.
 8BB-y/L	p	6	8r	.	[4gg\	p
-8C/J	.	.	8bb-X\	p	.	.
+8C/J	.	.	8bb-y\	p	.	.
 4D\	.	5 4	8aa\L	.	8gg\]	.
-.	.	3	8dd\J	.	4ff\	.
+.	.	X 3	8dd\J	.	4ff\	.
 4E-X\	.	9	8gg\L	.	.	.
 .	.	8	(16.aa\L	.	[8ee-X\	.
 .	.	.	32gg\JJk)	.	.	.
 =16	=16	=16	=16	=16	=16	=16
-4B-y\	.	5 4	8ff\L	.	8ee-X\]	.
-.	.	3	8b-y\J	.	4dd\	.
+4B-y\	.	5-r 4	8ff\L	.	8ee-X\]	.
+.	.	X 3	8b-y\J	.	4dd\	.
 4c\	.	9 -	8ee-X\L	.	.	.
 .	.	8	(16.ff\L	.	4cc\	.
 .	.	.	32ee-y\JJk)	.	.	.
@@ -159,21 +159,21 @@
 =17	=17	=17	=17	=17	=17	=17
 4G\	.	.	4gg\	.	8g/L	.
 .	.	.	.	.	8dd/J	.
-8r	.	.	8r	.	2gg\	f
+8r	.	.	8r	.	2gg\T	f
 8C/	f	-	8ee-X\	f	.	.
-8D/L	.	6 4	4b-y\	.	.	.
+8D/L	.	6 4	4b-y\T	.	.	.
 8C/	.	.	.	.	.	.
 8D/	.	5 #	4a/	.	4ff#X\	.
 8DD/J	.	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18
-1GG	.	.	1g	.	1gg	.
+1GG/	.	.	1g/	.	1gg\	.
 ==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
 !!!SMS: RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
-!!!ENC: Fran Bennion
+!!!ENC: Fran Bennion  rev. 05/12/21 E Correia
 !!!END: 2004/09/20
-!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 01:53:19 2024
-!!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 21:24:09 2024
+!!!YEM: (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._1:_Suonate_da_camera_a_tr.C3.A8.2C_due_violini_e_violone_o_cembalo Information about Vivaldi Op. 1 on the CCARH wiki
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no01.pdf#page=1 MuseData edition
@@ -184,7 +184,7 @@
 !!!URL-youtube: https://www.youtube.com/watch?v=vFz1e6g68iQ&t=6s Seattle Baroque Soloists (2010)
 !!!title: @{OTL}, mov. @{OMV}
 !!!EEV: 2024/04/22
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/01/01
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/01/02
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/01/03
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/01/04
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/01/01
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/01/02
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/01/03
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/01/04

@@ -11,18 +11,18 @@
 @@@key: A
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/02/01
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:51:48 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no09/stage2/02/01
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:12:28 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv075/stage2/02/01}
 TIMESTAMP: DEC/10/2005 [md5sum:c9b1979d6848501679f8227ed768720f]
-10/26/04 Fran Bennion
+10/26/04 Fran Bennion   rev. 05/14/21 E Correia
 WK#:01,09     MV#:2
 RV 75 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 9 in A Major
+Vivaldi Op. 1, No. 9 in A Major
 Movement 2
 Violino 1
 
@@ -40,7 +40,6 @@ E#5    4      1 e     d  ]
 measure 2
 F#5    4      1 e     d  [
 C#6    2      1 s     d  =[    (
-P C32:o
 B5     2      1 s     d  ]]
 A5     2      1 s     d  [[
 G#5    2      1 s     d  ==
@@ -54,9 +53,8 @@ D#5    4      1 e     d  ]
 measure 3
 E5     4      1 e     d  [
 B5     2      1 s     d  =[    (
-P C32:o
 A5     2      1 s     d  ]]
-G#5    2      1 s #   d  [[     +
+G#5    2      1 s #   d  [[
 F#5    2      1 s     d  ==
 E5     2      1 s     d  ==
 F#5    1      1 t     d  ==[
@@ -68,11 +66,9 @@ C#5    4      1 e     d  ]
 measure 4
 D5     4      1 e     d  [
 A5     2      1 s     d  =[    (
-P C32:o
 F#5    2      1 s     d  ]]    )
 F#5    4      1 e     d  [
 A5     2      1 s     d  =[    (
-P C32:o
 D5     2      1 s     d  ]]    )
 D5    16-     1 h     d        -
 measure 5
@@ -84,24 +80,24 @@ B4     8      1 q     d
 A4    16      1 h     u
 G#4    8      1 q     u
 measure 7
-A4    32      1 w              F
+A4    32      1 w     u        F
 mheavy2
 /END
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/02/02
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:51:48 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no09/stage2/02/02
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:12:28 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv075/stage2/02/02}
 TIMESTAMP: DEC/10/2005 [md5sum:528fa51da23bfc246215587003fa56b2]
-10/26/04 Fran Bennion
+10/26/04 Fran Bennion   rev. 05/14/21 E Correia
 WK#:01,09     MV#:2
 RV 75 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 9 in A Major
+Vivaldi Op. 1, No. 9 in A Major
 Movement 2
 Violino 2
 
@@ -135,7 +131,6 @@ F#4    4      1 q     u
 rest   4      1 q
 rest   2      1 e
 B5     1      1 s     d  [[    (
-P C32:o
 G5     1      1 s n   d  ]]    )
 G5     2      1 e     d  [
 B5     1      1 s     d  =[    (
@@ -147,24 +142,24 @@ measure 6
 C#5    8      1 h     d
 B4     8      1 h     d
 measure 7
-C#5   16      1 w              F
+C#5   16      1 w     d        F
 mheavy2
 /END
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/02/03
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:51:48 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no09/stage2/02/03
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:12:28 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv075/stage2/02/03}
 TIMESTAMP: DEC/10/2005 [md5sum:67290304cacce93a0e3803eb166880cb]
-10/26/04 Fran Bennion
+10/26/04 Fran Bennion   rev. 05/14/21 E Correia
 WK#:01,09     MV#:2
 RV 75 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 9 in A Major
+Vivaldi Op. 1, No. 9 in A Major
 Movement 2
 Violoncello
 
@@ -232,24 +227,24 @@ D3     1      1 s     u  ==
 E3     1      1 s     u  ==
 E2     1      1 s     u  ]]
 measure 7
-A2    16      1 w              F
+A2    16      1 w     u        F
 mheavy2
 /END
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/02/04
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:51:48 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no09/stage2/02/04
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:12:28 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv075/stage2/02/04}
 TIMESTAMP: DEC/10/2005 [md5sum:ffce692f3c78f10aa0cc6623477d04a4]
-10/26/04 Fran Bennion
+10/26/04 Fran Bennion   rev. 05/14/21 E Correia
 WK#:01,09     MV#:2
 RV 75 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 9 in A Major
+Vivaldi Op. 1, No. 9 in A Major
 Movement 2
 Basso continuo
 
@@ -329,7 +324,7 @@ D3     1      1 s     u  ==
 E3     1      1 s     u  ==
 E2     1      1 s     u  ]]
 measure 7
-A2    16      1 w              F
+A2    16      1 w     u        F
 mheavy2
 /END
 /eof
@@ -350,7 +345,7 @@ mheavy2
 @@@filter: addkey
 @@@filter: addtempo -q 34
 @@@EEV: 2024/04/22
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/02/01
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/02/02
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/02/03
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/02/04
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no09/stage2/02/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no09/stage2/02/02
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no09/stage2/02/03
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no09/stage2/02/04

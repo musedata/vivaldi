@@ -52,8 +52,8 @@
 8A\	.	.	8cc#y\	.	.	.
 =4	=4	=4	=4	=4	=4	=4
 8B\L	.	7	4dd\	.	8aa\L]	.
-8BB\	.	6-r	.	.	8ggn\	.
-8C#y\	.	6 5-r	4ee\	.	8a\	.
+8BB\	.	6nr	.	.	8ggn\	.
+8C#y\	.	6 5nr	4ee\	.	8a\	.
 8c#y\J	.	.	.	.	8ggn\J	.
 8d\L	.	.	4a/	.	8ff#y\L	.
 8D\J	.	.	.	.	8d\	.
@@ -77,7 +77,7 @@
 8C#y/	.	6	8ee\J	.	.	.
 8D/L	.	6 5	8ff#y\L	.	.	.
 8BB/	.	.	8b\J	.	.	.
-8E/	.	.	4b\	.	4gg#y\	.
+8E/	.	.	4b\	.	4gg#y\T	.
 8EE/J	.	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7
 4AA/	.	.	4a/	.	4aa\	.
@@ -124,7 +124,7 @@
 8G#y\	.	6	8b\	.	.	.
 8A\L	.	6 5	4cc#y\	.	.	.
 8F#y\	.	.	.	.	.	.
-8B\	.	#	8f#y/L	.	4dd#X\	.
+8B\	.	#	8f#y/L	.	4dd#X\T	.
 8BB\J	.	.	8b/J	.	.	.
 =12	=12	=12	=12	=12	=12	=12
 4E\	.	.	4g#y/	.	8ee\L	.
@@ -199,7 +199,7 @@
 4.G#y\	.	7	2b\	.	8ff#y\L]	.
 .	.	6	.	.	8een\J	.
 .	.	.	.	.	8e/L	.
-8G#y\	.	5-r	.	.	8dd/J	.
+8G#y\	.	5nr	.	.	8dd/J	.
 =20	=20	=20	=20	=20	=20	=20
 4.A\	.	.	4e/	.	8cc#y/L	.
 .	.	.	.	.	8A/J	.
@@ -220,10 +220,10 @@
 8Bn\	.	7 #	.	.	8dd#y\J	.
 =22	=22	=22	=22	=22	=22	=22
 8B\L	.	6	4gg#y\]	.	(8dd\L	.
-8A#y\	.	.	.	.	8cc#y\J)	.
+8A#X\	.	.	.	.	8cc#y\J)	.
 8An\	.	6	2ff#y\	.	8r	.
 8A\J	.	.	.	.	8aa\	.
-8A#y\L	.	4 2#|	.	.	4b#X\	.
+8A\L	.	4#| 2#|	.	.	4b#X\	.
 8G#y\J	.	.	.	.	.	.
 8r	.	.	4ee\	.	[4cc#y\	.
 8C#y/	.	.	.	.	.	.
@@ -238,15 +238,15 @@
 8BB/	.	.	.	.	.	.
 .	.	.	.	.	16dd#y\Jk	.
 =24	=24	=24	=24	=24	=24	=24
-4.AA#y/	.	6 5	2cc#y\	.	8ee\L	.
+4.AA#X/	.	6 5	2cc#y\	.	8ee\L	.
 .	.	.	.	.	8a#y\J	.
 .	.	.	.	.	8f#y\L	.
 8AA#y/	.	.	.	.	8ee\J	.
-4.BB/	.	n	2f#y/	.	8ddn\L	.
-.	.	.	.	.	8B\	.
-.	.	.	.	.	8.b\	.
+4.BB/	.	n	2f#y/	.	8ddn/L	.
+.	.	.	.	.	8B/	.
+.	.	.	.	.	8.b/	.
 8AAn/	.	.	.	.	.	.
-.	.	.	.	.	16cc#y\Jk	.
+.	.	.	.	.	16cc#y/Jk	.
 =25	=25	=25	=25	=25	=25	=25
 4.GG#y/	.	6 5	2b\	.	8dd/L	.
 .	.	.	.	.	8g#y/	.
@@ -292,7 +292,7 @@
 8r	.	.	8r	.	[4bb\	.
 8B\	.	#	8dd#y\	.	.	.
 8c#y\L	.	7	4ee\	.	8bb\L]	.
-8C#y\J	.	6-r	.	.	8aan\J	.
+8C#y\J	.	6nr	.	.	8aan\J	.
 8D#X\L	.	6 5	4ff#y\	.	8b\L	.
 8d#X\J	.	.	.	.	8aa\J	.
 =30	=30	=30	=30	=30	=30	=30
@@ -310,8 +310,8 @@
 8r	.	.	8r	.	[4aa\	.
 8A\	.	.	8cc#y\	.	.	.
 8B\L	.	7	4dd\	.	8aa\L]	.
-8BB\	.	6-r	.	.	8ggn\J	.
-8C#y\	.	6 5-r	4ee\	.	8a\L	.
+8BB\	.	6nr	.	.	8ggn\J	.
+8C#y\	.	6 5nr	4ee\	.	8a\L	.
 8c#y\J	.	.	.	.	8ggn\J	.
 !!LO:LB:g=original
 =32	=32	=32	=32	=32	=32	=32
@@ -361,10 +361,10 @@
 =:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
 *-	*-	*-	*-	*-	*-	*-
 !!!SMS: RV 75 / Estienne Roger (No. 363), Amsterdam [facs.]
-!!!ENC: Fran Bennion
+!!!ENC: Fran Bennion   rev. 05/14/21 E Correia
 !!!END: 2004/10/26
-!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 01:53:22 2024
-!!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 21:24:12 2024
+!!!YEM: (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._1:_Suonate_da_camera_a_tr.C3.A8.2C_due_violini_e_violone_o_cembalo Information about Vivaldi Op. 1 on the CCARH wiki
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no09.pdf#page=3 MuseData edition
@@ -375,7 +375,7 @@
 !!!title: @{OTL}, mov. @{OMV}
 !!!mei: scoreDef@tempo.dist="5.5"
 !!!EEV: 2024/04/22
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/03/01
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/03/02
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/03/03
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/03/04
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no09/stage2/03/01
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no09/stage2/03/02
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no09/stage2/03/03
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no09/stage2/03/04

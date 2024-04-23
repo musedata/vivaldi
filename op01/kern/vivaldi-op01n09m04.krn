@@ -95,14 +95,14 @@
 .	.	.	8b\	.	.	.
 4G#y\	.	6	(8ee\	.	4r	.
 .	.	.	8ddn\)	.	.	.
-4E\	.	7-r	(8dd\	.	4r	.
+4E\	.	7nr	(8dd\	.	4r	.
 .	.	.	8cc#y\J)	.	.	.
 =12	=12	=12	=12	=12	=12	=12
 4A\	.	.	4cc#y\	.	8r	.
 .	.	.	.	.	8ee\	.
 4C#y/	.	6	4ee\	.	(8aa\L	.
 .	.	.	.	.	8ggn\)	.
-4AA/	.	7-r	4cc#y\	.	(8gg\	.
+4AA/	.	7nr	4cc#y\	.	(8gg\	.
 .	.	.	.	.	8ff#y\J)	.
 =13	=13	=13	=13	=13	=13	=13
 2D\	.	.	2a/	.	(8ff#y\L	.
@@ -192,7 +192,7 @@
 4A\	.	7 5	8.ee\L]	.	8a\L	.
 .	.	.	.	.	8gg#y\J	.
 .	.	.	16ff#y\Jk	.	.	.
-4B\	.	#	4.dd#X\	.	4.ff#y\	.
+4B\	.	#	4.dd#X\	.	4.ff#y\T	.
 4BB/	.	.	.	.	.	.
 .	.	.	8bb\	.	8ee\	.
 =26	=26	=26	=26	=26	=26	=26
@@ -230,10 +230,10 @@
 =32	=32	=32	=32	=32	=32	=32
 4FF#y/	.	7 5	8cc#y\L	.	8ee\L	.
 .	.	.	8dd#X\J	.	8ff#y\J	.
-2GG#y/	.	#	4.b#X\	.	4.dd#X\	.
+2GG#y/	.	#	4.b#X\	.	4.dd#X\T	.
 .	.	.	8cc#y\	.	8cc#y\	.
 =33	=33	=33	=33	=33	=33	=33
-2C#y/	.	-	4cc#y\	.	4cc#y\	.
+2C#y/	.	n	4cc#y\	.	4cc#y\	.
 .	.	#	4.gg#y\	.	4.ee#y\	.
 4BB/	.	6 4#|	.	.	.	.
 .	.	.	8gg#y\	.	8ee#y\	.
@@ -252,7 +252,7 @@
 4BB/	.	.	.	.	8b\	.
 .	.	.	8dd#y\	.	8aa\J	.
 =36	=36	=36	=36	=36	=36	=36
-4EE/	.	-	4ee\	.	8ggn\L	.
+4EE/	.	n	4ee\	.	8ggn\L	.
 .	.	.	.	.	8ff#y\J	.
 8Gn\L	.	6	4r	.	[2ee\	.
 8F#y\	.	.	.	.	.	.
@@ -297,7 +297,7 @@
 4BB/	.	.	8b\	.	.	.
 .	.	.	8aa\J	.	8dd#y\	.
 =43	=43	=43	=43	=43	=43	=43
-4EE/	.	-	8ggn\L	.	4ee\	.
+4EE/	.	n	8ggn\L	.	4ee\	.
 .	.	.	8ff#y\J	.	.	.
 8Gn\L	.	6	[2ee\	.	4r	.
 8F#y\	.	.	.	.	.	.
@@ -377,7 +377,7 @@
 4d\	.	7 5	8.a/L]	.	8d/L	.
 .	.	.	.	.	8cc#y/J	.
 .	.	.	16b/Jk	.	.	.
-4e\	.	.	4.g#y/	.	4.b\	.
+4e\	.	.	4.g#y/	.	4.b\T	.
 4E\	.	.	.	.	.	.
 .	.	.	8ee\	.	8a/	.
 =55	=55	=55	=55	=55	=55	=55
@@ -403,7 +403,7 @@
 4d\	.	6 5	8.a/L]	.	8d/L	.
 .	.	.	.	.	8cc#y/J	.
 .	.	.	16b/Jk	.	.	.
-4e\	.	.	4.g#y/	.	4.b\	.
+4e\	.	.	4.g#y/	.	4.b\T	.
 4E\	.	.	.	.	.	.
 .	.	.	8ee\	.	8a/	.
 =59	=59	=59	=59	=59	=59	=59
@@ -415,10 +415,10 @@
 =:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
 *-	*-	*-	*-	*-	*-	*-
 !!!SMS: RV 75 / Estienne Roger (No. 363), Amsterdam [facs.]
-!!!ENC: Fran Bennion
+!!!ENC: Fran Bennion   rev. 05/14/21 E Correia
 !!!END: 2004/10/27
-!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 01:53:22 2024
-!!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 21:24:12 2024
+!!!YEM: (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._1:_Suonate_da_camera_a_tr.C3.A8.2C_due_violini_e_violone_o_cembalo Information about Vivaldi Op. 1 on the CCARH wiki
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no09.pdf#page=5 MuseData edition
@@ -428,7 +428,7 @@
 !!!URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=2903s L'Arte dell'Arco
 !!!title: @{OTL}, mov. @{OMV}
 !!!EEV: 2024/04/22
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/04/01
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/04/02
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/04/03
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv075_09/stage2/04/04
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no09/stage2/04/01
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no09/stage2/04/02
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no09/stage2/04/03
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no09/stage2/04/04

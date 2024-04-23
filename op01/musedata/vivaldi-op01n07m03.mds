@@ -11,24 +11,24 @@
 @@@key: E-
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv065_07/stage2/03/01
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:51:09 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no07/stage2/03/01
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:11:52 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv065/stage2/03/01}
 TIMESTAMP: DEC/10/2005 [md5sum:38302830809018fefacc3446b574838a]
-10/18/04 Fran Bennion
+10/18/04 Fran Bennion   rev. 05/14/21 E Correia
 WK#:01,07     MV#:3
 RV 65 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 7 in Eb Major
+Vivaldi Op. 1, No. 7 in Eb Major
 Movement 3 - Sarabanda
 Violino 1
 
 Group memberships: score
 score: part 1 of 4
-$   Q:2 K:-2 T:3/4 C:4   D:Sarabanda, Andante
+$   Q:2 K:-2(-1) T:3/4 C:4   D:Andante
 &
 Sonata VII is in Eb Major but Roger has notated it in 2 flats.
 "Op1No7Ef" has be notated in 3 flats
@@ -123,7 +123,7 @@ Ef5    2-     1 q     d        -
 measure 23
 Ef5    2      1 q     d
 Bf3    2      1 q     u
-D5     2      1 q     d
+D5     2      1 q     d         &2t
 measure 24
 Ef5    6      1 h.    d
 measure 25
@@ -157,7 +157,7 @@ Ef5    2-     1 q     d        -
 measure 31
 Ef5    2      1 q     d
 Bf3    2      1 q     u
-D5     2      1 q     d
+D5     2      1 q     d         &2t
 measure 32
 Ef5    6      1 h.    d
 mheavy2          :|
@@ -165,24 +165,24 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv065_07/stage2/03/02
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:51:09 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no07/stage2/03/02
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:11:52 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv065/stage2/03/02}
 TIMESTAMP: DEC/10/2005 [md5sum:8b079b40525f4fc998308a3698303fd3]
-10/18/04 Fran Bennion
+10/18/04 Fran Bennion   rev. 05/14/21 E Correia
 WK#:01,07     MV#:3
 RV 65 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 7 in Eb Major
+Vivaldi Op. 1, No. 7 in Eb Major
 Movement 3 - Sarabanda
 Violino 2
 
 Group memberships: score
 score: part 2 of 4
-$   Q:2 K:-2 T:3/4 C:4  D:Sarabanda, Andante
+$   Q:2 K:-2(-1) T:3/4 C:4  D:Andante
 &
 Sonata VII is in Eb Major but Roger has notated it in 2 flats.
 "Op1No7Ef" has be notated in 3 flats
@@ -233,7 +233,7 @@ B4     4      1 h n   d
 measure 16
 C5     6      1 h.    d
 measure 17
-Ef5    6-     1 h.f   d        -
+Ef5    6-     1 h.    d        -
 measure 18
 Ef5    2      1 q     d
 D5     4-     1 h     d        -
@@ -247,7 +247,7 @@ measure 21
 Bf4    2      1 q     d
 Af4    4-     1 h f   u        -
 measure 22
-Af4    2      1 q f   u
+Af4    2      1 q    u
 G4     4      1 h     u
 measure 23
 F4     6      1 h.    u
@@ -281,24 +281,24 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv065_07/stage2/03/03
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:51:09 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no07/stage2/03/03
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:11:52 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv065/stage2/03/03}
 TIMESTAMP: DEC/10/2005 [md5sum:fbf6fb680f7b8d97204f7fd44b6b6776]
-10/18/04 Fran Bennion
+10/18/04 Fran Bennion   rev. 05/14/21 E Correia
 WK#:01,07     MV#:3
 RV 65 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 7 in Eb Major
+Vivaldi Op. 1, No. 7 in Eb Major
 Movement 3 - Sarabanda
 Violoncello
 
 Group memberships: score
 score: part 3 of 4
-$   Q:2 K:-2 T:3/4 C:22  D:Sarabanda, Andante
+$   Q:2 K:-2(-1) T:3/4 C:22  D:Andante
 &
 Sonata VII is in Eb Major but Roger has notated it in 2 flats.
 "Op1No7Ef" has be notated in 3 flats
@@ -365,7 +365,7 @@ F3     1      1 e     d  [
 G3     1      1 e     d  =
 Af3    1      1 e f   d  =
 G3     1      1 e     d  =
-Af3    1      1 e f   d  =      +
+Af3    1      1 e f   d  =
 F3     1      1 e     d  ]
 measure 11
 G3     1      1 e     d  [
@@ -387,7 +387,7 @@ C3     1      1 e     u  =
 D3     1      1 e     u  =
 C3     1      1 e     u  =
 D3     1      1 e     u  =
-B2     1      1 e n   u  ]      +
+B2     1      1 e n   u  ]
 measure 14
 C3     1      1 e     u  [
 B2     1      1 e n   u  =
@@ -455,7 +455,7 @@ measure 23
 Af3    1      1 e f   d  [
 F3     1      1 e     d  =
 Bf3    1      1 e     d  =
-Af3    1      1 e f   d  =      +
+Af3    1      1 e f   d  =
 Bf3    1      1 e     d  =
 Bf2    1      1 e     d  ]
 measure 24
@@ -513,7 +513,7 @@ measure 31
 Af3    1      1 e f   d  [
 F3     1      1 e     d  =
 Bf3    1      1 e     d  =
-Af3    1      1 e f   d  =      +
+Af3    1      1 e f   d  =
 Bf3    1      1 e     d  =
 Bf2    1      1 e     d  ]
 measure 32
@@ -523,24 +523,24 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv065_07/stage2/03/04
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:51:09 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no07/stage2/03/04
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:11:52 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv065/stage2/03/04}
 TIMESTAMP: DEC/10/2005 [md5sum:4a376c3cb61210f2ded5ce3d4944d0c0]
-10/18/04 Fran Bennion
+10/18/04 Fran Bennion   rev. 05/14/21 E Correia
 WK#:01,07     MV#:3
 RV 65 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 7 in Eb Major
+Vivaldi Op. 1, No. 7 in Eb Major
 Movement 3 - Sarabanda
 Basso continuo
 
 Group memberships: score
 score: part 4 of 4
-$   Q:2 K:-2 T:3/4 C:22  D:Sarabanda, Andante
+$   Q:2 K:-2(-1) T:3/4 C:22  D:Andante
 &
 Sonata VII is in Eb Major but Roger has notated it in 2 flats.
 "Op1No7Ef" has be notated in 3 flats
@@ -623,7 +623,7 @@ G3     1      1 e     d  =
 f2              6 4
 Af3    1      1 e f   d  =
 G3     1      1 e     d  =
-Af3    1      1 e f   d  =      +
+Af3    1      1 e f   d  =
 F3     1      1 e     d  ]
 measure 11
 f1              n
@@ -644,11 +644,11 @@ C3     1      1 e     u  ]
 measure 13
 B2     1      1 e n   u  [
 C3     1      1 e     u  =
-f2              6\ 4
+f2              6n 4
 D3     1      1 e     u  =
 C3     1      1 e     u  =
 D3     1      1 e     u  =
-B2     1      1 e n   u  ]      +
+B2     1      1 e n   u  ]
 measure 14
 C3     1      1 e     u  [
 B2     1      1 e n   u  =
@@ -735,7 +735,7 @@ f2              6 5
 Af3    1      1 e f   d  [
 F3     1      1 e     d  =
 Bf3    1      1 e     d  =
-Af3    1      1 e f   d  =      +
+Af3    1      1 e f   d  =
 Bf3    1      1 e     d  =
 Bf2    1      1 e     d  ]
 measure 24
@@ -794,7 +794,7 @@ Ef3    1      1 e     d  =
 F3     1      1 e     d  =
 D3     1      1 e     d  ]
 measure 30
-f2              5 4
+f2              5 4f
 Ef3    1      1 e     d  [
 F3     1      1 e     d  =
 f1              6
@@ -807,7 +807,7 @@ f2              6 5
 Af3    1      1 e f   d  [
 F3     1      1 e     d  =
 Bf3    1      1 e     d  =
-Af3    1      1 e f   d  =      +
+Af3    1      1 e f   d  =
 Bf3    1      1 e     d  =
 Bf2    1      1 e     d  ]
 measure 32
@@ -833,7 +833,7 @@ mheavy2          :|
 @@@filter: addtempo -q 60
 @@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "m0:A; m9:B"
 @@@EEV: 2024/04/22
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv065_07/stage2/03/01
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv065_07/stage2/03/02
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv065_07/stage2/03/03
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv065_07/stage2/03/04
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no07/stage2/03/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no07/stage2/03/02
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no07/stage2/03/03
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no07/stage2/03/04

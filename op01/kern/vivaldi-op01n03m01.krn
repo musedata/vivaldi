@@ -36,7 +36,7 @@
 8D\L	7	.	8ff\L
 16E\L	.	.	16gg\L
 16F\JJ	.	.	16aa\JJ
-8G/L	.	4b\	8.gg\L
+8G/L	.	4b\	8.gg\LT
 8GG/J	.	.	.
 .	.	.	16ff\Jk
 =3	=3	=3	=3
@@ -47,7 +47,7 @@
 8AA/L	7	8cc\L	.
 16BB/L	.	16dd\L	.
 16C/JJ	.	16ee\JJ	.
-8D/L	7 #	8.dd\L	4ff#X\
+8D/L	7 #	8.dd\L	4ff#X\T
 8DD/J	.	.	.
 .	.	16cc\Jk	.
 =4	=4	=4	=4
@@ -159,10 +159,10 @@
 ==	==	==	==
 *-	*-	*-	*-
 !!!SMS: RV 61 / Estienne Roger (No. 363), Amsterdam [facs.]
-!!!ENC: Fran Bennion
+!!!ENC: Fran Bennion   rev. 05/12/21 E Correia
 !!!END: 2004/09/27
-!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 01:53:20 2024
-!!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 21:24:10 2024
+!!!YEM: (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._1:_Suonate_da_camera_a_tr.C3.A8.2C_due_violini_e_violone_o_cembalo Information about Vivaldi Op. 1 on the CCARH wiki
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no03.pdf#page=1 MuseData edition
@@ -173,7 +173,7 @@
 !!!title: @{OTL}, mov. @{OMV}
 !!!mei: scoreDef@tempo.dist="5"
 !!!EEV: 2024/04/22
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/01/01
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/01/02
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/01/03
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/01/04
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/01/01
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/01/02
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/01/03
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/01/04

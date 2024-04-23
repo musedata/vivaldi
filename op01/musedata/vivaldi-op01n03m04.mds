@@ -11,24 +11,24 @@
 @@@key: C
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/04/01
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:49:40 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/04/01
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:10:31 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv061/stage2/04/01}
 TIMESTAMP: DEC/10/2005 [md5sum:b13c630fd2ed321f5f4d0a76e52f04b3]
-10/01/04 Fran Bennion
+10/01/04 Fran Bennion   rev. 05/12/21 E Correia
 WK#:01,03     MV#:4
 RV 61 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 3 in C Major
+Vivaldi Op. 1, No. 3 in C Major
 Movement 4 - Sarabanda
 Violino 1
 
 Group memberships: score
 score: part 1 of 4
-$   Q:4 K:0 T:3/8 C:4  D:Sarabanda, Allegro
+$   Q:4 K:0 T:3/8 C:4  D:Allegro
 rest   6      1
 measure 2
 D5     2      1 e     d  [
@@ -37,7 +37,6 @@ G5     2-     1 e     d  ]     -
 measure 3
 G5     2      1 e     d  [
 F5     1      1 s     d  =[
-P C32:o
 E5     1      1 s     d  =]
 F5     2      1 e     d  ]
 measure 4
@@ -46,7 +45,6 @@ A5     4-     1 q     d        -
 measure 5
 A5     2      1 e     d  [
 G5     1      1 s     d  =[
-P C32:o
 F5     1      1 s     d  =]
 G5     2      1 e     d  ]
 measure 6
@@ -63,7 +61,6 @@ A5     2      1 e     d  [
 A5     2      1 e     d  ]
 measure 11
 A5     2      1 e     d  [     (
-P C32:o
 G5     2      1 e     d  =     )
 G4     2      1 e     d  ]
 measure 12
@@ -72,20 +69,17 @@ F4     2      1 e     u  =     )
 F5     2      1 e     u  ]
 measure 13
 F5     2      1 e     u  [     (
-P C32:o
 E5     2      1 e     u  =     )
 E4     2      1 e     u  ]
 measure 14
 E4     2      1 e     u  [     (
-P C32:u
 D4     2      1 e     u  =     )
 G5     2-     1 e     u  ]     -
 measure 15
 G5     2      1 e     d  [
 F#5    1      1 s #   d  =[
-P C32:o
 E5     1      1 s     d  =]
-F#5    2      1 e #   d  ]      +
+F#5    2      1 e     d  ]
 measure 16
 G5     6      1 q.    d
 mheavy4 17       |: :|
@@ -94,24 +88,22 @@ G4     2      1 e     d  =
 G5     2-     1 e     d  ]     -
 measure 18
 G5     2      1 e     d  [
-F#5    1      1 s     d  =[
+F#5    1      1 s #   d  =[
 E5     1      1 s     d  =]
-F#5    2      1 e #   d  ]      +
+F#5    2      1 e     d  ]
 measure 19
 E5     2      1 e     d
 A5     4-     1 q     d        -
 measure 20
 A5     2      1 e     d  [
 G5     1      1 s     d  =[
-P C32:o
 F#5    1      1 s #   d  =]
 G5     2-     1 e     d  ]     -
 measure 21
 G5     2      1 e     d  [
-F#5    1      1 s     d  =[
-P C32:o
+F#5    1      1 s #   d  =[
 E5     1      1 s     d  =]
-F#5    2      1 e #   d  ]      +
+F#5    2      1 e     d  ]
 measure 22
 G5     2      1 e     d  [
 G4     2      1 e     d  ]
@@ -126,7 +118,6 @@ D5     2      1 e     u  =     )
 D4     2      1 e     u  ]
 measure 25
 D4     2      1 e     u  [     (
-P C32:u
 C4     2      1 e     u  =     )
 C5     2      1 e     u  ]
 measure 26
@@ -143,35 +134,28 @@ G5     2      1 e     d  =
 G5     2      1 e     d  ]
 measure 30
 G5     2      1 e     d        (
-P C32:o
 F5     4      1 q     d        )
 measure 31
 F5     2      1 e     d        (
-P C32:o
 E5     4      1 q     d        )
 measure 32
 D5     2      1 e     d  [
 G4     2      1 e     d  =     (
-P C32:o
 C5     2      1 e     d  ]     )
 measure 33
 C5     2      1 e     d  [
 A4     2      1 e     d  =     (
-P C32:o
 D5     2      1 e     d  ]     )
 measure 34
 D5     2      1 e     d  [
 B4     2      1 e     d  =     (
-P C32:o
 E5     2      1 e     d  ]     )
 measure 35
 E5     2      1 e     d  [
 C5     2      1 e     d  =     (
-P C32:o
 F5     2      1 e     d  ]     )
 measure 36
 B4     2      1 e     d  [     (
-P C32:o
 G4     2      1 e     d  =     )
 E5     2-     1 e     d  ]     -
 measure 37
@@ -187,7 +171,6 @@ P    C17:Y57
 C5     2      1 e     u  ]
 measure 39
 C5     2      1 e     d  [     (
-P C32:o
 A4     2      1 e     d  =     )
 D5     2      1 e     d  ]
 measure 40
@@ -196,18 +179,16 @@ B4     2      1 e     d  [
 E5     2      1 e     d  ]
 measure 41
 E5     2      1 e     d  [     (
-P C32:o
 C5     2      1 e     d  =     )
 F5     2      1 e     d  ]
 measure 42
 B4     2      1 e     d  [     (
-P C32:o
 G4     2      1 e     d  =     )
 E5     2-     1 e     d  ]     -
 measure 43
 E5     1      1 s     d  [[
 F5     1      1 s     d  =]
-D5     3      1 e.    d  =
+D5     3      1 e.    d  =      &1t
 C5     1      1 s     d  ]\
 measure 44
 C5     6      1 q.    d        F
@@ -216,24 +197,24 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/04/02
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:49:40 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/04/02
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:10:31 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv061/stage2/04/02}
 TIMESTAMP: DEC/10/2005 [md5sum:dfc58fa74b7534e6ea3c636d261173f4]
-10/01/04 Fran Bennion
+10/01/04 Fran Bennion   rev. 05/12/21 E Correia
 WK#:01,03     MV#:4
 RV 61 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 3 in C Major
+Vivaldi Op. 1, No. 3 in C Major
 Movement 4 - Sarabanda
 Violino 2
 
 Group memberships: score
 score: part 2 of 4
-$   Q:4 K:0 T:3/8 C:4  D:Sarabanda, Allegro
+$   Q:4 K:0 T:3/8 C:4  D:Allegro
 G4     2      1 e     u  [
 C4     2      1 e     u  =
 C5     2-     1 e     u  ]     -
@@ -422,24 +403,24 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/04/03
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:49:40 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/04/03
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:10:31 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv061/stage2/04/03}
 TIMESTAMP: DEC/10/2005 [md5sum:2f6648980432d1c7128a6a462a6fb741]
-10/01/04 Fran Bennion
+10/01/04 Fran Bennion   rev. 05/12/21 E Correia
 WK#:01,03     MV#:4
 RV 61 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 3 in C Major
+Vivaldi Op. 1, No. 3 in C Major
 Movement 4 - Sarabanda
 Violoncello
 
 Group memberships: score
 score: part 3 of 4
-$   Q:4 K:0 T:3/8 C:22  D:Sarabanda
+$   Q:4 K:0 T:3/8 C:22  D:Allegro
 rest   6      1
 measure 2
 rest   6      1
@@ -653,24 +634,24 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/04/04
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:49:40 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/04/04
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:10:31 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv061/stage2/04/04}
 TIMESTAMP: DEC/10/2005 [md5sum:393dd580b6f2cbe98dd5a0402ad25b6f]
-10/01/04 Fran Bennion
+10/01/04 Fran Bennion   rev. 05/12/21 E Correia
 WK#:01,03     MV#:4
 RV 61 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 3 in C Major
+Vivaldi Op. 1, No. 3 in C Major
 Movement 4 - Sarabanda
 Basso continuo
 
 Group memberships: score
 score: part 4 of 4
-$   Q:4 K:0 T:3/8 C:22  D:Sarabanda, Allegro
+$   Q:4 K:0 T:3/8 C:22  D:Allegro
 S
 rest   6      1
 measure 2
@@ -706,7 +687,6 @@ f2     2        6 4
 f2              5 3
 C4     3      1 e.    d  [
 E3     1      1 s     d  =[
-P C32:o
 D3     1      1 s     d  ==
 C3     1      1 s     d  ]]
 measure 12
@@ -714,7 +694,6 @@ f2     2        9 4
 f2              8 3
 D3     3      1 e.    u  [
 G2     1      1 s     u  =[
-P C32:u
 A2     1      1 s     u  ==
 B2     1      1 s     u  ]]
 measure 13
@@ -724,7 +703,6 @@ f2              8 3
 P    C1:Y75
 C3     3      1 e.    d  [
 D3     1      1 s     d  =[
-P C32:o
 E3     1      1 s     d  ==
 F#3    1      1 s     d  ]]
 measure 14
@@ -732,14 +710,13 @@ f2     2        6 4
 f2              5 3
 G3     3      1 e.    d  [
 A3     1      1 s     d  =[
-P C32:o
 B3     1      1 s     d  ==
 G3     1      1 s     d  ]]
 measure 15
 f2              6 5
 C4     1      1 s     d  [[
 A3     1      1 s     d  ==
-f1              x
+f1              #
 D4     1      1 s     d  ==
 C4     1      1 s     d  ==
 D4     1      1 s     d  ==
@@ -759,7 +736,6 @@ rest   6      1
 measure 22
 G2     3      1 e.    u  [
 A2     1      1 s     u  =[
-P C32:u
 f1              6
 B2     1      1 s     u  ==
 G2     1      1 s     u  ]]
@@ -770,7 +746,6 @@ f1              8
 P    C1:Y75
 C3     3      1 e.    d  [
 D3     1      1 s     d  =[
-P C32:o
 E3     1      1 s     d  ==
 F#3    1      1 s #   d  ]]
 measure 24
@@ -778,7 +753,6 @@ f2     2        6 4
 f2              5 3
 G3     3      1 e.    u  [
 G2     1      1 s     u  =[
-P C32:u
 A2     1      1 s     u  ==
 B2     1      1 s     u  ]]
 measure 25
@@ -786,7 +760,6 @@ f1     2        9
 f1              8
 C3     3      1 e.    u  [
 D3     1      1 s     u  =[
-P C32:u
 E3     1      1 s     u  ==
 C3     1      1 s     u  ]]
 measure 26
@@ -794,7 +767,6 @@ f1     2        9
 f1              8
 D3     3      1 e.    d  [
 E3     1      1 s     d  =[
-P C32:o
 F3     1      1 s     d  ==
 D3     1      1 s     d  ]]
 measure 27
@@ -802,7 +774,6 @@ f1     2        9
 f1              8
 E3     3      1 e.    d  [
 F3     1      1 s     d  =[
-P C32:o
 G3     1      1 s     d  ==
 E3     1      1 s     d  ]]
 measure 28
@@ -810,7 +781,6 @@ f1     2        9
 f1              8
 F3     3      1 e.    d  [
 G3     1      1 s     d  =[
-P C32:o
 A3     1      1 s     d  ==
 B3     1      1 s     d  ]]
 measure 29
@@ -818,7 +788,6 @@ f2     2        6 4
 f2              5 3
 C4     3      1 e.    d  [
 E3     1      1 s     d  =[
-P C32:o
 D3     1      1 s     d  ==
 C3     1      1 s     d  ]]
 measure 30
@@ -826,7 +795,6 @@ f2     2        9 4
 f2              8 3
 D3     3      1 e.    u  [
 G2     1      1 s     u  =[
-P C32:u
 A2     1      1 s     u  ==
 B2     1      1 s     u  ]]
 measure 31
@@ -836,7 +804,6 @@ f2              8 3
 P    C1:Y75
 C3     3      1 e.    d  [
 D3     1      1 s     d  =[
-P C32:o
 f1              6
 E3     1      1 s     d  ==
 F3     1      1 s     d  ]]
@@ -845,7 +812,6 @@ f2     2        5 4
 f2              b 3
 G3     3      1 e.    d  [
 F3     1      1 s     d  =[
-P C32:o
 f1              6
 P    C1:Y75
 E3     1      1 s     d  ==
@@ -854,7 +820,6 @@ measure 33
 f1              5
 F3     3      1 e.    d  [
 E3     1      1 s     d  =[
-P C32:o
 f1              6
 P    C1:Y75
 F3     1      1 s     d  ==
@@ -863,7 +828,6 @@ measure 34
 f1              5
 G3     3      1 e.    d  [
 F3     1      1 s     d  =[
-P C32:o
 f1              6
 G3     1      1 s     d  ==
 E3     1      1 s     d  ]]
@@ -871,14 +835,12 @@ measure 35
 f1              5
 A3     3      1 e.    d  [
 G3     1      1 s     d  =[
-P C32:o
 f1              6
 A3     1      1 s     d  ==
 F3     1      1 s     d  ]]
 measure 36
 G3     3      1 e.    d  [
 F3     1      1 s     d  =[
-P C32:o
 f1              6
 P    C1:Y75
 E3     1      1 s     d  ==
@@ -897,14 +859,12 @@ measure 38
 P    C17:Y57
 C3     3      1 e.    u  [
 D3     1      1 s     u  =[
-P C32:u
 E3     1      1 s     u  ==
 C3     1      1 s     u  ]]
 measure 39
 f1              5
 F3     3      1 e.    d  [
 E3     1      1 s     d  =[
-P C32:o
 f1              6
 F3     1      1 s     d  ==
 D3     1      1 s     d  ]]
@@ -912,7 +872,6 @@ measure 40
 f1              5
 G3     3      1 e.    d  [
 F3     1      1 s     d  =[
-P C32:o
 f1              6
 G3     1      1 s     d  ==
 E3     1      1 s     d  ]]
@@ -920,14 +879,12 @@ measure 41
 f1              5
 A3     3      1 e.    d  [
 G3     1      1 s     d  =[
-P C32:o
 f1              6
 A3     1      1 s     d  ==
 F3     1      1 s     d  ]]
 measure 42
 G3     3      1 e.    d  [
 F3     1      1 s     d  =[
-P C32:o
 f1              6
 P    C1:Y75
 E3     1      1 s     d  ==
@@ -964,7 +921,7 @@ mheavy2          :|
 @@@filter: addtempo -q 75
 @@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "m0:A; m17:B"
 @@@EEV: 2024/04/22
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/04/01
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/04/02
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/04/03
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv061_03/stage2/04/04
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/04/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/04/02
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/04/03
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/04/04

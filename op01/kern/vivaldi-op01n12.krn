@@ -77,7 +77,7 @@
 8F\	.	.	8a/	.	8ff\	.
 =14	=14	=14	=14	=14	=14	=14
 4C/	.	.	4g/	.	4ee\	.
-4.C#X/	.	7 5#|	8g/L	.	8ee\L	.
+4.C#X/	.	7 5	8g/L	.	8ee\L	.
 .	.	.	8a/J	.	8ff\J	.
 .	.	.	4b-y\	.	4gg\	.
 8C#y/	.	.	.	.	.	.
@@ -737,7 +737,7 @@
 16A\JJ	.	.	.	.	.	.
 =95	=95	=95	=95	=95	=95	=95
 8d\L	.	.	8dd\L	.	8ff\L	.
-8A\	.	#	8gg\J	.	8cc#X\	.
+8A\	.	3	8gg\J	.	8cc#X\	.
 8B-y\	.	5	4ff\	.	8dd\	.
 8G\	.	.	.	.	8f\J	.
 8A\	.	#	4ee\	.	8A/L	.
@@ -1024,15 +1024,15 @@
 .	.	.	.	.	12dd\	.
 .	.	.	8e/L	.	.	.
 .	.	.	.	.	12cc#X\J)	.
-.	.	.	8ee/	.	&{8aa\L	.
-8AA/	.	.	8e/J	.	8cc#X\J&)	.
+.	.	.	8ee/	.	(8aa\L	.
+8AA/	.	.	8e/J	.	8cc#X\J)	.
 =123	=123	=123	=123	=123	=123	=123
 4D\	.	.	4f/	.	(8dd\L	.
 .	.	.	.	.	8a\J)	.
-4.D\	.	.	8r	.	&{12ff\L	.
+4.D\	.	.	8r	.	(12ff\L	.
 .	.	.	.	.	12ee\	.
 .	.	.	8f\L	.	.	.
-.	.	.	.	.	12dd\J&)	.
+.	.	.	.	.	12dd\J)	.
 .	.	.	8ff\	.	(8aa\L	.
 8D\	.	.	8f\J	.	8dd\J)	.
 =124	=124	=124	=124	=124	=124	=124
@@ -1104,7 +1104,7 @@
 8d\	.	3	8ff\L	.	4a/	.
 8D\	.	.	8ee\J	.	.	.
 8D\	.	5	[4ff\	.	8aa\L	.
-8d\J	.	6#/	.	.	8bbn\J	.
+8d\J	.	6nr	.	.	8bbn\J	.
 =132	=132	=132	=132	=132	=132	=132
 8C\L	.	5 4	4ff\]	.	4cccn\	.
 8c\	.	.	.	.	.	.
@@ -1161,7 +1161,7 @@
 8d\	.	3	4a/	.	8ff\L	.
 8D\	.	.	.	.	8ee\J	.
 8D\	.	5	8aa\L	.	[4ff\	.
-8d\J	.	6#/	8bbn\J	.	.	.
+8d\J	.	6nr	8bbn\J	.	.	.
 =140	=140	=140	=140	=140	=140	=140
 8C\L	.	5 4	4ccc\	.	4ff\]	.
 8c\	.	.	.	.	.	.
@@ -1510,14 +1510,14 @@
 2.D\;	.	.	2.dd\;	.	2.dd\;	.
 =177||	=177||	=177||	=177||	=177||	=177||	=177||
 *>L	*>L	*>L	*>L	*>L	*>L	*>L
-!!!OMD: 12. Largetto
+!!!OMD: 12. Larghetto
 *MM44	*	*	*MM44	*	*MM44	*
 2D\	.	.	2f/	.	4aa\	.
 .	.	.	.	.	(8gg\L	.
 .	.	.	.	.	8ff\J)	.
 4GG/	.	6	4b-y\	.	(8ee\L	.
 .	.	.	.	.	16.ff\L	.
-.	.	.	.	.	(32gg\JJk)	.
+.	.	.	.	.	32gg\JJk	.
 =178	=178	=178	=178	=178	=178	=178
 2AA/	.	#	2e/	.	2cc#X\)	.
 4AA/	.	.	4e/	.	4cc#y\	.
@@ -1526,7 +1526,7 @@
 .	.	.	.	.	(8.dd\L	.
 .	.	.	.	.	16ee\k)	.
 4D\	.	.	4f/	.	(8.ff\	.
-.	.	.	.	.	(16gg\Jk)	.
+.	.	.	.	.	16gg\Jk	.
 =180	=180	=180	=180	=180	=180	=180
 2C/	.	.	2g/	.	2ee\)	.
 4C/	.	.	4g/	.	4ee\	.
@@ -1550,7 +1550,7 @@
 .	.	.	.	.	16ff\k)	.
 .	.	.	.	.	(8.ee\	.
 .	.	.	8f/	.	.	.
-.	.	.	.	.	(16dd\Jk)	.
+.	.	.	.	.	16dd\Jk	.
 !!LO:LB:g=original
 =184	=184	=184	=184	=184	=184	=184
 2.AA/	.	#	2.e/	.	2.cc#X\)	.
@@ -1560,7 +1560,7 @@
 .	.	.	.	.	8ff\J)	.
 4GG/	.	6	4b-y\	.	(8ee\L	.
 .	.	.	.	.	16.ff\L	.
-.	.	.	.	.	(32gg\JJk)	.
+.	.	.	.	.	32gg\JJk	.
 =186	=186	=186	=186	=186	=186	=186
 2AA/	.	#	2e/	.	2cc#X\)	.
 4AA/	.	.	4e/	.	4cc#y\	.
@@ -1569,7 +1569,7 @@
 .	.	.	.	.	(8.dd\L	.
 .	.	.	.	.	16ee\k)	.
 4D\	.	.	4f/	.	(8.ff\	.
-.	.	.	.	.	(16gg\Jk)	.
+.	.	.	.	.	16gg\Jk	.
 =188	=188	=188	=188	=188	=188	=188
 2C/	.	.	2g/	.	2ee\)	.
 4C/	.	.	4g/	.	4ee\	.
@@ -1579,7 +1579,7 @@
 .	.	.	.	.	8ff\J)	.
 .	.	6	4g/	.	(8ee\L	.
 .	.	.	.	.	16.ff\L	.
-.	.	.	.	.	(32gg\JJk)	.
+.	.	.	.	.	32gg\JJk	.
 =190	=190	=190	=190	=190	=190	=190
 4.A\	.	#	4e/	.	4.cc#X\)	.
 .	.	.	4ee\	.	.	.
@@ -1629,7 +1629,7 @@
 .	.	.	12cc#X\	.	12ee\	.
 .	.	.	12dd\J)	.	12ff\J)	.
 4r	.	.	(12dd\L	.	(12ff\L	.
-.	.	.	12cc\	.	12ee\	.
+.	.	.	12cc#X\	.	12ee\	.
 .	.	.	12dd\J)	.	12ff\J)	.
 =196	=196	=196	=196	=196	=196	=196
 4c\	.	.	(12ee\L	.	(12gg\L	.
@@ -1988,7 +1988,7 @@
 4F\	.	.	4a/	.	4ccc\	.
 8F\	.	.	8a/	.	8ff\	.
 4C/	.	5 4	4.g/	.	4ff\	.
-8C/	.	3	.	.	8ee\	.
+8C/	.	X 3	.	.	8ee\	.
 8C#X\L	.	7 5	(8.gg\L	.	(8.bb-y\L	.
 8D\	.	.	.	.	.	.
 .	.	.	16ff\k	.	16aa\k	.
@@ -2115,8 +2115,6 @@
 2.D\;	.	.	2.d/;	.	2.d/;	.
 =249||	=249||	=249||	=249||	=249||	=249||	=249||
 *>Q	*>Q	*>Q	*>Q	*>Q	*>Q	*>Q
-!!!OMD: 17.
-!!!OMD: 17
 !!!OMD: 17.
 *MM150	*	*	*MM150	*	*MM150	*
 8d\L	.	.	8r	.	8r	.
@@ -2306,7 +2304,6 @@
 =265||	=265||	=265||	=265||	=265||	=265||	=265||
 *>R	*>R	*>R	*>R	*>R	*>R	*>R
 !!!OMD: 18.
-!!!OMD: 18
 *MM150	*	*	*MM150	*	*MM150	*
 4d\	.	.	4dd\	.	16ff\LL	.
 .	.	.	.	.	16dd\	.
@@ -3001,10 +2998,10 @@
 ==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
 !!!SMS: RV 63 / Estienne Roger (No. 363), Amsterdam [facs.]
-!!!ENC: Fran Bennion
+!!!ENC: Fran Bennion   rev. 05/19/21 E Correia
 !!!END: 2004/11/03
-!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 01:53:23 2024
-!!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 21:24:12 2024
+!!!YEM: (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._1:_Suonate_da_camera_a_tr.C3.A8.2C_due_violini_e_violone_o_cembalo Information about Op. 1 on the CCARH wiki
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no12.pdf#page=1 MuseData edition
@@ -3015,7 +3012,7 @@
 !!!URL-youtube: https://www.youtube.com/watch?v=hyqan5fcOkA&t=3s Rome Chamber Music Festival (2021)
 !!!title: @{OTL}
 !!!EEV: 2024/04/22
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/01
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/02
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/03
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv063_12/stage2/01/04
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no12/stage2/01/01
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no12/stage2/01/02
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no12/stage2/01/03
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no12/stage2/01/04

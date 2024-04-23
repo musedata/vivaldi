@@ -11,24 +11,24 @@
 @@@key: D
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/01/01
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:50:35 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no06/stage2/01/01
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:11:22 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv062/stage2/01/01}
 TIMESTAMP: DEC/10/2005 [md5sum:9e12bf4cc557091d3563e9928290ae63]
-10/07/04 Fran Bennion
+10/07/04 Fran Bennion   rev. 05/12/21 E Correia
 WK#:01,06     MV#:1
 RV 62 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 6 in D Major
+Vivaldi Op. 1, No. 6 in D Major
 Movement 1 - Preludio
 Violino 1
 
 Group memberships: score
 score: part 1 of 4
-$   Q:8 K:2 T:1/1 C:4  D:Preludio, Grave
+$   Q:8 K:2 T:1/1 C:4  D:Grave
 F#5    8      1 q     d
 rest   2      1 s
 rest   1      1 t
@@ -65,7 +65,7 @@ C#5    3      1 s.    d  [[
 C#5    1      1 t     d  ==\
 D5     3      1 s.    d  ==
 E5     1      1 t     d  ]]\
-C#5    6      1 e.    d  [
+C#5    6      1 e.    d  [      &2t
 D5     2      1 s     d  ]\
 measure 4
 D5     3      1 s.    d  [[
@@ -91,7 +91,7 @@ rest   1      1 t
 E5     1      1 t     d  [[/
 D5     3      1 s.    d  ==
 E5     1      1 t     d  ]]\
-C#5    6      1 e.    d  [
+C#5    6      1 e.    d  [      &2t
 B4     2      1 s     d  ]\
 measure 6
 B4     3      1 s.    d  [[
@@ -104,7 +104,7 @@ rest   1      1 t
 B5     1      1 t     d  [[/
 A5     3      1 s.    d  ==
 G5     1      1 t     d  ]]\
-F#5    6      1 e.    d  [
+F#5    6      1 e.    d  [      &2t
 E5     2      1 s     d  ]\
 measure 7
 E5     3      1 s.    d  [[
@@ -138,7 +138,7 @@ G5     3      1 s.    d  [[
 A5     1      1 t     d  ==\
 F#5    3      1 s.    d  ==
 G5     1      1 t     d  ]]\
-E5     6      1 e.    d  [
+E5     6      1 e.    d  [      &2t
 D5     2      1 s     d  ]\
 D5     3      1 s.    d  [[
 A5     1      1 t     d  ==\
@@ -157,7 +157,7 @@ rest   1      1 t
 E5     1      1 t     d  [[/
 F#5    3      1 s.    d  ==
 G5     1      1 t     d  ]]\
-E5     6      1 e.    d  [
+E5     6      1 e.    d  [      &2t
 D5     2      1 s     d  ]\
 measure 11
 D5     8      1 q     d
@@ -170,33 +170,33 @@ E4     3      1 s.    u  [[
 E4     1      1 t     u  ==\
 F#4    3      1 s.    u  ==
 G4     1      1 t     u  ]]\
-E4     6      1 e.    u  [
+E4     6      1 e.    u  [      &2t
 D4     2      1 s     u  ]\
 measure 12
-D4    32      1 w              F
+D4    32      1 w     u         F
 mheavy2
 /END
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/01/02
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:50:35 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no06/stage2/01/02
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:11:22 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv062/stage2/01/02}
 TIMESTAMP: DEC/10/2005 [md5sum:7dc0c27f558a90d43ce869219be4ec08]
-10/07/04 Fran Bennion
+10/07/04 Fran Bennion   rev. 05/12/21 E Correia
 WK#:01,06     MV#:1
 RV 62 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 6 in D Major
+Vivaldi Op. 1, No. 6 in D Major
 Movement 1 - Preludio
 Violino 2
 
 Group memberships: score
 score: part 2 of 4
-$   Q:8 K:2 T:1/1 C:4  D:Preludio, Grave
+$   Q:8 K:2 T:1/1 C:4  D:Grave
 rest   2      1 s
 rest   1      1 t
 D5     1      1 t     d  [[/
@@ -260,7 +260,7 @@ A#4    3      1 s.    u  [[
 F#4    1      1 t     u  ==\
 B4     3      1 s.    u  ==
 C#5    1      1 t     u  ]]\
-A#4    6      1 e.#   u  [      +
+A#4    6      1 e.#   u  [
 B4     2      1 s     u  ]\
 measure 6
 B4     8      1 q     d
@@ -349,24 +349,24 @@ mheavy2
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/01/03
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:50:35 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no06/stage2/01/03
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:11:22 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv062/stage2/01/03}
 TIMESTAMP: DEC/10/2005 [md5sum:5715fea83264ac0b3dfbe3d7897ab2bc]
-10/07/04 Fran Bennion
+10/07/04 Fran Bennion   rev. 05/12/21 E Correia
 WK#:01,06     MV#:1
 RV 62 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 6 in D Major
+Vivaldi Op. 1, No. 6 in D Major
 Movement 1 - Preludio
 Violoncello
 
 Group memberships: score
 score: part 3 of 4
-$   Q:2 K:2 T:1/1 C:22  D:Preludio, Grave
+$   Q:2 K:2 T:1/1 C:22  D:Grave
 D4     1      1 e     d  [
 D3     1      1 e     d  ]
 A3     1      1 e     d  [
@@ -376,7 +376,7 @@ D3     1      1 e     u  ]
 A3     1      1 e     d  [
 A2     1      1 e     d  ]
 measure 2
-D2     1      1 e     d  [
+D2     1      1 e     u  [
 D4     1      1 e     d  =
 G4     1      1 e     d  =
 G3     1      1 e     d  ]
@@ -472,24 +472,24 @@ mheavy2
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/01/04
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:50:35 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no06/stage2/01/04
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:11:22 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv062/stage2/01/04}
 TIMESTAMP: DEC/10/2005 [md5sum:eae27e7aaabe3a4044d83dde6af9fba5]
-10/07/04 Fran Bennion
+10/07/04 Fran Bennion   rev. 05/12/21 E Correia
 WK#:01,06     MV#:1
 RV 62 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 6 in D Major
+Vivaldi Op. 1, No. 6 in D Major
 Movement 1 - Preludio
 Basso continuo
 
 Group memberships: score
 score: part 4 of 4
-$   Q:2 K:2 T:1/1 C:22   D:Preludio, Grave
+$   Q:2 K:2 T:1/1 C:22   D:Grave
 D4     1      1 e     d  [
 D3     1      1 e     d  ]
 A3     1      1 e     d  [
@@ -499,12 +499,11 @@ D3     1      1 e     u  ]
 A3     1      1 e     d  [
 A2     1      1 e     d  ]
 measure 2
-D2     1      1 e     d  [
+D2     1      1 e     u  [
 D4     1      1 e     d  =
 G4     1      1 e     d  =
 G3     1      1 e     d  ]
 f1              5
-P    C1:Y80
 C#3    1      1 e     d  [
 C#4    1      1 e     d  ]
 F#4    1      1 e     d  [
@@ -524,11 +523,9 @@ D4     1      1 e     d  ]
 B3     1      1 e     d  [
 B2     1      1 e     d  ]
 f1              7
-P    C1:Y75
 C#3    1      1 e     d  [
 C#4    1      1 e     d  =
 f1              3
-P    C1:Y75
 F#4    1      1 e     d  =
 F#3    1      1 e     d  ]
 measure 5
@@ -536,32 +533,25 @@ B2     1      1 e     d  [
 B3     1      1 e     d  =
 E4     1      1 e     d  =
 E3     1      1 e     d  ]
-f2              7 x
-P    C1:Y80
+f2              7 #
 F#3    1      1 e     u  [
 B2     1      1 e     u  =
-f1              x
+f1              #
 F#3    1      1 e     u  =
 F#2    1      1 e     u  ]
 measure 6
 f1              n
-P    C1:Y78
 B2     1      1 e     d  [
-f1              x
-P    C1:Y78
+f1              #
 B3     1      1 e     d  =
-f1              7f
-P    C1:Y78
+f1              7n
 D#4    1      1 e #   d  =
 D#3    1      1 e #   d  ]
 f1              5
-P    C1:Y75
 E3     1      1 e     d  [
 f1              6
-P    C1:Y75
 A3     1      1 e     d  =
-f1              x
-P    C1:Y75
+f1              #
 B3     1      1 e     d  =
 B2     1      1 e     d  ]
 measure 7
@@ -571,18 +561,16 @@ f1              7
 A3     1      1 e     u  =
 A2     1      1 e     u  ]
 f2              6 5
-P    C1:Y77
 C#3    1      1 e     d  [
 A2     1      1 e     d  =
 f1              7
-P    C1:Y78
 A3     1      1 e     d  =
 A2     1      1 e     d  ]
 measure 8
 $    Q:8
 f2              6 4
 D3     4      1 e     u  [
-f2              5f 3
+f2              5n 3
 F#3    4      1 e     u  =
 f2              9 4
 G3     4      1 e     u  =
@@ -599,7 +587,6 @@ B3     4      1 e     d  ]
 measure 9
 $    Q:2
 f2              6 5
-P    C1:Y82
 C#3    1      1 e     d  [
 D3     1      1 e     d  =
 A3     1      1 e     d  =
@@ -627,15 +614,13 @@ F#3    1      1 e     u  =
 G3     1      1 e     u  =
 G2     1      1 e     u  ]
 f2              5 4
-P    C1:Y85
 A2     1      1 e     u  [
 D3     1      1 e     u  ]
 f1              3
-P    C1:Y85
 A3     1      1 e     d  [
 A2     1      1 e     d  ]
 measure 12
-D3     8      1 w              F
+D3     8      1 w     d        F
 mheavy2
 /END
 /eof
@@ -656,7 +641,7 @@ mheavy2
 @@@filter: addkey
 @@@filter: addtempo -q 40
 @@@EEV: 2024/04/22
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/01/01
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/01/02
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/01/03
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv062_06/stage2/01/04
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no06/stage2/01/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no06/stage2/01/02
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no06/stage2/01/03
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no06/stage2/01/04

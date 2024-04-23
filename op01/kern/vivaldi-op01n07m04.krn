@@ -18,10 +18,10 @@
 *>norep[I,A,B,B2]	*>norep[I,A,B,B2]	*>norep[I,A,B,B2]	*>norep[I,A,B,B2]	*>norep[I,A,B,B2]	*>norep[I,A,B,B2]	*>norep[I,A,B,B2]
 *>I	*>I	*>I	*>I	*>I	*>I	*>I
 *clefF4	*	*	*clefG2	*	*clefG2	*
-*k[b-e-]	*	*	*k[b-e-]	*	*k[b-e-]	*
-*E-:	*	*	*E-:	*	*E-:	*
+*	*	*	*	*	*	*
 *M12/8	*	*	*M12/8	*	*M12/8	*
 *MM225	*	*	*MM225	*	*MM225	*
+*E-:	*	*	*E-:	*	*E-:	*
 =1	=1	=1	=1	=1	=1	=1
 4.r	.	.	4.r	.	8r	.
 .	.	.	.	.	8r	.
@@ -241,10 +241,10 @@
 ==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
 !!!SMS: RV 65 / Estienne Roger (No. 363), Amsterdam [facs.]
-!!!ENC: Fran Bennion
+!!!ENC: Fran Bennion   rev. 05/14/21 E Correia
 !!!END: 2004/10/20
-!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 01:53:21 2024
-!!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 21:24:11 2024
+!!!YEM: (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._1:_Suonate_da_camera_a_tr.C3.A8.2C_due_violini_e_violone_o_cembalo Information about Vivaldi Op. 1 on the CCARH wiki
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no07.pdf#page=5 MuseData edition
@@ -254,7 +254,7 @@
 !!!URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=3453s L'Arte dell'Arco
 !!!title: @{OTL}, mov. @{OMV}
 !!!EEV: 2024/04/22
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv065_07/stage2/04/01
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv065_07/stage2/04/02
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv065_07/stage2/04/03
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv065_07/stage2/04/04
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no07/stage2/04/01
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no07/stage2/04/02
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no07/stage2/04/03
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no07/stage2/04/04

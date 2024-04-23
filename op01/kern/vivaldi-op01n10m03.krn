@@ -34,7 +34,7 @@
 =2	=2	=2	=2	=2	=2	=2
 4d\	.	6	8b-y/L	.	1r	.
 .	.	.	8f/	.	.	.
-2B-y\	.	X X 5	8d/	.	.	.
+2B-y\	.	5	8d/	.	.	.
 .	.	.	8dd/J	.	.	.
 .	.	7 4 2	8cc/L	.	.	.
 .	.	.	8a/	.	.	.
@@ -142,7 +142,7 @@
 4C/	.	.	8en/	.	8cc\	.
 .	.	.	8cc/J	.	8een\J	.
 =14	=14	=14	=14	=14	=14	=14
-1FF	.	.	1a	.	8ff\L	.
+1FF/	.	.	1a	.	8ff\L	.
 .	.	.	.	.	8aa\	.
 .	.	.	.	.	8ff\	.
 .	.	.	.	.	8cc\J	.
@@ -153,14 +153,14 @@
 8C\	.	.	.	.	.	.
 8AA\	.	.	.	.	.	.
 8A\J	.	.	.	.	.	.
-8G\L	.	6#/ 4	.	.	.	.
+8G\L	.	6nr 4	.	.	.	.
 8En\	.	.	.	.	.	.
 8C\	.	.	.	.	.	.
 8B-y\J	.	.	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16
 4A\	.	6	8ff\L	.	1r	.
 .	.	.	8cc\	.	.	.
-2F\	.	X X 5	8a\	.	.	.
+2F\	.	5	8a\	.	.	.
 .	.	.	8aa\J	.	.	.
 .	.	7nr 4 2	8gg\L	.	.	.
 .	.	.	8een\	.	.	.
@@ -200,7 +200,7 @@
 4r	.	.	4r	.	8een\	.
 .	.	.	.	.	8cc\J	.
 8r	.	.	8r	.	4.aa\	.
-8c#X\	.	6 5	8een\	.	.	.
+8c#X\	.	6 5	8ee\	.	.	.
 8A\L	.	.	8cc#X\L	.	.	.
 8c#X\J	.	.	8ee\J	.	8gg\	.
 =21	=21	=21	=21	=21	=21	=21
@@ -210,7 +210,7 @@
 8D\	.	.	8ff\	.	8dd\J	.
 4A\	.	#	8een\	.	8cc#X\L	.
 .	.	.	4cc#X\	.	8aa\	.
-4G\	.	6 4#|	.	.	8een\	.
+4G\	.	6nr 4#|	.	.	8een\	.
 .	.	.	8een\	.	8cc#X\J	.
 =22	=22	=22	=22	=22	=22	=22
 4F\	.	6	4a/	.	8dd\L	.
@@ -219,7 +219,7 @@
 .	.	.	8ff\	.	8dd\J	.
 4A\	.	#	8een\	.	8cc#X\L	.
 .	.	.	4cc#X\	.	8aa\	.
-4G\	.	6 4#|	.	.	8een\	.
+4G\	.	6nr 4#|	.	.	8een\	.
 .	.	.	8een\	.	8cc#X\J	.
 =23	=23	=23	=23	=23	=23	=23
 4F\	.	6	4a/	.	8dd\L	.
@@ -232,7 +232,7 @@
 8D\J	.	.	8ff\	.	.	.
 !!LO:LB:g=original
 =24	=24	=24	=24	=24	=24	=24
-4A\	.	5#| 4	8een\L	.	4dd\]	.
+4A\	.	5nr 4	8een\L	.	4dd\]	.
 .	.	.	8a\	.	.	.
 4AA/	.	#	8aa\	.	4cc#X\	.
 .	.	.	8gg\J	.	.	.
@@ -402,10 +402,10 @@
 =:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
 *-	*-	*-	*-	*-	*-	*-
 !!!SMS: RV 78 / Estienne Roger (No. 363), Amsterdam [facs.]
-!!!ENC: Fran Bennion
+!!!ENC: Fran Bennion   rev. 05/19/21 E Correia
 !!!END: 2004/10/30
-!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 01:53:22 2024
-!!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 21:24:12 2024
+!!!YEM: (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._1:_Suonate_da_camera_a_tr.C3.A8.2C_due_violini_e_violone_o_cembalo Information about Vivaldi Op. 1 on the CCARH wiki
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no10.pdf#page=5 MuseData edition
@@ -415,7 +415,7 @@
 !!!URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=1560s L'Arte dell'Arco
 !!!title: @{OTL}, mov. @{OMV}
 !!!EEV: 2024/04/22
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv078_10/stage2/03/01
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv078_10/stage2/03/02
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv078_10/stage2/03/03
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv078_10/stage2/03/04
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no10/stage2/03/01
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no10/stage2/03/02
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no10/stage2/03/03
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no10/stage2/03/04

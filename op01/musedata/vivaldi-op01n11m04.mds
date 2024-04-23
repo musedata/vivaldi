@@ -11,27 +11,27 @@
 @@@key: b
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv079_11/stage2/04/01
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:52:40 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no11/stage2/04/01
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:13:14 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv079/stage2/04/01}
 TIMESTAMP: DEC/10/2005 [md5sum:8ee88382e19cd8bfd2f59c3b97889c0a]
-11/02/04 Fran Bennion
+11/02/04 Fran Bennion   rev. 05/19/21 E Correia
 WK#:01,11     MV#:4
 RV 79 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 11 in b minor
+Vivaldi Op. 1, No. 11 in b minor
 Movement 4 - Gavotta
 Violino 1
 
 Group memberships: score
 score: part 1 of 4
-$   Q:4 K:2 T:1/1 C:4   D:Gavotta, Presto
-B4     2      1 e     u  [
-D4     2      1 e     u  =
-B3     2      1 e     u  =
+$   Q:4 K:2 T:1/1 C:4   D:Presto
+B4     2      1 e     d  [
+D4     2      1 e     d  =
+B3     2      1 e     d  =
 B5     2      1 e     d  ]
 A#5    2      1 e     d  [
 F#5    2      1 e     d  =
@@ -40,33 +40,29 @@ B5     2      1 e     d  ]
 measure 2
 G5     2      1 e     d  [
 E5     2      1 e     d  =
-A3     2      1 e n   u  =
+A3     2      1 e n   u  =      +
 A5     2      1 e     d  ]
-F#5    2      1 e     u  [
-D5     2      1 e     u  =
-D4     2      1 e     u  =
-G5     2      1 e     u  ]
+F#5    2      1 e     d  [
+D5     2      1 e     d  =
+D4     2      1 e     d  =
+G5     2      1 e     d  ]
 measure 3
 E5     2      1 e     d  [
-A#4    2      1 e #   d  ]
-F#4    2      1 e     u  [
-E5     2      1 e     u  ]
+A#4    2      1 e #   d  =
+F#4    2      1 e     d  =
+E5     2      1 e     d  ]
 D5     2      1 e     d  [
 B4     2      1 e     d  =
 B3     2      1 e     u  =
 B5     2      1 e     d  ]
 measure 4
 G5     1      1 s     d  [[    (
-P C32:o
 F#5    1      1 s     d  ==    )
 E5     1      1 s     d  ==    (
-P C32:o
 D5     1      1 s     d  ]]    )
 G5     1      1 s     d  [[    (
-P C32:o
 F#5    1      1 s     d  ==    )
 E5     1      1 s     d  ==    (
-P C32:o
 D5     1      1 s     d  ]]    )
 C#5    8      1 h     d
 measure 5
@@ -81,7 +77,7 @@ B5     1      1 s     d  ]]
 A#5    1      1 s #   d  [[
 F#5    1      1 s     d  ==
 C#5    1      1 s     d  ==
-A#5    1      1 s #   d  ]]     +
+A#5    1      1 s #   d  ]]
 B5     1      1 s     d  [[
 F#5    1      1 s     d  ==
 D5     1      1 s     d  ==
@@ -110,7 +106,7 @@ A#4    1      1 s #   d  ==
 E5     1      1 s     d  ]]
 E5     1      1 s     d  [[
 C#5    1      1 s     d  ==
-A#4    1      1 s #   d  ==     +
+A#4    1      1 s #   d  ==
 E5     1      1 s     d  ]]
 D5     1      1 s     d  [[
 C#5    1      1 s     d  ==
@@ -122,16 +118,12 @@ D5     1      1 s     d  ==
 F#5    1      1 s     d  ]]
 measure 8
 G5     1      1 s     d  [[    (
-P C32:o
 F#5    1      1 s     d  ==    )
 E5     1      1 s     d  ==    (
-P C32:o
 D5     1      1 s     d  ]]    )
 G5     1      1 s     d  [[    (
-P C32:o
 F#5    1      1 s     d  ==    )
 E5     1      1 s     d  ==    (
-P C32:o
 D5     1      1 s     d  ]]    )
 C#5    8      1 h     d
 measure 9
@@ -149,32 +141,25 @@ C#4    2      1 e     u  =
 A3     2      1 e     u  =
 E5     2      1 e     u  ]
 F#5    2      1 e     d  [
-A4     2      1 e     d  ]
-D4     2      1 e     u  [
-F#5    2      1 e     u  ]
+A4     2      1 e     d  =
+D4     2      1 e     d  =
+F#5    2      1 e     d  ]
 measure 11
 G5     1      1 s     d  [[    (
-P C32:o
 F#5    1      1 s     d  ==    )
 E5     1      1 s     d  ==    (
-P C32:o
 D5     1      1 s     d  ]]    )
 E5     1      1 s     d  [[    (
-P C32:o
 D5     1      1 s     d  ==    )
 C#5    1      1 s     d  ==    (
-P C32:o
 B4     1      1 s     d  ]]    )
 C#5    1      1 s     u  [[    (
-P C32:u
 B4     1      1 s     u  ==    )
 A4     1      1 s     u  ==    (
 G4     1      1 s     u  ]]    )
 A4     1      1 s     u  [[    (
-P C32:u
 G4     1      1 s     u  ==    )
 F#4    1      1 s     u  ==    (
-P C32:u
 E4     1      1 s     u  ]]    )
 measure 12
 F#4    2      1 e     u  [
@@ -186,35 +171,31 @@ rest   2      1 e
 F#5    2      1 e     d
 measure 13
 F#5    2      1 e     u  [
-D#4    2      1 e #   u  =
+D#4    2    &11 e     u  =      &1
 @1  No # on D4 in Roger.  An oversight. Violin 2 has a D#5 & Bc. has "x" on B3.
 B3     2      1 e     u  =
 F#5    2      1 e     u  ]
 G#5    2      1 e #   d  [
-B4     2      1 e     d  ]
-E4     2      1 e     d  [
-G#5    2      1 e #   d  ]      +
+B4     2      1 e     d  =
+E4     2      1 e     d  =
+G#5    2      1 e #   d  ]
 measure 14
 A#5    2      1 e #   d  [
 F#5    2      1 e     d  =
 F#4    2      1 e     d  =
-A#5    2      1 e #   d  ]      +
+A#5    2      1 e #   d  ]
 B5     2      1 e     d  [
-D5     2      1 e n   d  =
+D5     2      1 e n   d  =      &1+
 B3     2      1 e     u  =
 F#5    2      1 e     d  ]
 measure 15
 G5     1      1 s     d  [[    (
-P C32:o
 F#5    1      1 s     d  ==    )
 E5     1      1 s     d  ==    (
-P C32:o
 F#5    1      1 s     d  ]]    )
 G5     1      1 s     d  [[    (
-P C32:o
 F#5    1      1 s     d  ==    )
 E5     1      1 s     d  ==    (
-P C32:o
 D5     1      1 s     d  ]]    )
 C#5    2      1 e     d  [
 F#5    2      1 e     d  =
@@ -222,7 +203,7 @@ B5     2      1 e     d  =
 E5     2      1 e     d  ]
 measure 16
 D5     4      1 q     d
-C#5    4      1 q     d
+C#5    4      1 q     d         &2t
 B4     4      1 q     d
 rest   2      1 e
 *               G       p
@@ -234,30 +215,26 @@ D4     2      1 e     u  =
 B3     2      1 e     u  =
 F#5    2      1 e     u  ]
 G#5    2      1 e #   d  [
-B4     2      1 e     d  ]
-E4     2      1 e     d  [
-G#5    2      1 e #   d  ]      +
+B4     2      1 e     d  =
+E4     2      1 e     d  =
+G#5    2      1 e #   d  ]
 measure 18
 A#5    2      1 e #   d  [
 F#5    2      1 e     d  =
 F#4    2      1 e     d  =
-A#5    2      1 e #   d  ]      +
+A#5    2      1 e #   d  ]
 B5     2      1 e     d  [
 D5     2      1 e     d  =
 B3     2      1 e     u  =
 F#5    2      1 e     d  ]
 measure 19
-G5     1      1 s n   d  [[    (
-P C32:o
+G5     1      1 s n   d  [[    (&1+
 F#5    1      1 s     d  ==    )
 E5     1      1 s     d  ==    (
-P C32:o
 F#5    1      1 s     d  ]]    )
 G5     1      1 s     d  [[    (
-P C32:o
 F#5    1      1 s     d  ==    )
 E5     1      1 s     d  ==    (
-P C32:o
 D5     1      1 s     d  ]]    )
 C#5    2      1 e     d  [
 F#5    2      1 e     d  =
@@ -265,7 +242,7 @@ B5     2      1 e     d  =
 E5     2      1 e     d  ]
 measure 20
 D5     4      1 q     d
-C#5    4      1 q     d
+C#5    4      1 q     d         &2t
 B4     8      1 h     d
 measure 21
 *               G       f
@@ -275,7 +252,7 @@ D#5    1      1 s #   d  ==
 B4     1      1 s     d  ==
 F#5    1      1 s     d  ]]
 F#5    1      1 s     d  [[
-D#5    1      1 s #   d  ==     +
+D#5    1      1 s #   d  ==
 B4     1      1 s     d  ==
 F#5    1      1 s     d  ]]
 G5     1      1 s     d  [[
@@ -305,37 +282,28 @@ A4     1      1 s     d  ==
 F#5    1      1 s     d  ]]
 measure 23
 G5     1      1 s     d  [[    (
-P C32:o
 F#5    1      1 s     d  ==    )
 E5     1      1 s     d  ==    (
-P C32:o
 D5     1      1 s     d  ]]    )
 E5     1      1 s     d  [[    (
-P C32:o
 D5     1      1 s     d  ==    )
 C#5    1      1 s     d  ==    (
-P C32:o
 B4     1      1 s     d  ]]    )
 C#5    1      1 s     u  [[    (
 B4     1      1 s     u  ==    )
 A4     1      1 s     u  ==    (
-P C32:u
 G4     1      1 s     u  ]]    )
 A4     1      1 s     u  [[    (
-P C32:u
 G4     1      1 s     u  ==    )
 F#4    1      1 s     u  ==    (
-P C32:u
 E4     1      1 s     u  ]]    )
 measure 24
 F#4    1      1 s     u  [[
 D5     1      1 s     u  ==
-P C32:u
 C#5    1      1 s     u  ==
 D5     1      1 s     u  ]]
 E4     1      1 s     u  [[
 C#5    1      1 s     u  ==
-P C32:u
 B4     1      1 s     u  ==
 C#5    1      1 s     u  ]]
 D4     4      1 q     u
@@ -343,34 +311,34 @@ rest   2      1 e
 F#5    2      1 e     d
 measure 25
 F#5    1      1 s     d  [[
-D#5    1      1 s     d  ==
+D#5    1    &11 s     d  ==     &1
 @1  No # on D4 in Roger.  An oversight. Violin 2 has a D#5 & Bc. has "x" on B3.
 B4     1      1 s     d  ==
 F#5    1      1 s     d  ]]
 F#5    1      1 s     d  [[
-D#5    1      1 s #   d  ==     +
+D#5    1      1 s #   d  ==
 B4     1      1 s     d  ==
 F#5    1      1 s     d  ]]
 G#5    1      1 s #   d  [[
 E5     1      1 s     d  ==
 B4     1      1 s     d  ==
-G#5    1      1 s #   d  ]]     +
+G#5    1      1 s #   d  ]]
 G#5    1      1 s     d  [[
 E5     1      1 s     d  ==
 B4     1      1 s     d  ==
-G#5    1      1 s #   d  ]]     +
+G#5    1      1 s #   d  ]]
 measure 26
 A#5    1      1 s #   d  [[
 F#5    1      1 s     d  ==
 C#5    1      1 s     d  ==
-A#5    1      1 s #   d  ]]     +
+A#5    1      1 s #   d  ]]
 A#5    1      1 s     d  [[
 F#5    1      1 s     d  ==
 C#5    1      1 s     d  ==
-A#5    1      1 s #   d  ]]     +
+A#5    1      1 s #   d  ]]
 B5     1      1 s     d  [[
 F#5    1      1 s     d  ==
-D5     1      1 s n   d  ==
+D5     1      1 s n   d  ==     &1+
 F#5    1      1 s     d  ]]
 F#5    1      1 s     d  [[
 D5     1      1 s     d  ==
@@ -378,37 +346,27 @@ B4     1      1 s     d  ==
 F#5    1      1 s     d  ]]
 measure 27
 G5     1      1 s n   d  [[    (
-P C32:o
 F#5    1      1 s     d  ==    )
-P C33:o
 E5     1      1 s     d  ==    (
 F#5    1      1 s     d  ]]    )
 G5     1      1 s     d  [[    (
-P C32:o
 F#5    1      1 s     d  ==    )
 E5     1      1 s     d  ==    (
-P C32:o
 D5     1      1 s     d  ]]    )
 C#5    2      1 e     d  [
 F#5    2      1 e     d  ]
 B5     1      1 s     d  [[    (
-P C32:o
 F#5    1      1 s     d  ==    )
 G5     1      1 s     d  ==    (
-P C32:o
 E5     1      1 s     d  ]]    )
 measure 28
 D5     1      1 s     d  [[    (
-P C32:o
 C#5    1      1 s     d  ==    )
 D5     1      1 s     d  ==    (
-P C32:o
 E5     1      1 s     d  ]]    )
 C#5    1      1 s     d  [[    (
-P C32:o
 B4     1      1 s     d  ==    )
 C#5    1      1 s     d  ==    (
-P C32:o
 D5     1      1 s     d  ]]    )
 B4     4      1 q     d
 rest   2      1 e
@@ -427,20 +385,20 @@ F#5    1      1 s     d  ]]
 G#5    1      1 s #   d  [[
 E5     1      1 s     d  ==
 B4     1      1 s     d  ==
-G#5    1      1 s #   d  ]]     +
+G#5    1      1 s #   d  ]]
 G#5    1      1 s     d  [[
 E5     1      1 s     d  ==
 B4     1      1 s     d  ==
-G#5    1      1 s #   d  ]]     +
+G#5    1      1 s #   d  ]]
 measure 30
 A#5    1      1 s #   d  [[
 F#5    1      1 s     d  ==
 C#5    1      1 s     d  ==
-A#5    1      1 s #   d  ]]     +
+A#5    1      1 s #   d  ]]
 A#5    1      1 s     d  [[
 F#5    1      1 s     d  ==
 C#5    1      1 s     d  ==
-A#5    1      1 s #   d  ]]     +
+A#5    1      1 s #   d  ]]
 B5     1      1 s     d  [[
 F#5    1      1 s     d  ==
 D5     1      1 s     d  ==
@@ -451,37 +409,27 @@ B4     1      1 s     d  ==
 F#5    1      1 s     d  ]]
 measure 31
 G5     1      1 s     d  [[    (
-P C32:o
 F#5    1      1 s     d  ==    )
-P C33:o
 E5     1      1 s     d  ==    (
 F#5    1      1 s     d  ]]    )
 G5     1      1 s     d  [[    (
-P C32:o
 F#5    1      1 s     d  ==    )
 E5     1      1 s     d  ==    (
-P C32:o
 D5     1      1 s     d  ]]    )
 C#5    2      1 e     d  [
 F#5    2      1 e     d  ]
 B5     1      1 s     d  [[    (
-P C32:o
 F#5    1      1 s     d  ==    )
 G5     1      1 s     d  ==    (
-P C32:o
 E5     1      1 s     d  ]]    )
 measure 32
 D5     1      1 s     d  [[    (
-P C32:o
 C#5    1      1 s     d  ==    )
 D5     1      1 s     d  ==    (
-P C32:o
 E5     1      1 s     d  ]]    )
 C#5    1      1 s     d  [[    (
-P C32:o
 B4     1      1 s     d  ==    )
 C#5    1      1 s     d  ==    (
-P C32:o
 D5     1      1 s     d  ]]    )
 B4     8      1 h     d        F
 mheavy2          :|
@@ -489,24 +437,24 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv079_11/stage2/04/02
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:52:40 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no11/stage2/04/02
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:13:14 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv079/stage2/04/02}
 TIMESTAMP: DEC/10/2005 [md5sum:21bbe99992b0e124d2a732aab5fb783c]
-11/02/04 Fran Bennion
+11/02/04 Fran Bennion   rev. 05/19/21 E Correia
 WK#:01,11     MV#:4
 RV 79 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 11 in b minor
+Vivaldi Op. 1, No. 11 in b minor
 Movement 4 - Gavotta
 Violino 2
 
 Group memberships: score
 score: part 2 of 4
-$   Q:2 K:2 T:1/1 C:4  D:Gavotta, Presto
+$   Q:2 K:2 T:1/1 C:4  D:Presto
 D5     2      1 q     d
 rest   1      1 e
 D5     1      1 e     d
@@ -721,24 +669,24 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv079_11/stage2/04/03
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:52:40 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no11/stage2/04/03
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:13:14 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv079/stage2/04/03}
 TIMESTAMP: DEC/10/2005 [md5sum:33584404817f2a52f9fcaf7b293446da]
-11/02/04 Fran Bennion
+11/02/04 Fran Bennion   rev. 05/19/21 E Correia
 WK#:01,11     MV#:4
 RV 79 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 11 in b minor
+Vivaldi Op. 1, No. 11 in b minor
 Movement 4 - Gavotta
 Violoncello
 
 Group memberships: score
 score: part 3 of 4
-$   Q:2 K:2 T:1/1 C:22  D:Gavotta, Presto
+$   Q:2 K:2 T:1/1 C:22  D:Presto
 rest   1      1 e
 B3     1      1 e     d
 B2     2      1 q     u
@@ -795,7 +743,7 @@ E4     1      1 e     d
 E3     2      1 q     d
 measure 10
 rest   1      1 e
-A3     1      1 e n   d
+A3     1      1 e n   d         &1+
 A2     2      1 q     u
 rest   1      1 e
 D4     1      1 e     d
@@ -958,29 +906,29 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv079_11/stage2/04/04
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:52:40 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no11/stage2/04/04
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:13:14 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv079/stage2/04/04}
 TIMESTAMP: DEC/10/2005 [md5sum:4dcc25a97d044e83efdf22ac6db1a55e]
-11/02/04 Fran Bennion
+11/02/04 Fran Bennion   rev. 05/19/21 E Correia
 WK#:01,11     MV#:4
 RV 79 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 11 in b minor
+Vivaldi Op. 1, No. 11 in b minor
 Movement 4 - Gavotta
 Basso continuo
 
 Group memberships: score
 score: part 4 of 4
-$   Q:2 K:2 T:1/1 C:22  D:Gavotta, Presto
+$   Q:2 K:2 T:1/1 C:22  D:Presto
 rest   1      1 e
 B3     1      1 e     d
 B2     2      1 q     u
 rest   1      1 e
-f1              x
+f1              #
 F#4    1      1 e     d
 f1              6
 D3     2      1 q     d
@@ -1004,14 +952,14 @@ f1              6
 D3     2      1 q     d
 measure 4
 E3     4      1 h     d
-f1              x
+f1              #
 F#3    4      1 h     d
 measure 5
 rest   1      1 e
 B3     1      1 e     d
 B2     2      1 q     u
 rest   1      1 e
-f1              x
+f1              #
 F#4    1      1 e     d
 f1              6
 D3     2      1 q     d
@@ -1035,11 +983,11 @@ f1              6
 D3     2      1 q     d
 measure 8
 E3     4      1 h     d
-f1              x
+f1              #
 F#3    4      1 h     d
 measure 9
 rest   1      1 e
-f1              x
+f1              #
 B3     1      1 e     d
 B2     2      1 q     u
 rest   1      1 e
@@ -1047,7 +995,7 @@ E4     1      1 e     d
 E3     2      1 q     d
 measure 10
 rest   1      1 e
-A3     1      1 e n   d
+A3     1      1 e n   d         &1+
 A2     2      1 q     u
 rest   1      1 e
 D4     1      1 e     d
@@ -1070,28 +1018,28 @@ D4     1      1 e     d  ]
 D3     2      1 q     d
 measure 13
 rest   1      1 e
-f1              x
+f1              #
 B3     1      1 e     d
 B2     2      1 q     u
 rest   1      1 e
-f1              x
+f1              #
 E4     1      1 e     d
 f2              6 5
 E3     2      1 q     d
 measure 14
-f1              x
+f1              #
 F#3    2      1 q     d
 f2              6 4+
 E3     2      1 q     d
 f1              6
-D3     1      1 e n   d  [
+D3     1      1 e     d  [
 B3     1      1 e     d  ]
 B2     2      1 q     u
 measure 15
 rest   1      1 e
 E4     1      1 e     d
 E3     2      1 q     d
-f1              x
+f1              #
 F#3    1      1 e     d  [
 E3     1      1 e     d  =
 f1              6
@@ -1100,7 +1048,7 @@ E3     1      1 e     d  ]
 measure 16
 f2              6 4
 F#3    2      1 q     d
-f2              5 x
+f2              5 #
 F#2    2      1 q     u
 B2     1      1 e     d  [
 B3     1      1 e     d  ]
@@ -1110,15 +1058,15 @@ rest   1      1 e
 *               G       p
 P    C17:Y59
 B3     1      1 e     d
-f1              x
+f1              #
 B2     2      1 q     u
 rest   1      1 e
-f1              x
+f1              #
 E4     1      1 e     d
 f2              6 5
 E3     2      1 q     d
 measure 18
-f1              x
+f1              #
 F#3    2      1 q     d
 f2              6 4+
 E3     2      1 q     d
@@ -1130,7 +1078,7 @@ measure 19
 rest   1      1 e
 E4     1      1 e     d
 E3     2      1 q     d
-f1              x
+f1              #
 F#3    1      1 e     d  [
 E3     1      1 e     d  =
 f1              6
@@ -1139,12 +1087,12 @@ E3     1      1 e     d  ]
 measure 20
 f2              6 4
 F#3    2      1 q     d
-f2              5 x
+f2              5 #
 F#2    2      1 q     u
 B2     4      1 h     u
 measure 21
 rest   1      1 e
-f1              x
+f1              #
 B3     1      1 e     d
 B2     2      1 q     u
 rest   1      1 e
@@ -1152,7 +1100,7 @@ E4     1      1 e     d
 E3     2      1 q     d
 measure 22
 rest   1      1 e
-A3     1      1 e n   d
+A3     1      1 e     d
 A2     2      1 q     u
 rest   1      1 e
 D4     1      1 e     d
@@ -1175,28 +1123,28 @@ D4     1      1 e     d  ]
 D3     2      1 q     d
 measure 25
 rest   1      1 e
-f1              x
+f1              #
 B3     1      1 e     d
 B2     2      1 q     u
 rest   1      1 e
-f1              x
+f1              #
 E4     1      1 e     d
 f2              6 5
 E3     2      1 q     d
 measure 26
-f1              x
+f1              #
 F#3    2      1 q     d
 f2              6 4+
 E3     2      1 q     d
 f1              6
-D3     1      1 e n   d  [
+D3     1      1 e     d  [
 B3     1      1 e     d  ]
 B2     2      1 q     u
 measure 27
 rest   1      1 e
 E4     1      1 e     d
 E3     2      1 q     d
-f1              x
+f1              #
 F#3    1      1 e     d  [
 E3     1      1 e     d  =
 f1              6
@@ -1205,7 +1153,7 @@ E3     1      1 e     d  ]
 measure 28
 f2              6 4
 F#3    2      1 q     d
-f2              5 x
+f2              5 #
 F#2    2      1 q     u
 B2     1      1 e     d  [
 B3     1      1 e     d  ]
@@ -1215,27 +1163,27 @@ rest   1      1 e
 *               G       p
 P    C17:Y59
 B3     1      1 e     d
-f1              x
+f1              #
 B2     2      1 q     u
 rest   1      1 e
-f1              x
+f1              #
 E4     1      1 e     d
 f2              6 5
 E3     2      1 q     d
 measure 30
-f1              x
+f1              #
 F#3    2      1 q     d
 f2              6 4+
 E3     2      1 q     d
 f1              6
-D3     1      1 e n   d  [
+D3     1      1 e     d  [
 B3     1      1 e     d  ]
 B2     2      1 q     u
 measure 31
 rest   1      1 e
 E4     1      1 e     d
 E3     2      1 q     d
-f1              x
+f1              #
 F#3    1      1 e     d  [
 E3     1      1 e     d  =
 f1              6
@@ -1244,7 +1192,7 @@ E3     1      1 e     d  ]
 measure 32
 f2              6 4
 F#3    2      1 q     d
-f2              5 x
+f2              5 #
 F#2    2      1 q     u
 B2     4      1 h     u        F
 @1  No fermata in Roger.  Fermatas in the violin parts and in the scanned edition.
@@ -1269,7 +1217,7 @@ mheavy2          :|
 @@@filter: addtempo -q 132
 @@@filter: addlabels -d "A,A" -r "A" -l "m0:A"
 @@@EEV: 2024/04/22
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv079_11/stage2/04/01
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv079_11/stage2/04/02
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv079_11/stage2/04/03
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv079_11/stage2/04/04
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no11/stage2/04/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no11/stage2/04/02
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no11/stage2/04/03
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no11/stage2/04/04

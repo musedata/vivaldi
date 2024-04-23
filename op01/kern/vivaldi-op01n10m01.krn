@@ -38,13 +38,13 @@
 4D\	.	6	2bb-y\	.	.	.
 4E-y\	.	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4
-2F\	.	.	1.aa	.	4ccc\	.
+2F\	.	.	1.aa/	.	4ccc\	.
 .	.	.	.	.	4bb-y\	.
 2FF/	.	.	.	.	4aa\	.
 .	.	.	.	.	4gg\	.
 [2F\	.	.	.	.	2ff\	.
 =5	=5	=5	=5	=5	=5	=5
-2F\]	.	4 2	1.gg	.	2bb-y\	.
+2F\]	.	4 2	1.gg/	.	2bb-y\	.
 1En	.	6	.	.	4ccc\	.
 .	.	.	.	.	4ddd\	.
 .	.	.	.	.	4ccc\	.
@@ -56,13 +56,13 @@
 4C/	.	.	4ee-y\	.	.	.
 2BB-y/	.	.	2dd\	.	[2bb-y\	.
 =7	=7	=7	=7	=7	=7	=7
-2E-y\	.	6 5	1cc	.	2bb-y\]	.
+2E-y\	.	6 5	1cc\	.	2bb-y\]	.
 4F\	.	.	.	.	1aa	.
 4G\	.	.	.	.	.	.
 4F\	.	.	2cc\	.	.	.
 4E-y\	.	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8
-4D\	.	6	1.dd	.	2bb-y\	.
+4D\	.	6	1.dd\	.	2bb-y\	.
 4C/	.	.	.	.	.	.
 1BB-y	.	.	.	.	2ff\	.
 .	.	.	.	.	[2bb-y\	.
@@ -78,18 +78,18 @@
 .	.	.	4dd\	.	4ff\	.
 [2c\	.	.	2ee-y\	.	2gg\	.
 =11	=11	=11	=11	=11	=11	=11
-2c\]	.	4 2	1.dd	.	2ff\	.
+2c\]	.	4 2	1.dd\	.	2ff\	.
 4B-y\	.	6	.	.	[1gg	.
 4A\	.	.	.	.	.	.
 2B-y\	.	.	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12
-2A\	.	7	1.cc	.	2gg\]	.
+2A\	.	7	1.cc\	.	2gg\]	.
 4AA/	.	6	.	.	[1ff	.
 4A\	.	.	.	.	.	.
 4B-y\	.	.	.	.	.	.
 4c\	.	.	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13
-2G\	.	7	1.b-y	.	2ff\]	.
+2G\	.	7	1.b-y\	.	2ff\]	.
 4GG/	.	6	.	.	[1ee-y	.
 4G\	.	.	.	.	.	.
 4A\	.	.	.	.	.	.
@@ -106,9 +106,9 @@
 2G\	.	6 5	2bb-y\	.	.	.
 =16	=16	=16	=16	=16	=16	=16
 2A\	.	6 4	2ff\	.	2dd\]	.
-1AA	.	5 #	1een	.	1cc#X	.
+1AA	.	5 #	1een\	.	1cc#XT	.
 =17	=17	=17	=17	=17	=17	=17
-1.D	.	.	1.dd	.	2dd\	.
+1.D	.	.	1.dd\	.	2dd\	.
 .	.	.	.	.	2ff\	.
 .	.	.	.	.	2dd\	.
 =18	=18	=18	=18	=18	=18	=18
@@ -116,66 +116,66 @@
 .	.	.	2gg\	.	.	.
 2C/	.	.	2ee-y\	.	2cc\	.
 =19	=19	=19	=19	=19	=19	=19
-1.F	.	-	[1.cc	.	2r	.
+1.F	.	-	[1.cc\	.	2r	.
 .	.	.	.	.	2aa-X\	.
 .	.	.	.	.	2ff\	.
 !!LO:LB:g=original
 =20	=20	=20	=20	=20	=20	=20
 2G\	.	5 4	2cc\]	.	1dd	.
-1GG	.	n	1bn	.	.	.
+1GG	.	n	1bn\	.	.	.
 .	.	.	.	.	2dd\	.
 =21	=21	=21	=21	=21	=21	=21
-1C	.	.	1.cc	.	2cc\	.
+1C	.	.	1.cc\	.	2cc\	.
 .	.	.	.	.	[1ee-y	.
 2c\	.	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22
 1.F#X	.	7	2r	.	2ee-y\]	.
-.	.	6	[1aa	.	2dd\	.
+.	.	6	[1aa\	.	2dd\	.
 .	.	5	.	.	2cc\	.
 =23	=23	=23	=23	=23	=23	=23
 1.G	.	9 4	2aa\]	.	(2cc\	.
 .	.	8 3	2gg\	.	2b-y\)	.
 .	.	.	2ff\	.	[2bb-y\	.
 =24	=24	=24	=24	=24	=24	=24
-1.C#X	.	7	1.een	.	2bb-y\]	.
+1.C#X	.	7	1.een\	.	2bb-y\]	.
 .	.	6	.	.	2aa\	.
 .	.	5	.	.	[2gg\	.
 =25	=25	=25	=25	=25	=25	=25
-1.D	.	5 4	1.a	.	2gg\]	.
+1.D	.	5 4	1.a/	.	2gg\]	.
 .	.	X 3	.	.	[1ff	.
 =26	=26	=26	=26	=26	=26	=26
-1G	.	7	1b-y	.	2ff\]	.
+1G	.	7	1b-y\	.	2ff\]	.
 .	.	6	.	.	[1ee-y	.
 2A\	.	5	2cc\	.	.	.
 =27	=27	=27	=27	=27	=27	=27
 2B-y\	.	5 4	2f/	.	2ee-y\]	.
-2BB-y/	.	3	[1b-y	.	2dd\	.
+2BB-y/	.	3	[1b-y\	.	2dd\	.
 2D\	.	6	.	.	2ff\	.
 =28	=28	=28	=28	=28	=28	=28
 2E-y\	.	6 5	2b-y\]	.	4ee-y\	.
 .	.	.	.	.	4dd\	.
-1F	.	.	1a	.	1cc	.
+1F	.	.	1a	.	1ccT	.
 =29	=29	=29	=29	=29	=29	=29
-1.BB-y	p	.	1.b-y	.	2b-y\	.
+1.BB-y	p	.	1.b-y\	.	2b-y\	.
 .	.	.	.	.	[1ff	p
 =30	=30	=30	=30	=30	=30	=30
-1.E-y	.	9	1.gg	p	2ff\]	.
+1.E-y	.	9	1.gg\	p	2ff\]	.
 .	.	8	.	.	[1ee-y	.
 =31	=31	=31	=31	=31	=31	=31
 2F\	.	7	2a/	.	2ee-y\]	.
-1En	.	7-r 5	[1b-y	.	1dd-X	.
+1En	.	7-r 5	[1b-y\	.	1dd-X	.
 =32	=32	=32	=32	=32	=32	=32
-2F\	.	5 4	2b-y\]	.	1.cc	.
-1FF	.	3	1a	.	.	.
+2F\	.	5 4	2b-y\]	.	1.cc\	.
+1FF	.	3	1a/	.	.	.
 =33	=33	=33	=33	=33	=33	=33
-1.BB-y;	.	.	1.b-y;	.	1.dd;	.
+1.BB-y;	.	.	1.b-y\;	.	1.dd\;	.
 ==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
 !!!SMS: RV 78 / Estienne Roger (No. 363), Amsterdam [facs.]
-!!!ENC: Fran Bennion
+!!!ENC: Fran Bennion   rev. 05/19/21 E Correia
 !!!END: 2004/10/27
-!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 01:53:22 2024
-!!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 21:24:12 2024
+!!!YEM: (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._1:_Suonate_da_camera_a_tr.C3.A8.2C_due_violini_e_violone_o_cembalo Information about Vivaldi Op. 1 on the CCARH wiki
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no10.pdf#page=1 MuseData edition
@@ -185,7 +185,7 @@
 !!!URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=1275s L'Arte dell'Arco
 !!!title: @{OTL}, mov. @{OMV}
 !!!EEV: 2024/04/22
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv078_10/stage2/01/01
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv078_10/stage2/01/02
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv078_10/stage2/01/03
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv078_10/stage2/01/04
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no10/stage2/01/01
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no10/stage2/01/02
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no10/stage2/01/03
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no10/stage2/01/04

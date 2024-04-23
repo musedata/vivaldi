@@ -11,24 +11,24 @@
 @@@key: B-
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv078_10/stage2/03/01
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:52:18 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no10/stage2/03/01
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:12:54 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv078/stage2/03/01}
 TIMESTAMP: DEC/10/2005 [md5sum:c1d190ad3980d5884504d52accfab5bb]
-10/30/04 Fran Bennion
+10/30/04 Fran Bennion   rev. 05/19/21 E Correia
 WK#:01,10     MV#:3
 RV 78 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 10 in Bb Major
+Vivaldi Op, 1 , No. 10 in Bb Major
 Movement 3 - Gavotta
 Violino 1
 
 Group memberships: score
 score: part 1 of 4
-$   Q:2 K:-2 T:1/1 C:4  D:Gavotta, Presto
+$   Q:2 K:-2 T:1/1 C:4  D:Presto
 rest   8      1
 measure 2
 rest   8      1
@@ -52,7 +52,6 @@ F5     1      1 e     d  =
 Ef5    1      1 e     d  ]
 measure 5
 D5     1      1 e     d  [     (
-P C32:o
 C5     1      1 e     d  =
 Bf4    1      1 e     d  =     )
 D5     1      1 e     d  ]
@@ -68,7 +67,6 @@ G5     1      1 e     d  =
 F5     1      1 e     d  ]
 measure 7
 Ef5    1      1 e     d  [     (
-P C32:o
 D5     1      1 e     d  =
 C5     1      1 e     d  =     )
 Ef5    1      1 e     d  ]
@@ -84,11 +82,10 @@ A5     1      1 e     d  =
 G5     1      1 e     d  ]
 measure 9
 F5     1      1 e     d  [     (
-P C32:o
 E5     1      1 e n   d  =
 D5     1      1 e     d  =     )
 F5     1      1 e     d  ]
-E5     2      1 q n   d         +
+E5     2      1 q n   d
 C#5    2      1 q #   d
 measure 10
 A4     2      1 q     u
@@ -124,7 +121,7 @@ F5     1      1 e     d  ]
 C5     1      1 e     d  [
 E5     1      1 e n   d  =
 C5     1      1 e     d  =
-E5     1      1 e n   d  ]      +
+E5     1      1 e n   d  ]
 measure 14
 F5     1      1 e     d  [
 A5     1      1 e     d  =
@@ -161,7 +158,7 @@ F5     1      1 e     d
 measure 20
 E5     1      1 e n   d  [
 G5     1      1 e     d  =
-E5     1      1 e n   d  =      +
+E5     1      1 e n   d  =
 C5     1      1 e     d  ]
 A5     3      1 q.    d
 G5     1      1 e     d
@@ -173,7 +170,7 @@ D5     1      1 e     d  ]
 C#5    1      1 e #   d  [
 A5     1      1 e     d  =
 E5     1      1 e n   d  =
-C#5    1      1 e #   d  ]      +
+C#5    1      1 e #   d  ]
 measure 22
 D5     1      1 e     d  [
 A5     1      1 e     d  =
@@ -182,7 +179,7 @@ D5     1      1 e     d  ]
 C#5    1      1 e #   d  [
 A5     1      1 e     d  =
 E5     1      1 e n   d  =
-C#5    1      1 e #   d  ]      +
+C#5    1      1 e #   d  ]
 measure 23
 D5     1      1 e     d  [
 A5     1      1 e     d  =
@@ -341,24 +338,24 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv078_10/stage2/03/02
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:52:18 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no10/stage2/03/02
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:12:54 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv078/stage2/03/02}
 TIMESTAMP: DEC/10/2005 [md5sum:ad6450a061bf0d30999aa76193c6d079]
-10/30/04 Fran Bennion
+10/30/04 Fran Bennion   rev. 05/19/21 E Correia
 WK#:01,10     MV#:3
 RV 78 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 10 in Bb Major
+Vivaldi Op. 1, No. 10 in Bb Major
 Movement 3 - Gavotta
 Violino 2
 
 Group memberships: score
 score: part 2 of 4
-$   Q:2 K:-2 T:1/1 C:4  D:Gavotta, Presto
+$   Q:2 K:-2 T:1/1 C:4  D:Presto
 rest   8      1
 measure 2
 Bf4    1      1 e     u  [
@@ -389,7 +386,6 @@ F5     1      1 e     d  =
 Ef5    1      1 e     d  ]
 measure 6
 D5     1      1 e     d  [     (
-P C32:o
 C5     1      1 e     d  =
 Bf4    1      1 e     d  =     )
 D5     1      1 e     d  ]
@@ -405,7 +401,6 @@ G5     1      1 e     d  =
 F5     1      1 e     d  ]
 measure 8
 Ef5    1      1 e     d  [     (
-P C32:o
 D5     1      1 e     d  =
 C5     1      1 e     d  =     )
 E5     1      1 e n   d  ]
@@ -421,7 +416,6 @@ A5     1      1 e     d  =
 G5     1      1 e     d  ]
 measure 10
 F5     1      1 e     d  [     (
-P C32:o
 E5     1      1 e n   d  =
 D5     1      1 e     d  =     )
 F5     1      1 e     d  ]
@@ -432,7 +426,7 @@ E5     2      1 q n   d
 rest   1      1 e
 G5     1      1 e     d
 G5     2      1 q     d
-E5     2      1 q n   d         +
+E5     2      1 q n   d
 measure 12
 C5     2      1 q     d
 rest   1      1 e
@@ -448,7 +442,7 @@ D5     1      1 e     u  =
 G4     1      1 e     u  ]
 E4     1      1 e n   u  [
 C5     1      1 e     u  =
-E4     1      1 e n   u  =      +
+E4     1      1 e n   u  =
 C5     1      1 e     u  ]
 measure 14
 A4     8      1 w
@@ -485,7 +479,7 @@ measure 20
 G4     2      1 q     u
 rest   2      1 q
 rest   1      1 e
-E5     1      1 e n   d
+E5     1    &11 e     d         &1+
 @1  Roger forgot natural sign on E5.  En in Viol. 1 & a 6 5 figure on C# in Bc.
 C#5    1      1 e #   d  [
 E5     1      1 e     d  ]
@@ -495,14 +489,14 @@ rest   1      1 e
 F5     1      1 e     d
 E5     1      1 e n   d
 C#5    2      1 q #   d
-E5     1      1 e n   d         +
+E5     1      1 e n   d
 measure 22
 A4     2      1 q     u
 rest   1      1 e
 F5     1      1 e     d
 E5     1      1 e n   d
 C#5    2      1 q #   d
-E5     1      1 e n   d         +
+E5     1      1 e n   d
 measure 23
 A4     2      1 q     u
 rest   1      1 e
@@ -657,24 +651,24 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv078_10/stage2/03/03
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:52:18 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no10/stage2/03/03
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:12:54 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv078/stage2/03/03}
 TIMESTAMP: DEC/10/2005 [md5sum:fb0752091efb14aca7f5b318a5f482d8]
-10/30/04 Fran Bennion
+10/30/04 Fran Bennion   rev. 05/19/21 E Correia
 WK#:01,10     MV#:3
 RV 78 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 10 in Bb Major
+Vivaldi Op. 1, No. 10 in Bb Major
 Movement 3 - Gavotta
 Violoncello
 
 Group memberships: score
 score: part 3 of 4
-$   Q:2 K:-2 T:1/1 C:22  D:Gavotta, Presto
+$   Q:2 K:-2 T:1/1 C:22  D:Presto
 Bf3    1      1 e     d  [
 F3     1      1 e     d  =
 D3     1      1 e     d  =
@@ -785,14 +779,14 @@ rest   2      1 q
 rest   1      1 e
 B3     1      1 e n   d
 G3     1      1 e     d  [
-B3     1      1 e n   d  ]      +
+B3     1      1 e n   d  ]
 measure 20
 C4     2      1 q     d
 rest   2      1 q
 rest   1      1 e
 C#4    1      1 e #   d
 A3     1      1 e     d  [
-C#4    1      1 e #   d  ]      +
+C#4    1      1 e #   d  ]
 measure 21
 D4     2      1 q     d
 rest   1      1 e
@@ -850,7 +844,7 @@ measure 30
 C4     1      1 e     d  [
 E3     1      1 e n   d  =
 C4     1      1 e     d  =
-E3     1      1 e n   d  ]      +
+E3     1      1 e n   d  ]
 F3     2      1 q     d
 rest   1      1 e
 A3     1      1 e     d
@@ -858,7 +852,7 @@ measure 31
 D4     1      1 e     d  [
 F#3    1      1 e #   d  =
 D4     1      1 e     d  =
-F#3    1      1 e #   d  ]      +
+F#3    1      1 e #   d  ]
 G3     2      1 q     d
 rest   1      1 e
 Bf3    1      1 e     d
@@ -893,7 +887,7 @@ measure 35
 C4     1      1 e     d  [
 E3     1      1 e n   d  =
 C4     1      1 e     d  =
-E3     1      1 e n   d  ]      +
+E3     1      1 e n   d  ]
 F3     2      1 q     d
 rest   1      1 e
 A3     1      1 e     d
@@ -901,7 +895,7 @@ measure 36
 D4     1      1 e     d  [
 F#3    1      1 e #   d  =
 D4     1      1 e     d  =
-F#3    1      1 e #   d  ]      +
+F#3    1      1 e #   d  ]
 G3     2      1 q     d
 rest   1      1 e
 Bf3    1      1 e     d
@@ -951,24 +945,24 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv078_10/stage2/03/04
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:52:18 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no10/stage2/03/04
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:12:54 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv078/stage2/03/04}
 TIMESTAMP: DEC/10/2005 [md5sum:f792f5d2d16eb1cb0cb1971e1578ed28]
-10/30/04 Fran Bennion
+10/30/04 Fran Bennion   rev. 05/19/21 E Correia
 WK#:01,10     MV#:3
 RV 78 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 10 in Bb Major
+Vivaldi Op. 1, No. 10 in Bb Major
 Movement 3 - Gavotta
 Basso continuo
 
 Group memberships: score
 score: part 4 of 4
-$   Q:2 K:-2 T:1/1 C:22  D:Gavotta, Presto
+$   Q:2 K:-2 T:1/1 C:22  D:Presto
 Bf3    1      1 e     d  [
 F3     1      1 e     d  =
 D3     1      1 e     d  =
@@ -981,7 +975,7 @@ Ef4    1      1 e     d  ]
 measure 2
 f1              6
 D4     2      1 q     d
-f3     2        b b 5
+f1     2        5
 f3              7 4 2
 Bf3    4      1 h     d
 f1              6
@@ -1029,7 +1023,7 @@ C4     2      1 q     d
 rest   2      1 q
 f2              6 5
 C#4    2      1 q #   d
-f1              x
+f1              #
 A3     2      1 q     d
 measure 9
 D4     2      1 q     d
@@ -1037,7 +1031,7 @@ rest   1      1 e
 D4     1      1 e     d
 f1              6
 C#4    2      1 q #   d
-f1              x
+f1              #
 A3     2      1 q     d
 measure 10
 D4     2      1 q     d
@@ -1069,13 +1063,13 @@ f1              n
 C4     2      1 q     d
 C3     2      1 q     u
 measure 14
-F2     8      1 w
+F2     8      1 w     u
 mheavy4 15       :|:
 F3     1      1 e     d  [
 C3     1      1 e     d  =
 A2     1      1 e     d  =
 A3     1      1 e     d  ]
-f2              6\ 4
+f2              6n 4
 P    C1:Y73
 G3     1      1 e     d  [
 E3     1      1 e n   d  =
@@ -1084,7 +1078,7 @@ Bf3    1      1 e     d  ]
 measure 16
 f1              6
 A3     2      1 q     d
-f3     2        b b 5
+f1     2        5
 f3              7n 4 2
 F3     4      1 h     d
 f1              6
@@ -1113,7 +1107,7 @@ rest   1      1 e
 f2              6 5
 B3     1      1 e n   d
 G3     1      1 e     d  [
-B3     1      1 e n   d  ]      +
+B3     1      1 e n   d  ]
 measure 20
 C4     2      1 q     d
 rest   2      1 q
@@ -1121,37 +1115,37 @@ rest   1      1 e
 f2              6 5
 C#4    1      1 e #   d
 A3     1      1 e     d  [
-C#4    1      1 e #   d  ]      +
+C#4    1      1 e #   d  ]
 measure 21
 D4     2      1 q     d
 rest   1      1 e
 D3     1      1 e     d
-f1              x
+f1              #
 A3     2      1 q     d
-f2              6 4+
+f2              6n 4+
 G3     2      1 q     d
 measure 22
 f1              6
 F3     2      1 q     d
 D3     2      1 q     d
-f1              x
+f1              #
 A3     2      1 q     d
-f2              6 4+
+f2              6n 4+
 G3     2      1 q     d
 measure 23
 f1              6
 F3     2      1 q     d
 D3     2      1 q     d
-f1              x
+f1              #
 A3     1      1 e     d  [
 G3     1      1 e     d  =
 f1              6
 F3     1      1 e     d  =
 D3     1      1 e     d  ]
 measure 24
-f2              5+ 4
+f2              5n 4
 A3     2      1 q     d
-f1              x
+f1              #
 A2     2      1 q     u
 D3     2      1 q     d
 rest   2      1 q
@@ -1197,17 +1191,17 @@ f1              n
 C4     1      1 e     d  [
 E3     1      1 e n   d  =
 C4     1      1 e     d  =
-E3     1      1 e n   d  ]      +
+E3     1      1 e n   d  ]
 F3     2      1 q     d
 rest   1      1 e
 f1              6
 A3     1      1 e     d
 measure 31
-f1              x
+f1              #
 D4     1      1 e     d  [
 F#3    1      1 e #   d  =
 D4     1      1 e     d  =
-F#3    1      1 e #   d  ]      +
+F#3    1      1 e #   d  ]
 G3     2      1 q     d
 rest   1      1 e
 f1              6
@@ -1247,17 +1241,17 @@ f1              n
 C4     1      1 e     d  [
 E3     1      1 e n   d  =
 C4     1      1 e     d  =
-E3     1      1 e n   d  ]      +
+E3     1      1 e n   d  ]
 F3     2      1 q     d
 rest   1      1 e
 f1              6
 A3     1      1 e     d
 measure 36
-f1              x
+f1              #
 D4     1      1 e     d  [
 F#3    1      1 e #   d  =
 D4     1      1 e     d  =
-F#3    1      1 e #   d  ]      +
+F#3    1      1 e #   d  ]
 G3     2      1 q     d
 rest   1      1 e
 f1              6
@@ -1331,7 +1325,7 @@ mheavy2          :|
 @@@filter: addtempo -q 168
 @@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "m0:A; m15:B"
 @@@EEV: 2024/04/22
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv078_10/stage2/03/01
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv078_10/stage2/03/02
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv078_10/stage2/03/03
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv078_10/stage2/03/04
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no10/stage2/03/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no10/stage2/03/02
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no10/stage2/03/03
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no10/stage2/03/04

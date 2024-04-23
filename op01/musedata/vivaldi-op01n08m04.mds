@@ -11,24 +11,24 @@
 @@@key: d
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv064_08/stage2/04/01
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:51:36 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no08/stage2/04/01
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:12:18 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv064/stage2/04/01}
 TIMESTAMP: DEC/10/2005 [md5sum:4f3aa4f376411e267d2aa522b9e37b5d]
-10/25/04 Fran Bennion
+10/25/04 Fran Bennion   rev. 05/14/21 E Correia
 WK#:01,08     MV#:4
 RV 64 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 8 in d minor
+Vivaldi Op. 1, No. 8 in d minor
 Movement 4 - Giga
 Violino 1
 
 Group memberships: score
 score: part 1 of 4
-$   Q:2 K:-1 T:12/8 C:4  D:Giga, Allegro
+$   Q:2 K:-1 T:12/8 C:4  D:Allegro
 rest   6      1 h.
 rest   1      1 e
 A5     1      1 e     d  [
@@ -65,12 +65,11 @@ E5     1      1 e     d
 E5     2      1 q     d
 E5     1      1 e     d
 E5     2      1 q     d        (
-P C32:o
 C#5    1      1 e #   d        )
 D5     3-     1 q.    d        -
 measure 6
 D5     3      1 q.    d
-C#5    3      1 q.#   d
+C#5    3      1 q.#   d         &2t
 D5     3      1 q.    d
 rest   2      1 q
 rest   1      1 e
@@ -180,7 +179,6 @@ C5     1      1 e     d  [
 B4     1      1 e n   d  =
 A4     1      1 e     d  ]
 A5     1      1 e     d  [
-P C32:u
 G5     1      1 e     d  =
 F5     1      1 e     d  ]
 E5     1      1 e     d  [
@@ -235,10 +233,9 @@ D5     2      1 q     d
 D5     1      1 e     d
 measure 25
 D5     2      1 q     d        (
-P C32:o
 B4     1      1 e n   d        )
 C5     6      1 h.    d
-B4     3      1 q.n   d         +
+B4     3      1 q.n   d         &2t
 measure 26
 C5     3      1 q.    d
 G5     3-     1 q.    d        -
@@ -290,10 +287,9 @@ E5     2      1 q     d
 E5     1      1 e     d
 measure 32
 E5     2      1 q     d        (
-P C32:o
 C#5    1      1 e #   d        )
 D5     6      1 h.    d
-C#5    3      1 q.#   d         +
+C#5    3      1 q.#   d         &2t
 measure 33
 D5     3      1 q.    d
 Bf4    2      1 q     d
@@ -319,24 +315,24 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv064_08/stage2/04/02
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:51:36 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no08/stage2/04/02
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:12:18 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv064/stage2/04/02}
 TIMESTAMP: DEC/10/2005 [md5sum:2977a92b00277a42aca2f40a77125423]
-10/25/04 Fran Bennion
+10/25/04 Fran Bennion   rev. 05/14/21 E Correia
 WK#:01,08     MV#:4
 RV 64 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 8 in d minor
+Vivaldi Op. 1, No. 8 in d minor
 Movement 4 - Giga
 Violino 2
 
 Group memberships: score
 score: part 2 of 4
-$   Q:2 K:-1 T:12/8 C:4  D:Giga, Allegro
+$   Q:2 K:-1 T:12/8 C:4  D:Allegro
 rest   1      1 e
 A5     1      1 e     d  [
 G5     1      1 e     d  ]
@@ -414,7 +410,7 @@ measure 10
 C#5    3      1 q.#   d
 rest   1      1 e
 rest   1      1 e
-C#5    1      1 e #   d         +
+C#5    1      1 e #   d
 D5     1      1 e     u  [
 A4     1      1 e     u  =
 F4     1      1 e     u  ]
@@ -424,7 +420,7 @@ measure 11
 C#5    3      1 q.#   d
 rest   1      1 e
 rest   1      1 e
-C#5    1      1 e #   d         +
+C#5    1      1 e #   d
 D5     1      1 e     u  [
 A4     1      1 e     u  =
 F4     1      1 e     u  ]
@@ -444,7 +440,7 @@ E4     1      1 e     u  =
 A4     1      1 e     u  ]
 C#4    1      1 e #   u  [
 E4     1      1 e     u  =
-C#4    1      1 e #   u  ]      +
+C#4    1      1 e #   u  ]
 A3     6      1 h.    u
 mheavy4 15       :|:
 rest   6      1 h.
@@ -494,7 +490,7 @@ measure 21
 B4     1      1 e n   d  [
 D5     1      1 e     d  =
 C5     1      1 e     d  ]
-B4     1      1 e n   d  [      +
+B4     1      1 e n   d  [
 C5     1      1 e     d  =
 D5     1      1 e     d  ]
 G4     6-     1 h.    u        -
@@ -605,24 +601,24 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv064_08/stage2/04/03
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:51:36 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no08/stage2/04/03
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:12:18 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv064/stage2/04/03}
 TIMESTAMP: DEC/10/2005 [md5sum:4a9199d9e693d18daa11458e203ed7d5]
-10/25/04 Fran Bennion
+10/25/04 Fran Bennion   rev. 05/14/21 E Correia
 WK#:01,08     MV#:4
 RV 64 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 8 in d minor
+Vivaldi Op. 1, No. 8 in d minor
 Movement 4 - Giga
 Violoncello
 
 Group memberships: score
 score: part 3 of 4
-$   Q:2 K:-1 T:12/8 C:22   D:Giga, Allegro
+$   Q:2 K:-1 T:12/8 C:22   D:Allegro
 rest  12      1
 measure 2
 rest  12      1
@@ -719,28 +715,28 @@ rest   2      1 q
 rest   1      1 e
 C#4    1      1 e #   d  [
 A3     1      1 e     d  =
-C#4    1      1 e #   d  ]      +
+C#4    1      1 e #   d  ]
 C#4    1      1 e     d  [
 A3     1      1 e     d  =
-C#4    1      1 e #   d  ]      +
+C#4    1      1 e #   d  ]
 measure 20
 D4     3      1 q.    d
 D3     3      1 q.    d
 F#3    1      1 e #   d  [
 D3     1      1 e     d  =
-F#3    1      1 e #   d  ]      +
+F#3    1      1 e #   d  ]
 F#3    1      1 e     d  [
 D3     1      1 e     d  =
-F#3    1      1 e #   d  ]      +
+F#3    1      1 e #   d  ]
 measure 21
 G3     3      1 q.    d
 G2     3      1 q.    u
 B3     1      1 e n   d  [
 G3     1      1 e     d  =
-B3     1      1 e n   d  ]      +
+B3     1      1 e n   d  ]
 B3     1      1 e     d  [
 G3     1      1 e     d  =
-B3     1      1 e n   d  ]      +
+B3     1      1 e n   d  ]
 measure 22
 C4     3      1 q.    d
 C3     3      1 q.    u
@@ -787,7 +783,6 @@ measure 26
 C3     1      1 e     u  [
 C3     1      1 e     u  =
 D3     1      1 e     u  ]
-P C32:u
 E3     1      1 e     u  [
 D3     1      1 e     u  =
 C3     1      1 e     u  ]
@@ -891,18 +886,18 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv064_08/stage2/04/04
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:51:36 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no08/stage2/04/04
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:12:18 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv064/stage2/04/04}
 TIMESTAMP: DEC/10/2005 [md5sum:cd4e7e4b8c81da18e2f45968b9ae9797]
-10/25/04 Fran Bennion
+10/25/04 Fran Bennion   rev. 05/14/21 E Correia
 WK#:01,08     MV#:4
 RV 64 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 8 in d minor
+Vivaldi Op. 1, No. 8 in d minor
 Movement 4 - Giga
 Basso continuo
 
@@ -915,7 +910,7 @@ rest  12      1
 measure 3
 rest   6      1 h.
 rest   1      1 e
-f1              x
+f1              #
 A3     1      1 e     d  [
 G3     1      1 e     d  ]
 f1              6
@@ -932,7 +927,7 @@ f1              7
 E3     1      1 e     d  [
 F3     1      1 e     d  =
 G3     1      1 e     d  ]
-f2              7 x
+f2              7 #
 P    C1:Y77
 A3     1      1 e     d  [
 A2     1      1 e     d  =
@@ -953,7 +948,7 @@ E3     1      1 e     d  ]
 f1              7
 F3     1      1 e     d  [
 G3     1      1 e     d  =
-f1              x
+f1              #
 A3     1      1 e     d  ]
 Bf3    2      1 q     d
 A3     1      1 e     d
@@ -962,7 +957,7 @@ f2              6 5
 G3     1      1 e     d  [
 F3     1      1 e     d  =
 E3     1      1 e     d  ]
-f1              x
+f1              #
 A3     2      1 q     d
 A2     1      1 e     u
 D3     3      1 q.    d
@@ -990,29 +985,29 @@ Bf3    3      1 q.    d
 f1              7
 E3     6      1 h.    d
 measure 10
-f1              x
+f1              #
 A3     6-     1 h.    d        -
 f2              6 4
 A3     6-     1 h.    d        -
 measure 11
-f2              5 x
+f2              5 #
 A3     6-     1 h.    d        -
 f2              6 4
 A3     6-     1 h.    d        -
 measure 12
-f2              5 x
+f2              5 #
 A3     6      1 h.    d
 D4     6      1 h.    d
 measure 13
 f1              6
 Bf3    6      1 h.    d
-f1              x
+f1              #
 A3     6-     1 h.    d        -
 measure 14
 A3     6      1 h.    d
 A3     6      1 h.    d
 mheavy4 15       :|:
-f1              x
+f1              #
 A3     6      1 h.    d
 D4     6      1 h.    d
 measure 16
@@ -1031,12 +1026,12 @@ A2     3-     1 q.    u        -
 f1              6
 A2     2      1 q     u
 D3     1      1 e     d
-f2              7 x
+f2              7 #
 E3     2      1 q     d
 A2     1      1 e     u
 f2              6 4
 E3     2      1 q     d
-f2              5 x
+f2              5 #
 P    C1:Y74
 E2     1      1 e     u
 measure 19
@@ -1046,20 +1041,20 @@ rest   1      1 e
 f1              6
 C#4    1      1 e #   d  [
 A3     1      1 e     d  =
-C#4    1      1 e #   d  ]      +
+C#4    1      1 e #   d  ]
 C#4    1      1 e     d  [
 A3     1      1 e     d  =
-C#4    1      1 e #   d  ]      +
+C#4    1      1 e #   d  ]
 measure 20
 D4     3      1 q.    d
 D3     3      1 q.    d
 f1              6
 F#3    1      1 e #   d  [
 D3     1      1 e     d  =
-F#3    1      1 e #   d  ]      +
+F#3    1      1 e #   d  ]
 F#3    1      1 e     d  [
 D3     1      1 e     d  =
-F#3    1      1 e #   d  ]      +
+F#3    1      1 e #   d  ]
 measure 21
 f1              n
 G3     3      1 q.    d
@@ -1067,10 +1062,10 @@ G2     3      1 q.    u
 f1              6
 B3     1      1 e n   d  [
 G3     1      1 e     d  =
-B3     1      1 e n   d  ]      +
+B3     1      1 e n   d  ]
 B3     1      1 e     d  [
 G3     1      1 e     d  =
-B3     1      1 e n   d  ]      +
+B3     1      1 e n   d  ]
 measure 22
 C4     3      1 q.    d
 C3     3      1 q.    u
@@ -1151,26 +1146,26 @@ P    C1:Y73
 D3     3      1 q.    d
 measure 28
 rest   1      1 e
-f1              x
+f1              #
 A3     1      1 e     d  [
 G3     1      1 e     d  ]
 f1              6
 F3     1      1 e     d  [
 E3     1      1 e     d  =
 D3     1      1 e     d  ]
-f1              x
+f1              #
 A2     3      1 q.    u
 D3     3      1 q.    d
 measure 29
-f1              x
+f1              #
 A3     3      1 q.    d
 D3     3      1 q.    d
-f1              x
+f1              #
 A2     3      1 q.    u
 D2     3      1 q.    u
 measure 30
 rest   1      1 e
-f1              x
+f1              #
 A3     1      1 e     d  [
 G3     1      1 e     d  ]
 f1              6
@@ -1187,7 +1182,7 @@ E3     1      1 e     d  [
 F3     1      1 e     d  =
 G3     1      1 e     d  ]
 measure 31
-f2              7 x
+f2              7 #
 P    C1:Y79
 A3     1      1 e     d  [
 A2     1      1 e     d  =
@@ -1207,7 +1202,7 @@ measure 32
 f1              7
 F3     1      1 e     d  [
 G3     1      1 e     d  =
-f1              x
+f1              #
 A3     1      1 e     d  ]
 Bf3    2      1 q     d
 A3     1      1 e     d
@@ -1215,7 +1210,7 @@ f2              6 5
 G3     1      1 e     d  [
 F3     1      1 e     d  =
 E3     1      1 e     d  ]
-f1              x
+f1              #
 A3     2      1 q     d
 A2     1      1 e     u
 measure 33
@@ -1246,7 +1241,7 @@ f1              7
 E3     1      1 e     d  [
 F3     1      1 e     d  =
 G3     1      1 e     d  ]
-f2              7 x
+f2              7 #
 P    C1:Y78
 A3     1      1 e     d  [
 A2     1      1 e     d  =
@@ -1259,7 +1254,7 @@ f2              6 5
 G3     1      1 e     d  [
 F3     1      1 e     d  =
 E3     1      1 e     d  ]
-f1              x
+f1              #
 A3     2      1 q     d
 A2     1      1 e     u
 D3     6      1 h.    d
@@ -1284,7 +1279,7 @@ mheavy2          :|
 @@@filter: addtempo -q 216
 @@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "m0:A; m15:B"
 @@@EEV: 2024/04/22
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv064_08/stage2/04/01
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv064_08/stage2/04/02
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv064_08/stage2/04/03
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv064_08/stage2/04/04
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no08/stage2/04/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no08/stage2/04/02
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no08/stage2/04/03
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no08/stage2/04/04

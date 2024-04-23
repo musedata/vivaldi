@@ -70,7 +70,7 @@
 .	.	.	8cc\	.	8aa\J	.
 !!LO:LB:g=original
 =6	=6	=6	=6	=6	=6	=6
-[2F\	.	4#| 2	8dd\L	.	4.bbn\	.
+[2F\	.	4nr 2	8dd\L	.	4.bbn\	.
 .	.	.	8g\	.	.	.
 .	.	.	8bn\	.	.	.
 .	.	.	8dd\J	.	8dd\	.
@@ -102,7 +102,7 @@
 8E\J	.	.	.	.	.	.
 8F\L	.	6 5	4.d/	.	.	.
 8D\	.	.	.	.	.	.
-8G\	.	n	.	.	4bn\	.
+8G\	.	n	.	.	4bn\T	.
 8GG\J	.	.	8g/	.	.	.
 =10	=10	=10	=10	=10	=10	=10
 [2C/	.	.	[2e/	.	[2cc\	.
@@ -134,7 +134,7 @@
 8A\	.	#	8a/	.	8cc#X\J	.
 8B-y\	.	6	8g/	.	2dd\	.
 8F\J	.	.	8f/J	.	.	.
-8G\L	.	6 5	2en/	.	.	.
+8G\L	.	6 5	2e/	.	.	.
 8E\	.	.	.	.	.	.
 8A\	.	#	.	.	4cc#X\	.
 8AA\J	.	.	.	.	.	.
@@ -143,7 +143,7 @@
 .	.	.	8a/J	.	.	.
 2d\	.	5	8dd\L	.	.	.
 .	.	.	8ff\J	.	8dd\	.
-.	.	6#/	4.bn\	.	8ff\L	.
+.	.	6nr	4.bn\	.	8ff\L	.
 .	.	.	.	.	8dd\	.
 4G\	.	7 n	.	.	8bn\	.
 .	.	.	8b\	.	8ff\J	.
@@ -200,7 +200,7 @@
 .	.	.	8cc\	.	.	.
 8B-y\L	.	6 5	8dd\L	.	.	.
 8G\	.	.	8b-y\	.	.	.
-8c\	.	.	8g\	.	4ee\	.
+8c\	.	.	8g\	.	4ee\T	.
 8C\J	.	.	8cc\J	.	.	.
 =21	=21	=21	=21	=21	=21	=21
 4F\	p	.	8a\L	.	4.ff\	.
@@ -245,7 +245,7 @@
 .	.	.	8cc\	.	.	.
 8B-y\L	.	6 5	8dd\L	.	.	.
 8G\	.	.	8b-y\	.	.	.
-8c\	.	.	8g\	.	4ee\	.
+8c\	.	.	8g\	.	4ee\T	.
 8C\J	.	.	8cc\J	.	.	.
 =26	=26	=26	=26	=26	=26	=26
 [2FF/	.	.	[2a/	.	[2ff\	.
@@ -254,10 +254,10 @@
 =:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
 *-	*-	*-	*-	*-	*-	*-
 !!!SMS: RV 69 / Estienne Roger (No. 363), Amsterdam [facs.]
-!!!ENC: Fran Bennion
+!!!ENC: Fran Bennion   rev. 05/12/21 E Correia
 !!!END: 2004/10/04
-!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 01:53:21 2024
-!!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 21:24:10 2024
+!!!YEM: (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._1:_Suonate_da_camera_a_tr.C3.A8.2C_due_violini_e_violone_o_cembalo Information about Vivaldi Op. 1 on the CCARH wiki
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no05.pdf#page=2 MuseData edition
@@ -267,7 +267,7 @@
 !!!URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=1080s L'Arte dell'Arco
 !!!title: @{OTL}, mov. @{OMV}
 !!!EEV: 2024/04/22
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv069_05/stage2/02/01
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv069_05/stage2/02/02
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv069_05/stage2/02/03
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv069_05/stage2/02/04
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no05/stage2/02/01
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no05/stage2/02/02
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no05/stage2/02/03
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no05/stage2/02/04

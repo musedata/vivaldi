@@ -44,9 +44,9 @@
 =3	=3	=3	=3	=3	=3	=3
 8C/L	.	6-r -	4ccc\]	.	(8aa-X\L	.
 8D/	.	#	.	.	8ff#X\J)	.
-8E-X/	.	5	(8bb-y\L	.	2gg\	.
+8E-X/	.	5	(8bb-y\L	.	2gg\T	.
 8C/J	.	6 5 -	8aa\J)	.	.	.
-8D/L	.	6 4	4bb-y\	.	.	.
+8D/L	.	6 4	4bb-y\T	.	.	.
 8C/	.	.	.	.	.	.
 8D/	.	5 #	4aa\	.	4ff#X\	.
 8DD/J	.	.	.	.	.	.
@@ -102,7 +102,7 @@
 8FF/J	.	.	.	.	.	.
 .	.	.	16b-y/Jk	.	16b-y\Jk	.
 =7	=7	=7	=7	=7	=7	=7
-4BB-X/	.	.	4b-X\	.	8b-y\L	.
+4BB-y/	.	.	4b-y\	.	8b-y\L	.
 .	.	.	.	.	8ff\J	.
 4r	.	.	8r	.	[4bb-y\	.
 .	.	.	8b-y\	.	.	.
@@ -178,11 +178,11 @@
 16F\	.	.	.	.	.	.
 16G\	.	.	.	.	8cc#X\J)	.
 16A\JJ	.	.	.	.	.	.
-16B-y\LL	.	.	8ff\L	.	2dd\	.
+16B-y\LL	.	.	8ff\L	.	2dd\T	.
 16A\	.	.	.	.	.	.
 16G\	.	.	8ee\J	.	.	.
 16B-y\JJ	.	.	.	.	.	.
-16A\LL	.	6 4	4ff\	.	.	.
+16A\LL	.	6 4	4ff\T	.	.	.
 16G\	.	.	.	.	.	.
 16F\	.	.	.	.	.	.
 16G\JJ	.	.	.	.	.	.
@@ -352,17 +352,17 @@
 8BB-y\L	.	6	4dd\	.	(8gg\L	.
 8B-y\	.	.	.	.	8dd\)	.
 8F#X\	.	6	8r	.	(8aa\	.
-8D\J	.	.	8ff#n\	.	8dd\J)	.
+8D\J	.	.	8ff#X\	.	8dd\J)	.
 !!LO:LB:g=original
 =26	=26	=26	=26	=26	=26	=26
 8E-X/L	.	6	8gg\L	.	(8ccc\L	.
 16D/L	.	.	8aa\	.	8ff#X\J)	.
 16C/JJ	.	.	.	.	.	.
-8BB-y/L	.	6	8dd\	.	2gg\	.
+8BB-y/L	.	6	8dd\	.	2gg\T	.
 8C/J	.	.	8cc\J	.	.	.
 8D/L	.	6 4	4b-y\	.	.	.
 8C/	.	.	.	.	.	.
-8D/	.	5 #	4a/	.	4ff#X\	.
+8D/	.	5 #	4a/T	.	4ff#X\	.
 8DD/J	.	.	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27
 8GG\L	.	.	4g/	.	4gg\	.
@@ -386,11 +386,11 @@
 =29	=29	=29	=29	=29	=29	=29
 8C/L]	.	6-r	4cc\	.	(8a-X/L	.
 8D/	.	#	.	.	8f#X/J)	.
-8E-X/	.	5	(8b-y/L	.	2g/	.
-8C/J	.	6-r	8a/J)	.	.	.
+8E-X/	.	5	(8b-y/L	.	2g/T	.
+8C/J	.	6nr	8a/J)	.	.	.
 8D/L	.	6 4	4b-y\	.	.	.
 8C/	.	.	.	.	.	.
-8D/	.	5 #	4a/	.	4f#X/	.
+8D/	.	5 #	4a/T	.	4f#X/	.
 8DD/J	.	.	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30
 4GG/	f	.	4g/	.	16g/LL	f
@@ -406,10 +406,10 @@
 =:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
 *-	*-	*-	*-	*-	*-	*-
 !!!SMS: RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
-!!!ENC: Fran Bennion
+!!!ENC: Fran Bennion  rev. 05/12/21 E Correia
 !!!END: 2004/09/22
-!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 01:53:19 2024
-!!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 21:24:09 2024
+!!!YEM: (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._1:_Suonate_da_camera_a_tr.C3.A8.2C_due_violini_e_violone_o_cembalo Information about Vivaldi Op. 1 on the CCARH wiki
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no01.pdf#page=2 MuseData edition
@@ -420,7 +420,7 @@
 !!!URL-youtube: https://www.youtube.com/watch?v=vFz1e6g68iQ&t=91s Seattle Baroque Soloists (2010)
 !!!title: @{OTL}, mov. @{OMV}
 !!!EEV: 2024/04/22
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/02/01
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/02/02
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/02/03
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv073_01/stage2/02/04
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/02/01
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/02/02
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/02/03
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/02/04

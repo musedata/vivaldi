@@ -11,24 +11,24 @@
 @@@key: E
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/03/01
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:49:56 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no04/stage2/03/01
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:10:47 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv066/stage2/03/01}
 TIMESTAMP: DEC/10/2005 [md5sum:e68e4df33995fb36b592329fe06182f7]
-10/02/04 Fran Bennion
+10/02/04 Fran Bennion   rev. 05/12/21 E Correia
 WK#:01,04     MV#:3
 RV 66 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 4 in E Major
+Vivaldi Op. 1, No. 4 in E Major
 Movement 3 - Allemanda
 Violino 1
 
 Group memberships: score
 score: part 1 of 4
-$   Q:4 K:4 T:1/1 C:4  D:Allemanda, Allegro
+$   Q:4 K:4 T:1/1 C:4  D:Allegro
 rest   8      1 h
 B5     4      1 q     d
 rest   2      1 e
@@ -53,7 +53,7 @@ B4     4      1 q     d
 E5     4-     1 q     d        -
 measure 6
 E5     4      1 q     d
-D#5    4      1 q     d
+D#5    4      1 q     d         &2t
 E5     4      1 q     d
 rest   4      1 q
 measure 7
@@ -70,7 +70,7 @@ F#5    4      1 q     d
 B5     4-     1 q     d        -
 measure 9
 B5     4      1 q     d
-A#5    4      1 q #   d
+A#5    4      1 q #   d         &2t
 B5     8      1 h     d
 mheavy4 10       |: :|
 F#5    4      1 q     d
@@ -91,30 +91,25 @@ B5     2      1 e     d  [
 B5     2      1 e     d  ]
 B5     2      1 e     d  [
 A#5    1      1 s #   d  =[
-P C32:o
 G#5    1      1 s     d  ]]
 A#5    2      1 e #   d  [      +
 A#5    2      1 e     d  ]
 measure 13
 A#5    2      1 e #   d  [     (
-P C32:o
 G#5    2      1 e     d  ]     )
 rest   2      1 e
 G#5    2      1 e     d
 G#5    2      1 e     d  [
 F#5    1      1 s     d  =[
-P C32:o
 E5     1      1 s     d  ]]
 F#5    2      1 e     d  [
 F#5    2      1 e     d  ]
 measure 14
 F#5    2      1 e     d  [     (
-P C32:o
 E5     2      1 e     d  ]     )
 rest   2      1 e
 E5     2      1 e     d
 E5     2      1 e     d  [
-P C32:u C33:o
 D#5    2      1 e     d  ]
 A5     4-     1 q     d        -
 measure 15
@@ -125,12 +120,11 @@ measure 16
 F#5    4      1 q     d
 E5     4      1 q     d
 A#5    2      1 e #   d  [
-P C32:o
 B#5    2      1 e #   d  ]
 C#6    4-     1 q     d        -
 measure 17
 C#6    4      1 q     d
-B#5    4      1 q #   d
+B#5    4      1 q #   d         &2t
 C#6    8      1 h     d
 measure 18
 rest   2      1 e
@@ -138,14 +132,13 @@ E5     2      1 e     d
 A5     2      1 e     d  [
 A5     2      1 e     d  ]
 A5     2      1 e     d  [
-P C32:o
 G#5    2      1 e     d  ]
 C#6    4-     1 q     d        -
 measure 19
 C#6    2      1 e     d  [
 F#5    2      1 e     d  ]
 B5     8      1 h     d
-A#5    4      1 q #   d
+A#5    4      1 q #   d         &2t
 measure 20
 B5     4      1 q     d
 rest   4      1 q
@@ -172,7 +165,7 @@ C#5    8      1 h     d
 measure 25
 B4     4      1 q     d
 E5     8      1 h     d
-D#5    4      1 q     d
+D#5    4      1 q     d         &2t
 measure 26
 E5     4      1 q     d
 rest   4      1 q
@@ -193,31 +186,31 @@ F#5    2      1 e     d  ]
 E5     4-     1 q     d        -
 measure 29
 E5     4      1 q     d
-D#5    4      1 q     d
+D#5    4      1 q     d         &2t
 E5     8      1 h     d
 mheavy2          :|
 /END
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/03/02
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:49:56 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no04/stage2/03/02
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:10:47 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv066/stage2/03/02}
 TIMESTAMP: DEC/10/2005 [md5sum:ff8831123b471ad5afe67ccf5231cc4d]
-10/02/04 Fran Bennion
+10/02/04 Fran Bennion   rev. 05/12/21 E Correia
 WK#:01,04     MV#:3
 RV 66 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 4 in E Major
+Vivaldi Op. 1, No. 4 in E Major
 Movement 3 - Allemanda
 Violino 2
 
 Group memberships: score
 score: part 2 of 4
-$   Q:4 K:4 T:1/1 C:4  D:Allemanda, Allegro
+$   Q:4 K:4 T:1/1 C:4  D:Allegro
 B5     4      1 q     d
 rest   2      1 e
 D#5    2      1 e     d
@@ -410,24 +403,24 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/03/03
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:49:56 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no04/stage2/03/03
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:10:47 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv066/stage2/03/03}
 TIMESTAMP: DEC/10/2005 [md5sum:90f0ae2ce5a4f1eabaf74ab33dd1058d]
-10/02/04 Fran Bennion
+10/02/04 Fran Bennion   rev. 05/12/21 E Correia
 WK#:01,04     MV#:3
 RV 66 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 4 in E Major
+Vivaldi Op. 1, No. 4 in E Major
 Movement 3 - Allemanda
 Violoncello
 
 Group memberships: score
 score: part 3 of 4
-$   Q:4 K:4 T:1/1 C:22  D:Allemanda, Allegro
+$   Q:4 K:4 T:1/1 C:22  D:Allegro
 E3     2      1 e     d  [
 B2     2      1 e     d  =
 F#3    2      1 e     d  =
@@ -677,24 +670,24 @@ mheavy2          :|
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/03/04
-COMMIT = bb9d45f890748170a725400d1f2b5eab2415b3f6
-DOWNLOAD_DATE = Mon Apr 22 01:49:56 PDT 2024
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no04/stage2/03/04
+COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
+DOWNLOAD_DATE = Mon Apr 22 21:10:47 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+(C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 ID: {viv/roger/op1/rv066/stage2/03/04}
 TIMESTAMP: DEC/10/2005 [md5sum:02b702217175ccb01cb143af81147071]
-10/02/04 Fran Bennion
+10/02/04 Fran Bennion   rev. 05/12/21 E Correia
 WK#:01,04     MV#:3
 RV 66 / Estienne Roger (No. 363), Amsterdam [facs.]
-Vivaldi Op.1, No 4 in E Major
+Vivaldi Op. 1, No. 4 in E Major
 Movement 3 - Allemanda
 Basso continuo
 
 Group memberships: score
 score: part 4 of 4
-$   Q:4 K:4 T:1/1 C:22   D:Allemanda, Allegro
+$   Q:4 K:4 T:1/1 C:22   D:Allegro
 E3     2      1 e     d  [
 B2     2      1 e     d  =
 f1              6
@@ -1082,7 +1075,7 @@ mheavy2          :|
 @@@filter: addtempo -q 152
 @@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "m0:A; m10:B"
 @@@EEV: 2024/04/22
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/03/01
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/03/02
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/03/03
-@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv066_04/stage2/03/04
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no04/stage2/03/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no04/stage2/03/02
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no04/stage2/03/03
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no04/stage2/03/04

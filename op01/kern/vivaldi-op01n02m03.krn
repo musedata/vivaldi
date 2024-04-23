@@ -77,7 +77,7 @@
 4.AA/	.	.	[4.cc\	.	8r	.
 .	.	.	.	.	8r	.
 .	.	.	.	.	8ee\	.
-4.D\	.	7	8cc\L]'	.	4.ff#y\	.
+4.D\	.	7	8cc\L]	.	4.ff#y\	.
 .	.	.	8dd\	.	.	.
 .	.	.	8cc\J	.	.	.
 4.GG/	.	.	[4.b\	.	(8gg\L	.
@@ -141,8 +141,8 @@
 .	.	.	.	.	8gg#X\	.
 .	.	.	.	.	8ff#y\J	.
 8G\L	.	5	4ddn\	.	8bb\L	.
-8F#y\	.	.	.	.	8aa\	.
-8E\J	.	6#/	8cc#X\	.	8gg#y\J	.
+8F#y\	.	.	.	.	8aan\	.
+8E\J	.	6#/	8cc#X\	.	8gg\J	.
 4D\	.	6	8dd\L	.	8ff#y\L	.
 .	.	.	8cc#X\	.	8ee\	.
 8E\	.	7 5	8b\J	.	8dd\J	.
@@ -167,7 +167,7 @@
 8d\L	.	6	8b\L	.	.	.
 8c#X\	.	.	8cc#X\	.	.	.
 8B\J	.	.	8dd\J	.	.	.
-4A#X\	.	6	8cc#X\L	.	.	.
+4A#X\	.	6 (#)	8cc#X\L	.	.	.
 .	.	.	8dd\	.	.	.
 8A#y\	.	.	8ee\J	.	.	.
 !!LO:LB:g=original
@@ -400,7 +400,7 @@
 =31	=31	=31	=31	=31	=31	=31
 4.F#y\	.	5#| 4	4b\]	.	8cc#X\L	.
 .	.	.	.	.	8dd\	.
-.	.	3	8a/	.	8cc#y\J	.
+.	.	X 3	8a/	.	8cc#y\J	.
 4.D#X\	.	5	8a/L	.	[4.ff#y\	.
 .	.	.	8b/	.	.	.
 .	.	.	8a/J	.	.	.
@@ -449,7 +449,7 @@
 .	.	5 4	(4g/	.	(4ee\	.
 .	.	X #	8f#y/)	.	8dd#y\)	.
 =35	=35	=35	=35	=35	=35	=35
-1.E	.	.	1.e	.	8ee\L	.
+1.E\	.	.	1.e	.	8ee\L	.
 .	.	.	.	.	8bb\	.
 .	.	.	.	.	8gg\J	.
 .	.	.	.	.	8ee\L	.
@@ -459,10 +459,10 @@
 =:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
 *-	*-	*-	*-	*-	*-	*-
 !!!SMS: RV 67 / Estienne Roger (No. 363), Amsterdam [facs.]
-!!!ENC: Fran Bennion
+!!!ENC: Fran Bennion   rev. 05/12/21 E Correia
 !!!END: 2004/09/25
-!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 01:53:20 2024
-!!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 21:24:09 2024
+!!!YEM: (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._1:_Suonate_da_camera_a_tr.C3.A8.2C_due_violini_e_violone_o_cembalo Information about Vivaldi Op. 1 on the CCARH wiki
 !!!URL-pdf: https://pdf.musedata.org/vivaldi-op01-no02.pdf#page=4 MuseData edition
@@ -472,7 +472,7 @@
 !!!URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=4919s L'Arte dell'Arco
 !!!title: @{OTL}, mov. @{OMV}
 !!!EEV: 2024/04/22
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv067_02/stage2/03/01
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv067_02/stage2/03/02
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv067_02/stage2/03/03
-!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/rv067_02/stage2/03/04
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no02/stage2/03/01
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no02/stage2/03/02
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no02/stage2/03/03
+!!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no02/stage2/03/04
