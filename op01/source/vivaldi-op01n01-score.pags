@@ -1,0 +1,25 @@
+@@BEGIN: DESCRIPTION
+@ This description was extracted from the spreadsheet http://bit.ly/musedata-menu
+@DATA_ACCESS_DATE: 20240425042806
+@LEVEL_1:	Vivaldi
+@LEVEL_2:	Sonatas, op. 1 (Suonate da camera a tre)
+@LEVEL_3:	Sonata in G major,  op. 1, no. 1 (RV 73)
+@CAT_NUM:	RV 73
+@SHORTCUT:	vivaldi-op01-no01
+@DATA_TYPE:	Page files
+@DATA_URL:	https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/outputs/score/pages/01/01,02/01,02,03/01,05/01
+@SOURCE:	Etienne Roger, No. 363
+@EDITOR:	Frances L. Bennion
+@EDITOR_2:	Edmund Correia, Jr.
+@YEAR_COPYRIGHT:	2004, 2019
+@FOOTER_LEFT_TOP:	Vivaldi: Sonata in G major,  op. 1, no. 1 (RV 73)
+@FOOTER_LEFT_MIDDLE:	http://vivaldi.ccarh.org
+@FOOTER_LEFT_BOTTOM:	&copy; 2004, 2019 Center for Computer Assisted Research in the Humanities (CCARH)
+@FOOTER_RIGHT_TOP:	Frances L. Bennion, Edmund Correia, Jr., eds.
+@FOOTER_RIGHT_MIDDLE:	Etienne Roger, No. 363
+@FOOTER_RIGHT_BOTTOM:	%P of %C
+@URL:	http://vivaldi.ccarh.org
+@NOTES:	22 April 2024
+@@END: DESCRIPTION
+#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/outputs/score/pages/01/01,02/01,02,03/01,05/01
+//
