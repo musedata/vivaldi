@@ -14,11 +14,23 @@
 ##
 
 use strict;
+use Getopt::Long;
 
-my @opusDirs = sort glob("op[01][0-9]");
+my $bindir = "../bin";
 
-foreach my $opus (@opusDirs) {
-	processOpus($opus);
+my $multipleQ = 0;
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'm|multiple|a|all' => \$multipleQ
+);
+
+if ($multipleQ) {
+	my @opusDirs = sort glob("op[01][0-9]");
+	foreach my $opus (@opusDirs) {
+		processOpus($opus);
+	}
+} else {
+	processOpus(".");
 }
 
 exit(0);
@@ -33,6 +45,7 @@ exit(0);
 
 sub processOpus {
 	my ($opus) = @_;
+	die "Cannot fine source directory $opus/source" if !-d "$opus/source";
 	my @sources = sort glob("$opus/source/*.mdss");
 	foreach my $source (@sources) {
 		processSource($opus, $source);
@@ -50,9 +63,10 @@ sub processSource {
 	my $base = $source;
 	$base =~ s/.*\///;
 	$base =~ s/\.mdss$//;
+	`mkdir -p $opus/musedata`;
 	my $target = "$opus/musedata/$base.mds";
-	my $command = "bin/makeMuseData $source > $target";
-	print stderr "$command\n";
+	my $command = "$bindir/makeMuseData $source > $target";
+	print STDERR "$command\n";
 	`$command`;
 }
 

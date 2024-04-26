@@ -1,12 +1,12 @@
 ##
 ## Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
 ## Creation Date: Wed Apr  3 18:53:57 PDT 2024
-## Last Modified: Wed Apr  3 18:54:00 PDT 2024
+## Last Modified: Fri Apr 26 08:32:33 PDT 2024
 ## Syntax:        GNU Makefile
-## Filename:      Makefile
+## Filename:      op02/Makefile
 ## vim:           ts=3
 ##
-## Description: Makefile to run tasks for the vivaldi repository.
+## Description: Makefile to prepare data for op. 2.
 ##
 ## Make targets:
 ##      musedata == convert source files into MuseData multi-file Stage 2 files.
@@ -14,9 +14,9 @@
 ##                  (Need to run "make musedata" first).
 ##
 
-BINDIR = ./bin
+BINDIR = ../bin
 
-.PHONY: source musedata kern
+.PHONY: source musedata kern pdf pages
 
 all:
 	@echo "Makefile targets:"
@@ -40,8 +40,10 @@ humdrum:
 
 
 clean:
-	rm op*/musedata/*.mds
-	rm op*/kern/*.krn
+	rm musedata/*.mds
+	rm kern/*.krn
+	rmdir musedata
+	rmdir kern
 
 
 

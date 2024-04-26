@@ -2,23 +2,34 @@
 ##
 ## Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
 ## Creation Date: Wed Apr  3 19:08:16 PDT 2024
-## Last Modified: Wed Apr  3 19:08:23 PDT 2024
+## Last Modified: Fri Apr 26 09:03:31 PDT 2024
 ## Syntax:        PERL 5
 ## Filename:      bin/makeAllMuseData
 ## vim:           ts=3
 ##
-## Description:   Convert source files that contain metadata and URLs to individual
-##                part files into a single musedata file store in the op##/musedata 
-##                subdirectories.
+## Description:   Convert combined MuseData files into a Humdrum file.
+##
 ## Usage:         make musedata
 ##
 
 use strict;
+use Getopt::Long;
 
-my @opusDirs = sort glob("op[01][0-9]");
+my $bindir = "../bin";
 
-foreach my $opus (@opusDirs) {
-	processOpus($opus);
+my $multipleQ = 0;
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'm|multiple|a|all' => \$multipleQ
+);
+
+if ($multipleQ) {
+	my @opusDirs = sort glob("op[01][0-9]");
+	foreach my $opus (@opusDirs) {
+		processOpus($opus);
+	}
+} else {
+	processOpus(".");
 }
 
 exit(0);
@@ -33,6 +44,7 @@ exit(0);
 
 sub processOpus {
 	my ($opus) = @_;
+	die "Cannot fine source directory $opus/source" if !-d "$opus/source";
 	my @musedata = sort glob("$opus/musedata/*.mds");
 	foreach my $musedata (@musedata) {
 		processMusedata($opus, $musedata);
@@ -50,11 +62,11 @@ sub processMusedata {
 	my $base = $musedata;
 	$base =~ s/.*\///;
 	$base =~ s/\.mds$//;
+	`mkdir -p $opus/kern`;
 	my $target = "$opus/kern/$base.krn";
-	my $command = "bin/makeKern $musedata > $target";
+	my $command = "$bindir/makeKern $musedata > $target";
 	print stderr "$command\n";
 	`$command`;
-	`bin/updateKeyDesignations $target`;
 }
 
 
