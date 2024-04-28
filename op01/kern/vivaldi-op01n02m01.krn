@@ -104,7 +104,7 @@
 .	.	.	16dd#X\	.	16b\	.
 8E\	.	.	16ee\	.	16gg\	.
 .	.	.	16ff#y\JJ	.	16aa\JJ	.
-8B\	.	#	8.dd#X\L	.	8.ff#y\LT	.
+8B\	.	#	8.dd#X\L	.	8.ff#y\Lt	.
 8BB\J	.	.	.	.	.	.
 .	.	.	16ee\Jk	.	16ee\Jk	.
 8E\L	.	.	4ee\	.	4ee\	.
@@ -174,7 +174,7 @@
 4F#y\	.	7 #	4ee\]	.	8aa#X\L	.
 .	.	.	.	.	16gg#X\L	.
 .	.	.	.	.	16ff#y\JJ	.
-16G\LL	.	5	8ddn\L	.	2bb\T	.
+16G\LL	.	5	8ddn\L	.	2bb\t	.
 16F#y\	.	.	.	.	.	.
 16E\	.	.	8gg\J	.	.	.
 16D\JJ	.	.	.	.	.	.
@@ -249,7 +249,7 @@
 8B\L	.	#	16dd#X\LL	.	8ff#y\L	.
 .	.	.	16b\JJ	.	.	.
 8A\	.	7 5	4ee\	.	8gg\J	.
-8B\	.	5 4	.	.	4ff#y\T	.
+8B\	.	5 4	.	.	4ff#y\t	.
 8BB\J	.	#	8dd#X\	.	.	.
 =18	=18	=18	=18	=18	=18	=18
 8E\L	.	.	4ee\	.	4ee\	.
@@ -268,7 +268,7 @@
 8E\L	.	.	.	.	8g/L	.
 8A\	.	.	.	.	16a/L	.
 .	.	.	.	.	16g/JJ	.
-8B\	.	#	4d#X/	.	4f#y/T	.
+8B\	.	#	4d#X/	.	4f#y/t	.
 8BB\J	.	.	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20
 1E\;	.	.	1e;	.	1e;	.
@@ -277,7 +277,7 @@
 !!!SMS: RV 67 / Estienne Roger (No. 363), Amsterdam [facs.]
 !!!ENC: Fran Bennion   rev. 05/12/21 E Correia
 !!!END: 2004/09/24
-!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 21:24:09 2024
+!!!ONB: Converted from MuseData with musedata2hum on Sat Apr 27 20:33:59 2024
 !!!YEM: (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._1:_Suonate_da_camera_a_tr.C3.A8.2C_due_violini_e_violone_o_cembalo Information about Vivaldi Op. 1 on the CCARH wiki

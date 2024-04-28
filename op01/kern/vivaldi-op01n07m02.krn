@@ -101,7 +101,7 @@
 8E-y\L	.	.	8b-y\L	.	8gg\L	.
 8A-X\	.	.	8cc\J	.	16ff\L	.
 .	.	.	.	.	16ee-y\JJ	.
-8B-y\	.	.	8f/L	.	8.dd\LT	.
+8B-y\	.	.	8f/L	.	8.dd\Lt	.
 8BB-y\J	.	.	8b-y/J	.	.	.
 .	.	.	.	.	16ee-y\Jk	.
 =8	=8	=8	=8	=8	=8	=8
@@ -150,7 +150,7 @@
 .	.	.	.	.	16cc\JJ	.
 8F\L	.	.	8cc\L	.	8a/L	.
 8F\	.	.	8cc\	.	8a/J	.
-8E-y\	.	6 4	8cc\	.	(8.a/LT	.
+8E-y\	.	6 4	8cc\	.	(8.a/Lt	.
 8E-y\J	.	.	8cc\J	.	.	.
 .	.	.	.	.	32g/LL	.
 .	.	.	.	.	32a/JJJ)	.
@@ -165,7 +165,7 @@
 .	.	.	.	.	16dd\JJ	.
 8G\L	.	n	8dd\L	.	8bn\L	.
 8G\	.	.	8dd\	.	8b\J	.
-8F\	.	6 4nr	8dd\	.	(8.b/LT	.
+8F\	.	6 4nr	8dd\	.	(8.b/Lt	.
 8F\J	.	.	8dd\J	.	.	.
 .	.	.	.	.	32a/LL	.
 .	.	.	.	.	32b/JJJ)	.
@@ -222,7 +222,7 @@
 =16	=16	=16	=16	=16	=16	=16
 8C/L	.	6 5	2a/	.	4gg\]	.
 8AA/J	.	.	.	.	.	.
-8D/L	.	#	.	.	4ff#X\T	.
+8D/L	.	#	.	.	4ff#X\t	.
 8DD/J	.	.	.	.	.	.
 4.GG/	.	.	4.g/	.	4.gg\	.
 16r	.	.	16r	.	16r	.
@@ -293,7 +293,7 @@
 =22	=22	=22	=22	=22	=22	=22
 8c\L	.	n	8gg\L	.	8een\L	.
 8c\	.	.	8gg\	.	8ee\J	.
-8B-y\	.	6 4nr	8gg\	.	8.ee\LT	.
+8B-y\	.	6 4nr	8gg\	.	8.ee\Lt	.
 8B-y\J	.	.	8gg\J	.	.	.
 .	.	.	.	.	32dd\LL	.
 .	.	.	.	.	32ee\JJJ	.
@@ -377,7 +377,7 @@
 8E-y\L	.	.	8b-y/L	.	8gg\L	.
 8A-X\	.	.	8cc/	.	16ff\L	.
 .	.	.	.	.	16ee-y\JJ	.
-8B-y\	.	.	8f/	.	8.dd\LT	.
+8B-y\	.	.	8f/	.	8.dd\Lt	.
 8BB-y\J	.	.	8b-y/J	.	.	.
 .	.	.	.	.	16ee-y\Jk	.
 4E-y\	.	.	4g/	.	4ee-y\	.
@@ -451,7 +451,7 @@
 8E-y\L	.	.	8b-y/L]	.	8gg\L	.
 8A-X\	.	.	8cc/	.	16ff\L	.
 .	.	.	.	.	16ee-y\JJ	.
-8B-y\	.	.	8f/	.	8.dd\LT	.
+8B-y\	.	.	8f/	.	8.dd\Lt	.
 8BB-y\J	.	.	8b-y/J	.	.	.
 .	.	.	.	.	16ee-y\Jk	.
 4.EE-y/;	.	.	4.g/;	.	4.ee-y\;	.
@@ -462,7 +462,7 @@
 !!!SMS: RV 65 / Estienne Roger (No. 363), Amsterdam [facs.]
 !!!ENC: Fran Bennion   rev. 05/14/21 E Correia
 !!!END: 2004/10/18
-!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 21:24:11 2024
+!!!ONB: Converted from MuseData with musedata2hum on Sat Apr 27 20:34:01 2024
 !!!YEM: (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._1:_Suonate_da_camera_a_tr.C3.A8.2C_due_violini_e_violone_o_cembalo Information about Vivaldi Op. 1 on the CCARH wiki

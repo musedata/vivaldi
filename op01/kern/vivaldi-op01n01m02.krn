@@ -44,7 +44,7 @@
 =3	=3	=3	=3	=3	=3	=3
 8C/L	.	6-r -	4ccc\]	.	(8aa-X\L	.
 8D/	.	#	.	.	8ff#X\J)	.
-8E-X/	.	5	(8bb-y\L	.	2gg\T	.
+8E-X/	.	5	(8bb-y\L	.	2gg\t	.
 8C/J	.	6 5 -	8aa\J)	.	.	.
 8D/L	.	6 4	4bb-y\T	.	.	.
 8C/	.	.	.	.	.	.
@@ -178,7 +178,7 @@
 16F\	.	.	.	.	.	.
 16G\	.	.	.	.	8cc#X\J)	.
 16A\JJ	.	.	.	.	.	.
-16B-y\LL	.	.	8ff\L	.	2dd\T	.
+16B-y\LL	.	.	8ff\L	.	2dd\t	.
 16A\	.	.	.	.	.	.
 16G\	.	.	8ee\J	.	.	.
 16B-y\JJ	.	.	.	.	.	.
@@ -362,7 +362,7 @@
 8C/J	.	.	8cc\J	.	.	.
 8D/L	.	6 4	4b-y\	.	.	.
 8C/	.	.	.	.	.	.
-8D/	.	5 #	4a/T	.	4ff#X\	.
+8D/	.	5 #	4a/t	.	4ff#X\	.
 8DD/J	.	.	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27
 8GG\L	.	.	4g/	.	4gg\	.
@@ -386,11 +386,11 @@
 =29	=29	=29	=29	=29	=29	=29
 8C/L]	.	6-r	4cc\	.	(8a-X/L	.
 8D/	.	#	.	.	8f#X/J)	.
-8E-X/	.	5	(8b-y/L	.	2g/T	.
+8E-X/	.	5	(8b-y/L	.	2g/t	.
 8C/J	.	6nr	8a/J)	.	.	.
 8D/L	.	6 4	4b-y\	.	.	.
 8C/	.	.	.	.	.	.
-8D/	.	5 #	4a/T	.	4f#X/	.
+8D/	.	5 #	4a/t	.	4f#X/	.
 8DD/J	.	.	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30
 4GG/	f	.	4g/	.	16g/LL	f
@@ -408,7 +408,7 @@
 !!!SMS: RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
 !!!ENC: Fran Bennion  rev. 05/12/21 E Correia
 !!!END: 2004/09/22
-!!!ONB: Converted from MuseData with musedata2hum on Mon Apr 22 21:24:09 2024
+!!!ONB: Converted from MuseData with musedata2hum on Sat Apr 27 20:33:59 2024
 !!!YEM: (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._1:_Suonate_da_camera_a_tr.C3.A8.2C_due_violini_e_violone_o_cembalo Information about Vivaldi Op. 1 on the CCARH wiki

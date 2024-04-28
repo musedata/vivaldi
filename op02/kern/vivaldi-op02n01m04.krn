@@ -137,7 +137,7 @@
 =24	=24	=24	=24
 8G\L	7 5	16dd\LL]	.
 .	.	16een\J	.
-8A\	5 4	8.ee\T	.
+8A\	5 4	8.ee\t	.
 8AA\J	#	.	.
 .	.	16dd\Jk	.
 =25	=25	=25	=25
@@ -178,7 +178,7 @@
 .	.	16gg\JJ	.
 =32	=32	=32	=32
 8d\L	#	8ff#X\L	.
-8A\	.	(8.ff#y\T	.
+8A\	.	(8.ff#y\t	.
 16d\L	.	.	.
 16cn\JJ	.	32ee\LL	.
 .	.	32ff#X\JJJ)	.
@@ -191,7 +191,7 @@
 !!LO:LB:g=original
 =34	=34	=34	=34
 8c\L	.	8ee\L	.
-8G\	.	(8.ee\T	.
+8G\	.	(8.ee\t	.
 16c\L	.	.	.
 16B-y\JJ	.	32dd\LL	.
 .	.	32ee\JJJ)	.
@@ -266,7 +266,7 @@
 8F\	6	8dd/J	.
 =51	=51	=51	=51
 8D\L	.	8ff\L	.
-8G\	n	(8.bn\T	.
+8G\	n	(8.bn\t	.
 8F\J	.	.	.
 .	.	32a\LL	.
 .	.	32bn\JJJ)	.
@@ -276,7 +276,7 @@
 8G\	6 4	8ee-X/J	.
 =53	=53	=53	=53
 8En\L	6	8gg\L	.
-8A\	#	(8.cc#X\T	.
+8A\	#	(8.cc#X\t	.
 8G\J	4#| 2	.	.
 .	.	32bn\LL	.
 .	.	32cc#X\JJJ)	.
@@ -351,7 +351,7 @@
 =68	=68	=68	=68
 8C/L	6 5 -	16g/LL]	.
 .	.	16a/J	.
-8D/	5 4	8.a/T	.
+8D/	5 4	8.a/t	.
 8DD/J	#	.	.
 .	.	16g/Jk	.
 =69	=69	=69	=69
@@ -361,7 +361,7 @@
 !!!SMS: RV 27 / Estienne Roger, Amsterdam [facs.]
 !!!ENC: Fran Bennion; rev. E Correia (4/21)
 !!!END: 2004/11/15
-!!!ONB: Converted from MuseData with musedata2hum on Fri Apr 26 10:10:59 2024
+!!!ONB: Converted from MuseData with musedata2hum on Sat Apr 27 20:34:16 2024
 !!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
 !!!system-decoration: [(s1,s2)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._2:_Sonate_a_violino_e_basso_per_il_cembalo
@@ -369,6 +369,6 @@
 !!!URL-pdf: http://conquest.imslp.info/files/imglnks/usimg/b/b7/IMSLP99075-PMLP183164-Vivaldi_-_Sonatas_Op2.pdf#page=4 Estienne Roger Amsterdam: Estienne Roger, No.2, n.d.[1711].
 !!!URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=2411s L'Arte dell'Arco
 !!!title: @{OTL}, mov. @{OMV}
-!!!EEV: 2024/04/26
+!!!EEV: 2024/04/27
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no01/stage2/04/01
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no01/stage2/04/02
