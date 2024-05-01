@@ -1,0 +1,691 @@
+@@@COM: Vivaldi, Antonio Lucio
+@@@CDT: 1678/03/04-1741/08/28
+@@@OPR: 12 Sonatas for Violin and Basso continuo
+@@@OTL: Sonata in A major, op. @{OPS}, no. @{ONM} (@{SCT})
+@@@OPS: 2
+@@@ONM: 2
+@@@OMV: 1. Preludio à Capriccio
+@@@SCT: RV 31
+@@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
+@@@OMD: Presto
+@@@key: A
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no02/stage2/01/01
+COMMIT = b304e9116f2083a00fde4590d53eadf6ec6f1cde
+DOWNLOAD_DATE = Sat Apr 27 08:11:45 PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op2/rv031/stage2/01/01}
+TIMESTAMP: DEC/10/2005 [md5sum:b88983820edf441f8444358a05b9f8f6]
+11/16/04 Fran Bennion; rev. E Correia (4/21)
+WK#:02,02     MV#:1
+RV 31 / Estienne Roger, Amsterdam [facs.]
+Vivaldi Op. 2, No. 2 in A Major
+Movement 1 - Preludio \a8 Capriccio
+Violino
+
+Group memberships: score
+score: part 1 of 2
+$   Q:4 K:3 T:3/4 C:4  D:Presto
+E4     1      1 s     u
+measure 1
+E4     1      1 s     u  [[
+C#4    1      1 s     u  ==
+C#4    1      1 s     u  ==
+E4     1      1 s     u  ]]
+E4     1      1 s     u  [[
+C#4    1      1 s     u  ==
+C#4    1      1 s     u  ==
+E4     1      1 s     u  ]]
+E4     1      1 s     u  [[
+C#4    1      1 s     u  ==
+C#4    1      1 s     u  ==
+A4     1      1 s     u  ]]
+measure 2
+A4     1      1 s     u  [[
+E4     1      1 s     u  ==
+E4     1      1 s     u  ==
+A4     1      1 s     u  ]]
+A4     1      1 s     u  [[
+E4     1      1 s     u  ==
+E4     1      1 s     u  ==
+A4     1      1 s     u  ]]
+A4     1      1 s     u  [[
+E4     1      1 s     u  ==
+E4     1      1 s     u  ==
+C#5    1      1 s     u  ]]
+measure 3
+C#5    1      1 s     d  [[
+A4     1      1 s     d  ==
+A4     1      1 s     d  ==
+C#5    1      1 s     d  ]]
+C#5    1      1 s     d  [[
+A4     1      1 s     d  ==
+A4     1      1 s     d  ==
+C#5    1      1 s     d  ]]
+C#5    1      1 s     d  [[
+A4     1      1 s     d  ==
+A4     1      1 s     d  ==
+E5     1      1 s     d  ]]
+measure 4
+E5     1      1 s     d  [[
+C#5    1      1 s     d  ==
+C#5    1      1 s     d  ==
+E5     1      1 s     d  ]]
+E5     1      1 s     d  [[
+C#5    1      1 s     d  ==
+C#5    1      1 s     d  ==
+E5     1      1 s     d  ]]
+E5     1      1 s     d  [[
+C#5    1      1 s     d  ==
+C#5    1      1 s     d  ==
+A5     1      1 s     d  ]]
+measure 5
+A5     1      1 s     d  [[
+E5     1      1 s     d  ==
+E5     1      1 s     d  ==
+C#5    1      1 s     d  ]]
+C#5    1      1 s     u  [[
+A4     1      1 s     u  ==
+A4     1      1 s     u  ==
+E4     1      1 s     u  ]]
+E4     1      1 s     u  [[
+C#4    1      1 s     u  ==
+C#4    1      1 s     u  ==
+A3     1      1 s     u  ]]
+measure 6
+A3     2      1 e     u  [     (
+P C32:u
+C#4    2      1 e     u  =
+E4     2      1 e     u  =
+A4     2      1 e     u  =
+C#5    2      1 e     u  =
+E5     2      1 e     u  ]     )
+mdouble 7
+$   T:1/1  D:Adagio
+D#5    6      1 q.#   d        t
+P C32:Y-6
+E5     2      1 e     d
+E5     8      1 h     d        F
+mdouble
+$   T:3/4  D:Presto
+B4     1      1 s     d
+measure 8
+B4     1      1 s     u  [[
+G#4    1      1 s     u  ==
+G#4    1      1 s     u  ==
+B4     1      1 s     u  ]]
+B4     1      1 s     u  [[
+G#4    1      1 s     u  ==
+G#4    1      1 s     u  ==
+B4     1      1 s     u  ]]
+B4     1      1 s     d  [[
+G#4    1      1 s     d  ==
+G#4    1      1 s     d  ==
+E5     1      1 s     d  ]]
+measure 9
+E5     1      1 s     d  [[
+B4     1      1 s     d  ==
+B4     1      1 s     d  ==
+E5     1      1 s     d  ]]
+E5     1      1 s     d  [[
+B4     1      1 s     d  ==
+B4     1      1 s     d  ==
+E5     1      1 s     d  ]]
+E5     1      1 s     d  [[
+B4     1      1 s     d  ==
+B4     1      1 s     d  ==
+G#5    1      1 s     d  ]]
+measure 10
+G#5    1      1 s     d  [[
+E5     1      1 s     d  ==
+E5     1      1 s     d  ==
+G#5    1      1 s     d  ]]
+G#5    1      1 s     d  [[
+E5     1      1 s     d  ==
+E5     1      1 s     d  ==
+G#5    1      1 s     d  ]]
+G#5    1      1 s     d  [[
+E5     1      1 s     d  ==
+E5     1      1 s     d  ==
+B5     1      1 s     d  ]]
+measure 11
+B5     1      1 s     d  [[
+G#5    1      1 s     d  ==
+G#5    1      1 s     d  ==
+B5     1      1 s     d  ]]
+B5     1      1 s     d  [[
+G#5    1      1 s     d  ==
+G#5    1      1 s     d  ==
+B5     1      1 s     d  ]]
+B5     1      1 s     d  [[
+G#5    1      1 s     d  ==
+G#5    1      1 s     d  ==
+E6     1      1 s     d  ]]
+measure 12
+E6     1      1 s     d  [[
+B5     1      1 s     d  ==
+B5     1      1 s     d  ==
+G#5    1      1 s     d  ]]
+G#5    1      1 s     d  [[
+E5     1      1 s     d  ==
+E5     1      1 s     d  ==
+B4     1      1 s     d  ]]
+B4     1      1 s     u  [[
+G#4    1      1 s     u  ==
+G#4    1      1 s     u  ==
+E4     1      1 s     u  ]]
+measure 13
+E4     2      1 e     d  [     (
+G#4    2      1 e     d  =
+B4     2      1 e     d  =
+E5     2      1 e     d  =
+G#5    2      1 e     d  =
+B5     2      1 e     d  ]     )
+mdouble 14
+$   T:1/1  D:Adagio
+D5     6      1 q.    d
+C#5    2      1 e     d
+C#5    8      1 h     d        F
+mdouble 15
+$    D:Presto
+rest  16      1
+measure 16
+A5     6      1 q.    d
+G#5    1      1 s     d  [[
+A5     1      1 s     d  ]]
+B5     2      1 e     d  [
+E5     1      1 s     d  =[
+F#5    1      1 s     d  ]]
+E5     3      1 e.    d  [
+D5     1      1 s     d  ]\
+measure 17
+C#5    2      1 e     d  [
+B4     1      1 s     d  =[
+A4     1      1 s     d  ]]
+A5     4-     1 q     d        -
+A5     2      1 e     d  [
+G#5    1      1 s     d  =[    (
+F#5    1      1 s     d  ]]    )
+G#5    4-     1 q     d        -
+measure 18
+G#5    2      1 e     d  [
+A5     1      1 s     d  =[    (
+G#5    1      1 s     d  ]]    )
+F#5    4-     1 q     d        -
+F#5    2      1 e     d  [
+B5     1      1 s     d  =[    (
+G#5    1      1 s     d  ]]    )
+E5     4-     1 q     d        -
+measure 19
+E5     2      1 e     d  [
+A5     1      1 s     d  =[    (
+E5     1      1 s     d  ]]    )
+D#5    3      1 e.#   d  [     t
+P C32:aY-10
+E5     1      1 s     d  ]\
+E5     6      1 q.    d
+D#5    1      1 s #   d  [[
+E5     1      1 s     d  ]]
+measure 20
+F#5    2      1 e     d  [
+B4     1      1 s     d  =[
+C#5    1      1 s     d  ]]
+B4     3      1 e.    u  [
+A4     1      1 s     u  ]\
+G#4    1      1 s     u  [[
+F#4    1      1 s     u  =]
+E4     2      1 e     u  ]
+rest   4      1 q
+measure 21
+C#5    4      1 q     d
+B5     3      1 e.    d  [
+B5     1      1 s     d  ]\
+B5     3      1 e.    d  [     (
+G#5    1      1 s     d  ]\    )
+A5     4      1 q     d
+measure 22
+B4     4      1 q     d
+A5     3      1 e.    d  [
+A5     1      1 s     d  ]\
+A5     3      1 e.    d  [     (
+F#5    1      1 s     d  ]\    )
+G#5    4      1 q     d
+measure 23
+rest   2      1 e
+A4     2      1 e     u
+G5     1      1 s n   d  [[    (
+F#5    1      1 s     d  ==    )
+G5     1      1 s     d  ==    (
+A5     1      1 s     d  ]]    )
+F#5    2      1 e     d  [
+B4     2      1 e     d  ]
+A5     1      1 s     d  [[    (
+G#5    1      1 s     d  ==    )&1+
+@1  No # on G5 in Roger. Old notation. Harmony dictates return to key signature.
+A5     1      1 s     d  ==    (
+B5     1      1 s     d  ]]    )
+measure 24
+G#5    2      1 e     d  [
+C#5    2      1 e     d  ]
+B5     1      1 s     d  [[    (
+A5     1      1 s     d  ==    )
+B5     1      1 s     d  ==    (
+C#6    1      1 s     d  ]]    )
+A5     2      1 e     d  [
+D5     2      1 e     d  ]
+D5     1      1 s     d  [[    (
+C#5    1      1 s     d  ==    )
+D5     1      1 s     d  ==    (
+B5     1      1 s     d  ]]    )
+measure 25
+G#5    2      1 e     d  [
+F#5    1      1 s     d  =[    (
+E5     1      1 s     d  ]]    )
+A5     4-     1 q     d        -
+A5     1      1 s     d  [[
+G#5    1      1 s     d  ==
+A5     1      1 s     d  ==
+B5     1      1 s     d  ]]
+G#5    3      1 e.    d  [     t
+P C32:aY-18
+A5     1      1 s     d  ]\
+measure 26
+A5     2      1 e     d  [
+A4     2      1 e     d  ]
+G5     2      1 e n   d  [
+A4     1      1 s     d  =[    (
+G5     1      1 s n   d  ]]    )
+G5     2      1 e     d  [     (t
+F#5    2      1 e     d  ]     )
+A5     2      1 e     d  [
+B4     1      1 s     d  =[    (
+A5     1      1 s     d  ]]    )
+measure 27
+A5     2      1 e     d  [     (t
+G#5    2      1 e     d  ]     )&2+
+2
+&2
+Cautionary accidental added.
+&2
+B5     2      1 e     d  [
+C#5    1      1 s     d  =[    (
+B5     1      1 s     d  ]]    )
+B5     2      1 e     d  [     (t
+A5     2      1 e     d  ]     )
+D5     2      1 e     d  [
+F#5    1      1 s     d  =[    (
+B5     1      1 s     d  ]]    )
+measure 28
+G#5    2      1 e     d  [
+E5     2      1 e     d  ]
+A5     2      1 e     d  [
+G#5    1      1 s     d  =[    (
+F#5    1      1 s     d  ]]    )
+E5     2      1 e     d  [
+D5     1      1 s     d  =[    (
+C#5    1      1 s     d  ]]    )
+B4     3      1 e.    u  [      t
+P    C33:Y-17
+A4     1      1 s     u  ]\
+measure 29
+A4    16      1 w     u        F
+mheavy2
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no02/stage2/01/02
+COMMIT = b304e9116f2083a00fde4590d53eadf6ec6f1cde
+DOWNLOAD_DATE = Sat Apr 27 08:11:45 PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op2/rv031/stage2/01/02}
+TIMESTAMP: DEC/10/2005 [md5sum:83d1f2ebddbcab760db73c8aa1328ec5]
+11/16/04 Fran Bennion; rev. E Correia (4/21)
+WK#:02,02     MV#:1
+RV 31 / Estienne Roger, Amsterdam [facs.]
+Vivaldi Op. 2, No. 2 in A Major
+Movement 1 - Preludio \a8 Capriccio
+Basso continuo
+
+Group memberships: score
+score: part 2 of 2
+$   Q:4 K:3 T:3/4 C:22  D:Presto
+rest   1      1 s
+measure 1
+A2    12-     1 h.    u        -
+measure 2
+A2    12-     1 h.    u        -
+measure 3
+A2    12-     1 h.    u        -
+measure 4
+A2    12-     1 h.    u        -
+measure 5
+A2    12-     1 h.    u        -
+measure 6
+A2    12-     1 h.    u        -
+mdouble 7
+$   T:1/1  D:Adagio
+f3              6 4+ 2
+A2     8      1 h     u
+f1              6
+G#2    8      1 h     u        F
+mdouble
+$   T:3/4  D:Presto
+rest   1      1 s
+measure 8
+E3    12-     1 h.    d        -
+measure 9
+E3    12-     1 h.    d        -
+measure 10
+E3    12-     1 h.    d        -
+measure 11
+E3    12-     1 h.    d        -
+measure 12
+E3    12-     1 h.    d        -
+measure 13
+E3    12-     1 h.    d        -
+mdouble 14
+$   T:1/1   D:Adagio
+f2              7 5
+E3     8      1 h     d
+A2     8      1 h     u        F
+mdouble 15
+$   D:Presto
+A3     1      1 s     d  [[
+E4     1      1 s     d  ==
+A3     1      1 s     d  ==
+E4     1      1 s     d  ]]
+A3     1      1 s     d  [[
+E4     1      1 s     d  ==
+A3     1      1 s     d  ==
+E4     1      1 s     d  ]]
+f1              6
+G#3    1      1 s     d  [[
+E4     1      1 s     d  ==
+G#3    1      1 s     d  ==
+E4     1      1 s     d  ]]
+G#3    1      1 s     d  [[
+E4     1      1 s     d  ==
+G#3    1      1 s     d  ==
+E4     1      1 s     d  ]]
+measure 16
+A3     1      1 s     d  [[
+E4     1      1 s     d  ==
+A3     1      1 s     d  ==
+E4     1      1 s     d  ]]
+A3     1      1 s     d  [[
+E4     1      1 s     d  ==
+A3     1      1 s     d  ==
+E4     1      1 s     d  ]]
+f1              6
+G#3    1      1 s     d  [[
+E4     1      1 s     d  ==
+G#3    1      1 s     d  ==
+E4     1      1 s     d  ]]
+G#3    1      1 s     d  [[
+E4     1      1 s     d  ==
+G#3    1      1 s     d  ==
+E4     1      1 s     d  ]]
+measure 17
+A3     1      1 s     d  [[
+E4     1      1 s     d  ==
+A3     1      1 s     d  ==
+E4     1      1 s     d  ]]
+A3     1      1 s     d  [[
+E4     1      1 s     d  ==
+A3     1      1 s     d  ==
+E4     1      1 s     d  ]]
+f1              7
+B3     1      1 s     d  [[
+E4     1      1 s     d  ==
+B3     1      1 s     d  ==
+E4     1      1 s     d  ]]
+f1              6
+B3     1      1 s     d  [[
+E4     1      1 s     d  ==
+B3     1      1 s     d  ==
+E4     1      1 s     d  ]]
+measure 18
+f1              7
+A3     1      1 s     d  [[
+C#4    1      1 s     d  ==
+f1              6
+A3     1      1 s     d  ==
+C#4    1      1 s     d  ]]
+D4     1      1 s     d  [[
+F#4    1      1 s     d  ==
+D4     1      1 s     d  ==
+F#4    1      1 s     d  ]]
+G#3    1      1 s     d  [[
+B3     1      1 s     d  ==
+G#3    1      1 s     d  ==
+B3     1      1 s     d  ]]
+f1              6
+C#4    1      1 s     d  [[
+E4     1      1 s     d  ==
+C#4    1      1 s     d  ==
+E4     1      1 s     d  ]]
+measure 19
+f1              7
+F#3    1      1 s     d  [[
+A3     1      1 s     d  ==
+F#3    1      1 s     d  ==
+A3     1      1 s     d  ]]
+f1              #
+P    C1:Y76
+B2     1      1 s     d  [[
+F#3    1      1 s     d  ==
+B2     1      1 s     d  ==
+F#3    1      1 s     d  ]]
+E3     1      1 s     d  [[
+B3     1      1 s     d  ==
+E3     1      1 s     d  ==
+B3     1      1 s     d  ]]
+E3     1      1 s     d  [[
+B3     1      1 s     d  ==
+E3     1      1 s     d  ==
+B3     1      1 s     d  ]]
+measure 20
+f1              6
+D#3    1      1 s #   d  [[
+B3     1      1 s     d  ==
+D#3    1      1 s     d  ==
+B3     1      1 s     d  ]]
+D#3    1      1 s #   d  [[
+B3     1      1 s     d  ==
+D#3    1      1 s     d  ==
+B3     1      1 s     d  ]]
+E3     1      1 s     d  [[
+B3     1      1 s     d  ==
+E3     1      1 s     d  ==
+B3     1      1 s     d  ]]
+E3     1      1 s     d  [[
+B3     1      1 s     d  ==
+E3     1      1 s     d  ==
+B3     1      1 s     d  ]]
+measure 21
+f1              6
+E#3    1      1 s #   d  [[
+C#4    1      1 s     d  ==
+E#3    1      1 s     d  ==
+C#4    1      1 s     d  ]]
+E#3    1      1 s #   d  [[
+C#4    1      1 s     d  ==
+E#3    1      1 s     d  ==
+C#4    1      1 s     d  ]]
+F#3    1      1 s     d  [[
+C#4    1      1 s     d  ==
+F#3    1      1 s     d  ==
+C#4    1      1 s     d  ]]
+F#3    1      1 s     d  [[
+C#4    1      1 s     d  ==
+F#3    1      1 s     d  ==
+C#4    1      1 s     d  ]]
+measure 22
+f1              6
+D#3    1      1 s #   d  [[
+B3     1      1 s     d  ==
+D#3    1      1 s     d  ==
+B3     1      1 s     d  ]]
+D#3    1      1 s #   d  [[
+B3     1      1 s     d  ==
+D#3    1      1 s     d  ==
+B3     1      1 s     d  ]]
+E3     1      1 s     d  [[
+B3     1      1 s     d  ==
+E3     1      1 s     d  ==
+B3     1      1 s     d  ]]
+E3     1      1 s     d  [[
+B3     1      1 s     d  ==
+E3     1      1 s n   d  ==
+B3     1      1 s     d  ]]
+measure 23
+f1              6
+P   C1:Y74
+C#3    1      1 s     d  [[
+A3     1      1 s     d  ==
+C#3    1      1 s     d  ==
+A3     1      1 s     d  ]]
+C#3    1      1 s     d  [[
+A3     1      1 s     d  ==
+C#3    1      1 s     d  ==
+A3     1      1 s     d  ]]
+f1              6
+D3     1      1 s     d  [[
+A3     1      1 s     d  ==
+D3     1      1 s     d  ==
+B3     1      1 s     d  ]]
+f1              6
+D#3    1      1 s #   d  [[
+B3     1      1 s     d  ==
+D#3    1      1 s     d  ==
+B3     1      1 s     d  ]]
+measure 24
+f1              6
+E3     1      1 s     d  [[
+B3     1      1 s     d  ==
+E3     1      1 s     d  ==
+C#4    1      1 s     d  ]]
+f1              6
+E#3    1      1 s #   d  [[
+C#4    1      1 s     d  ==
+E#3    1      1 s     d  ==
+C#4    1      1 s     d  ]]
+f1              6
+F#3    1      1 s     d  [[
+C#4    1      1 s     d  ==
+F#3    1      1 s     d  ==
+D4     1      1 s     d  ]]
+F#3    1      1 s     d  [[
+D4     1      1 s     d  ==
+F#3    1      1 s     d  ==
+D4     1      1 s     d  ]]
+measure 25
+f1              7
+E3     1      1 s     d  [[
+D4     1      1 s     d  ==
+E3     1      1 s     d  ==
+D4     1      1 s     d  ]]
+f2              6 4
+E3     1      1 s     d  [[
+C#4    1      1 s     d  ==
+E3     1      1 s     d  ==
+C#4    1      1 s     d  ]]
+f2              5 4
+E3     1      1 s     d  [[
+B3     1      1 s     d  ==
+E3     1      1 s     d  ==
+B3     1      1 s     d  ]]
+f2              b 3
+E3     1      1 s     d  [[
+B3     1      1 s     d  ==
+E3     1      1 s     d  ==
+B3     1      1 s     d  ]]
+measure 26
+A2     1      1 s     d  [[
+A3     1      1 s     d  ==
+A2     1      1 s     d  ==
+A3     1      1 s     d  ]]
+f2              6 5n
+P   C1:Y78
+C#3    1      1 s     d  [[
+A3     1      1 s     d  ==
+C#3    1      1 s     d  ==
+A3     1      1 s     d  ]]
+f1              4n
+D3     1      1 s     d  [[
+A3     1      1 s     d  ==
+f1              3
+D3     1      1 s     d  ==
+B3     1      1 s     d  ]]
+f2              6 5
+D#3    1      1 s #   d  [[
+B3     1      1 s     d  ==
+D#3    1      1 s     d  ==
+B3     1      1 s     d  ]]
+measure 27
+f1              4
+E3     1      1 s     d  [[
+B3     1      1 s     d  ==
+f1              3
+E3     1      1 s     d  ==
+C#4    1      1 s     d  ]]
+f2              6 5
+E#3    1      1 s #   d  [[
+C#4    1      1 s     d  ==
+E#3    1      1 s     d  ==
+C#4    1      1 s     d  ]]
+f2              6 4
+F#3    1      1 s     d  [[
+C#4    1      1 s     d  ==
+F#3    1      1 s     d  ==
+D4     1      1 s     d  ]]
+f1              6
+F#3    1      1 s     d  [[
+D4     1      1 s     d  ==
+F#3    1      1 s     d  ==
+D4     1      1 s     d  ]]
+measure 28
+f1              7
+E3     1      1 s     d  [[
+D4     1      1 s     d  ==
+E3     1      1 s     d  ==
+D4     1      1 s     d  ]]
+f2              6 4
+E3     1      1 s     d  [[
+C#4    1      1 s     d  ==
+E3     1      1 s     d  ==
+C#4    1      1 s     d  ]]
+f2              5 4
+E3     1      1 s     d  [[
+B3     1      1 s     d  ==
+E3     1      1 s     d  ==
+A3     1      1 s     d  ]]
+f2              b 3
+E3     1      1 s     d  [[
+G#3    1      1 s     d  ==
+E3     1      1 s     d  ==
+G#3    1      1 s     d  ]]
+measure 29
+A2    16      1 w     u        F
+mheavy2
+/END
+/eof
+//
+@@@system-decoration: [(s1,s2)]
+@@@URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._2:_Sonate_a_violino_e_basso_per_il_cembalo
+@@@URL-pdf: https://pdf.musedata.org/vivaldi-op02-no02.pdf#page=1 MuseData edition
+@@@URL-pdf: http://conquest.imslp.info/files/imglnks/usimg/b/b7/IMSLP99075-PMLP183164-Vivaldi_-_Sonatas_Op2.pdf#page=5 Estienne Roger Amsterdam: Estienne Roger, No.2, n.d.[1711].
+@@@URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=0s L'Arte dell'Arco
+@@@title: @{OTL}, mov. @{OMV}
+@@@filter: addkey
+@@@filter: humbreak -m 5,10,15,19,22,26
+@@@filter: addtempo -q "126; m7:52; m7b:126; m14:52; m15:126"
+@@@EEV: 2024/04/27
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no02/stage2/01/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no02/stage2/01/02

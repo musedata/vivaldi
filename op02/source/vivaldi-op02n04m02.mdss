@@ -1,0 +1,26 @@
+@@@COM: Vivaldi, Antonio Lucio
+@@@CDT: 1678/03/04-1741/08/28
+@@@OPR: 12 Sonatas for Violin and Basso continuo
+@@@OTL: Sonata in F major, op. @{OPS}, no. @{ONM} (@{SCT})
+@@@OPS: 2
+@@@ONM: 4
+@@@OMV: 2. Allemanda
+@@@SCT: RV 20
+@@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
+@@@OMD: Allegro
+@@@key: F
+#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no04/stage2/02/01
+/eof
+#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no04/stage2/02/02
+/eof
+//
+@@@system-decoration: [(s1,s2)]
+@@@URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._2:_Sonate_a_violino_e_basso_per_il_cembalo
+@@@URL-pdf: https://pdf.musedata.org/vivaldi-op02-no04.pdf#page=2 MuseData edition
+@@@URL-pdf: http://conquest.imslp.info/files/imglnks/usimg/b/b7/IMSLP99075-PMLP183164-Vivaldi_-_Sonatas_Op2.pdf#page=14 Estienne Roger Amsterdam: Estienne Roger, No.2, n.d.[1711].
+@@@URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=1083s L'Arte dell'Arco
+@@@title: @{OTL}, mov. @{OMV}
+@@@filter: addkey
+@@@filter: humbreak -m 4,8,12,16,20,24,p28,32
+@@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "0:A; m15:B"
+@@@filter: addtempo -q 136

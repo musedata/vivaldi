@@ -1,0 +1,307 @@
+@@@COM: Vivaldi, Antonio Lucio
+@@@CDT: 1678/03/04-1741/08/28
+@@@OPR: 12 Sonatas for Violin and Basso continuo
+@@@OTL: Sonata in D minor, op. @{OPS}, no. @{ONM} (@{SCT})
+@@@OPS: 2
+@@@ONM: 3
+@@@OMV: 3. [Adagio]
+@@@SCT: RV 14
+@@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
+@@@OMD: Adagio
+@@@key: d
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no03/stage2/03/01
+COMMIT = b304e9116f2083a00fde4590d53eadf6ec6f1cde
+DOWNLOAD_DATE = Sat Apr 27 08:11:59 PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op2/rv014/stage2/03/01}
+TIMESTAMP: DEC/10/2005 [md5sum:1eda0de01850cd7c2788443baadc371d]
+11/22/04 Fran Bennion; rev. 04/21 E. Correia
+WK#:02,03     MV#:3
+RV 14 / Estienne Roger, Amsterdam [facs.]
+Vivaldi Op. 2, No. 3 in d minor
+Movement 3
+Violino
+
+Group memberships: score
+score: part 1 of 2
+$   Q:12 K:-1 T:1/1 C:4  D:Adagio
+rest  48      1
+measure 2
+A5    12-     1 q     d        -
+A5     3      1 s     d  [[
+G5     3      1 s     d  ==
+F5     3      1 s     d  ==
+E5     3      1 s     d  ]]
+D5    18      1 q.    d
+D5     6      1 e     d
+measure 3
+Bf5    6      1 e     d  [
+E5     3      1 s     d  =[
+Bf5    3      1 s     d  ]]
+A5     9      1 e.    d  [
+G5     3      1 s     d  ]\
+F5     3      1 s     d  [[
+E5     3      1 s     d  =]
+D5     6      1 e     d  ]
+rest   6      1 e
+A5     3      1 s     d  [[    (
+D5     3      1 s     d  ]]    )
+measure 4
+D5     6      1 e     d  [
+A5     3      1 s     d  =[    (
+C5     3      1 s     d  ]]    )
+C5     6      1 e     d  [
+C5     6      1 e     d  ]
+C5     6      1 e     d  [     (t
+B4     6      1 e n   d  ]     )
+rest   6      1 e
+G5     3      1 s     d  [[    (
+C5     3      1 s     d  ]]    )
+measure 5
+C5     6      1 e     d  [
+G5     3      1 s     d  =[    (
+Bf4    3      1 s f   d  ]]    )+
+Bf4    6      1 e     d  [
+Bf4    6      1 e     d  ]
+Bf4    6      1 e     u  [     (t
+A4     6      1 e     u  ]     )
+rest   6      1 e
+F5     3      1 s     d  [[    (
+D5     3      1 s     d  ]]    )
+measure 6
+Ef5    6      1 e f   d  [
+Bf5    3      1 s     d  =[    (
+G5     3      1 s     d  ]]    )
+Ef5    3      1 s f   d  [[
+G5     3      1 s     d  ==
+A5     3      1 s     d  ==
+Bf5    3      1 s     d  ]]
+C#5   12      1 q #   d
+rest   3      1 s
+C#5    3      1 s     d  [[
+B4     3      1 s n   d  ==
+A4     3      1 s     d  ]]
+measure 7
+A5     9      1 e.    d  [
+G5     3      1 s     d  ]\    (
+F5     3      1 s     d  [[
+E5     3      1 s     d  ==
+D5     3      1 s     d  ==
+C5     3      1 s     d  ]]    )
+B4     6      1 e n   d  [
+C5     3      1 s     d  =[    (
+D5     3      1 s     d  ]]
+E5     3      1 s     d  [[
+F5     3      1 s     d  ==
+G5     3      1 s     d  ==
+B4     3      1 s n   d  ]]    )
+measure 8
+C#5    6      1 e #   d  [
+D5     3      1 s     d  =[    (
+E5     3      1 s     d  ]]
+F5     3      1 s     d  [[
+G5     3      1 s     d  ==
+A5     3      1 s     d  ==
+C#5    3      1 s #   d  ]]    )
+D5     6      1 e     d  [
+E5     3      1 s     d  =[    (
+F5     3      1 s     d  ]]
+G5     3      1 s     d  [[
+A5     3      1 s     d  ==
+Bf5    3      1 s     d  ==
+D5     3      1 s     d  ]]    )
+measure 9
+C#5    2      1 s #3  d  [[    *(
+B4     2      1 s n3  d  ==
+A4     2      1 s  3  d  =]    !)
+F5     2      1 s  3  d  =[    *(
+E5     2      1 s  3  d  ==
+D5     2      1 s  3  d  ]]    !)
+C#5    9      1 e.#   d  [     t
+D5     3      1 s     d  ]\
+D5    24-     1 h     d        -
+measure 10
+D5     9      1 e.    d  [
+F5     3      1 s     d  ]\
+E5     3      1 s     d  [[
+A4     3      1 s     d  ==
+G4     3      1 s     d  ==
+G5     3      1 s     d  ]]
+F5     6      1 e     d  [
+E5     3      1 s     d  =[
+D5     3      1 s     d  ]]
+C#5    9      1 e.#   d  [     t
+D5     3      1 s     d  ]\
+measure 11
+D5    48      1 w     d        F
+mheavy2
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no03/stage2/03/02
+COMMIT = b304e9116f2083a00fde4590d53eadf6ec6f1cde
+DOWNLOAD_DATE = Sat Apr 27 08:11:59 PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op2/rv014/stage2/03/02}
+TIMESTAMP: DEC/10/2005 [md5sum:6bdc9234d133b4d45d436820c73e67d4]
+11/22/04 Fran Bennion; rev. 04/21 E. Correia
+WK#:02,03     MV#:3
+RV 14 / Estienne Roger, Amsterdam [facs.]
+Vivaldi Op. 2, No. 3 in d minor
+Movement 3
+Basso continuo
+
+Group memberships: score
+score: part 2 of 2
+$   Q:2 K:-1 T:1/1 C:22  D:Adagio
+D4     1      1 e     d  [
+D4     1      1 e     d  =
+f1              6\
+E4     1      1 e     d  =
+E4     1      1 e     d  ]
+f1              6
+F4     1      1 e     d  [
+F4     1      1 e     d  =
+f1              6
+C#4    1      1 e #   d  =
+C#4    1      1 e     d  ]
+measure 2
+f1              9
+D4     1      1 e     d  [
+f1              8
+D4     1      1 e     d  ]
+f1              6
+C4     1    &01 e n   d  [      +
+C4     1      1 e     d  ]
+f2              7 5
+Bf3    1      1 e     d  [
+Bf3    1      1 e     d  =
+f2              6 4
+A3     1      1 e     d  =
+A3     1      1 e     d  ]
+measure 3
+G3     1      1 e     d  [
+f1              6
+C#3    1      1 e     d  ]
+C#3    1      1 e     u  [
+C#3    1      1 e     u  ]
+D3     1      1 e     d  [
+D3     1      1 e     d  ]
+D3     1      1 e     d  [
+D3     1      1 e     d  ]
+measure 4
+f1              6
+F#3    1      1 e #   d  [
+F#3    1      1 e     d  ]
+f2              7 #
+D3     1      1 e     d  [
+D3     1      1 e     d  ]
+f1              4
+G3     1      1 e     d  [
+f1              n
+G3     1      1 e     d  ]
+f2              4n 2
+F3     1      1 e     d  [      &1+
+F3     1      1 e     d  ]
+&1
+No natural in Roger on F3s but understood. Harmonic changes dictates
+returning to the key signature at the end of the measure.
+&1
+measure 5
+f1              6
+E3     1      1 e     d  [
+E3     1      1 e     d  ]
+f1              7
+C3     1      1 e     u  [
+C3     1      1 e     u  ]
+f1              4
+F3     1      1 e     d  [
+f1              3
+F3     1      1 e     d  ]
+F3     1      1 e     d  [
+F3     1      1 e     d  ]
+measure 6
+f1              6f
+G3     1      1 e     d  [
+G3     1      1 e     d  ]
+G3     1      1 e     d  [
+G3     1      1 e     d  ]
+f1              #
+A3     1      1 e     d  [
+A3     1      1 e     d  ]
+f2              4+ 2
+G3     1      1 e     d  [
+G3     1      1 e     d  ]
+measure 7
+f1              6
+F3     1      1 e     d  [
+F3     1      1 e     d  ]
+F3     1      1 e     d  [
+F3     1      1 e     d  ]
+f1              n
+G3     1      1 e     d  [
+G3     1      1 e     d  ]
+G3     1      1 e     d  [
+G3     1      1 e     d  ]
+measure 8
+f1              #
+A3     1      1 e     d  [
+A3     1      1 e     d  ]
+A3     1      1 e     d  [
+A3     1      1 e     d  ]
+f1              5
+Bf3    1      1 e     d  [
+Bf3    1      1 e     d  ]
+f1              6
+Bf3    1      1 e     d  [
+Bf3    1      1 e     d  ]
+measure 9
+f1              #
+A3     1      1 e     d  [
+D3     1      1 e     d  ]
+f1              #
+A3     1      1 e     d  [
+A2     1      1 e     d  ]
+D3     1      1 e     d  [
+D3     1      1 e     d  =
+E3     1      1 e     d  =
+E3     1      1 e     d  ]
+measure 10
+f1              6
+F3     1      1 e     d  [
+F3     1      1 e     d  ]
+f1              6
+C#3    1      1 e #   u  [
+C#3    1      1 e     u  ]
+D3     1      1 e     d  [
+f2              6 5
+G3     1      1 e     d  ]
+f2              5 4
+A3     1      1 e     d  [
+f1              #
+A2     1      1 e     d  ]
+measure 11
+D3     8      1 w     d        F
+mheavy2
+/END
+/eof
+//
+@@@system-decoration: [(s1,s2)]
+@@@URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._2:_Sonate_a_violino_e_basso_per_il_cembalo
+@@@URL-pdf: https://pdf.musedata.org/vivaldi-op02-no03.pdf#page=3 MuseData edition
+@@@URL-pdf: http://conquest.imslp.info/files/imglnks/usimg/b/b7/IMSLP99075-PMLP183164-Vivaldi_-_Sonatas_Op2.pdf#page=11 Estienne Roger Amsterdam: Estienne Roger, No.2, n.d.[1711].
+@@@URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=780s L'Arte dell'Arco
+@@@title: @{OTL}, mov. @{OMV}
+@@@filter: addkey
+@@@filter: humbreak -m 4,8
+@@@filter: addtempo -q 40
+@@@EEV: 2024/04/27
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no03/stage2/03/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no03/stage2/03/02

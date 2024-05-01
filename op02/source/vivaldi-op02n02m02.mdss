@@ -1,0 +1,27 @@
+@@@COM: Vivaldi, Antonio Lucio
+@@@CDT: 1678/03/04-1741/08/28
+@@@OPR: 12 Sonatas for Violin and Basso continuo
+@@@OTL: Sonata in A major, op. @{OPS}, no. @{ONM} (@{SCT})
+@@@OPS: 2
+@@@ONM: 2
+@@@OMV: 2. Corrente — Adagio
+@@@SCT: RV 31
+@@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
+@@@OMD: Allegro
+@@@key: A
+#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no02/stage2/02/01
+/eof
+#INCLUDE https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no02/stage2/02/02
+/eof
+//
+@@@system-decoration: [(s1,s2)]
+@@@URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._2:_Sonate_a_violino_e_basso_per_il_cembalo
+@@@URL-pdf: https://pdf.musedata.org/vivaldi-op02-no02.pdf#page=2 MuseData edition
+@@@URL-pdf: http://conquest.imslp.info/files/imglnks/usimg/b/b7/IMSLP99075-PMLP183164-Vivaldi_-_Sonatas_Op2.pdf#page=6 Estienne Roger Amsterdam: Estienne Roger, No.2, n.d.[1711].
+@@@URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=63s L'Arte dell'Arco (Corrente: Allegro)
+@@@URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=176s L'Arte dell'Arco (Adagio)
+@@@title: @{OTL}, mov. @{OMV}
+@@@filter: addkey
+@@@filter: humbreak -m 10,20,32,44,54,66,72
+@@@filter: addtempo -q "120; m69:48"
+@@@filter: addlabels -d "A,A,B,B,C" -r "A,B,C" -l "0:A; m23:B; m69:C"

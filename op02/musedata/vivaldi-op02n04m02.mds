@@ -1,0 +1,949 @@
+@@@COM: Vivaldi, Antonio Lucio
+@@@CDT: 1678/03/04-1741/08/28
+@@@OPR: 12 Sonatas for Violin and Basso continuo
+@@@OTL: Sonata in F major, op. @{OPS}, no. @{ONM} (@{SCT})
+@@@OPS: 2
+@@@ONM: 4
+@@@OMV: 2. Allemanda
+@@@SCT: RV 20
+@@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
+@@@OMD: Allegro
+@@@key: F
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no04/stage2/02/01
+COMMIT = b304e9116f2083a00fde4590d53eadf6ec6f1cde
+DOWNLOAD_DATE = Sat Apr 27 08:12:06 PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op2/rv020/stage2/02/01}
+TIMESTAMP: DEC/10/2005 [md5sum:ac73eb85fde92f997db522738df18e56]
+11/24/04 Fran Bennion; rev. 04/21 E. Correia
+WK#:02,04     MV#:2
+RV 20 / Estienne Roger, Amsterdam [facs.]
+Vivaldi Op. 2, No. 4 in F Major
+Movement 2 - Allemanda
+Violino
+
+Group memberships: score
+score: part 1 of 2
+$   Q:4 K:-1 T:1/1 C:4  D:Allegro
+F5     4      1 q     d
+C5     3      1 e.    d  [
+F5     1      1 s     d  ]\
+G5     4      1 q     d
+C5     3      1 e.    d  [
+G5     1      1 s     d  ]\
+measure 2
+A5     4      1 q     d
+C5     3      1 e.    d  [
+A5     1      1 s     d  ]\
+G5     2      1 e     d  [
+E5     2      1 e     d  ]
+C5     4      1 q     d
+measure 3
+C5     1      1 s     d  [[
+Bf4    1      1 s     d  ==
+C5     1      1 s     d  ==
+D5     1      1 s     d  ]]
+C5     1      1 s     d  [[
+F5     1      1 s     d  ==
+E5     1      1 s     d  ==
+F5     1      1 s     d  ]]
+D5     1      1 s     d  [[
+C5     1      1 s     d  ==
+D5     1      1 s     d  ==
+E5     1      1 s     d  ]]
+D5     1      1 s     d  [[
+C5     1      1 s     d  ==
+D5     1      1 s     d  ==
+E5     1      1 s     d  ]]
+measure 4
+D5     1      1 s     d  [[
+C5     1      1 s     d  ==
+D5     1      1 s     d  ==
+E5     1      1 s     d  ]]
+D5     1      1 s     d  [[
+G5     1      1 s     d  ==
+F5     1      1 s     d  ==
+G5     1      1 s     d  ]]
+E5     1      1 s     d  [[
+D5     1      1 s     d  ==
+E5     1      1 s     d  ==
+F5     1      1 s     d  ]]
+E5     1      1 s     d  [[
+D5     1      1 s     d  ==
+E5     1      1 s     d  ==
+F5     1      1 s     d  ]]
+measure 5
+E5     1      1 s     d  [[
+D5     1      1 s     d  ==
+E5     1      1 s     d  ==
+F5     1      1 s     d  ]]
+E5     1      1 s     d  [[
+A5     1      1 s     d  ==
+G5     1      1 s     d  ==
+A5     1      1 s     d  ]]
+F5     1      1 s     d  [[
+E5     1      1 s     d  ==
+F5     1      1 s     d  ==
+G5     1      1 s     d  ]]
+F5     1      1 s     d  [[
+E5     1      1 s     d  ==
+F5     1      1 s     d  ==
+G5     1      1 s     d  ]]
+measure 6
+F5     1      1 s     d  [[
+E5     1      1 s     d  ==
+F5     1      1 s     d  ==
+G5     1      1 s     d  ]]
+F5     1      1 s     d  [[
+Bf5    1      1 s     d  ==
+A5     1      1 s     d  ==
+Bf5    1      1 s     d  ]]
+C5     1      1 s     d  [[
+E5     1      1 s     d  ==
+D5     1      1 s     d  ==
+E5     1      1 s     d  ]]
+A4     1      1 s     d  [[
+F5     1      1 s     d  ==
+E5     1      1 s     d  ==
+F5     1      1 s     d  ]]
+measure 7
+Bf4    1      1 s     d  [[
+F5     1      1 s     d  ==
+E5     1      1 s     d  ==
+F5     1      1 s     d  ]]
+C5     1      1 s     d  [[
+E5     1      1 s     d  ==
+D5     1      1 s     d  ==
+E5     1      1 s     d  ]]
+F5     4      1 q     d
+F4     4      1 q     u
+measure 8
+F5     4      1 q     d
+C5     3      1 e.    d  [
+A5     1      1 s     d  ]\
+G5     4      1 q     d
+C5     3      1 e.    d  [
+G5     1      1 s     d  ]\
+measure 9
+F5     4      1 q     d
+B4     3      1 e.n   d  [
+F5     1      1 s     d  ]\
+E5     2      1 e     d  [
+C5     2      1 e     d  ]
+C4     4      1 q     u
+measure 10
+G4     1      1 s     u  [[
+F4     1      1 s     u  ==
+G4     1      1 s     u  ==
+A4     1      1 s     u  ]]
+G4     1      1 s     u  [[
+C5     1      1 s     u  ==
+B4     1      1 s n   u  ==
+C5     1      1 s     u  ]]
+A4     1      1 s     u  [[
+G4     1      1 s     u  ==
+A4     1      1 s     u  ==
+B4     1      1 s n   u  ]]
+A4     1      1 s     u  [[
+G4     1      1 s     u  ==
+A4     1      1 s     u  ==
+B4     1      1 s n   u  ]]
+measure 11
+A4     1      1 s     u  [[
+G4     1      1 s     u  ==
+A4     1      1 s     u  ==
+B4     1      1 s n   u  ]]
+A4     1      1 s     u  [[
+D5     1      1 s     u  ==
+C5     1      1 s     u  ==
+D5     1      1 s     u  ]]
+B4     1      1 s n   u  [[
+A4     1      1 s     u  ==
+B4     1      1 s     u  ==
+C5     1      1 s     u  ]]
+B4     1      1 s n   u  [[
+A4     1      1 s     u  ==
+B4     1      1 s     u  ==
+C5     1      1 s     u  ]]
+measure 12
+B4     1      1 s n   d  [[
+A4     1      1 s     d  ==
+B4     1      1 s     d  ==
+C5     1      1 s     d  ]]
+B4     1      1 s n   d  [[
+E5     1      1 s     d  ==
+D5     1      1 s     d  ==
+E5     1      1 s     d  ]]
+C5     1      1 s     d  [[
+B4     1      1 s n   d  ==
+C5     1      1 s     d  ==
+D5     1      1 s     d  ]]
+C5     1      1 s     d  [[
+B4     1      1 s n   d  ==
+C5     1      1 s     d  ==
+D5     1      1 s     d  ]]
+measure 13
+C5     1      1 s     d  [[
+B4     1      1 s n   d  ==
+C5     1      1 s     d  ==
+D5     1      1 s     d  ]]
+C5     1      1 s     d  [[
+F5     1      1 s     d  ==
+E5     1      1 s     d  ==
+F5     1      1 s     d  ]]
+G4     1      1 s     u  [[
+B4     1      1 s n   u  ==
+A4     1      1 s     u  ==
+B4     1      1 s     u  ]]
+E4     1      1 s     u  [[
+C5     1      1 s     u  ==
+B4     1      1 s n   u  ==
+C5     1      1 s     u  ]]
+measure 14
+D4     1      1 s     u  [[
+C5     1      1 s     u  ==
+B4     1      1 s n   u  ==
+C5     1      1 s     u  ]]
+D4     1      1 s     u  [[
+B4     1      1 s n   u  ==
+A4     1      1 s     u  ==
+B4     1      1 s     u  ]]
+C5     4      1 q     d
+C4     4      1 q     u
+mheavy4 15       :|:
+C5     4      1 q     d
+G4     3      1 e.    u  [
+C5     1      1 s     u  ]\
+D5     4      1 q     d
+G4     3      1 e.    d  [
+D5     1      1 s     d  ]\
+measure 16
+E5     4      1 q     d
+G4     3      1 e.    d  [
+E5     1      1 s     d  ]\
+D5     2      1 e     d  [
+B4     2      1 e n   d  ]
+G4     4      1 q     u
+measure 17
+D5     4      1 q     d
+A4     3      1 e.    d  [
+D5     1      1 s     d  ]\
+E5     4      1 q     d
+A4     3      1 e.    d  [
+E5     1      1 s     d  ]\
+measure 18
+F5     4      1 q     d
+A4     3      1 e.    d  [
+F5     1      1 s     d  ]\
+E5     2      1 e     d  [
+C#5    2      1 e #   d  ]
+A4     4      1 q     u
+measure 19
+F5     1      1 s     d  [[
+E5     1      1 s     d  ==
+F5     1      1 s     d  ==
+G5     1      1 s     d  ]]
+F5     1      1 s     d  [[
+Bf5    1      1 s     d  ==
+A5     1      1 s     d  ==
+Bf5    1      1 s     d  ]]
+E5     1      1 s     d  [[
+D5     1      1 s     d  ==
+E5     1      1 s     d  ==
+F5     1      1 s     d  ]]
+E5     1      1 s     d  [[
+A5     1      1 s     d  ==
+G5     1      1 s     d  ==
+A5     1      1 s     d  ]]
+measure 20
+D5     1      1 s     d  [[
+C5     1      1 s     d  ==
+D5     1      1 s     d  ==
+E5     1      1 s     d  ]]
+D5     1      1 s     d  [[
+G5     1      1 s     d  ==
+F5     1      1 s     d  ==
+G5     1      1 s     d  ]]
+C5     1      1 s     d  [[
+Bf4    1      1 s     d  ==
+C5     1      1 s     d  ==
+D5     1      1 s     d  ]]
+C5     1      1 s     d  [[
+F5     1      1 s     d  ==
+E5     1      1 s     d  ==
+F5     1      1 s     d  ]]
+measure 21
+Bf4    1      1 s     d  [[
+A4     1      1 s     d  ==
+Bf4    1      1 s     d  ==
+C5     1      1 s     d  ]]
+Bf4    1      1 s     d  [[
+E5     1      1 s     d  ==
+D5     1      1 s     d  ==
+E5     1      1 s     d  ]]
+A4     1      1 s     u  [[
+G4     1      1 s     u  ==
+A4     1      1 s     u  ==
+Bf4    1      1 s     u  ]]
+A4     1      1 s     d  [[
+D5     1      1 s     d  ==
+C5     1      1 s     d  ==
+D5     1      1 s     d  ]]
+measure 22
+G4     1      1 s     d  [[
+D5     1      1 s     d  ==
+C#5    1      1 s #   d  ==
+D5     1      1 s     d  ]]
+E4     1      1 s     u  [[
+C#5    1      1 s     u  ==
+B4     1      1 s n   u  ==
+C#5    1      1 s #   u  ]]
+D5     2      1 e     u  [
+D4     2      1 e     u  ]
+rest   2      1 e
+F5     2      1 e     d
+measure 23
+D5     2      1 e     d  [
+B4     2      1 e n   d  ]
+G4     2      1 e     d  [
+F5     2      1 e     d  ]
+E5     2      1 e     u  [
+C4     2      1 e     u  ]
+rest   2      1 e
+Ef5    2      1 e f   d
+measure 24
+C5     2      1 e     u  [
+A4     2      1 e     u  ]
+F4     2      1 e     u  [
+Ef5    2      1 e f   u  ]
+D5     2      1 e     u  [
+Bf3    2      1 e     u  ]
+rest   2      1 e
+D5     2      1 e     d
+measure 25
+G5     2      1 e     d  [
+F5     2      1 e     d  ]
+F5     2      1 e     d  [     t
+E5     1      1 s n   d  =[     +
+D5     1      1 s     d  ]]
+E5     2      1 e     d  [
+C5     2      1 e     d  ]
+C4     4      1 q     u
+measure 26
+C5     1      1 s     d  [[
+Bf4    1      1 s     d  ==
+C5     1      1 s     d  ==
+D5     1      1 s     d  ]]
+C5     1      1 s     d  [[
+F5     1      1 s     d  ==
+E5     1      1 s     d  ==
+F5     1      1 s     d  ]]
+D5     1      1 s     d  [[
+C5     1      1 s     d  ==
+D5     1      1 s     d  ==
+E5     1      1 s     d  ]]
+D5     1      1 s     d  [[
+C5     1      1 s     d  ==
+D5     1      1 s     d  ==
+E5     1      1 s     d  ]]
+measure 27
+D5     1      1 s     d  [[
+C5     1      1 s     d  ==
+D5     1      1 s     d  ==
+E5     1      1 s     d  ]]
+D5     1      1 s     d  [[
+G5     1      1 s     d  ==
+F5     1      1 s     d  ==
+G5     1      1 s     d  ]]
+E5     1      1 s     d  [[
+D5     1      1 s     d  ==
+E5     1      1 s     d  ==
+F5     1      1 s     d  ]]
+E5     1      1 s     d  [[
+D5     1      1 s     d  ==
+E5     1      1 s     d  ==
+F5     1      1 s     d  ]]
+measure 28
+E5     1      1 s     d  [[
+D5     1      1 s     d  ==
+E5     1      1 s     d  ==
+F5     1      1 s     d  ]]
+E5     1      1 s     d  [[
+A5     1      1 s     d  ==
+G5     1      1 s     d  ==
+A5     1      1 s     d  ]]
+F5     1      1 s     d  [[
+E5     1      1 s     d  ==
+F5     1      1 s     d  ==
+G5     1      1 s     d  ]]
+F5     1      1 s     d  [[
+E5     1      1 s     d  ==
+F5     1      1 s     d  ==
+G5     1      1 s     d  ]]
+measure 29
+F5     1      1 s     d  [[
+E5     1      1 s     d  ==
+F5     1      1 s     d  ==
+G5     1      1 s     d  ]]
+F5     1      1 s     d  [[
+Bf5    1      1 s     d  ==
+A5     1      1 s     d  ==
+Bf5    1      1 s     d  ]]
+C5     1      1 s     d  [[
+E5     1      1 s     d  ==
+D5     1      1 s     d  ==
+E5     1      1 s     d  ]]
+A4     1      1 s     d  [[
+F5     1      1 s     d  ==
+E5     1      1 s     d  ==
+F5     1      1 s     d  ]]
+measure 30
+Bf4    1      1 s     d  [[
+F5     1      1 s     d  ==
+E5     1      1 s     d  ==
+F5     1      1 s     d  ]]
+C5     1      1 s     d  [[
+E5     1      1 s     d  ==
+D5     1      1 s     d  ==
+E5     1      1 s     d  ]]
+F5     4      1 q     d
+F4     4      1 q     u
+measure 31
+A4     2      1 e     u  [
+C5     2      1 e     u  ]
+A4     2      1 e     u  [
+F4     2      1 e     u  ]
+Bf4    2      1 e     u  [
+Bf3    2      1 e     u  ]
+rest   4      1 q
+measure 32
+B4     2      1 e n   d  [
+D5     2      1 e     d  ]
+B4     2      1 e n   u  [
+G4     2      1 e     u  ]
+C5     2      1 e     u  [
+C4     2      1 e     u  ]
+rest   4      1 q
+measure 33
+C#5    2      1 e #   d  [
+E5     2      1 e     d  ]
+C#5    2      1 e #   d  [
+A4     2      1 e     d  ]
+D5     2      1 e     u  [
+D4     2      1 e     u  ]
+rest   4      1 q
+measure 34
+D5     2      1 e     d  [
+F5     2      1 e     d  ]
+D5     2      1 e     d  [
+Bf4    2      1 e     d  ]
+G4     2      1 e     u  [
+E4     2      1 e     u  ]
+F4     2      1 e     u  [
+C5     2      1 e     u  ]
+measure 35
+Bf4    2      1 e     u  [
+A4     2      1 e     u  ]
+G4     4      1 q     u
+F4     8      1 h     u        F
+mheavy2          :|
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no04/stage2/02/02
+COMMIT = b304e9116f2083a00fde4590d53eadf6ec6f1cde
+DOWNLOAD_DATE = Sat Apr 27 08:12:06 PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op2/rv020/stage2/02/02}
+TIMESTAMP: DEC/10/2005 [md5sum:bb03ed7822c05189e29615367e914ec9]
+11/24/04 Fran Bennion; rev. 04/21 E. Correia
+WK#:02,04     MV#:2
+RV 20 / Estienne Roger, Amsterdam [facs.]
+Vivaldi Op. 2, No. 4 in F Major
+Movement 2 - Allemanda
+Basso continuo
+
+Group memberships: score
+score: part 2 of 2
+$   Q:4 K:-1 T:1/1 C:22  D:Allegro
+F3     1      1 s     d  [[
+C4     1      1 s     d  ==
+F3     1      1 s     d  ==
+C4     1      1 s     d  ]]
+F3     1      1 s     d  [[
+C4     1      1 s     d  ==
+F3     1      1 s     d  ==
+C4     1      1 s     d  ]]
+f1              6
+E3     1      1 s     d  [[
+C4     1      1 s     d  ==
+E3     1      1 s     d  ==
+C4     1      1 s     d  ]]
+E3     1      1 s     d  [[
+C4     1      1 s     d  ==
+E3     1      1 s     d  ==
+C4     1      1 s     d  ]]
+measure 2
+F3     1      1 s     d  [[
+C4     1      1 s     d  ==
+F3     1      1 s     d  ==
+C4     1      1 s     d  ]]
+F3     1      1 s     d  [[
+C4     1      1 s     d  ==
+F3     1      1 s     d  ==
+C4     1      1 s     d  ]]
+f1              6
+E3     1      1 s     d  [[
+C4     1      1 s     d  ==
+E3     1      1 s     d  ==
+C4     1      1 s     d  ]]
+E3     1      1 s     d  [[
+C4     1      1 s     d  ==
+E3     1      1 s     d  ==
+C4     1      1 s     d  ]]
+measure 3
+F3     2      1 e     d  [
+C4     2      1 e     d  ]
+A3     2      1 e     d  [
+F3     2      1 e     d  ]
+Bf3    2      1 e     d  [
+Bf2    2      1 e     d  ]
+rest   4      1 q
+measure 4
+f1              6
+B3     2      1 e n   d  [
+D4     2      1 e     d  ]
+B3     2      1 e n   d  [
+G3     2      1 e     d  ]
+C4     2      1 e     d  [
+C3     2      1 e     d  ]
+rest   4      1 q
+measure 5
+f1              6
+C#4    2      1 e #   d  [
+E4     2      1 e     d  ]
+C#4    2      1 e #   d  [
+A3     2      1 e     d  ]
+D4     2      1 e     d  [
+D3     2      1 e     d  ]
+rest   4      1 q
+measure 6
+f1              5
+D4     2      1 e     d  [
+F4     2      1 e     d  ]
+f1              6
+D4     2      1 e     d  [
+Bf3    2      1 e     d  ]
+f1              6
+E3     2      1 e     u  [
+C3     2      1 e     u  ]
+F3     2      1 e     u  [
+F2     2      1 e     u  ]
+measure 7
+G2     2      1 e     d  [
+G3     2      1 e     d  ]
+C4     2      1 e     d  [
+C3     2      1 e     d  ]
+F2     8      1 h     u
+measure 8
+F3     1      1 s     d  [[
+C4     1      1 s     d  ==
+F3     1      1 s     d  ==
+C4     1      1 s     d  ]]
+F3     1      1 s     d  [[
+C4     1      1 s     d  ==
+F3     1      1 s     d  ==
+C4     1      1 s     d  ]]
+f1              6
+E3     1      1 s     d  [[
+C4     1      1 s     d  ==
+E3     1      1 s     d  ==
+C4     1      1 s     d  ]]
+E3     1      1 s     d  [[
+C4     1      1 s     d  ==
+E3     1      1 s     d  ==
+C4     1      1 s     d  ]]
+measure 9
+f1              7
+D3     1      1 s     d  [[
+C4     1      1 s     d  ==
+D3     1      1 s     d  ==
+C4     1      1 s     d  ]]
+f1              6n
+D3     1      1 s     d  [[
+B3     1      1 s n   d  ==
+D3     1      1 s     d  ==
+B3     1      1 s     d  ]]
+f1              6
+E3     1      1 s     d  [[
+C4     1      1 s     d  ==
+E3     1      1 s     d  ==
+C4     1      1 s     d  ]]
+E3     1      1 s     d  [[
+C4     1      1 s     d  ==
+E3     1      1 s     d  ==
+C4     1      1 s     d  ]]
+measure 10
+f1              6
+E3     2      1 e     d  [
+G3     2      1 e     d  ]
+E3     2      1 e     d  [
+C3     2      1 e     d  ]
+F3     2      1 e     u  [
+F2     2      1 e     u  ]
+rest   4      1 q
+measure 11
+f1              6
+F#3    2      1 e #   d  [
+A3     2      1 e     d  ]
+F#3    2      1 e #   d  [
+D3     2      1 e     d  ]
+f1              n
+G3     2      1 e     u  [
+G2     2      1 e     u  ]
+rest   4      1 q
+measure 12
+f1              6 (n)
+G#3    2      1 e #   d  [
+B3     2      1 e n   d  ]
+G#3    2      1 e #   d  [
+E3     2      1 e     d  ]
+A3     2      1 e     d  [
+A2     2      1 e     d  ]
+rest   4      1 q
+measure 13
+f1              5
+A3     2      1 e     d  [
+C4     2      1 e     d  ]
+f1              6
+A3     2      1 e     d  [
+F3     2      1 e     d  ]
+f1              6
+B2     2      1 e n   u  [
+G2     2      1 e     u  ]
+C3     2      1 e     u  [
+E3     2      1 e     u  ]
+measure 14
+f2              6 5
+F3     2      1 e     d  [
+D3     2      1 e     d  ]
+f1              n
+G3     2      1 e     d  [
+G2     2      1 e     d  ]
+C3     8      1 h     u
+mheavy4 15       :|:
+C3     1      1 s     d  [[
+G3     1      1 s     d  ==
+C3     1      1 s     d  ==
+G3     1      1 s     d  ]]
+C3     1      1 s     d  [[
+G3     1      1 s     d  ==
+C3     1      1 s     d  ==
+G3     1      1 s     d  ]]
+f1              6
+P    C1:Y80
+B2     1      1 s n   d  [[
+G3     1      1 s     d  ==
+B2     1      1 s     d  ==
+G3     1      1 s     d  ]]
+B2     1      1 s n   d  [[
+G3     1      1 s     d  ==
+B2     1      1 s     d  ==
+G3     1      1 s     d  ]]
+measure 16
+C3     1      1 s     d  [[
+G3     1      1 s     d  ==
+C3     1      1 s     d  ==
+G3     1      1 s     d  ]]
+C3     1      1 s     d  [[
+G3     1      1 s     d  ==
+C3     1      1 s     d  ==
+G3     1      1 s     d  ]]
+f1              6
+B2     8      1 h n   u
+measure 17
+D3     1      1 s     d  [[
+A3     1      1 s     d  ==
+D3     1      1 s     d  ==
+A3     1      1 s     d  ]]
+D3     1      1 s     d  [[
+A3     1      1 s     d  ==
+D3     1      1 s     d  ==
+A3     1      1 s     d  ]]
+f1              6
+P    C1:Y78
+C#3    1      1 s #   d  [[
+A3     1      1 s     d  ==
+C#3    1      1 s     d  ==
+A3     1      1 s     d  ]]
+C#3    1      1 s #   d  [[
+A3     1      1 s     d  ==
+C#3    1      1 s     d  ==
+A3     1      1 s     d  ]]
+measure 18
+D3     1      1 s     d  [[
+A3     1      1 s     d  ==
+D3     1      1 s     d  ==
+A3     1      1 s     d  ]]
+D3     1      1 s     d  [[
+A3     1      1 s     d  ==
+D3     1      1 s     d  ==
+A3     1      1 s     d  ]]
+f1              6
+C#3    8      1 h #   u
+measure 19
+D4     2      1 e     d  [
+F3     2      1 e     d  ]
+D3     2      1 e     d  [
+D4     2      1 e     d  ]
+f1              6
+C#4    2      1 e #   d  [
+C#3    2      1 e #   d  ]
+rest   2      1 e
+C4     2      1 e n   d
+measure 20
+f1              6
+B3     2      1 e n   d  [
+D3     2      1 e     d  ]
+G2     2      1 e     d  [
+Bf3    2      1 e f   d  ]
+A3     2      1 e     d  [
+A2     2      1 e     d  ]
+rest   2      1 e
+f1              6
+A3     2      1 e     d
+measure 21
+f1              5
+G3     2      1 e     u  [
+Bf2    2      1 e     u  ]
+f1              6
+G2     2      1 e     u  [
+G3     2      1 e     u  ]
+F3     2      1 e     u  [
+F2     2      1 e     u  ]
+rest   2      1 e
+f1              6
+F3     2      1 e     d
+measure 22
+f1              7
+E3     2      1 e     u  [
+G2     2      1 e     u  ]
+f1              #
+A2     2      1 e     u  [
+A3     2      1 e     u  ]
+D4     1      1 s     d  [[
+C#4    1      1 s #   d  ==
+D4     1      1 s     d  ==
+E4     1      1 s     d  ]]
+D4     1      1 s     d  [[
+E4     1      1 s     d  ==
+D4     1      1 s     d  ==
+C#4    1      1 s     d  ]]
+measure 23
+f1              6
+B3     1      1 s n   d  [[
+A3     1      1 s     d  ==
+B3     1      1 s     d  ==
+C4     1      1 s     d  ]]
+B3     1      1 s n   d  [[
+C4     1      1 s     d  ==
+D4     1      1 s     d  ==
+B3     1      1 s n   d  ]]
+C4     1      1 s     d  [[
+B3     1      1 s n   d  ==
+C4     1      1 s     d  ==
+D4     1      1 s     d  ]]
+f1              f
+C4     1      1 s     d  [[
+D4     1      1 s     d  ==
+Ef4    1      1 s f   d  ==
+C4     1      1 s     d  ]]
+measure 24
+f1              5f
+A3     1      1 s     d  [[
+G3     1      1 s     d  ==
+A3     1      1 s     d  ==
+Bf3    1      1 s     d  ]]
+f1              6
+A3     1      1 s     d  [[
+Bf3    1      1 s     d  ==
+C4     1      1 s     d  ==
+A3     1      1 s     d  ]]
+Bf3    1      1 s     d  [[
+A3     1      1 s     d  ==
+Bf3    1      1 s     d  ==
+C4     1      1 s     d  ]]
+Bf3    1      1 s     d  [[
+C4     1      1 s     d  ==
+D4     1      1 s     d  ==
+C4     1      1 s     d  ]]
+measure 25
+f1              6
+B3     1      1 s n   d  [[
+A3     1      1 s     d  ==
+B3     1      1 s     d  ==
+C4     1      1 s     d  ]]
+B3     1      1 s n   d  [[
+C4     1      1 s     d  ==
+D4     1      1 s     d  ==
+B3     1      1 s n   d  ]]
+C4     8      1 h     d
+measure 26
+f1              5
+A3     2      1 e     d  [
+C4     2      1 e     d  ]
+f1              6
+A3     2      1 e     d  [
+F3     2      1 e     d  ]
+Bf3    2      1 e     d  [
+Bf2    2      1 e     d  ]
+rest   4      1 q
+measure 27
+f1              5
+B3     2      1 e n   d  [
+D4     2      1 e     d  ]
+f1              6
+B3     2      1 e n   d  [
+G3     2      1 e     d  ]
+C4     2      1 e     d  [
+C3     2      1 e     d  ]
+rest   4      1 q
+measure 28
+f1              6
+C#4    2      1 e #   d  [
+E4     2      1 e     d  ]
+C#4    2      1 e #   d  [
+A3     2      1 e     d  ]
+D4     2      1 e     d  [
+D3     2      1 e     d  ]
+rest   4      1 q
+measure 29
+f1              5
+D4     2      1 e     d  [
+F4     2      1 e     d  ]
+f1              6
+D4     2      1 e     d  [
+Bf3    2      1 e     d  ]
+f1              6
+E3     2      1 e     u  [
+C3     2      1 e     u  ]
+F3     2      1 e     u  [
+A2     2      1 e     u  ]
+measure 30
+f1              7
+G2     2      1 e     d  [
+G3     2      1 e     d  ]
+C4     2      1 e     d  [
+C3     2      1 e     d  ]
+F2     8      1 h     u
+measure 31
+f2              6 4
+C3     1      1 s     u  [[
+Bf2    1      1 s     u  ==
+C3     1      1 s     u  ==
+D3     1      1 s     u  ]]
+C3     1      1 s     d  [[
+F3     1      1 s     d  ==
+E3     1      1 s     d  ==
+F3     1      1 s     d  ]]
+f1              6
+D3     1      1 s     d  [[
+C3     1      1 s     d  ==
+D3     1      1 s     d  ==
+E3     1      1 s     d  ]]
+D3     1      1 s     d  [[
+C3     1      1 s     d  ==
+D3     1      1 s     d  ==
+E3     1      1 s     d  ]]
+measure 32
+f1              6n
+D3     1      1 s     d  [[
+C3     1      1 s     d  ==
+D3     1      1 s     d  ==
+E3     1      1 s     d  ]]
+D3     1      1 s     d  [[
+G3     1      1 s     d  ==
+F3     1      1 s     d  ==
+G3     1      1 s     d  ]]
+f1              6
+E3     1      1 s     d  [[
+D3     1      1 s     d  ==
+E3     1      1 s     d  ==
+F3     1      1 s     d  ]]
+E3     1      1 s     d  [[
+D3     1      1 s     d  ==
+E3     1      1 s     d  ==
+F3     1      1 s     d  ]]
+measure 33
+f1              6\
+E3     1      1 s     d  [[
+D3     1      1 s     d  ==
+E3     1      1 s     d  ==
+F3     1      1 s     d  ]]
+E3     1      1 s     d  [[
+A3     1      1 s     d  ==
+G3     1      1 s     d  ==
+A3     1      1 s     d  ]]
+f1              6
+F3     1      1 s     d  [[
+E3     1      1 s     d  ==
+F3     1      1 s     d  ==
+G3     1      1 s     d  ]]
+F3     1      1 s     d  [[
+E3     1      1 s     d  ==
+F3     1      1 s     d  ==
+G3     1      1 s     d  ]]
+measure 34
+f1              6
+F3     1      1 s     d  [[
+E3     1      1 s     d  ==
+F3     1      1 s     d  ==
+G3     1      1 s     d  ]]
+F3     1      1 s     d  [[
+Bf3    1      1 s     d  ==
+A3     1      1 s     d  ==
+Bf3    1      1 s     d  ]]
+C3     1      1 s     d  [[
+E3     1      1 s     d  ==
+D3     1      1 s     d  ==
+E3     1      1 s     d  ]]
+f1              6
+A2     1      1 s     d  [[
+F3     1      1 s     d  ==
+E3     1      1 s     d  ==
+F3     1      1 s     d  ]]
+measure 35
+f1              7
+G2     1      1 s     d  [[
+F3     1      1 s     d  ==
+E3     1      1 s     d  ==
+F3     1      1 s     d  ]]
+C3     1      1 s     d  [[
+E3     1      1 s     d  ==
+D3     1      1 s     d  ==
+E3     1      1 s     d  ]]
+F2     8      1 h     u        F
+mheavy2          :|
+/END
+/eof
+//
+@@@system-decoration: [(s1,s2)]
+@@@URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._2:_Sonate_a_violino_e_basso_per_il_cembalo
+@@@URL-pdf: https://pdf.musedata.org/vivaldi-op02-no04.pdf#page=2 MuseData edition
+@@@URL-pdf: http://conquest.imslp.info/files/imglnks/usimg/b/b7/IMSLP99075-PMLP183164-Vivaldi_-_Sonatas_Op2.pdf#page=14 Estienne Roger Amsterdam: Estienne Roger, No.2, n.d.[1711].
+@@@URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=1083s L'Arte dell'Arco
+@@@title: @{OTL}, mov. @{OMV}
+@@@filter: addkey
+@@@filter: humbreak -m 4,8,12,16,20,24,p28,32
+@@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "0:A; m15:B"
+@@@filter: addtempo -q 136
+@@@EEV: 2024/04/27
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no04/stage2/02/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no04/stage2/02/02
