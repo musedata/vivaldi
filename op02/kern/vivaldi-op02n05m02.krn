@@ -13,15 +13,9 @@
 *part2	*part2	*part1
 *staff2	*	*staff1
 *I"Basso continuo	*	*I"Violino
-*>[A,A1,A,A2,B,B1,B,B2]	*>[A,A1,A,A2,B,B1,B,B2]	*>[A,A1,A,A2,B,B1,B,B2]
-*>norep[A,A2,B,B2]	*>norep[A,A2,B,B2]	*>norep[A,A2,B,B2]
-*>A	*>A	*>A
 *clefF4	*	*clefG2
 *k[f#c#]	*	*k[f#c#]
-*b:	*	*b:
 *M3/4	*	*M3/4
-*
-!!LO:PB:g=original
 =1	=1	=1
 4BB/	.	8r
 .	.	8b\
@@ -113,7 +107,6 @@
 .	.	16bb\
 8d#X\J	.	16ff#y\
 .	.	16bb\JJ
-!!LO:LB:g=original
 =13	=13	=13
 8e\L	.	16gg\LL
 .	.	16ee\
@@ -174,7 +167,6 @@
 .	.	8a/
 4F#y\	.	8dd/
 .	.	8a/J)
-!!LO:LB:g=original
 =19	=19	=19
 4G\	.	(8b\L
 .	.	8g\
@@ -221,17 +213,12 @@
 4AA/	3	8dd/)
 .	.	8cc#y/J
 =26	=26	=26
-*>A1	*>A1	*>A1
 2.D\	.	2.dd\
-!!LO:LB:g=original
 =26:|!	=26:|!	=26:|!
-*>A2	*>A2	*>A2
 [2D\	.	[2dd\
 8D\]	.	8dd\]
 8r	.	8dd\
-!!LO:LB:g=original
 =27!|:	=27!|:	=27!|:
-*>B	*>B	*>B
 2F#y\	6	(8dd\L
 .	.	8ff#y\)
 .	.	8aa\
@@ -274,7 +261,6 @@
 .	.	8cc#y\
 .	.	(8cc#y\L
 .	.	8dd\J)
-!!LO:LB:g=original
 =33	=33	=33
 2.E#X\	7 5	(8dd/L
 .	.	8b/)
@@ -323,7 +309,6 @@
 .	.	16cc#y/
 8E#y\J	.	16g#X/
 .	.	16cc#y/JJ
-!!LO:LB:g=original
 =39	=39	=39
 8F#y/L	.	16a\LL
 .	.	16ff#y\
@@ -389,7 +374,6 @@
 .	.	16dd\
 8F#y\J	.	16a\
 .	.	16dd\JJ
-!!LO:LB:g=original
 =44	=44	=44
 8G/L	.	(8b\L
 8GG/J	.	8g\
@@ -441,7 +425,6 @@
 4F#y\	5 4	4.cc#y\t
 4FF#y/	#	.
 .	.	8b\
-!!LO:LB:g=original
 =52	=52	=52
 4BB/	.	8b\L
 .	.	(16dd\L
@@ -491,19 +474,17 @@
 4FF#y/	#	.
 .	.	8b\
 =58	=58	=58
-*>B1	*>B1	*>B1
 [2BB/	.	[2b\
 8BB/]	.	8b\]
 8r	.	8b\
 =58:|!	=58:|!	=58:|!
-*>B2	*>B2	*>B2
 2.BB/;	.	2.b\;
 ==	==	==
 *-	*-	*-
 !!!SMS: RV 36 / Estienne Roger, Amsterdam [facs.]
 !!!ENC: Fran Bennion; rev. 04/21 E. Correia
 !!!END: 2004/11/27
-!!!ONB: Converted from MuseData with musedata2hum on Wed May  1 14:58:44 2024
+!!!ONB: Converted from MuseData with musedata2hum on Wed May  1 15:47:36 2024
 !!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
 !!!system-decoration: [(s1,s2)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._2:_Sonate_a_violino_e_basso_per_il_cembalo
@@ -511,6 +492,6 @@
 !!!URL-pdf: http://conquest.imslp.info/files/imglnks/usimg/b/b7/IMSLP99075-PMLP183164-Vivaldi_-_Sonatas_Op2.pdf#page=18 Estienne Roger Amsterdam: Estienne Roger, No.2, n.d.[1711].
 !!!URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=5284s L'Arte dell'Arco
 !!!title: @{OTL}, mov. @{OMV}
-!!!EEV: 2024/04/27
+!!!EEV: 2024/05/01
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no05/stage2/02/01
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no05/stage2/02/02

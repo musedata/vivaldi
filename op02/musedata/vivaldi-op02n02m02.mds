@@ -12,8 +12,8 @@
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no02/stage2/02/01
-COMMIT = b304e9116f2083a00fde4590d53eadf6ec6f1cde
-DOWNLOAD_DATE = Sat Apr 27 08:11:48 PDT 2024
+COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
+DOWNLOAD_DATE = Wed May  1 15:46:36 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -430,8 +430,8 @@ mheavy2
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no02/stage2/02/02
-COMMIT = b304e9116f2083a00fde4590d53eadf6ec6f1cde
-DOWNLOAD_DATE = Sat Apr 27 08:11:48 PDT 2024
+COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
+DOWNLOAD_DATE = Wed May  1 15:46:36 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -825,6 +825,6 @@ mheavy2
 @@@filter: humbreak -m 10,20,32,44,54,66,72
 @@@filter: addtempo -q "120; m69:48"
 @@@filter: addlabels -d "A,A,B,B,C" -r "A,B,C" -l "0:A; m23:B; m69:C"
-@@@EEV: 2024/04/27
+@@@EEV: 2024/05/01
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no02/stage2/02/01
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no02/stage2/02/02
