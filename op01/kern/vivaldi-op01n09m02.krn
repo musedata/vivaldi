@@ -109,7 +109,7 @@
 !!!SMS: RV 75 / Estienne Roger (No. 363), Amsterdam [facs.]
 !!!ENC: Fran Bennion   rev. 05/14/21 E Correia
 !!!END: 2004/10/26
-!!!ONB: Converted from MuseData with musedata2hum on Wed May  1 20:02:50 2024
+!!!ONB: Converted from MuseData with musedata2hum on Thu May  2 03:03:24 2024
 !!!YEM: (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._1:_Suonate_da_camera_a_tr.C3.A8.2C_due_violini_e_violone_o_cembalo Information about Vivaldi Op. 1 on the CCARH wiki
@@ -119,7 +119,8 @@
 !!!URL-pdf: https://s9.imslp.org/files/imglnks/usimg/8/89/IMSLP280401-PMLP10351-Vivaldi_Sonatas_Op_1_-_Organo_e_Violoncello.pdf#page=13 Organo e Violoncello parts, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
 !!!URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=2649s L'Arte dell'Arco
 !!!title: @{OTL}, mov. @{OMV}
-!!!EEV: 2024/05/01
+!!!filter-vcross: vcross
+!!!EEV: 2024/05/02
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no09/stage2/02/01
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no09/stage2/02/02
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no09/stage2/02/03

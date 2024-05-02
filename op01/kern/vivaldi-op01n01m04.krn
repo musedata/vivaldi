@@ -209,7 +209,7 @@
 !!!SMS: RV 73 / Estienne Roger (No. 363), Amsterdam [facs.]
 !!!ENC: Fran Bennion  rev. 05/12/21 E Correia
 !!!END: 2004/09/23
-!!!ONB: Converted from MuseData with musedata2hum on Wed May  1 20:02:48 2024
+!!!ONB: Converted from MuseData with musedata2hum on Thu May  2 03:03:21 2024
 !!!YEM: (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._1:_Suonate_da_camera_a_tr.C3.A8.2C_due_violini_e_violone_o_cembalo Information about Vivaldi Op. 1 on the CCARH wiki
@@ -220,8 +220,9 @@
 !!!URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=304s L'Arte dell'Arco
 !!!URL-youtube: https://www.youtube.com/watch?v=vFz1e6g68iQ&t=311s Seattle Baroque Soloists (2010)
 !!!title: @{OTL}, mov. @{OMV}
+!!!filter-vcross: vcross
 !!!mei: scoreDef@tempo.dist="5"
-!!!EEV: 2024/05/01
+!!!EEV: 2024/05/02
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/01
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/02
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/03

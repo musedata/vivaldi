@@ -13,7 +13,7 @@
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/01
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Wed May  1 19:59:04 PDT 2024
+DOWNLOAD_DATE = Thu May  2 02:59:30 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -221,7 +221,7 @@ mheavy2          :|
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/02
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Wed May  1 19:59:04 PDT 2024
+DOWNLOAD_DATE = Thu May  2 02:59:30 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -409,7 +409,7 @@ mheavy2          :|
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/03
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Wed May  1 19:59:04 PDT 2024
+DOWNLOAD_DATE = Thu May  2 02:59:30 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -547,7 +547,7 @@ mheavy2          :|
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/04
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Wed May  1 19:59:04 PDT 2024
+DOWNLOAD_DATE = Thu May  2 02:59:30 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -715,6 +715,7 @@ mheavy2          :|
 @@@URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=304s L'Arte dell'Arco
 @@@URL-youtube: https://www.youtube.com/watch?v=vFz1e6g68iQ&t=311s Seattle Baroque Soloists (2010)
 @@@title: @{OTL}, mov. @{OMV}
+@@@filter-vcross: vcross
 @@@mei: scoreDef@tempo.dist="5"
 @@@filter: extract -k 1,3,4
 @@@filter: shed -ke "s/Basso continuo/Violoncello\nContinuo/I; s/Violino/Violin/I"
@@ -724,7 +725,7 @@ mheavy2          :|
 @@@filter: addkey
 @@@filter: addtempo -q 220
 @@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "m0:A; m9:B"
-@@@EEV: 2024/05/01
+@@@EEV: 2024/05/02
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/01
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/02
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/03

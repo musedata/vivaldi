@@ -13,7 +13,7 @@
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/02/01
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Wed May  1 19:59:40 PDT 2024
+DOWNLOAD_DATE = Thu May  2 03:00:10 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -360,7 +360,7 @@ mheavy2          :|
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/02/02
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Wed May  1 19:59:40 PDT 2024
+DOWNLOAD_DATE = Thu May  2 03:00:10 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -666,7 +666,7 @@ mheavy2          :|
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/02/03
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Wed May  1 19:59:40 PDT 2024
+DOWNLOAD_DATE = Thu May  2 03:00:10 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -1043,7 +1043,7 @@ mheavy2          :|
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/02/04
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Wed May  1 19:59:40 PDT 2024
+DOWNLOAD_DATE = Thu May  2 03:00:10 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -1464,6 +1464,7 @@ mheavy2          :|
 @@@URL-pdf: https://s9.imslp.org/files/imglnks/usimg/8/89/IMSLP280401-PMLP10351-Vivaldi_Sonatas_Op_1_-_Organo_e_Violoncello.pdf#page=5 Organo e Violoncello parts, Amsterdam: Estienne Roger, n.d.(ca.1723). Plate 363.
 @@@URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=3603s L'Arte dell'Arco
 @@@title: @{OTL}, mov. @{OMV}
+@@@filter-vcross: vcross
 @@@filter: extract -k 1,3,4
 @@@filter: shed -ke "s/Basso continuo/Violoncello\nContinuo/I; s/Violino/Violin/I"
 @@@filter: shed -ke "s/^part4$/part3/I; s/^staff4$/staff3/I"
@@ -1472,7 +1473,7 @@ mheavy2          :|
 @@@filter: addkey
 @@@filter: addtempo -q 134
 @@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "m0:A; m14:B"
-@@@EEV: 2024/05/01
+@@@EEV: 2024/05/02
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/02/01
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/02/02
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no03/stage2/02/03
