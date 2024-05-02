@@ -22,5 +22,5 @@
 @@@title: @{OTL}, mov. @{OMV}
 @@@filter: addkey
 @@@filter: humbreak -m 4,9,14,18,23,28
-@@@filter: addlabels -d "A,A,B,B1,B,B2" -r "A,B,B2" -l "0:A; m15b:B; m31:B1; m32:B2"
+@@@filter: addlabels -d "A,A,B,B1,B,B2" -r "A,B,B2" -l "0:A; m15b:B; m31:B1; m31b:B2"
 @@@filter: addtempo -q 220
