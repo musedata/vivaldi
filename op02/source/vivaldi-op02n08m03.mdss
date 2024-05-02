@@ -21,6 +21,6 @@
 @@@URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=3240s L'Arte dell'Arco
 @@@title: @{OTL}, mov. @{OMV}
 @@@filter: addkey
-@@@filter: humbreak -m 17,15,23
+@@@filter: humbreak -m 7,15,23
 @@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "0:A; m12:B"
 @@@filter: addtempo -q 148

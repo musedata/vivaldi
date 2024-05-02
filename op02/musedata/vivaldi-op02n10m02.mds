@@ -13,7 +13,7 @@
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no10/stage2/02/01
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Wed May  1 23:41:25 PDT 2024
+DOWNLOAD_DATE = Thu May  2 02:29:46 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -355,7 +355,7 @@ mheavy2          stop-end2
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no10/stage2/02/02
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Wed May  1 23:41:25 PDT 2024
+DOWNLOAD_DATE = Thu May  2 02:29:46 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -631,6 +631,6 @@ mheavy2          stop-end2
 @@@filter: humbreak -m 3,6,9,12,14,17
 @@@filter: addlabels -d "A,A,B,B1,B,B2" -r "A,B,B2" -l "0:A; m7b:B; m18:B1; m18b:B2"
 @@@filter: addtempo -q 72
-@@@EEV: 2024/05/01
+@@@EEV: 2024/05/02
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no10/stage2/02/01
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no10/stage2/02/02

@@ -13,7 +13,7 @@
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no12/stage2/03/01
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Wed May  1 23:41:44 PDT 2024
+DOWNLOAD_DATE = Thu May  2 02:30:06 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2005, 2005 Center for Computer Assisted Research in the Humanities.
@@ -160,7 +160,7 @@ mheavy2
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no12/stage2/03/02
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Wed May  1 23:41:44 PDT 2024
+DOWNLOAD_DATE = Thu May  2 02:30:06 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2005, 2005 Center for Computer Assisted Research in the Humanities.
@@ -327,6 +327,6 @@ mheavy2
 @@@filter: addkey
 @@@filter: humbreak -m 9,17
 @@@filter: addtempo -q 122
-@@@EEV: 2024/05/01
+@@@EEV: 2024/05/02
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no12/stage2/03/01
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no12/stage2/03/02
