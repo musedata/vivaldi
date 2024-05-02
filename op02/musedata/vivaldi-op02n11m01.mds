@@ -1,0 +1,771 @@
+@@@COM: Vivaldi, Antonio Lucio
+@@@CDT: 1678/03/04-1741/08/28
+@@@OPR: 12 Sonatas for Violin and Basso continuo
+@@@OTL: Sonata in D major, op. @{OPS}, no. @{ONM} (@{SCT})
+@@@OPS: 2
+@@@ONM: 11
+@@@OMV: 1. Preludio
+@@@SCT: RV 21
+@@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
+@@@OMD: Andante
+@@@key: D
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no11/stage2/01/01
+COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
+DOWNLOAD_DATE = Wed May  1 19:57:34 PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op2/rv009/stage2/01/01}
+TIMESTAMP: DEC/10/2005 [md5sum:aacb3163276ba8ca3c14b1cf89d8fb8b]
+12/22/04 Fran Bennion; rev. 04/21 E. Correia
+WK#:02,11     MV#:1
+RV 9 / Estienne Roger, Amsterdam [facs.]
+Vivaldi Op. 2, No. 11 in D Major
+Movement 1 - Preludio
+Violino
+
+Group memberships: score
+score: part 1 of 2
+$   Q:2 K:2 T:3/4 C:4  D:Andante
+rest   2      1 q
+measure 1
+rest   6      1
+measure 2
+rest   6      1
+measure 3
+rest   2      1 q
+rest   2      1 q
+A4     2      1 q     u
+measure 4
+D5     3      1 q.    d
+E5     1      1 e     d
+F#5    1      1 e     d  [
+G5     1      1 e     d  ]
+measure 5
+A5     2      1 q     d
+D5     3      1 q.    d
+B5     1      1 e     d
+measure 6
+G5     3      1 q.    d
+F#5    1      1 e     d
+G5     1      1 e     d  [
+A5     1      1 e     d  ]
+measure 7
+F#5    3      1 q.    d
+E5     1      1 e     d
+F#5    1      1 e     d  [
+D5     1      1 e     d  ]
+measure 8
+E5     2      1 q     d
+A4     2      1 q     u
+rest   1      1 e
+A5     1      1 e     d
+measure 9
+A5     1      1 e     d  [
+B4     1      1 e     d  =
+G5     1      1 e     d  =     (
+B4     1      1 e     d  =
+A4     1      1 e     d  =     )
+G5     1      1 e     d  ]
+measure 10
+G5     2      1 q     d        (t
+F#5    2      1 q     d        )
+rest   1      1 e
+F#5    1      1 e     d
+measure 11
+B5     2      1 q     d
+E5     3      1 q.    d
+D5     1      1 e     d
+measure 12
+C#5    3      1 q.    d
+A4     1      1 e     u
+D5     2-     1 q     d        -
+measure 13
+D5     1      1 e     d  [
+E5     1      1 e     d  ]
+E5     3      1 q.    d        t
+D5     1      1 e     d
+measure 14
+D5     4      1 h     d
+rest   2      1 q
+measure 15
+rest   2      1 q
+rest   2      1 q
+F#5    2      1 q     d
+measure 16
+E5     3      1 q.    d
+D5     1      1 e     d
+E5     1      1 e     d  [
+F#5    1      1 e     d  ]
+measure 17
+D5     3      1 q.    d
+C#5    1      1 e     d
+D5     1      1 e     d  [
+E5     1      1 e     d  ]
+measure 18
+C#5    2      1 q     d
+A4     2      1 q     u
+rest   1      1 e
+F#5    1      1 e     d
+measure 19
+F#5    2      1 q     d        (t
+E5     2      1 q     d        )
+rest   1      1 e
+E5     1      1 e     d
+measure 20
+E5     1      1 e     u  [
+F#4    1      1 e     u  =
+D5     1      1 e     u  =     (
+F#4    1      1 e     u  =
+E4     1      1 e     u  =     )
+D5     1      1 e     u  ]
+measure 21
+D5     2      1 q     d        (t
+C#5    2      1 q     d        )
+rest   1      1 e
+C#5    1      1 e     d
+measure 22
+F#5    2      1 q     d
+B4     3      1 q.    d
+A4     1      1 e     u
+measure 23
+G#4    3      1 q.#   u
+E4     1      1 e     u
+A4     2-     1 q     u        -
+measure 24
+A4     1      1 e     u  [
+B4     1      1 e     u  ]
+B4     3      1 q.    d        t
+A4     1      1 e     u
+measure 25
+A4     4      1 h     u
+mheavy4          :|:
+A4     2      1 q     u
+measure 26
+D5     3      1 q.    d
+E5     1      1 e     d
+F#5    1      1 e     d  [
+D5     1      1 e     d  ]
+measure 27
+B4     2      1 q     d
+rest   2      1 q
+B5     2      1 q     d
+measure 28
+G5     2      1 q     d        (
+E5     2      1 q     d        )
+C#5    2      1 q     d
+measure 29
+A#4    2      1 q #   u
+rest   2      1 q
+rest   2      1 q
+measure 30
+F#5    2      1 q     d
+B4     3      1 q.    d
+B4     1      1 e     d
+measure 31
+G#5    2      1 q #   d
+B4     1      1 e     d  [
+D5     1      1 e     d  =
+C#5    1      1 e     d  =
+B4     1      1 e     d  ]
+measure 32
+A4     1      1 e     u  [
+G#4    1      1 e #   u  ]
+F#4    2      1 q     u
+F#5    2      1 q     d
+measure 33
+rest   2      1 q
+C#4    2      1 q     u
+E#5    2      1 q #   d
+measure 34
+F#5    2      1 q     d
+F#4    2      1 q     u
+rest   2      1 q
+measure 35
+rest   2      1 q
+F#5    1      1 e     d  [
+G#5    1      1 e #   d  ]
+A5     2-     1 q     d        -
+measure 36
+A5     1      1 e     d  [
+B4     1      1 e     d  =
+D#5    1      1 e #   d  =     (
+F#5    1      1 e     d  =     )
+B5     1      1 e     d  =     (
+F#5    1      1 e     d  ]     )
+measure 37
+G5     2      1 q n   d        (+
+F#5    2      1 q     d
+E5     2      1 q     d        )
+measure 38
+F5     2      1 q n   d        (
+E5     2      1 q     d
+D#5    2      1 q #   d        )
+measure 39
+E5     6-     1 h.    d        -
+measure 40
+E5     6-     1 h.    d        -
+measure 41
+E5     2      1 q     d
+rest   1      1 e
+C#5    1      1 e     d
+D5     2-     1 q     d        -
+measure 42
+D5     1      1 e     d  [
+E5     1      1 e     d  ]
+C5     3      1 q.n   d
+C5     1      1 e     d
+measure 43
+C5     2    &11 q n   d        (t&1+
+@1  No natural on C5. Old notation. Natural carries over bar line.
+B4     2      1 q     d        )
+rest   1      1 e
+E5     1      1 e     d
+measure 44
+C#5    1    &01 e #   d  [      +
+B4     1      1 e     d  ]
+A4     2      1 q     u
+D5     2      1 q     d
+measure 45
+G5     2      1 q     d
+G5     3      1 q.    d
+G5     1      1 e     d
+measure 46
+G5     2      1 q     d        (t
+F#5    2      1 q     d        )
+rest   1      1 e
+B5     1      1 e     d
+measure 47
+G#5    1      1 e #   d  [
+F#5    1      1 e     d  ]
+E5     2      1 q     d
+A5     2      1 q     d
+measure 48
+C#5    2      1 q     d
+B4     3      1 q.    d        t
+A4     1      1 e     u
+measure 49
+A4     2      1 q     u
+rest   2      1 q
+rest   2      1 q
+measure 50
+E5     2      1 q     d
+C#5    2      1 q     d
+A4     2      1 q     u
+measure 51
+D5     3      1 q.    d
+C#5    1      1 e     d
+D5     1      1 e     d  [
+E5     1      1 e     d  ]
+measure 52
+C#5    1      1 e     d  [
+B4     1      1 e     d  ]
+A4     2      1 q     u
+rest   1      1 e
+F#5    1      1 e     d
+measure 53
+F#5    2      1 q     d        (t
+E5     3      1 q.    d        )
+E5     1      1 e     d
+measure 54
+E5     1      1 e     u  [
+F#4    1      1 e     u  =
+D5     1      1 e     u  =     (
+F#4    1      1 e     u  =
+E4     1      1 e     u  =     )
+D5     1      1 e     u  ]
+measure 55
+D5     2      1 q     d        (t
+C#5    2      1 q     d        )
+rest   1      1 e
+C#5    1      1 e     d
+measure 56
+F#5    2      1 q     d
+B4     3      1 q.    d
+B4     1      1 e     d
+measure 57
+B4     2      1 q     d        (t
+A4     2      1 q     u        )
+rest   1      1 e
+A4     1      1 e     u
+measure 58
+D5     1      1 e     u  [     (
+B4     1      1 e     u  =     )
+G4     1      1 e     u  =     (
+G3     1      1 e     u  =     )
+A3     1      1 e     u  =     (
+G4     1      1 e     u  ]     )
+measure 59
+G4     2      1 q     u        (t
+F#4    2      1 q     u        )
+rest   1      1 e
+A4     1      1 e     u
+measure 60
+B4     2      1 q     d
+E5     3      1 q.    d
+D5     1      1 e     d
+measure 61
+C#5    3      1 q.    d
+A4     1      1 e     u
+D5     2-     1 q     d        -
+measure 62
+D5     1      1 e     d  [
+E5     1      1 e     d  ]
+E5     3      1 q.    d         t
+D5     1      1 e     d
+measure 63
+D5     4      1 h     d
+C5     2      1 q n   d
+measure 64
+B4     3      1 q.    d
+E5     1      1 e     d
+G5     1      1 e     d  [
+E5     1      1 e     d  ]
+measure 65
+C#5    3      1 q.    d
+A4     1      1 e     u
+D5     1      1 e     d  [
+A4     1      1 e     d  ]
+measure 66
+G4     1      1 e     u  [
+F#4    1      1 e     u  ]
+E4     3      1 q.    u         t
+D4     1      1 e     u
+measure 67       start-end1
+D4     4      1 h     u
+mheavy2 67       start-end2 stop-end1 :|
+D4     6      1 h.    u
+mheavy2          stop-end2
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no11/stage2/01/02
+COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
+DOWNLOAD_DATE = Wed May  1 19:57:34 PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op2/rv009/stage2/01/02}
+TIMESTAMP: DEC/10/2005 [md5sum:23c24c7155668f7f266ec6b9ecc2d400]
+12/22/04 Fran Bennion; rev. 04/21 E. Correia
+WK#:02,11     MV#:1
+RV 9 / Estienne Roger, Amsterdam [facs.]
+Vivaldi Op. 2, No. 11 in D Major
+Movement 1 - Preludio
+Basso continuo
+
+Group memberships: score
+score: part 2 of 2
+$   Q:2 K:2 T:3/4 C:22  D:Andante
+A2     2      1 q     u
+measure 1
+D3     3      1 q.    d
+E3     1      1 e     d
+F#3    1      1 e     d  [
+G3     1      1 e     d  ]
+measure 2
+A3     2      1 q     d
+D3     3      1 q.    d
+B3     1      1 e     d
+measure 3
+G3     3      1 q.    d
+F#3    1      1 e     d
+G3     1      1 e     d  [
+A3     1      1 e     d  ]
+measure 4
+f1              6
+F#3    1      1 e     d  [
+E3     1      1 e     d  ]
+D3     2      1 q     d
+rest   2      1 q
+measure 5
+rest   2      1 q
+f1              6
+F#4    4-     1 h     d        -
+measure 6
+f2              4 2
+F#4    2      1 q     d
+f2              5 3
+E4     4-     1 h     d        -
+measure 7
+f2              4 2
+E4     2      1 q     d
+f2              5 3
+D4     4      1 h     d
+measure 8
+f1              6
+C#4    2      1 q     d
+A3     1      1 e     d  [
+B3     1      1 e     d  =
+C#4    1      1 e     d  =
+A3     1      1 e     d  ]
+measure 9
+f1     2        7
+f1              6
+B3     4      1 h     d
+f2              6 5
+C#4    2      1 q     d
+measure 10
+f2              5 4
+D4     2      1 q     d
+f1              3
+D3     1      1 e     d  [
+E3     1      1 e     d  =
+F#3    1      1 e     d  =
+D3     1      1 e     d  ]
+measure 11
+G3     2      1 q     d
+f1     3        6
+f1              5
+G#3    4      1 h #   d
+measure 12
+A3     3      1 q.    d
+f3              6 4 2
+G3     1    &01 e n   d         +
+f1              6
+F#3    2      1 q     d
+measure 13
+f2              6 5
+G3     2      1 q     d
+f2              5 4
+A3     2      1 q     d
+f1              3
+A2     2      1 q     u
+measure 14
+D3     3      1 q.    d
+E3     1      1 e     d
+F#3    1      1 e     d  [
+G3     1      1 e     d  ]
+measure 15
+A3     2      1 q     d
+D3     2      1 q     d
+D4     2      1 q     d
+measure 16
+f1              6
+C#4    3      1 q.    d
+B3     1      1 e     d
+C#4    1      1 e     d  [
+D4     1      1 e     d  ]
+measure 17
+B3     3      1 q.    d
+A3     1      1 e     d
+B3     1      1 e     d  [
+C#4    1      1 e     d  ]
+measure 18
+A3     3      1 q.    d
+B3     1      1 e     d
+C#4    1      1 e     d  [
+f1              6
+A3     1      1 e     d  ]
+measure 19
+f1     2        7
+f1              6
+G#3    3      1 q.#   d
+A3     1      1 e     d
+B3     1      1 e     d  [
+G#3    1      1 e     d  ]
+measure 20
+f1     2        7
+f1              6
+F#3    4      1 h     d
+f2              6 5
+G#3    2      1 q #   d
+measure 21
+f2     2        5 4
+f2              b 3
+A2     3      1 q.    u
+B2     1      1 e     u
+C#3    1      1 e     u  [
+A2     1      1 e     u  ]
+measure 22
+D3     2      1 q     d
+f1     3        6
+f1              5
+D#3    4      1 h #   d
+measure 23
+f1              #
+E3     3      1 q.    d
+f2              4+ 2
+D3     1    &01 e n   d         +
+f1              6
+C#3    2      1 q     u
+measure 24
+f2              6 5
+D3     2      1 q     d
+f2              5 4
+E3     2      1 q     d
+f1              #
+E2     2      1 q     u
+measure 25
+A2     4      1 h     u
+mheavy4          :|:
+rest   2      1 q
+measure 26
+rest   2      1 q
+rest   2      1 q
+D3     2      1 q     d
+measure 27
+G3     3      1 q.    d
+A3     1      1 e     d
+B3     1      1 e     d  [
+G3     1      1 e     d  ]
+measure 28
+E3     2      1 q     d
+rest   2      1 q
+f1              6
+E4     2      1 q     d
+measure 29
+f1              6\
+C#4    2      1 q     d        (
+f2              6 5
+A#3    2      1 q #   d        )
+f2              7 #
+F#3    2      1 q     d
+measure 30
+D3     2      1 q     d
+rest   2      1 q
+f1              6
+D4     2      1 q     d
+measure 31
+f2              6 5
+E#3    6      1 h.#   d
+measure 32
+f1              5
+F#3    3      1 q.    d
+G#3    1      1 e #   d
+f1              6
+A3     2      1 q     d
+measure 33
+f2              6\ 5
+B3     2      1 q     d
+f2              5+ 4
+C#4    2      1 q     d
+f1              #
+C#3    2      1 q     u
+measure 34
+F#3    3      1 q.    d
+G#3    1      1 e #   d
+A3     1      1 e     d  [
+B3     1      1 e     d  ]
+measure 35
+f1              5+
+C#4    2      1 q     d
+f2              5 3
+F#3    3      1 q.    d
+f2              4 2
+E3     1      1 e     d
+measure 36
+f1              5
+D#3    4      1 h #   d
+f1              #
+B2     2      1 q     u
+measure 37
+E3     2      1 q     d
+F#3    2      1 q     d
+G3     2      1 q     d
+measure 38
+f1     2        6n
+f1              5
+A3     4      1 h     d
+f2              7 #
+B3     2      1 q     d
+measure 39
+f1              6
+C4     2    &11 q     d        (&1+
+&1
+No natural on C4 in Roger but understood.
+Harmony has changed (note e- scale here).
+&1
+B3     2      1 q     d
+A3     2      1 q     d        )
+measure 40
+f1              6
+G3     2      1 q     d        (
+F#3    2      1 q     d
+E3     2      1 q     d        )
+measure 41
+f1              5
+A#2    4      1 h #   u
+B2     2      1 q     u
+measure 42
+f1     2        7
+f1              6n
+E3     4      1 h     d
+f1              5
+F#3    2      1 q     d
+measure 43
+f1              4n
+G3     2      1 q     d
+f1              3
+G2     2      1 q     u
+f1              6
+G3     2-     1 q     d        -
+measure 44
+f2              6 4+
+G3     2      1 q     d
+f1              5
+F#3    1      1 e     d  [
+E3     1      1 e     d  =
+f1              6
+F#3    1      1 e     d  =
+D3     1      1 e     d  ]
+measure 45
+E3     2      1 q     d
+f1              5
+C#3    2      1 q     u
+f1              7
+A2     2      1 q     u
+measure 46
+f1              4
+D4     2      1 q     d
+f1              3
+D3     2      1 q     d
+f1              6
+D4     2-     1 q     d        -
+measure 47
+f2              4+ 2
+D4     2      1 q     d
+f1              6
+C#4    1      1 e     d  [
+B3     1      1 e     d  =
+C#4    1      1 e     d  =
+A3     1      1 e     d  ]
+measure 48
+D4     2      1 q     d
+f2              5 4
+E4     2      1 q     d
+f1              #
+E3     2      1 q     d
+measure 49
+A3     3      1 q.    d
+B3     1      1 e     d
+C#4    1      1 e     d  [
+D4     1      1 e     d  ]
+measure 50
+f1              #
+E4     2      1 q     d
+A3     2      1 q     d
+rest   2      1 q
+measure 51
+B3     2      1 q     d
+f1              5
+G#3    2      1 q #   d
+f2              8 7
+E3     2      1 q     d
+measure 52
+A3     3      1 q.    d
+B3     1      1 e     d
+C#4    1      1 e     d  [
+f1              6
+A3     1      1 e     d  ]
+measure 53
+f1     2        7
+f1              6
+G#3    3      1 q.#   d
+A3     1      1 e     d
+f2              6\ 4
+B3     1      1 e     d  [
+G#3    1      1 e     d  ]
+measure 54
+f1     2        7
+f1              6
+F#3    4      1 h     d
+f2              6 5
+G#3    2      1 q #   d
+measure 55
+f2     2        5 4
+f2              b n
+A3     3      1 q.    d
+B3     1      1 e     d
+C#4    1      1 e     d  [
+A3     1      1 e     d  ]
+measure 56
+f1              6
+D#3    4      1 h #   d
+f2              6 5
+E#3    2      1 q #   d
+measure 57
+f2     2        5 4
+f2              b 3
+F#3    3      1 q.    d
+G#3    1      1 e #   d
+A3     1      1 e     d  [
+F#3    1      1 e     d  ]
+measure 58
+f1     2        5
+f1              6
+B2     4      1 h     u
+f2              6 5
+C#3    2      1 q     u
+measure 59
+f2     2        5 4
+f2              b 3
+D3     3      1 q.    d
+E3     1      1 e     d
+F#3    1      1 e     d  [
+D3     1      1 e     d  ]
+measure 60
+G3     2      1 q     d
+f1     3        6
+f1              5
+G#3    4      1 h #   d
+measure 61
+A3     3      1 q.    d
+f3              6 4 2
+G3     1    &01 e n   d         &0+
+f1              6
+F#3    2      1 q     d
+measure 62
+f2              6 5
+G3     2      1 q     d
+f2              5 4
+A3     2      1 q     d
+f1              3
+A2     2      1 q     u
+measure 63
+D3     2      1 q     d
+F#3    2      1 q     d
+f1              n
+A3     2-     1 q     d        -
+measure 64
+f2              4 2
+A3     2      1 q     d
+f1              6
+G3     3      1 q.    d
+G3     1      1 e     d
+measure 65
+f2              4 2
+G3     4      1 h     d
+f1              6
+F#3    2      1 q     d
+measure 66
+f2              7 5
+G3     2      1 q     d
+f2              5 4
+A3     2      1 q     d
+f1              3
+A2     2      1 q     u
+measure 67       start-end1
+D3     4      1 h     d
+mheavy2 67       start-end2 stop-end1 :|
+D3     6      1 h.    d
+mheavy2          stop-end2
+/END
+/eof
+//
+@@@system-decoration: [(s1,s2)]
+@@@URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._2:_Sonate_a_violino_e_basso_per_il_cembalo
+@@@URL-pdf: https://pdf.musedata.org/vivaldi-op02-no11.pdf#page=1 MuseData edition
+@@@URL-pdf: http://conquest.imslp.info/files/imglnks/usimg/b/b7/IMSLP99075-PMLP183164-Vivaldi_-_Sonatas_Op2.pdf#page=39 Estienne Roger Amsterdam: Estienne Roger, No.2, n.d.[1711].
+@@@URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=2533s L'Arte dell'Arco
+@@@title: @{OTL}, mov. @{OMV}
+@@@filter: addkey
+@@@filter: humbreak -m 10,22,34,46,57
+@@@filter: addlabels -d "A,A,B,B1,B,B2" -r "A,B,B2" -l "0:A; m25b:B; m67:B1; m68:B2"
+@@@filter: addtempo -q 128
+@@@EEV: 2024/05/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no11/stage2/01/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no11/stage2/01/02

@@ -1,0 +1,636 @@
+@@@COM: Vivaldi, Antonio Lucio
+@@@CDT: 1678/03/04-1741/08/28
+@@@OPR: 12 Sonatas for Violin and Basso continuo
+@@@OTL: Sonata in F minor, op. @{OPS}, no. @{ONM} (@{SCT})
+@@@OPS: 2
+@@@ONM: 10
+@@@OMV: 2. Allemanda
+@@@SCT: RV 21
+@@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
+@@@OMD: Allegro
+@@@key: f
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no10/stage2/02/01
+COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
+DOWNLOAD_DATE = Wed May  1 19:57:28 PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op2/rv021/stage2/02/01}
+TIMESTAMP: DEC/10/2005 [md5sum:89bc2ac76a9b33ed7e5ba274db02ddd7]
+12/20/04 Fran Bennion; rev. 04/21 E. Correia
+WK#:02,10     MV#:2
+RV 21 / Estienne Roger, Amsterdam [facs.]
+Vivaldi Op. 2, No. 10 in f minor
+Movement 2 - Allemanda
+Violino
+
+Group memberships: score
+score: part 1 of 2
+$   Q:8 K:-4 T:1/1 C:4  D:Allegro
+C5     2      1 s     d
+measure 1
+Af4    3      1 s.    u  [[    (
+C5     1      1 t     u  ==\   )
+F4     3      1 s.    u  ==    (
+C5     1      1 t     u  ]]\   )
+F5     3      1 s.    d  [[    (
+Af5    1      1 t     d  ==\   )
+G5     3      1 s.    d  ==    (
+F5     1      1 t     d  ]]\   )
+E5     3      1 s.n   d  [[    (
+G5     1      1 t     d  ==\   )
+C5     3      1 s.    d  ==    (
+E5     1      1 t     d  ]]\   )
+Bf4    3      1 s.    d  [[    (
+Bf5    1      1 t     d  ==\   )
+Af5    3      1 s.    d  ==    (
+G5     1      1 t     d  ]]\   )
+measure 2
+Af5    6      1 e.    d  [     (
+G5     2      1 s     d  ]\    )
+F5     3      1 s.    d  [[    (
+Ef5    1      1 t     d  ==\   )
+Df5    3      1 s.    d  ==    (
+C5     1      1 t     d  ]]\   )
+Bf4    3      1 s.    d  [[    (
+Df5    1      1 t     d  ==\   )
+G4     3      1 s.    d  ==    (
+Bf4    1      1 t     d  ]]\   )
+E4     3      1 s.n   u  [[    (
+Bf4    1      1 t     u  ==\   )
+C5     3      1 s.    u  ==    (
+Bf4    1      1 t     u  ]]\   )
+measure 3
+Af4    3      1 s.    u  [[    (
+C5     1      1 t     u  ==\   )
+F4     3      1 s.    u  ==    (
+Af4    1      1 t     u  ]]\   )
+Df4    3      1 s.    u  [[    (
+Af4    1      1 t     u  ==\   )
+G4     3      1 s.    u  ==    (
+F4     1      1 t     u  ]]\   )
+E4     3      1 s.n   u  [[    (
+G4     1      1 t     u  ==\   )
+C4     3      1 s.    u  ==    (
+E4     1      1 t     u  ]]\   )
+Bf3    3      1 s.    u  [[    (
+Bf4    1      1 t     u  ==\   )
+Af4    3      1 s.    u  ==    (
+G4     1      1 t     u  ]]\   )
+measure 4
+Af4    3      1 s.    u  [[    (
+F4     1      1 t     u  ==\   )
+Af4    3      1 s.    u  ==    (
+C5     1      1 t     u  ]]\   )
+F5     3      1 s.    d  [[    (
+Af5    1      1 t     d  ==\   )
+F5     3      1 s.    d  ==    (
+D5     1      1 t n   d  ]]\   )
+B4     3      1 s.n   d  [[    (
+D5     1      1 t     d  ==\   )
+G4     3      1 s.    d  ==    (
+B4     1      1 t     d  ]]\   )
+F4     3      1 s.    d  [[    (
+F5     1      1 t     d  ==\   )
+Ef5    3      1 s.    d  ==    (
+D5     1      1 t     d  ]]\   )
+measure 5
+Ef5    6      1 e.    d  [     (
+D5     2      1 s n   d  ]\    )
+C5     3      1 s.    u  [[    (
+Bf4    1      1 t     u  ==\   )
+Af4    3      1 s.    u  ==    (
+G4     1      1 t     u  ]]\   )
+F4     3      1 s.    u  [[    (
+Af4    1      1 t     u  ==\   )
+D4     3      1 s.n   u  ==    (
+F4     1      1 t     u  ]]\   )
+B3     3      1 s.n   u  [[    (
+F4     1      1 t     u  ==\   )
+G3     3      1 s.    u  ==    (
+F4     1      1 t     u  ]]\   )
+measure 6
+C4     3      1 s.    u  [[    (
+Ef4    1      1 t     u  ==\   )
+G4     3      1 s.    u  ==    (
+C5     1      1 t     u  ]]\   )
+Ef4    3      1 s.    u  [[    (
+G4     1      1 t     u  ==\   )
+C5     3      1 s.    u  ==    (
+Bf4    1      1 t     u  ]]\   )
+F4     3      1 s.    d  [[    (
+Af4    1      1 t     d  ==\   )
+C5     3      1 s.    d  ==    (
+F5     1      1 t     d  ]]\   )
+Af5    3      1 s.    d  [[    (
+F5     1      1 t     d  ==\   )
+D5     3      1 s.n   d  ==    (
+B4     1      1 t n   d  ]]\   )
+measure 7
+G4     3      1 s.    u  [[    (
+B4     1      1 t n   u  ==\   )
+C5     3      1 s.    u  ==    (
+Ef4    1      1 t     u  ]]\   )
+G3     2      1 s     u  [[    (
+D4     2    &11 s     u  ==     &1+
+&1
+No natural on D4 in Roger but D natural in meas.6 carries
+over the bar line here with the harmonic change.
+&1
+C5     3      1 s.    u  ==    )
+B4     1      1 t     u  ]]\
+C5     8-   &11 q     d        -
+C5     6    &11 e.    d
+&1
+In Roger the previous quarter + dotted 8th note was a half note.
+Changed to make the repeat in keeping with modern notation.
+&1
+mheavy4          :|:
+C5     2      1 s     d
+measure 8
+G4     3      1 s.    u  [[    (
+C5     1      1 t     u  ==\   )
+Ef4    3      1 s.    u  ==    (
+G4     1      1 t     u  ]]\   )
+C5     3      1 s.    d  [[    (
+Ef5    1      1 t     d  ==\   )
+D5     3      1 s.n   d  ==    (
+C5     1      1 t     d  ]]\   )
+B4     3      1 s.n   d  [[    (
+D5     1      1 t     d  ==\   )
+G4     3      1 s.    d  ==    (
+B4     1      1 t     d  ]]\   )
+F4     3      1 s.    d  [[    (
+F5     1      1 t     d  ==\   )
+Ef5    3      1 s.    d  ==    (
+D5     1      1 t     d  ]]\   )
+measure 9
+Ef5    6      1 e.    d  [     (
+D5     2      1 s n   d  ]\    )
+C5     3      1 s.    u  [[    (
+Bf4    1      1 t     u  ==\   )
+A4     3      1 s.n   u  ==    (
+G4     1      1 t     u  ]]\   )
+F#4    3      1 s.#   u  [[    (
+A4     1      1 t     u  ==\   )
+D4     3      1 s.n   u  ==    (
+F#4    1      1 t     u  ]]\   )
+C4     3      1 s.    u  [[    (
+F#4    1      1 t     u  ==\   )
+A4     3      1 s.    u  ==    (
+C5     1      1 t     u  ]]\   )
+measure 10
+G3     3      1 s.    u  [[    (
+Bf3    1      1 t     u  ==\   )
+D4     3      1 s.n   u  ==    (
+G4     1      1 t     u  ]]\   )
+Bf4    3      1 s.    d  [[    (
+D5     1      1 t n   d  ==\   )
+G5     3      1 s.    d  ==    (
+Bf5    1      1 t     d  ]]\   )
+C#5    3      1 s.#   d  [[    (
+E5     1      1 t n   d  ==\   )
+A4     3      1 s.n   d  ==    (
+C#5    1      1 t     d  ]]\   )
+G4     3      1 s.    d  [[    (
+C#5    1      1 t     d  ==\   )
+E5     3      1 s.    d  ==    (
+G5     1      1 t     d  ]]\   )
+measure 11
+D4     3      1 s.n   u  [[    (
+F4     1      1 t     u  ==\   )
+A4     3      1 s.n   u  ==    (
+D5     1      1 t n   u  ]]\   )
+F4     3      1 s.    d  [[    (
+A4     1      1 t     d  ==\   )
+D5     3      1 s.    d  ==    (
+F5     1      1 t     d  ]]\   )
+A4     3      1 s.    d  [[    (
+D5     1      1 t     d  ==\   )
+F5     3      1 s.    d  ==    (
+A5     1      1 t n   d  ]]\   )
+D5     3      1 s.    d  [[    (
+F5     1      1 t     d  ==\   )
+A5     3      1 s.    d  ==    (
+D6     1      1 t n   d  ]]\   )
+measure 12
+C#6    3      1 s.#   d  [[    (
+A5     1      1 t n   d  ==\   )
+E5     3      1 s.n   d  ==    (
+A5     1      1 t     d  ]]\   )
+A4     3      1 s.n   d  [[    (
+C#5    1      1 t #   d  ==\   )
+E5     3      1 s.    d  ==    (
+G5     1      1 t     d  ]]\   )
+F5     3      1 s.    d  [[    (
+D5     1      1 t n   d  ==\   )
+A4     3      1 s.    d  ==    (
+D5     1      1 t     d  ]]\   )
+D4     3      1 s.n   u  [[    (
+F#4    1      1 t #   u  ==\   )
+A4     3      1 s.    u  ==    (
+D5     1      1 t     u  ]]\   )
+measure 13
+Bf4    3      1 s.    u  [[    (
+G4     1      1 t     u  ==\   )
+D4     3      1 s.n   u  ==    (
+G4     1      1 t     u  ]]\   )
+G3     3      1 s.    u  [[    (
+B3     1      1 t n   u  ==\   )
+D4     3      1 s.    u  ==    (
+G4     1      1 t     u  ]]\   )
+E4     3    &11 s.    u  [[    (&1+
+&1
+No naturals on the Es in this measure in Roger but there is a natural on
+the C3 in the Bc. There are also naturals on the Es in the next measure
+as well as naturals on the C3s in the figured bass. The harmonic change
+starts in meas.13 and I think the lack of naturals here was an oversight.
+&1
+G4     1      1 t     u  ==\   )
+C5     3      1 s.    u  ==    (
+E5     1    &11 t     u  ]]\   )&1+
+G5     3      1 s.    d  [[    (
+C5     1      1 t     d  ==\   )
+Bf4    3      1 s.f   d  ==    (+
+G5     1      1 t     d  ]]\   )
+measure 14
+Af5    3      1 s.    d  [[    (
+F5     1      1 t     d  ==\   )
+C5     3      1 s.    d  ==    (
+Af5    1      1 t     d  ]]\   )
+G5     3      1 s.    d  [[    (
+E5     1      1 t n   d  ==\   )
+C5     3      1 s.    d  ==    (
+G5     1      1 t     d  ]]\   )
+Af5    3      1 s.    d  [[    (
+F5     1      1 t     d  ==\   )
+C5     3      1 s.    d  ==    (
+Af5    1      1 t     d  ]]\   )
+G5     3      1 s.    d  [[    (
+E5     1      1 t     d  ==\   )
+C5     3      1 s.    d  ==    (
+G5     1      1 t     d  ]]\   )
+measure 15
+Af5    3      1 s.    d  [[    (
+F5     1      1 t     d  ==\   )
+C5     3      1 s.    d  ==    (
+Af5    1      1 t     d  ]]\   )
+Bf5    3      1 s.    d  [[    (
+G5     1      1 t     d  ==\   )
+E5     3      1 s.n   d  ==    (
+Bf5    1      1 t     d  ]]\   )
+C6     3      1 s.    d  [[    (
+Af5    1      1 t     d  ==\   )
+F5     3      1 s.    d  ==    (
+C6     1      1 t     d  ]]\   )
+Df6    3      1 s.    d  [[    (
+Bf5    1      1 t     d  ==\   )
+G5     3      1 s.    d  ==    (
+E5     1      1 t     d  ]]\   )
+measure 16
+C5     3      1 s.    d  [[    (
+E5     1      1 t n   d  ==\   )
+F5     3      1 s.    d  ==    (
+Af4    1      1 t     d  ]]\   )
+C4     2      1 s     u  [[    (
+G4     2      1 s     u  ==
+F5     3      1 s.    u  ==    )
+E5     1      1 t     u  ]]\
+F5     3      1 s.    d  [[
+F5     1      1 t     d  ==\
+E5     3      1 s.    d  ==    (
+F5     1      1 t     d  ]]\   )
+G5     3      1 s.    d  [[    (
+F5     1      1 t     d  ==\   )
+E5     3      1 s.    d  ==    (
+F5     1      1 t     d  ]]\   )
+measure 17
+Af5    3      1 s.    d  [[    (
+F5     1      1 t     d  ==\   )
+E5     3      1 s.n   d  ==    (
+F5     1      1 t     d  ]]\   )
+Bf5    3      1 s.    d  [[    (
+F5     1      1 t     d  ==\   )
+E5     3      1 s.    d  ==    (
+F5     1      1 t     d  ]]\   )
+C6     3      1 s.    d  [[    (
+F5     1      1 t     d  ==\   )
+E5     3      1 s.    d  ==    (
+F5     1      1 t     d  ]]\   )
+Df6    3      1 s.    d  [[    (
+Bf5    1      1 t     d  ==\   )
+G5     3      1 s.    d  ==    (
+E5     1      1 t     d  ]]\   )
+measure 18        start-end1
+C5     3      1 s.    d  [[    (
+E5     1      1 t n   d  ==\   )
+F5     3      1 s.    d  ==    (
+Af4    1      1 t     d  ]]\   )
+C4     2      1 s     u  [[    (
+G4     2      1 s     u  ==
+F5     3      1 s.    u  ==    )
+E5     1      1 t     u  ]]\
+F5     8-     1 q     d        -
+F5     6      1 e.    d
+&1
+In Roger the previous quarter + dotted 8th note was a half note.
+Changed to make the repeat in keeping with modern notation.
+&1
+mheavy2 18         :|  start-end2 stop-end1
+C5     3      1 s.    d  [[    (
+E5     1      1 t n   d  ==\   )
+F5     3      1 s.    d  ==    (
+Af4    1      1 t     d  ]]\   )
+C4     2      1 s     u  [[    (
+G4     2      1 s     u  ==
+F5     3      1 s.    u  ==    )
+E5     1      1 t     u  ]]\
+F5    16      1 h     d        F
+mheavy2          stop-end2
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no10/stage2/02/02
+COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
+DOWNLOAD_DATE = Wed May  1 19:57:28 PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op2/rv021/stage2/02/02}
+TIMESTAMP: DEC/10/2005 [md5sum:2879b11c9e3fef369c0db5dc87603ae6]
+12/20/04 Fran Bennion; rev. 04/21 E. Correia
+WK#:02,10     MV#:2
+RV 21 / Estienne Roger, Amsterdam [facs.]
+Vivaldi Op. 2, No. 10 in f minor
+Movement 2 - Allemanda
+Basso continuo
+
+Group memberships: score
+score: part 2 of 2
+$   Q:4 K:-4 T:1/1 C:22  D:Allegro
+rest   1      1 s
+measure 1
+F3     2      1 e     d  [
+F3     2      1 e     d  ]
+F3     2      1 e     d  [
+F3     2      1 e     d  ]
+f1              n
+C3     2      1 e     u  [
+C3     2      1 e     u  ]
+f2              7 n
+C3     2      1 e     u  [
+f1              6
+C3     2      1 e     u  ]
+measure 2
+f1              5
+F3     2      1 e     d  [
+F3     2      1 e     d  ]
+f1              6
+F3     2      1 e     d  [
+F3     2      1 e     d  ]
+f1              7
+G3     2      1 e     d  [
+G3     2      1 e     d  ]
+f1              n
+C3     2      1 e     u  [
+C3     2      1 e     u  ]
+measure 3
+F3     2      1 e     d  [
+F3     2      1 e     d  ]
+f1              5
+Bf2    2      1 e     u  [
+f1              6
+Bf2    2      1 e     u  ]
+f1              n
+C3     2      1 e     u  [
+C3     2      1 e     u  ]
+f1              5
+E3     2      1 e n   d  [
+E3     2      1 e     d  ]
+measure 4
+F3     2      1 e     d  [
+F3     2      1 e     d  ]
+F3     2      1 e     d  [
+f1              6n
+F3     2      1 e     d  ]
+f1              n
+G3     2      1 e     d  [
+G3     2      1 e     d  ]
+f1              6
+B2     2      1 e n   u  [
+B2     2      1 e     u  ]
+measure 5
+f1              5
+C3     2      1 e     u  [
+C3     2      1 e     u  ]
+C3     2      1 e     u  [
+f1              6
+C3     2      1 e     u  ]
+f1              5
+D3     2      1 e n   d  [
+D3     2      1 e     d  ]
+f1              n
+G2     2      1 e     u  [
+G2     2      1 e     u  ]
+measure 6
+C3     2      1 e     u  [
+C3     2      1 e     u  ]
+C3     2      1 e     u  [
+C3     2      1 e     u  ]
+f1              5
+F3     2      1 e     d  [
+F3     2      1 e     d  ]
+F3     2      1 e     d  [
+f1              6n
+F3     2      1 e     d  ]
+measure 7
+f1              n
+G3     2      1 e     d  [
+f1              6
+Ef3    1      1 s     d  =[
+F3     1      1 s     d  ]]
+f1              n
+G3     2      1 e     u  [
+G2     2      1 e     u  ]
+C3     4-   &11 q     u        -
+C3     3    &11 e.    u
+&1
+In Roger the previous quarter + dotted 8th note was a half note.
+Changed to make the repeat in keeping with modern notation.
+&1
+mheavy4          :|:
+rest   1      1 s
+measure 8
+C3     2      1 e     u  [
+C3     2      1 e     u  ]
+C3     2      1 e     u  [
+f2              4 2n
+C3     2      1 e     u  ]
+f1              n
+G2     2      1 e     u  [
+G2     2      1 e     u  ]
+f1              7
+G2     2      1 e     u  [
+G2     2      1 e     u  ]
+measure 9
+f1              5
+C3     2      1 e     u  [
+C3     2      1 e     u  ]
+C3     2      1 e     u  [
+f1              6n
+C3     2      1 e     u  ]
+f1              #
+D3     2      1 e n   d  [
+D3     2      1 e     d  ]
+f1              5
+F#3    2      1 e #   d  [
+F#3    2      1 e     d  ]
+measure 10
+f1              5n
+G3     2      1 e     d  [
+G3     2      1 e     d  ]
+G3     2      1 e     d  [
+f1              6n
+G3     2      1 e     d  ]
+f1              #
+A3     2      1 e n   d  [
+A3     2      1 e     d  ]
+f1              5
+C#4    2      1 e #   d  [
+C#4    2      1 e     d  ]
+measure 11
+f1              5n
+D4     2      1 e n   d  [
+D3     2      1 e n   d  ]
+D3     2      1 e     d  [
+D3     2      1 e     d  ]
+D3     2      1 e     d  [
+D3     2      1 e     d  ]
+D3     2      1 e     d  [
+D3     2      1 e     d  ]
+measure 12
+f1              #
+A2     2      1 e n   u  [
+A2     2      1 e     u  ]
+f1              6n
+C#3    2      1 e #   u  [
+C#3    2      1 e     u  ]
+f1              5n
+D3     2      1 e n   d  [
+D3     2      1 e     d  ]
+f1              6n
+F#3    2      1 e #   d  [
+F#3    2      1 e     d  ]
+measure 13
+f1              5n
+G3     2      1 e     d  [
+G3     2      1 e     d  ]
+f1              6
+B2     2      1 e n   u  [
+B2     2      1 e     u  ]
+f1              n
+C3     2      1 e     u  [
+C3     2      1 e     u  ]
+f1              6
+E3     2      1 e n   d  [
+f1              5
+E3     2      1 e     d  ]
+measure 14
+F3     2      1 e     d  [
+F3     2      1 e     d  ]
+f1              n
+C3     2      1 e     u  [
+C3     2      1 e     u  ]
+F3     2      1 e     d  [
+F3     2      1 e     d  ]
+f1              n
+C3     2      1 e     u  [
+C3     2      1 e     u  ]
+measure 15
+F3     2      1 e     d  [
+F3     2      1 e     d  ]
+f1              7
+G3     2      1 e     d  [
+f1              6n
+G3     2      1 e     d  ]
+f1              6
+Af3    2      1 e     d  [
+Af3    2      1 e     d  ]
+f1              3
+Bf3    2      1 e     d  [
+Bf3    2      1 e     d  ]
+measure 16
+f1              n
+C4     2      1 e     d  [
+f1              6
+Af3    1      1 s     d  =[
+Bf3    1      1 s     d  ]]
+f1              n
+C4     2      1 e     d  [
+C3     2      1 e     d  ]
+F3     2      1 e     d  [
+F3     2      1 e     d  ]
+f1              6
+E3     2      1 e n   d  [
+E3     2      1 e     d  ]
+measure 17
+F3     2      1 e     d  [
+F3     2      1 e     d  ]
+f1              7
+G3     2      1 e     d  [
+f1              6n
+G3     2      1 e     d  ]
+f1              6
+Af3    2      1 e     d  [
+Af3    2      1 e     d  ]
+f1              5
+Bf3    2      1 e     d  [
+f1              6
+Bf3    2      1 e     d  ]
+measure 18        start-end1
+f1              n
+C4     2      1 e     d  [
+f1              6
+Af3    1      1 s     d  =[
+Bf3    1      1 s     d  ]]
+f2              5 4
+C4     2      1 e     d  [
+f1              n
+C3     2      1 e     d  ]
+F3     4-   &11 q     d        -
+F3     3    &11 e.    d
+&1
+In Roger the previous quarter + dotted 8th note was a half note.
+Changed to make the repeat in keeping with modern notation.
+&1
+mheavy2 18       start-end2 stop-end1 :|
+f1              n
+C4     2      1 e     d  [
+f1              6
+Af3    1      1 s     d  =[
+Bf3    1      1 s     d  ]]
+f2              5 4
+C4     2      1 e     d  [
+f1              n
+C3     2      1 e     d  ]
+F3     8      1 h     d        F
+mheavy2          stop-end2
+/END
+/eof
+//
+@@@system-decoration: [(s1,s2)]
+@@@URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._2:_Sonate_a_violino_e_basso_per_il_cembalo
+@@@URL-pdf: https://pdf.musedata.org/vivaldi-op02-no10.pdf#page=2 MuseData edition
+@@@URL-pdf: http://conquest.imslp.info/files/imglnks/usimg/b/b7/IMSLP99075-PMLP183164-Vivaldi_-_Sonatas_Op2.pdf#page=36 Estienne Roger Amsterdam: Estienne Roger, No.2, n.d.[1711].
+@@@URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=4883s L'Arte dell'Arco
+@@@title: @{OTL}, mov. @{OMV}
+@@@filter: addkey
+@@@filter: humbreak -m 3,6,9,12,14,17
+@@@filter: addlabels -d "A,A,B,B1,B,B2" -r "A,B,B2" -l "0:A; m7b:B; m18:B1; m19:B2"
+@@@filter: addtempo -q 72
+@@@EEV: 2024/05/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no10/stage2/02/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no10/stage2/02/02

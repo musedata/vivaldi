@@ -12,8 +12,8 @@
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no11/stage2/02/01
-COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
-DOWNLOAD_DATE = Mon Apr 22 21:13:04 PDT 2024
+COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
+DOWNLOAD_DATE = Wed May  1 20:02:26 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -551,8 +551,8 @@ mheavy2          :|
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no11/stage2/02/02
-COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
-DOWNLOAD_DATE = Mon Apr 22 21:13:04 PDT 2024
+COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
+DOWNLOAD_DATE = Wed May  1 20:02:26 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -887,8 +887,8 @@ mheavy2          :|
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no11/stage2/02/03
-COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
-DOWNLOAD_DATE = Mon Apr 22 21:13:04 PDT 2024
+COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
+DOWNLOAD_DATE = Wed May  1 20:02:26 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -1224,8 +1224,8 @@ mheavy2          :|
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no11/stage2/02/04
-COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
-DOWNLOAD_DATE = Mon Apr 22 21:13:04 PDT 2024
+COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
+DOWNLOAD_DATE = Wed May  1 20:02:26 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -1622,7 +1622,7 @@ mheavy2          :|
 @@@filter: addkey
 @@@filter: addtempo -q 120
 @@@filter: addlabels -d "A,A1,A,A2,B,B" -r "A,A2,B" -l "m0:A; m31:A1; m32:A2; m32b:B"
-@@@EEV: 2024/04/22
+@@@EEV: 2024/05/01
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no11/stage2/02/01
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no11/stage2/02/02
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no11/stage2/02/03

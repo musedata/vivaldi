@@ -4,7 +4,7 @@
 @@@OTL: Sonata in G major, op. @{OPS}, no. @{ONM} (@{SCT})
 @@@OPS: 1
 @@@ONM: 1
-@@@OMV: 4. Cappricio
+@@@OMV: 4. Capricio
 @@@SCT: RV 73
 @@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
 @@@OMD: Allegro
@@ -12,8 +12,8 @@
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/01
-COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
-DOWNLOAD_DATE = Mon Apr 22 21:09:50 PDT 2024
+COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
+DOWNLOAD_DATE = Wed May  1 19:59:04 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -220,8 +220,8 @@ mheavy2          :|
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/02
-COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
-DOWNLOAD_DATE = Mon Apr 22 21:09:50 PDT 2024
+COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
+DOWNLOAD_DATE = Wed May  1 19:59:04 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -408,8 +408,8 @@ mheavy2          :|
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/03
-COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
-DOWNLOAD_DATE = Mon Apr 22 21:09:50 PDT 2024
+COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
+DOWNLOAD_DATE = Wed May  1 19:59:04 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -546,8 +546,8 @@ mheavy2          :|
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/04
-COMMIT = e50e7d6bb45d28cd6225100ae9cc28b1f1bec67e
-DOWNLOAD_DATE = Mon Apr 22 21:09:50 PDT 2024
+COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
+DOWNLOAD_DATE = Wed May  1 19:59:04 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -724,7 +724,7 @@ mheavy2          :|
 @@@filter: addkey
 @@@filter: addtempo -q 220
 @@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "m0:A; m9:B"
-@@@EEV: 2024/04/22
+@@@EEV: 2024/05/01
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/01
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/02
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/04/03

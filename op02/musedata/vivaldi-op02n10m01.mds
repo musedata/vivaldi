@@ -1,0 +1,366 @@
+@@@COM: Vivaldi, Antonio Lucio
+@@@CDT: 1678/03/04-1741/08/28
+@@@OPR: 12 Sonatas for Violin and Basso continuo
+@@@OTL: Sonata in F minor, op. @{OPS}, no. @{ONM} (@{SCT})
+@@@OPS: 2
+@@@ONM: 10
+@@@OMV: 1. Preludio
+@@@SCT: RV 21
+@@@SCA: Antonio Vivaldi: Thematisch-systematisches Verzeichnis seiner Werke (Ryom-Verzeichnis)
+@@@OMD: Largo
+@@@key: f
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no10/stage2/01/01
+COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
+DOWNLOAD_DATE = Wed May  1 19:57:25 PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op2/rv021/stage2/01/01}
+TIMESTAMP: DEC/10/2005 [md5sum:d32f8894560ec2868a48cbbff7b99997]
+12/15/04 Fran Bennion
+WK#:02,10     MV#:1
+RV 21 / Estienne Roger, Amsterdam [facs.]
+Vivaldi Op. 2, No. 10 in f minor
+Movement 1 - Preludio
+Violino
+
+Group memberships: score
+score: part 1 of 2
+$   Q:4 K:-4 T:3/4 C:4  D:Largo
+F5     4      1 q     d
+C6     4      1 q     d
+C5     4      1 q     d
+measure 2
+F5     4      1 q     d
+F4     4      1 q     u
+rest   2      1 e
+rest   1      1 s
+Df5    1      1 s     d
+measure 3
+E4     3      1 e.n   u  [     (
+Bf3    1      1 s     u  =\    )
+E4     3      1 e.    u  =     (
+Df5    1      1 s     u  =\    )
+C5     3      1 e.    u  =     (
+G4     1      1 s     u  ]\    )
+measure 4
+Af4    3      1 e.    u  [     (
+E4     1      1 s n   u  ]\    )
+F4     4      1 q     u
+rest   2      1 e
+rest   1      1 s
+Af5    1      1 s     d
+measure 5
+B4     3      1 e.n   d  [     (
+F4     1      1 s     d  =\    )
+B4     3      1 e.    d  =     (
+Af5    1      1 s     d  =\    )
+G5     3      1 e.    d  =     (
+D5     1      1 s n   d  ]\    )
+measure 6
+Ef5    3      1 e.    d  [     (
+B4     1      1 s n   d  ]\    )
+C5     4      1 q     d
+rest   2      1 e
+rest   1      1 s
+G4     1      1 s     u
+measure 7
+Af4    3      1 e.    d  [     (
+F4     1      1 s     d  =\    )
+Df5    3      1 e.    d  =     (
+F5     1      1 s     d  =\    )
+Af5    3      1 e.    d  =     (
+C5     1      1 s     d  ]\    )
+measure 8
+B4     6      1 q.n   d
+G4     2      1 e     u
+Ef5    3      1 e.    d  [     (
+C5     1      1 s     d  ]\    )
+measure 9
+D5     3      1 e.n   d  [     (
+A4     1      1 s n   d  ]\    )
+B4     6      1 q.n   d        t
+C5     2      1 e     d
+measure 10
+C5    12      1 h.    d
+mheavy4 11       |: :|
+C5     4      1 q     d
+G5     4      1 q     d
+G4     4      1 q     u
+measure 12
+C5     4      1 q     d
+C4     4      1 q     u
+rest   2      1 e
+rest   1      1 s
+C5     1      1 s     d
+measure 13
+D5     3      1 e.n   d  [     (
+Ef5    1      1 s     d  =\    )
+F5     3      1 e.    d  =     (
+Af5    1      1 s     d  =\    )
+G5     3      1 e.    d  =     (
+D5     1      1 s     d  ]\    )
+measure 14
+Ef5    3      1 e.    d  [     (
+B4     1      1 s n   d  ]\    )
+C5     4      1 q     d
+rest   2      1 e
+rest   1      1 s
+E5     1      1 s n   d
+measure 15
+F5     3      1 e.    d  [     (
+G5     1      1 s     d  =\    )
+F5     3      1 e.    d  =     (
+C5     1      1 s     d  =\    )
+Af5    3      1 e.    d  =     (
+C5     1      1 s     d  ]\    )
+measure 16
+Df5    3      1 e.    d  [     [
+C5     1      1 s     d  ]\    ]
+Bf4    4      1 q     d
+rest   2      1 e
+rest   1      1 s
+Bf4    1      1 s     d
+measure 17
+G5     3      1 e.    d  [     (
+Af5    1      1 s     d  =\    )
+G5     3      1 e.    d  =     (
+Df5    1      1 s     d  =\    )
+Bf5    3      1 e.    d  =     (
+F5     1      1 s     d  ]\    )
+measure 18
+E5     3      1 e.n   d  [     (
+F5     1      1 s     d  =\    )
+G5     3      1 e.    d  =     (
+Af5    1      1 s     d  =\    )
+Bf5    3      1 e.    d  =     (
+C6     1      1 s     d  ]\    )
+measure 19
+F5     3      1 e.    d  [     (
+G5     1      1 s     d  =\    )
+Af5    3      1 e.    d  =     (
+Bf5    1      1 s     d  =\    )
+C6     3      1 e.    d  =     (
+Df6    1      1 s     d  ]\    )
+measure 20
+Bf4    6      1 q.    d
+E5     2      1 e n   d
+G5     3      1 e.    d  [     (
+C5     1      1 s     d  ]\    )
+measure 21
+Bf4    6      1 q.    d
+E5     2      1 e n   d
+G5     3      1 e.    d  [     (
+C5     1      1 s     d  ]\    )
+measure 22
+Af5    3      1 e.    d  [     (
+F5     1      1 s     d  ]\    )
+E5     6      1 q.n   d        t
+P C32:aY-10
+F5     2      1 e     d
+measure 23
+F5     3      1 e.    d  [     (
+Ef5    1    &01 s f   d  =\    )+
+Df5    3      1 e.    d  =     (
+C5     1      1 s     d  =\    )
+Bf4    3      1 e.    d  =     (
+G5     1      1 s     d  ]\    )
+measure 24
+E5     3      1 e.n   d  [     (
+F5     1      1 s     d  =\    )
+G5     3      1 e.    d  =     (
+Af5    1      1 s     d  =\    )
+Bf5    3      1 e.    d  =     (
+C6     1      1 s     d  ]\    )
+measure 25
+Df5    6      1 q.    d
+C5     2      1 e     d
+Df5    3      1 e.    d  [     (
+Bf4    1      1 s     d  ]\    )
+measure 26
+C5     4      1 q     d
+F4     3      1 e.    d  [
+Af5    1      1 s     d  =\
+G5     3      1 e.    d  =     (
+F5     1      1 s     d  ]\    )
+measure 27
+E5     3      1 e.n   d  [     (
+D5     1      1 s n   d  =\    )
+C5     3      1 e.    d  =     (
+Df5    1      1 s f   d  =\    )
+C5     3      1 e.    d  =     (
+Bf4    1      1 s     d  ]\    )
+measure 28
+Af4    3      1 e.    u  [     (
+F4     1      1 s     u  ]\    )
+E4     6      1 q.n   u        t
+F4     2      1 e     u
+measure 29
+F4    12      1 h.    u        F
+mheavy2          :|
+/END
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no10/stage2/01/02
+COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
+DOWNLOAD_DATE = Wed May  1 19:57:25 PDT 2024
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+(C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
+ID: {viv/roger/op2/rv021/stage2/01/02}
+TIMESTAMP: DEC/10/2005 [md5sum:eeae29570f034270c97b7d471e6adb02]
+12/15/04 Fran Bennion; rev. 04/21 E. Correia
+WK#:02,10     MV#:1
+RV 21 / Estienne Roger, Amsterdam [facs.]
+Vivaldi Op. 2, No. 10 in f minor
+Movement 1 - Preludio
+Basso continuo
+
+Group memberships: score
+score: part 2 of 2
+$   Q:4 K:-4 T:3/4 C:22  D:Largo
+F3     4      1 q     d
+f1              6
+Ef3    8      1 h     d
+measure 2
+f1              5
+Df3    8      1 h     d
+f1              6
+F3     4      1 q     d
+measure 3
+f1              n
+G3     4      1 q     d
+f1              n
+C3     4      1 q     u
+f2              6 5
+E3     4      1 q n   d
+measure 4
+F3     8      1 h     d
+f1              6
+C3     4      1 q     u
+measure 5
+f1              6
+D3     4      1 q n   d
+f1              n
+G2     4      1 q     u
+f1              6
+B2     4      1 q n   u
+measure 6
+C3     8      1 h     u
+Ef3    4      1 q     d
+measure 7
+F3    12      1 h.    d
+measure 8
+f1              n
+G3     8      1 h     d
+C3     4      1 q     u
+measure 9
+f2              6n 5
+F3     4      1 q     d
+f2              5n 4
+G3     4      1 q     d
+f1              n
+G2     4      1 q     u
+measure 10
+C3    12      1 h.    u
+mheavy4 11       |: :|
+C4     4      1 q     d
+f1              6
+Bf3    8      1 h     d
+measure 12
+f1              5
+Af3    8      1 h     d
+f1              6
+Ef3    4      1 q     d
+measure 13
+f1              6n
+F3     8      1 h     d
+f1              6
+B2     4      1 q n   u
+measure 14
+C3     8      1 h     u
+f2              4n 2
+Bf2    4    &01 q f   u         +
+measure 15
+f1              6
+Af2   12      1 h.    u
+measure 16
+f1              5
+Bf2   12      1 h.    u
+measure 17
+f1              6
+Bf3   12      1 h.    d
+measure 18
+f1              n
+C4    12      1 h.    d
+measure 19
+f1              7
+Df4   12      1 h.    d
+measure 20
+f2              6 5
+E3     4      1 q n   d
+f1              6n
+G3     4      1 q     d
+f1              6
+E3     4      1 q     d
+measure 21
+f2              7 n
+C3     4      1 q     u
+f1              5
+E3     4      1 q n   d
+f1              n
+C3     4      1 q     u
+measure 22
+F3     4      1 q     d
+f1              4
+C4     4      1 q     d
+f1              n
+C3     4      1 q     u
+measure 23
+F3     8      1 h     d
+f1              6n
+G3     4      1 q     d
+measure 24
+f1              n
+C3    12      1 h.    u
+measure 25
+Bf2   12      1 h.    u
+measure 26
+f1              6
+Af2    8      1 h     u
+f1     3        6
+f1              5
+Bf2    4      1 q     u
+measure 27
+f1              n
+C3     8      1 h     u
+f1              6
+E3     4      1 q n   d
+measure 28
+F3     4      1 q     d
+f1              4
+C4     4      1 q     d
+f1              n
+C3     4      1 q     u
+measure 29
+F3    12      1 h.    d        F
+mheavy2          :|
+/END
+/eof
+//
+@@@system-decoration: [(s1,s2)]
+@@@URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._2:_Sonate_a_violino_e_basso_per_il_cembalo
+@@@URL-pdf: https://pdf.musedata.org/vivaldi-op02-no10.pdf#page=1 MuseData edition
+@@@URL-pdf: http://conquest.imslp.info/files/imglnks/usimg/b/b7/IMSLP99075-PMLP183164-Vivaldi_-_Sonatas_Op2.pdf#page=36 Estienne Roger Amsterdam: Estienne Roger, No.2, n.d.[1711].
+@@@URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=4707s L'Arte dell'Arco
+@@@title: @{OTL}, mov. @{OMV}
+@@@filter: addkey
+@@@filter: humbreak -m 7,15,22
+@@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "0:A; m11:B"
+@@@filter: addtempo -q 60
+@@@EEV: 2024/05/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no10/stage2/01/01
+@@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no10/stage2/01/02
