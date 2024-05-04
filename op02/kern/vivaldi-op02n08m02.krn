@@ -603,7 +603,7 @@
 !!!SMS: RV 23 / Estienne Roger, Amsterdam [facs.]
 !!!ENC: Fran Bennion; rev. E Correia (4/21)
 !!!END: 2004/12/01
-!!!ONB: Converted from MuseData with musedata2hum on Thu May  2 02:30:13 2024
+!!!ONB: Converted from MuseData with musedata2hum on Sat May  4 13:25:50 2024
 !!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
 !!!system-decoration: [(s1,s2)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._2:_Sonate_a_violino_e_basso_per_il_cembalo
@@ -611,6 +611,7 @@
 !!!URL-pdf: http://conquest.imslp.info/files/imglnks/usimg/b/b7/IMSLP99075-PMLP183164-Vivaldi_-_Sonatas_Op2.pdf#page=28 Estienne Roger Amsterdam: Estienne Roger, No.2, n.d.[1711].
 !!!URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=3114s L'Arte dell'Arco
 !!!title: @{OTL}, mov. @{OMV}
-!!!EEV: 2024/05/02
+!!!filter-chint: chint -mid
+!!!EEV: 2024/05/04
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no08/stage2/02/01
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no08/stage2/02/02

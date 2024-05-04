@@ -13,7 +13,7 @@
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no01/stage2/02/01
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Thu May  2 02:28:20 PDT 2024
+DOWNLOAD_DATE = Sat May  4 13:24:06 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -432,7 +432,7 @@ mheavy2          :|
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no01/stage2/02/02
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Thu May  2 02:28:20 PDT 2024
+DOWNLOAD_DATE = Sat May  4 13:24:06 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -869,10 +869,11 @@ mheavy2          :|
 @@@URL-pdf: http://conquest.imslp.info/files/imglnks/usimg/b/b7/IMSLP99075-PMLP183164-Vivaldi_-_Sonatas_Op2.pdf#page=2 Estienne Roger Amsterdam: Estienne Roger, No.2, n.d.[1711].
 @@@URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=2125s L'Arte dell'Arco
 @@@title: @{OTL}, mov. @{OMV}
+@@@filter-chint: chint -mid
 @@@filter: addkey
 @@@filter: humbreak -m 9,18,27,37,46,55
 @@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "0:A; m27b:B"
 @@@filter: addtempo -q 210
-@@@EEV: 2024/05/02
+@@@EEV: 2024/05/04
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no01/stage2/02/01
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no01/stage2/02/02

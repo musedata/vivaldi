@@ -20,6 +20,7 @@
 @@@URL-pdf: http://conquest.imslp.info/files/imglnks/usimg/b/b7/IMSLP99075-PMLP183164-Vivaldi_-_Sonatas_Op2.pdf#page=44 Estienne Roger Amsterdam: Estienne Roger, No.2, n.d.[1711].
 @@@URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=4030s L'Arte dell'Arco
 @@@title: @{OTL}, mov. @{OMV}
+@@@filter-chint: chint -mid
 @@@filter: addkey
 @@@filter: humbreak -m 4,8,12,15,19,23,27,31,35,39,43
 @@@filter: addtempo -q 144

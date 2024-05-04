@@ -21,6 +21,7 @@
 @@@URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=63s L'Arte dell'Arco (Corrente: Allegro)
 @@@URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=176s L'Arte dell'Arco (Adagio)
 @@@title: @{OTL}, mov. @{OMV}
+@@@filter-chint: chint -mid
 @@@filter: addkey
 @@@filter: humbreak -m 10,20,32,44,54,66,72
 @@@filter: addtempo -q "120; m69:48"
