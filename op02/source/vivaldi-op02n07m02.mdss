@@ -25,3 +25,4 @@
 @@@filter: humbreak -m 4,8,p12,16,20,24,28,33
 @@@filter: addlabels -d "A,A,B,B1,B,B2" -r "A,B,B2" -l "0:A; m14b:B; m35:B1; m35b:B2"
 @@@filter: addtempo -q 120
+@@@ONB: Accidentals in the score are in the old style.  Needs to be converted to a more modern style.

@@ -25,3 +25,4 @@
 @@@filter: humbreak -m 4,8,p12,16,20,24,28
 @@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "0:A; m12b:B"
 @@@filter: addtempo -q 100
+@@@ONB: Some accidental errors to be fixed in this score.
