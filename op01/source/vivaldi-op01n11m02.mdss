@@ -27,11 +27,14 @@
 @@@URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=4386s L'Arte dell'Arco
 @@@title: @{OTL}, mov. @{OMV}
 @@@filter-vcross: vcross
+@@@filter: instinfo -c "klav str str str" -i "cemba cello violn violn" -m "k3:2 k4:1" -a "bc; c; v2; v1"
 @@@mei: scoreDef@tempo.dist="4"
 @@@filter: extract -k 1,3,4
 @@@filter: shed -ke "s/Basso continuo/Violoncello\nContinuo/I; s/Violino/Violin/I"
+@@@filter: shed -ke "s/Icemba/Icello&Icemba/I"
+@@@filter: shed -ke "s/ICklav/ICstr&ICklav/I"
 @@@filter: shed -ke "s/^part4$/part3/I; s/^staff4$/staff3/I"
-@@@filter: shed -x fb -e "s/^part\\d$//I; s/^staff\\d$//I"
+@@@filter: shed -x "fb,dynam" -e "s/^(part|staff)\d*$//I"
 @@@filter: humbreak -m 8,17,27,p35,44,53,62,71
 @@@filter: addkey
 @@@filter: addtempo -q 120

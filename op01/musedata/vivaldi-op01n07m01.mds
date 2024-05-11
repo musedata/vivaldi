@@ -13,7 +13,7 @@
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no07/stage2/01/01
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Thu May  2 03:01:31 PDT 2024
+DOWNLOAD_DATE = Sat May 11 12:00:02 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -145,7 +145,7 @@ mheavy2
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no07/stage2/01/02
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Thu May  2 03:01:31 PDT 2024
+DOWNLOAD_DATE = Sat May 11 12:00:02 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -344,7 +344,7 @@ mheavy2
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no07/stage2/01/03
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Thu May  2 03:01:31 PDT 2024
+DOWNLOAD_DATE = Sat May 11 12:00:02 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -545,7 +545,7 @@ mheavy2
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no07/stage2/01/04
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Thu May  2 03:01:31 PDT 2024
+DOWNLOAD_DATE = Sat May 11 12:00:02 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -772,15 +772,18 @@ mheavy2
 @@@URL-youtube: https://www.youtube.com/watch?v=P5HHPe_W6Uo&t=3024s L'Arte dell'Arco
 @@@title: @{OTL}, mov. @{OMV}
 @@@filter-vcross: vcross
+@@@filter: instinfo -c "klav str str str" -i "cemba cello violn violn" -m "k3:2 k4:1" -a "bc; c; v2; v1"
 @@@filter: extract -k 1,3,4
 @@@filter: shed -ke "s/Basso continuo/Violoncello\nContinuo/I; s/Violino/Violin/I"
+@@@filter: shed -ke "s/Icemba/Icello&Icemba/I"
+@@@filter: shed -ke "s/ICklav/ICstr&ICklav/I"
 @@@filter: shed -ke "s/^part4$/part3/I; s/^staff4$/staff3/I"
-@@@filter: shed -x fb -e "s/^part\\d$//I; s/^staff\\d$//I"
+@@@filter: shed -x "fb,dynam" -e "s/^(part|staff)\d*$//I"
 @@@filter: humbreak -m 4,8
 @@@filter: addkey
 @@@filter: addtempo -q 30
 @@@filter: addlabels -d "A,A,B" -r "A,B" -l "m0:A; m5:B"
-@@@EEV: 2024/05/02
+@@@EEV: 2024/05/11
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no07/stage2/01/01
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no07/stage2/01/02
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no07/stage2/01/03

@@ -10,9 +10,13 @@
 !!!OMD: Adagio
 !!!key: d
 **kern	**dynam	**fb	**kern	**dynam	**kern	**dynam
-*part3	*part4	*part4	*part2	*part2	*part1	*part1
+*part3	*	*	*part2	*	*part1	*
 *staff3	*	*	*staff2	*	*staff1	*
+*ICstr&ICklav	*	*	*ICstr	*	*ICstr	*
+*Icello&Icemba	*	*	*Ivioln	*	*Ivioln	*
+*	*	*	*I#2	*	*I#1	*
 *I"Violoncello\nContinuo	*	*	*I"Violin 2	*	*I"Violin 1	*
+*I'bc	*	*	*I'v2	*	*I'v1	*
 *>[A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T]	*>[A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T]	*>[A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T]	*>[A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T]	*>[A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T]	*>[A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T]	*>[A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T]
 *>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefF4	*	*	*clefG2	*	*clefG2	*
@@ -3000,7 +3004,7 @@
 !!!SMS: RV 63 / Estienne Roger (No. 363), Amsterdam [facs.]
 !!!ENC: Fran Bennion   rev. 05/19/21 E Correia
 !!!END: 2004/11/03
-!!!ONB: Converted from MuseData with musedata2hum on Thu May  2 03:03:25 2024
+!!!ONB: Converted from MuseData with musedata2hum on Sat May 11 12:01:58 2024
 !!!YEM: (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
 !!!system-decoration: [(s1,s2,s3)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._1:_Suonate_da_camera_a_tr.C3.A8.2C_due_violini_e_violone_o_cembalo Information about Op. 1 on the CCARH wiki
@@ -3012,7 +3016,7 @@
 !!!URL-youtube: https://www.youtube.com/watch?v=hyqan5fcOkA&t=3s Rome Chamber Music Festival (2021)
 !!!title: @{OTL}
 !!!filter-vcross: vcross
-!!!EEV: 2024/05/02
+!!!EEV: 2024/05/11
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no12/stage2/01/01
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no12/stage2/01/02
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no12/stage2/01/03

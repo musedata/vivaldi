@@ -21,8 +21,10 @@
 @@@URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=4195s L'Arte dell'Arco
 @@@title: @{OTL}, mov. @{OMV}
 @@@filter-chint: chint -mid
+@@@ONB: Some accidental errors to be fixed in this score.
+@@@filter: instinfo -c "klav str" -i "cemba violn"  -a "bc; v"
 @@@filter: addkey
 @@@filter: humbreak -m 4,8,p12,16,20,24,28
 @@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "0:A; m12b:B"
 @@@filter: addtempo -q 100
-@@@ONB: Some accidental errors to be fixed in this score.
+@@@filter: shed -x "fb,dynam" -e "s/^(part|staff)\d*$//I"

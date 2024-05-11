@@ -13,7 +13,7 @@
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no03/stage2/04/01
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Sat May  4 13:24:29 PDT 2024
+DOWNLOAD_DATE = Sat May 11 12:06:24 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -410,7 +410,7 @@ mheavy2          :|
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no03/stage2/04/02
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Sat May  4 13:24:29 PDT 2024
+DOWNLOAD_DATE = Sat May 11 12:06:24 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -652,10 +652,12 @@ mheavy2          :|
 @@@URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=849s L'Arte dell'Arco
 @@@title: @{OTL}, mov. @{OMV}
 @@@filter-chint: chint -mid
+@@@filter: instinfo -c "klav str" -i "cemba violn"  -a "bc; v"
 @@@filter: addkey
 @@@filter: humbreak -m 5,9,14,18,22,26,
 @@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "0:A; m13:B"
 @@@filter: addtempo -q 232
-@@@EEV: 2024/05/04
+@@@filter: shed -x "fb,dynam" -e "s/^(part|staff)\d*$//I"
+@@@EEV: 2024/05/11
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no03/stage2/04/01
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no03/stage2/04/02

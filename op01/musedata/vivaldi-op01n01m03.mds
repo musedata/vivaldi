@@ -14,7 +14,7 @@
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/03/01
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Thu May  2 02:59:25 PDT 2024
+DOWNLOAD_DATE = Sat May 11 11:57:56 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -134,7 +134,7 @@ mdouble 24
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/03/02
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Thu May  2 02:59:25 PDT 2024
+DOWNLOAD_DATE = Sat May 11 11:57:56 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -250,7 +250,7 @@ mdouble 24
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/03/03
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Thu May  2 02:59:25 PDT 2024
+DOWNLOAD_DATE = Sat May 11 11:57:56 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -367,7 +367,7 @@ mdouble 24
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/03/04
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Thu May  2 02:59:25 PDT 2024
+DOWNLOAD_DATE = Sat May 11 11:57:56 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2019 Center for Computer Assisted Research in the Humanities
@@ -511,14 +511,17 @@ mdouble 24
 @@@URL-youtube: https://www.youtube.com/watch?v=vFz1e6g68iQ&t=223s Seattle Baroque Soloists (2010)
 @@@title: @{OTL}, mov. @{OMV}
 @@@filter-vcross: vcross
+@@@filter: instinfo -c "klav str str str" -i "cemba cello violn violn" -m "k3:2 k4:1" -a "bc; c; v2; v1"
 @@@filter: extract -k 1,3,4
 @@@filter: shed -ke "s/Basso continuo/Violoncello\nContinuo/I; s/Violino/Violin/I"
+@@@filter: shed -ke "s/Icemba/Icello&Icemba/I"
+@@@filter: shed -ke "s/ICklav/ICstr&ICklav/I"
 @@@filter: shed -ke "s/^part4$/part3/I; s/^staff4$/staff3/I"
-@@@filter: shed -x fb -e "s/^part\\d$//I; s/^staff\\d$//I"
+@@@filter: shed -x "fb,dynam" -e "s/^(part|staff)\d*$//I"
 @@@filter: humbreak -m 11
 @@@filter: addkey
 @@@filter: addtempo -q 112
-@@@EEV: 2024/05/02
+@@@EEV: 2024/05/11
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/03/01
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/03/02
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op1/no01/stage2/03/03

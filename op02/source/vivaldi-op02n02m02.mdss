@@ -22,7 +22,9 @@
 @@@URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=176s L'Arte dell'Arco (Adagio)
 @@@title: @{OTL}, mov. @{OMV}
 @@@filter-chint: chint -mid
+@@@filter: instinfo -c "klav str" -i "cemba violn"  -a "bc; v"
 @@@filter: addkey
 @@@filter: humbreak -m 10,20,32,44,54,66,72
 @@@filter: addtempo -q "120; m69:48"
 @@@filter: addlabels -d "A,A,B,B,C" -r "A,B,C" -l "0:A; m23:B; m69:C"
+@@@filter: shed -x "fb,dynam" -e "s/^(part|staff)\d*$//I"

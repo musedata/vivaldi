@@ -21,8 +21,10 @@
 @@@URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=4451s L'Arte dell'Arco
 @@@title: @{OTL}, mov. @{OMV}
 @@@filter-chint: chint -mid
+@@@ONB: Accidentals in the score are in the old style.  Needs to be converted to a more modern style.
+@@@filter: instinfo -c "klav str" -i "cemba violn"  -a "bc; v"
 @@@filter: addkey
 @@@filter: humbreak -m 4,8,p12,16,20,24,28,33
 @@@filter: addlabels -d "A,A,B,B1,B,B2" -r "A,B,B2" -l "0:A; m14b:B; m35:B1; m35b:B2"
 @@@filter: addtempo -q 120
-@@@ONB: Accidentals in the score are in the old style.  Needs to be converted to a more modern style.
+@@@filter: shed -x "fb,dynam" -e "s/^(part|staff)\d*$//I"

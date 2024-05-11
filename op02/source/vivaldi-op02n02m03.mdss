@@ -21,7 +21,9 @@
 @@@URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=229s L'Arte dell'Arco
 @@@title: @{OTL}, mov. @{OMV}
 @@@filter-chint: chint -mid
+@@@filter: instinfo -c "klav str" -i "cemba violn"  -a "bc; v"
 @@@filter: addkey
 @@@filter: humbreak -m 5,10,15,20,26,31
 @@@filter: addtempo -q 195
 @@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "0:A; m13b:B"
+@@@filter: shed -x "fb,dynam" -e "s/^(part|staff)\d*$//I"

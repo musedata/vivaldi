@@ -13,7 +13,7 @@
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no11/stage2/02/01
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Sat May  4 13:25:34 PDT 2024
+DOWNLOAD_DATE = Sat May 11 12:07:36 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -466,7 +466,7 @@ mheavy2          :|
 
 FILE = https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no11/stage2/02/02
 COMMIT = 9971acbf984aa3ac90ee4ee3d5b0df48c785ffcf
-DOWNLOAD_DATE = Sat May  4 13:25:34 PDT 2024
+DOWNLOAD_DATE = Sat May 11 12:07:36 PDT 2024
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
@@ -716,14 +716,16 @@ mheavy2          :|
 @@@URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=2727s L'Arte dell'Arco
 @@@title: @{OTL}, mov. @{OMV}
 @@@filter-chint: chint -mid
-@@@filter: addkey
-@@@filter: humbreak -m 6,12,19,25,31,38
-@@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "0:A; m14:B"
-@@@filter: addtempo -q 246
 @@@ONB: Measures 13 and 44 have strange rhythm (8%9) which is technically correct but unprintable.
 @@@ONB: The CCARH edition uses a visible note display of dotted-half, but has a tick durtion
 @@@ONB: of 9 eighth notes (whole measure).  The Humdrum conversion should also set the visual
 @@@ONB: display as dotted half (but currently does not), but adding !LO:N:vis=2. above each such note.
-@@@EEV: 2024/05/04
+@@@filter: instinfo -c "klav str" -i "cemba violn"  -a "bc; v"
+@@@filter: addkey
+@@@filter: humbreak -m 6,12,19,25,31,38
+@@@filter: addlabels -d "A,A,B,B" -r "A,B" -l "0:A; m14:B"
+@@@filter: addtempo -q 246
+@@@filter: shed -x "fb,dynam" -e "s/^(part|staff)\d*$//I"
+@@@EEV: 2024/05/11
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no11/stage2/02/01
 @@@source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no11/stage2/02/02

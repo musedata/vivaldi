@@ -10,9 +10,12 @@
 !!!OMD: Allegro
 !!!key: f
 **kern	**fb	**kern
-*part2	*part2	*part1
+*part2	*	*part1
 *staff2	*	*staff1
+*ICklav	*	*ICstr
+*Icemba	*	*Ivioln
 *I"Basso continuo	*	*I"Violino
+*I'bc	*	*I'v
 *>[A,A,B,B1,B,B2]	*>[A,A,B,B1,B,B2]	*>[A,A,B,B1,B,B2]
 *>norep[A,B,B2]	*>norep[A,B,B2]	*>norep[A,B,B2]
 *>A	*>A	*>A
@@ -344,7 +347,7 @@
 !!!SMS: RV 21 / Estienne Roger, Amsterdam [facs.]
 !!!ENC: Fran Bennion; rev. 04/21 E. Correia
 !!!END: 2004/12/20
-!!!ONB: Converted from MuseData with musedata2hum on Sat May  4 13:25:51 2024
+!!!ONB: Converted from MuseData with musedata2hum on Sat May 11 12:07:53 2024
 !!!YEM: (C) 2004, 2004 Center for Computer Assisted Research in the Humanities.
 !!!system-decoration: [(s1,s2)]
 !!!URL-info: https://wiki.ccarh.org/wiki/MuseData:_Antonio_Vivaldi#Op._2:_Sonate_a_violino_e_basso_per_il_cembalo
@@ -353,6 +356,6 @@
 !!!URL-youtube: https://www.youtube.com/watch?v=SiijZmW9jKM&t=4883s L'Arte dell'Arco
 !!!title: @{OTL}, mov. @{OMV}
 !!!filter-chint: chint -mid
-!!!EEV: 2024/05/04
+!!!EEV: 2024/05/11
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no10/stage2/02/01
 !!!source-file: https://bitbucket.org/musedata/vivaldi/src/master/roger/op2/no10/stage2/02/02
